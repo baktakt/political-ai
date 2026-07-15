@@ -1,0 +1,336 @@
+[
+  {
+    "id": "strategi",
+    "title": "Övergripande AI-strategi",
+    "shortTitle": "AI-strategi",
+    "description": "Partiernas helhetssyn på artificiell intelligens: nationell strategi, investeringar och Sveriges roll i Europa och världen.",
+    "whyItMatters": "AI påverkar nästan alla samhällsområden samtidigt. Om och hur Sverige ska styra utvecklingen — genom strategier, investeringar och prioriteringar — är ett politiskt vägval som formar övriga frågor på den här webbplatsen.",
+    "keyQuestions": [
+      "Vill partiet ha en nationell AI-strategi, och vad ska den innehålla?",
+      "Ser partiet AI främst som en möjlighet, en risk eller båda?",
+      "Vilka offentliga investeringar i AI föreslår partiet?",
+      "Hur ser partiet på Sveriges position inom AI i Europa och globalt?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 1
+  },
+  {
+    "id": "arbetsmarknad",
+    "title": "Jobb och arbetsmarknad",
+    "shortTitle": "Jobben",
+    "description": "Hur AI och automatisering påverkar jobb, omställning, fackligt inflytande och övervakning på arbetsplatsen.",
+    "whyItMatters": "AI förändrar arbetsuppgifter i de flesta yrken — vissa jobb försvinner, andra tillkommer och många görs om. Vem som får stöd att ställa om, hur produktivitetsvinster fördelas och vilka regler som ska gälla för övervakning och algoritmisk arbetsledning är centrala politiska frågor.",
+    "keyQuestions": [
+      "Hur vill partiet stödja människor vars jobb förändras eller försvinner genom automatisering?",
+      "Hur ser partiet på omskolning, vidareutbildning och livslångt lärande?",
+      "Vill partiet reglera övervakning och algoritmisk styrning av anställda?",
+      "Hur ska produktivitetsvinster från AI fördelas, enligt partiet?",
+      "Vilken roll ska fack och anställda ha när AI införs på arbetsplatser?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 2,
+    "analysis": {
+      "agreements": [
+        "Alla partier med dokumenterad ståndpunkt pekar på utbildning, kompetens och omställning som ett huvudsvar på AI:s förändring av arbetsmarknaden (S, M, C, V, MP — samt regeringens AI-strategi som M, KD och L står bakom).",
+        "Flera partier beskriver AI som något arbetsmarknaden ska rustas för snarare än bromsas: inget granskat partidokument föreslår att AI-införandet i arbetslivet ska stoppas."
+      ],
+      "disagreements": [
+        "Fördelningen av produktivitetsvinster: V och MP vill växla effektivisering till arbetstidsförkortning eller mer personaltid i välfärden, medan M betonar konkurrenskraft, sänkta kostnader och nya jobb. S betonar trygghet i omställningen (a-kassa, omställningsstöd, traineeprogram).",
+        "Dokumentationsgraden skiljer sig tydligt: S, V och MP har utförliga egna ståndpunkter, C har konkreta förslag, medan SD och L bara berör frågan indirekt och KD saknar egen dokumenterad ståndpunkt (endast regeringsgemensam politik).",
+        "Facklig roll och styrning: V kräver konsekvensanalyser före AI-införande och lagstiftning om plattformsarbete; motsvarande krav återfinns inte i de granskade dokumenten från övriga partier."
+      ],
+      "note": "Pilotanalys. Bygger enbart på källor granskade till och med 2026-07-15; partiernas valmanifest inför valet 2026 var (utom SD:s) ännu inte publicerade.",
+      "updatedAt": "2026-07-15"
+    }
+  },
+  {
+    "id": "utbildning",
+    "title": "Skola och utbildning",
+    "shortTitle": "Skolan",
+    "description": "Generativ AI i undervisningen, AI-kompetens, fusk och examination, lärarnas roll och likvärdig tillgång.",
+    "whyItMatters": "Elever och lärare använder redan AI-verktyg i vardagen. Skolpolitiken avgör hur skolan ska förhålla sig: vad som räknas som fusk, vilken AI-kompetens alla elever ska få, hur lärare utbildas och hur likvärdigheten säkras när tekniken kostar pengar.",
+    "keyQuestions": [
+      "Hur ska skolan förhålla sig till elevers användning av generativ AI?",
+      "Vilken AI-kompetens ska elever och lärare få, enligt partiet?",
+      "Hur ska prov och examination anpassas?",
+      "Hur säkras likvärdig tillgång till AI-verktyg mellan skolor?",
+      "Hur ska barns data skyddas i skolans digitala plattformar?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 3
+  },
+  {
+    "id": "naringsliv",
+    "title": "Företagande, innovation och konkurrenskraft",
+    "shortTitle": "Näringslivet",
+    "description": "AI-startups, forskningsfinansiering, tillgång till beräkningskraft och kapital samt svensk och europeisk konkurrenskraft.",
+    "whyItMatters": "Svenska företags förmåga att utveckla och använda AI påverkar jobb, exportinkomster och vilka tjänster som byggs i Sverige i stället för att importeras. Politiken styr forskningsmedel, regelbördor, tillgång till beräkningskraft och villkoren för att starta och skala AI-bolag.",
+    "keyQuestions": [
+      "Hur vill partiet stärka svenska AI-företags konkurrenskraft?",
+      "Vilken offentlig forskningsfinansiering föreslår partiet?",
+      "Hur ser partiet på tillgång till beräkningskraft och kapital för företag?",
+      "Vill partiet ha regulatoriska sandlådor eller andra lättnader för innovation?",
+      "Hur ser partiet på beroendet av utomeuropeiska teknikföretag?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 4
+  },
+  {
+    "id": "offentlig-sektor",
+    "title": "AI i offentlig sektor",
+    "shortTitle": "Offentlig sektor",
+    "description": "AI hos myndigheter, kommuner och regioner: automatiserade beslut, mänsklig kontroll, transparens och ansvarsutkrävande.",
+    "whyItMatters": "Myndigheter och kommuner fattar beslut som direkt påverkar människors liv — bidrag, tillstånd, tillsyn. När AI används i handläggning och beslutsfattande ställs frågor om rättssäkerhet, insyn, överklagande och vem som bär ansvaret när det blir fel.",
+    "keyQuestions": [
+      "Var vill partiet att offentlig sektor ska använda AI — och var inte?",
+      "Vilka krav på mänsklig kontroll över automatiserade beslut föreslår partiet?",
+      "Hur ska medborgare kunna få insyn i och överklaga AI-stödda beslut?",
+      "Hur ska offentlig upphandling av AI-system gå till?",
+      "Hur ska kompetensen i offentlig sektor säkras?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 5
+  },
+  {
+    "id": "vard-omsorg",
+    "title": "Vård och omsorg",
+    "shortTitle": "Vården",
+    "description": "AI i diagnostik och kliniskt beslutsstöd, patientdata, äldreomsorg, patientsäkerhet och den mänskliga kontakten i vården.",
+    "whyItMatters": "AI kan avlasta vårdpersonal, förbättra diagnostik och korta administrationstid — men väcker frågor om patientsäkerhet, ansvar vid felaktiga bedömningar, skyddet av känsliga hälsodata och hur mycket mänsklig kontakt vård och omsorg ska garantera.",
+    "keyQuestions": [
+      "Var i vården vill partiet att AI används, och med vilka gränser?",
+      "Hur ska patientdata få användas för att utveckla AI?",
+      "Vem bär ansvaret när AI bidrar till en felaktig bedömning?",
+      "Hur ser partiet på AI i äldreomsorgen och rätten till mänsklig kontakt?",
+      "Hur ska vårdens AI-system upphandlas och kvalitetssäkras?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 6
+  },
+  {
+    "id": "integritet",
+    "title": "Integritet, övervakning och rättigheter",
+    "shortTitle": "Integritet",
+    "description": "Ansiktsigenkänning, polisens AI-användning, kameraövervakning, profilering och skyddet av personuppgifter.",
+    "whyItMatters": "AI gör övervakning billigare och mer träffsäker. Var gränsen ska gå mellan brottsbekämpning och personlig integritet — till exempel för ansiktsigenkänning på allmän plats eller prediktivt polisarbete — är en klassisk rättighetsfråga som AI ställer på nytt.",
+    "keyQuestions": [
+      "Vill partiet tillåta eller begränsa ansiktsigenkänning på allmän plats?",
+      "Vilka AI-verktyg ska polisen få använda, och med vilken kontroll?",
+      "Hur ska medborgare skyddas mot profilering och diskriminering?",
+      "Hur ser partiet på myndigheters datadelning om enskilda?",
+      "Vilka krav på transparens och överklagande föreslår partiet?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 7
+  },
+  {
+    "id": "demokrati",
+    "title": "Demokrati, val och desinformation",
+    "shortTitle": "Demokratin",
+    "description": "Deepfakes, AI-genererat kampanjmaterial, valpåverkan, bottar, plattformsansvar och märkning av syntetiskt innehåll.",
+    "whyItMatters": "AI kan massproducera övertygande falskt innehåll — text, bild, ljud och video. Inför val handlar det om väljarnas möjlighet att veta vad som är äkta, vem som står bakom budskap och hur valrörelser och plattformar ska regleras.",
+    "keyQuestions": [
+      "Vill partiet kräva märkning av AI-genererat innehåll, särskilt i valrörelser?",
+      "Hur ska deepfakes och syntetisk media hanteras rättsligt?",
+      "Vilket ansvar ska plattformarna ha för AI-driven desinformation?",
+      "Hur ska valens säkerhet skyddas mot utländsk påverkan?",
+      "Använder partiet självt AI i sin kampanj, och hur redovisas det?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 8
+  },
+  {
+    "id": "forsvar",
+    "title": "Försvar, cybersäkerhet och nationell säkerhet",
+    "shortTitle": "Försvaret",
+    "description": "Militär AI, autonoma vapensystem, cyberförsvar, skydd av kritisk infrastruktur och samarbete inom Nato och EU.",
+    "whyItMatters": "AI förändrar både hot och försvar: drönare, cyberangrepp, underrättelseanalys och hybridkrigföring. Politiken avgör vilka system Sverige utvecklar och köper, vilka internationella regler Sverige driver — till exempel om autonoma vapen — och hur kritisk infrastruktur skyddas.",
+    "keyQuestions": [
+      "Hur ser partiet på användning av AI i det svenska försvaret?",
+      "Vilken hållning har partiet till autonoma vapensystem?",
+      "Hur vill partiet stärka cyberförsvaret?",
+      "Vilka säkerhetskrav ska ställas på AI-system i kritisk infrastruktur?",
+      "Hur ser partiet på utländskt ägande i känslig teknik?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 9
+  },
+  {
+    "id": "kultur-upphovsratt",
+    "title": "Kultur, journalistik och upphovsrätt",
+    "shortTitle": "Kulturen",
+    "description": "AI-träning på upphovsrättsskyddade verk, ersättning till kreatörer, journalistikens villkor och svenskspråkigt innehåll.",
+    "whyItMatters": "AI-modeller tränas på stora mängder text, bild och musik — ofta skapade av människor som inte tillfrågats eller fått betalt. Samtidigt förändrar AI journalistikens och kulturskapandets ekonomi. Politiken avgör hur upphovsrätten ska tillämpas och vad som händer med svenskspråkigt innehåll.",
+    "keyQuestions": [
+      "Ska AI-företag få träna modeller på upphovsrättsskyddat material, och på vilka villkor?",
+      "Hur ska kreatörer ersättas, enligt partiet?",
+      "Hur ser partiet på AI:s påverkan på journalistik och public service?",
+      "Vem äger AI-genererat material?",
+      "Hur värnas svenskspråkigt innehåll och kulturell mångfald?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 10
+  },
+  {
+    "id": "reglering",
+    "title": "Reglering, säkerhet och ansvar",
+    "shortTitle": "Regleringen",
+    "description": "EU:s AI-förordning, tillsyn, ansvarsfrågor, säkerhetstestning, öppen källkod och regelbördan för mindre företag.",
+    "whyItMatters": "EU:s AI-förordning (AI Act) sätter ramarna för AI i Sverige, men mycket avgörs nationellt: vilka myndigheter som utövar tillsyn, hur strikt reglerna tolkas, vem som bär ansvar när AI orsakar skada och hur småföretag klarar regelbördan.",
+    "keyQuestions": [
+      "Hur ser partiet på EU:s AI-förordning — lagom, för strikt eller för svag?",
+      "Vilken svensk tillsyn och vilka resurser föreslår partiet?",
+      "Vem ska bära ansvaret när AI-system orsakar skada?",
+      "Hur ser partiet på öppen källkod och öppna modeller?",
+      "Hur ska regelbördan för mindre företag hanteras?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 11
+  },
+  {
+    "id": "suveranitet",
+    "title": "AI-suveränitet och infrastruktur",
+    "shortTitle": "Suveränitet",
+    "description": "Svensk och europeisk AI-infrastruktur: superdatorer, molntjänster, språkmodeller och beroendet av amerikanska och kinesiska leverantörer.",
+    "whyItMatters": "Den som kontrollerar beräkningskraft, molntjänster och modeller kontrollerar mycket av samhällets digitala grund. Frågan är hur beroende Sverige och Europa kan vara av utländska leverantörer — och vad staten ska äga, kräva eller bygga själv, till exempel svenska språkmodeller.",
+    "keyQuestions": [
+      "Vill partiet investera i svensk eller europeisk AI-infrastruktur, som superdatorer?",
+      "Hur ser partiet på offentlig sektors beroende av utländska molntjänster?",
+      "Ska Sverige ha egna språkmodeller, och vem ska bygga dem?",
+      "Vad ska staten äga eller kontrollera i kritisk digital infrastruktur?",
+      "Hur ser partiet på europeisk strategisk autonomi inom AI?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 12
+  },
+  {
+    "id": "jamlikhet",
+    "title": "Jämlikhet, inkludering och tillgänglighet",
+    "shortTitle": "Jämlikheten",
+    "description": "Algoritmisk diskriminering, digitalt utanförskap, tillgänglighet för personer med funktionsnedsättning och skillnader mellan stad och land.",
+    "whyItMatters": "AI kan både minska och förstärka ojämlikhet. System som tränats på skev data kan diskriminera, och när samhällsservice digitaliseras riskerar grupper att lämnas utanför. Samtidigt kan AI göra samhället mer tillgängligt, till exempel för personer med funktionsnedsättning.",
+    "keyQuestions": [
+      "Hur vill partiet motverka algoritmisk diskriminering?",
+      "Hur ska personer i digitalt utanförskap kunna ta del av samhällsservice?",
+      "Vilka tillgänglighetskrav ska ställas på AI-system?",
+      "Hur hanteras skillnader mellan stad och landsbygd?",
+      "Hur skyddas särskilt utsatta grupper?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 13
+  },
+  {
+    "id": "barn-unga",
+    "title": "Barn och unga",
+    "shortTitle": "Barn & unga",
+    "description": "AI-kompisar och chattbottar, barns data, manipulativ design, deepfake-övergrepp, åldersverifiering och plattformsansvar.",
+    "whyItMatters": "Barn och unga möter AI i spel, sociala medier och chattbottar som är byggda för att hålla kvar uppmärksamhet. Frågor om psykisk hälsa, sexualiserat syntetiskt innehåll, barns datainsamling och åldersgränser ligger på politikens bord.",
+    "keyQuestions": [
+      "Vill partiet reglera AI-kompisar och chattbottar riktade till barn?",
+      "Hur ska barns data skyddas?",
+      "Hur ska deepfake-övergrepp mot barn bekämpas?",
+      "Vill partiet ha krav på åldersverifiering, och hur?",
+      "Vilket ansvar ska plattformar respektive föräldrar ha?"
+    ],
+    "group": "samhalle",
+    "parentTopic": null,
+    "displayOrder": 14
+  },
+  {
+    "id": "miljoavtryck",
+    "title": "AI:s miljöavtryck",
+    "shortTitle": "Miljöavtrycket",
+    "description": "El- och vattenförbrukning, datacenterutbyggnad, elnätskapacitet, hårdvarans livscykel och krav på miljörapportering.",
+    "whyItMatters": "AI kräver stora mängder el, vatten och hårdvara. Datacenter byggs ut snabbt och konkurrerar om elnätskapacitet med bostäder och industri. Politiken avgör var datacenter får byggas, vilka miljökrav som ställs och om AI-företag måste redovisa sin el-, vatten- och resursanvändning.",
+    "keyQuestions": [
+      "Hur ser partiet på datacenterutbyggnaden i Sverige — främja, styra eller begränsa?",
+      "Vill partiet kräva att datacenter och AI-leverantörer redovisar el, vatten, utsläpp och avfall?",
+      "Hur ska elnätets kapacitet räcka till, och vem prioriteras?",
+      "Vilka krav ställs på spillvärme, kylning och lokal miljöpåverkan?",
+      "Hur hanteras hårdvarans livscykel — mineraler, tillverkning och elektronikavfall?"
+    ],
+    "group": "hallbarhet",
+    "parentTopic": null,
+    "displayOrder": 15
+  },
+  {
+    "id": "hallbarhetsverktyg",
+    "title": "AI som verktyg för hållbar utveckling",
+    "shortTitle": "AI för klimatet",
+    "description": "AI för energioptimering, elnät, transporter, jordbruk, skogsbruk, miljöövervakning, cirkulär ekonomi och klimatanpassning.",
+    "whyItMatters": "AI kan effektivisera energisystem, optimera transporter, övervaka utsläpp och stödja klimatanpassning — om tekniken styrs dit. Frågan är vilka satsningar partierna föreslår för att använda AI som verktyg i klimat- och miljöarbetet, och hur nyttan vägs mot avtrycket.",
+    "keyQuestions": [
+      "Vilka konkreta satsningar på AI i klimat- och miljöarbetet föreslår partiet?",
+      "Hur kan AI stödja energisystemet och elnäten, enligt partiet?",
+      "Vilken roll ska AI ha i jordbruk, skogsbruk och naturvård?",
+      "Hur ska AI användas i klimatanpassning, som skydd mot översvämning och brand?",
+      "Hur vägs AI:s klimatnytta mot dess egen resursanvändning?"
+    ],
+    "group": "hallbarhet",
+    "parentTopic": null,
+    "displayOrder": 16
+  },
+  {
+    "id": "byggd-miljo",
+    "title": "Hållbart byggande och den byggda miljön",
+    "shortTitle": "Byggandet",
+    "description": "AI i arkitektur, projektering, byggande, infrastruktur, bygglov, energieffektivisering, materialoptimering och cirkulärt byggande.",
+    "whyItMatters": "Bygg- och fastighetssektorn står för en stor del av Sveriges utsläpp och materialanvändning. AI kan effektivisera projektering, bygglov, energianvändning i byggnader och underhåll av infrastruktur — men det kräver beslut om digitalisering av plan- och byggprocesser och om vilka krav offentliga beställare ställer.",
+    "keyQuestions": [
+      "Vill partiet använda AI för att effektivisera plan- och bygglovsprocesser?",
+      "Vilka satsningar på AI i byggande och infrastruktur föreslår partiet?",
+      "Hur kan AI bidra till energieffektivisering i byggnader, enligt partiet?",
+      "Ställs krav på AI och data i offentliga byggupphandlingar?",
+      "Hur används AI för klimatriskanalys i samhällsplaneringen?"
+    ],
+    "group": "hallbarhet",
+    "parentTopic": null,
+    "displayOrder": 17
+  },
+  {
+    "id": "rekyleffekter",
+    "title": "Rekyleffekter och total resursanvändning",
+    "shortTitle": "Rekyleffekter",
+    "description": "Om effektivisering leder till ökad total konsumtion: mer beräkning när beräkning blir billigare, mer transporter när logistik effektiviseras.",
+    "whyItMatters": "Effektivisering per aktivitet minskar inte automatiskt den totala miljöpåverkan — ofta ökar konsumtionen när något blir billigare, en så kallad rekyleffekt. Frågan är om partierna skiljer mellan effektivitet per enhet och absolut resursanvändning, och om de föreslår styrmedel mot rekyleffekter.",
+    "keyQuestions": [
+      "Erkänner partiet rekyleffekter i sin AI- och digitaliseringspolitik?",
+      "Skiljer partiet på effektivitet per aktivitet och total miljöpåverkan?",
+      "Föreslår partiet styrmedel för absoluta minskningar av resursanvändning?",
+      "Hur hanteras risken att billigare beräkning ger mer total beräkning?"
+    ],
+    "group": "hallbarhet",
+    "parentTopic": null,
+    "displayOrder": 18
+  },
+  {
+    "id": "social-hallbarhet",
+    "title": "Social hållbarhet och rättvis omställning",
+    "shortTitle": "Rättvis omställning",
+    "description": "Fördelning av AI:s produktivitetsvinster, stöd till dem som påverkas av automatisering, regional jämlikhet, arbetsvillkor och tillit.",
+    "whyItMatters": "Om AI:s vinster samlas hos få medan kostnaderna bärs av dem vars jobb förändras riskerar tilliten i samhället att urholkas. Rättvis omställning handlar om vem som får del av vinsterna, vilket stöd som finns vid förändring och hur små kommuner och landsbygd hänger med.",
+    "keyQuestions": [
+      "Hur ska AI:s produktivitetsvinster komma fler till del, enligt partiet?",
+      "Vilket stöd föreslås för dem vars arbete automatiseras?",
+      "Hur hanteras regionala skillnader och små kommuners förutsättningar?",
+      "Hur värnas värdiga arbetsvillkor och meningsfullt arbete?",
+      "Hur upprätthålls förtroendet för samhällets AI-användning?"
+    ],
+    "group": "hallbarhet",
+    "parentTopic": null,
+    "displayOrder": 19
+  }
+]

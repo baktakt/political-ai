@@ -1,0 +1,9 @@
+[
+  {
+    "id": "2026-07-15-pilotlansering",
+    "date": "2026-07-15",
+    "title": "Pilotversion av webbplatsen",
+    "description": "Första versionen publiceras som pilot. Riksdagspartierna är verifierade mot officiella källor (riksdagen.se, Valmyndigheten, Regeringskansliet). Ämnestaxonomin med 19 områden, metodiken och datamodellen är på plats. Pilotresearch omfattar ämnet AI och arbetsmarknaden för samtliga partier samt en fullständig partiprofil för Socialdemokraterna. Övriga kombinationer av parti och ämne är ännu inte granskade och redovisas som ogranskat.",
+    "type": "lansering"
+  }
+]

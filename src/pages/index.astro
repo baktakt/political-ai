@@ -1,0 +1,228 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import NeutralityNote from "@/components/NeutralityNote.astro";
+import PartyMark from "@/components/PartyMark.astro";
+import QuestionTeaser from "@/components/QuestionTeaser.astro";
+import SectionLabel from "@/components/SectionLabel.astro";
+import {
+  getPartiesSorted,
+  getTopicGroups,
+  getPublishedPositions,
+  getMeta,
+} from "@/lib/content";
+import { getCollection } from "astro:content";
+import { formatDate } from "@/lib/format";
+
+const parties = await getPartiesSorted();
+const { samhalle, hallbarhet } = await getTopicGroups();
+const positions = await getPublishedPositions();
+const meta = await getMeta();
+const questions = (await getCollection("questions"))
+  .sort((a, b) => a.data.displayOrder - b.data.displayOrder)
+  .slice(0, 4);
+---
+
+<BaseLayout description="Neutral, källbaserad väljarinformation: vad riksdagspartierna säger, föreslår och har gjort om artificiell intelligens och hållbarhet.">
+  <div class="mx-auto max-w-7xl px-6">
+    <!-- Hero -->
+    <section class="border-b border-border py-14 md:py-20">
+      <div class="bi-mono">Inför riksdagsvalet 2026 · källbaserad väljarinformation</div>
+      <h1 class="mt-4 max-w-3xl text-4xl leading-tight md:text-5xl">
+        Vad vill partierna med AI — och vad har de faktiskt gjort?
+      </h1>
+      <p class="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground">
+        Artificiell intelligens förändrar arbetsliv, skola, vård och demokrati — och
+        förbrukar samtidigt el, vatten och resurser. Här kan du jämföra vad
+        riksdagens åtta partier säger om AI och hållbarhet, vad de föreslagit och
+        vad de gjort i riksdagen. Varje påstående är kopplat till en källa du kan
+        öppna själv. Där dokumentation saknas säger vi det rakt ut.
+      </p>
+      <div class="mt-7 flex flex-wrap gap-3">
+        <a
+          href="/partier/"
+          class="inline-flex items-center gap-2 border border-foreground bg-foreground px-4 py-2 text-xs uppercase tracking-wide text-background hover:bg-transparent hover:text-foreground transition-colors"
+          >Se partierna</a
+        >
+        <a
+          href="/jamfor/"
+          class="inline-flex items-center gap-2 border border-foreground px-4 py-2 text-xs uppercase tracking-wide hover:bg-foreground hover:text-background transition-colors"
+          >Jämför sida vid sida</a
+        >
+        <a
+          href="/fragor/"
+          class="inline-flex items-center gap-2 border border-border px-4 py-2 text-xs uppercase tracking-wide text-muted-foreground hover:border-foreground hover:text-foreground transition-colors"
+          >Börja med en fråga</a
+        >
+      </div>
+      <div class="mt-8 max-w-2xl">
+        <NeutralityNote />
+      </div>
+      <div class="mt-4 bi-mono">
+        Research senast uppdaterad {formatDate(meta.researchLastUpdated)}
+        {meta.pilot && " · pilotversion"}
+      </div>
+    </section>
+
+    <!-- AI som politisk fråga -->
+    <section class="py-12">
+      <SectionLabel
+        eyebrow="Bakgrund"
+        title="AI som politisk fråga"
+        description="Kort och neutralt: varför AI ligger på riksdagens bord."
+      />
+      <div class="mt-6 grid gap-8 md:grid-cols-2">
+        <p class="text-sm leading-relaxed text-muted-foreground">
+          AI-system skriver text, tolkar bilder, fattar beslut och automatiserar
+          arbetsuppgifter. Det påverkar hur vi arbetar, hur skolan undervisar, hur
+          vården diagnostiserar och hur myndigheter handlägger ärenden. Politiken
+          avgör var tekniken ska främjas, var den ska begränsas och vilka regler
+          som ska skydda enskilda — frågor där partierna gör olika vägval.
+        </p>
+        <p class="text-sm leading-relaxed text-muted-foreground">
+          Mycket av regelverket sätts i EU genom AI-förordningen, men Sverige
+          väljer självt hur reglerna tillämpas, vad staten investerar i och hur
+          offentlig sektor använder AI. Den här webbplatsen samlar partiernas
+          dokumenterade ståndpunkter — utan att värdera dem — så att du kan bilda
+          dig en egen uppfattning.
+        </p>
+      </div>
+    </section>
+
+    <!-- AI och hållbarhet -->
+    <section class="py-12">
+      <SectionLabel
+        eyebrow="Ett huvudspår, inte en fotnot"
+        title="AI och hållbarhet"
+        description="Tekniken har både ett eget avtryck och en möjlig klimatnytta. Vi granskar båda."
+      />
+      <div class="mt-6 grid gap-8 md:grid-cols-2">
+        <p class="text-sm leading-relaxed text-muted-foreground">
+          AI kräver datacenter, el, vatten och hårdvara. Utbyggnaden konkurrerar
+          om elnätets kapacitet och väcker frågor om miljökrav, rapportering och
+          var anläggningar ska ligga. Samtidigt kan AI användas för att optimera
+          energisystem, transporter, jordbruk och klimatanpassning.
+        </p>
+        <p class="text-sm leading-relaxed text-muted-foreground">
+          Vi granskar därför partiernas politik i fem hållbarhetsområden: AI:s
+          miljöavtryck, AI som hållbarhetsverktyg, hållbart byggande,
+          rekyleffekter och social hållbarhet — med samma källkrav som för alla
+          andra områden.
+        </p>
+      </div>
+      <div class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
+        {
+          hallbarhet.map((topic) => (
+            <a
+              href={`/amnen/${topic.id}/`}
+              class="border border-border bg-card p-4 text-sm hover:border-foreground transition-colors"
+            >
+              <span class="bi-mono !text-[9px]" style="color:var(--moss)">
+                Hållbarhet
+              </span>
+              <span class="mt-1 block font-display leading-snug">{topic.data.shortTitle}</span>
+            </a>
+          ))
+        }
+      </div>
+    </section>
+
+    <!-- Ämnesområden -->
+    <section class="py-12">
+      <SectionLabel
+        eyebrow="Taxonomi"
+        title="Fjorton samhällsområden"
+        description="Från arbetsmarknad till barn och unga — samma frågor ställs till alla partier."
+      >
+        <a slot="right" href="/amnen/" class="border-b border-foreground pb-0.5 text-sm hover:opacity-70">Alla ämnen</a>
+      </SectionLabel>
+      <ul class="mt-6 grid gap-x-8 gap-y-2 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          samhalle.map((topic) => (
+            <li>
+              <a
+                href={`/amnen/${topic.id}/`}
+                class="group flex items-baseline gap-3 border-b border-border py-2 text-sm hover:border-foreground"
+              >
+                <span class="bi-mono !text-[10px] w-6 shrink-0">
+                  {String(topic.data.displayOrder).padStart(2, "0")}
+                </span>
+                <span class="group-hover:underline underline-offset-4">{topic.data.title}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <!-- Partier -->
+    <section class="py-12">
+      <SectionLabel
+        eyebrow="Riksdagens partier · valperioden 2022–2026"
+        title="Åtta partier, samma granskning"
+        description="Verifierade mot riksdagen.se och Valmyndigheten. Alltid i bokstavsordning."
+      >
+        <a slot="right" href="/partier/" class="border-b border-foreground pb-0.5 text-sm hover:opacity-70">Till partiöversikten</a>
+      </SectionLabel>
+      <ul class="mt-6 grid grid-cols-2 gap-3 md:grid-cols-4">
+        {
+          parties.map((party) => (
+            <li>
+              <a
+                href={`/partier/${party.id}/`}
+                class="flex items-center justify-between gap-2 border border-border bg-card px-4 py-3 text-sm hover:border-foreground transition-colors"
+              >
+                <span class="truncate">{party.data.name}</span>
+                <PartyMark abbreviation={party.data.abbreviation} color={party.data.color} />
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <!-- Väljarfrågor -->
+    <section class="py-12">
+      <SectionLabel
+        eyebrow="Snabbaste vägen in"
+        title="Börja med en fråga"
+        description="Vanliga väljarfrågor, besvarade ur den granskade datamängden."
+      >
+        <a slot="right" href="/fragor/" class="border-b border-foreground pb-0.5 text-sm hover:opacity-70">Alla frågor</a>
+      </SectionLabel>
+      <div class="mt-6 grid gap-4 sm:grid-cols-2">
+        {questions.map((q) => <QuestionTeaser question={q} />)}
+      </div>
+    </section>
+
+    <!-- Metod & transparens -->
+    <section class="py-12 pb-16">
+      <SectionLabel
+        eyebrow="Transparens"
+        title="Så vet du att du kan lita på innehållet"
+      />
+      <div class="mt-6 grid gap-4 md:grid-cols-3">
+        <a href="/metod/" class="border border-border bg-card p-5 hover:border-foreground transition-colors">
+          <div class="bi-mono mb-2">Metod</div>
+          <p class="text-sm text-muted-foreground">
+            Källhierarki, evidensklassning och hur vi hanterar osäkerhet och
+            saknad information.
+          </p>
+        </a>
+        <a href="/kallor/" class="border border-border bg-card p-5 hover:border-foreground transition-colors">
+          <div class="bi-mono mb-2">Källor</div>
+          <p class="text-sm text-muted-foreground">
+            Varje påstående har en källa du kan öppna: dokument, datum, utdrag
+            och förklaring.
+          </p>
+        </a>
+        <a href="/korrigeringar/" class="border border-border bg-card p-5 hover:border-foreground transition-colors">
+          <div class="bi-mono mb-2">Korrigeringar</div>
+          <p class="text-sm text-muted-foreground">
+            Hittar du fel? Vi har en öppen korrigeringspolicy och redovisar alla
+            rättelser.
+          </p>
+        </a>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

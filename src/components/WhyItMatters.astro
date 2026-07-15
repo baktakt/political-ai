@@ -1,0 +1,12 @@
+---
+/** "Varför frågan spelar roll" — porterad från BI:s WhyItMattersBlock. */
+interface Props {
+  label?: string;
+}
+const { label = "Varför frågan spelar roll" } = Astro.props;
+---
+
+<aside class="relative border-l-2 border-foreground pl-5 py-1">
+  <div class="bi-mono mb-2">{label}</div>
+  <p class="text-base leading-relaxed text-foreground"><slot /></p>
+</aside>

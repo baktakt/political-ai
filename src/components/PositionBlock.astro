@@ -1,0 +1,76 @@
+---
+/**
+ * En ståndpunkt: rubrik (parti eller ämne), evidensmärke, sammanfattning
+ * och utfällbar fördjupning med klassningsförklaring och källor.
+ */
+import type { CollectionEntry } from "astro:content";
+import EvidenceBadge from "./EvidenceBadge.astro";
+import PartyMark from "./PartyMark.astro";
+import SourceItem from "./SourceItem.astro";
+import { EVIDENCE_TYPE_LABELS } from "@/lib/evidence";
+import { formatDate } from "@/lib/format";
+
+interface Props {
+  position: CollectionEntry<"positions">;
+  /** Rubrikläge: visa partiet (på ämnessidor) eller ämnet (på partisidor). */
+  heading: { label: string; href: string; party?: { abbreviation: string; color: string } };
+  sources: CollectionEntry<"sources">[];
+  headingLevel?: "h2" | "h3";
+}
+const { position, heading, sources, headingLevel: Heading = "h3" } = Astro.props;
+const p = position.data;
+const paragraphs = p.detailedPosition
+  .split(/\n\n+/)
+  .map((t) => t.trim())
+  .filter(Boolean);
+---
+
+<article class="border border-border bg-card p-5" id={`standpunkt-${position.id}`}>
+  <div class="flex flex-wrap items-start justify-between gap-3">
+    <Heading class="font-display text-lg leading-snug">
+      <a href={heading.href} class="inline-flex items-center gap-2 hover:underline underline-offset-4">
+        {heading.party && <PartyMark abbreviation={heading.party.abbreviation} color={heading.party.color} size="md" />}
+        <span>{heading.label}</span>
+      </a>
+    </Heading>
+    <EvidenceBadge status={p.evidenceStatus} />
+  </div>
+
+  <p class="mt-3 text-sm leading-relaxed text-foreground">{p.summary}</p>
+
+  {
+    (paragraphs.length > 0 || p.sourceIds.length > 0) && (
+      <details class="mt-3 group">
+        <summary class="cursor-pointer list-none text-sm text-muted-foreground hover:text-foreground [&::-webkit-details-marker]:hidden">
+          <span class="border-b border-border pb-0.5 group-open:hidden">
+            Visa fördjupning och källor{p.sourceIds.length > 0 && ` (${p.sourceIds.length} ${p.sourceIds.length === 1 ? "källa" : "källor"})`}
+          </span>
+          <span class="hidden border-b border-border pb-0.5 group-open:inline">Dölj fördjupning</span>
+        </summary>
+        <div class="mt-4 space-y-3">
+          {paragraphs.map((text) => (
+            <p class="text-sm leading-relaxed text-muted-foreground">{text}</p>
+          ))}
+          {p.evidenceTypes.length > 0 && (
+            <p class="text-xs text-muted-foreground">
+              <span class="bi-mono !text-[10px]">Typ av belägg</span>{" "}
+              {p.evidenceTypes.map((t) => EVIDENCE_TYPE_LABELS[t]).join(" · ")}
+            </p>
+          )}
+          <aside class="border-l-2 border-border pl-3 text-xs text-muted-foreground">
+            <span class="font-medium text-foreground">Om klassningen:</span> {p.confidenceExplanation}
+            <span class="block mt-1">Senast uppdaterad {formatDate(p.lastUpdatedAt)}.</span>
+          </aside>
+          {sources.length > 0 && (
+            <div class="space-y-3">
+              <div class="bi-mono !text-[10px]">Källor</div>
+              {sources.map((s) => (
+                <SourceItem source={s} />
+              ))}
+            </div>
+          )}
+        </div>
+      </details>
+    )
+  }
+</article>

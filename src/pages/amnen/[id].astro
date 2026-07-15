@@ -1,0 +1,387 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import WhyItMatters from "@/components/WhyItMatters.astro";
+import PositionBlock from "@/components/PositionBlock.astro";
+import NotResearched from "@/components/NotResearched.astro";
+import SourceItem from "@/components/SourceItem.astro";
+import PartyMark from "@/components/PartyMark.astro";
+import SectionLabel from "@/components/SectionLabel.astro";
+import {
+  getPartiesSorted,
+  getTopicsSorted,
+  getPositionsByTopic,
+  getPublishedProposals,
+  getPublishedActions,
+  getSourcesMap,
+} from "@/lib/content";
+import {
+  ACTION_TYPE_LABELS,
+  PROPOSAL_STATUS_LABELS,
+} from "@/lib/evidence";
+import { formatDate } from "@/lib/format";
+
+export async function getStaticPaths() {
+  const topics = await getTopicsSorted();
+  return topics.map((topic) => ({ params: { id: topic.id }, props: { topic } }));
+}
+
+const { topic } = Astro.props;
+const t = topic.data;
+
+const parties = await getPartiesSorted();
+const positions = await getPositionsByTopic(topic.id);
+const proposals = (await getPublishedProposals()).filter((x) =>
+  x.data.topicIds.includes(topic.id),
+);
+const actions = (await getPublishedActions()).filter((x) =>
+  x.data.topicIds.includes(topic.id),
+);
+const sourcesMap = await getSourcesMap();
+
+const positionByParty = new Map(positions.map((pos) => [pos.data.partyId, pos]));
+const partiesById = new Map(parties.map((p) => [p.id, p]));
+
+const missingParties = parties.filter(
+  (p) => positionByParty.get(p.id)?.data.evidenceStatus === "ingen_dokumenterad",
+);
+const notResearchedParties = parties.filter((p) => !positionByParty.has(p.id));
+
+const referencedSourceIds = new Set<string>([
+  ...positions.flatMap((x) => x.data.sourceIds),
+  ...proposals.flatMap((x) => x.data.sourceIds),
+  ...actions.flatMap((x) => x.data.sourceIds),
+]);
+const referencedSources = [...referencedSourceIds]
+  .map((id) => sourcesMap.get(id))
+  .filter((s) => s != null)
+  .sort((a, b) => (b.data.publicationDate ?? "").localeCompare(a.data.publicationDate ?? ""));
+
+const sourcesFor = (ids: string[]) =>
+  ids.map((id) => sourcesMap.get(id)).filter((s) => s != null);
+
+const lastReviewed = positions
+  .map((x) => x.data.lastUpdatedAt)
+  .sort()
+  .at(-1);
+
+const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/amnen/${topic.id}/`)}`;
+---
+
+<BaseLayout
+  title={t.title}
+  description={t.description}
+>
+  <div
+    class="mx-auto max-w-7xl px-6"
+    data-pagefind-body
+    data-pagefind-filter={`Ämnesgrupp:${t.group === "hallbarhet" ? "AI & hållbarhet" : "AI i samhället"}`}
+  >
+    <header class="border-b border-border py-10">
+      <nav aria-label="Brödsmulor" class="bi-mono flex flex-wrap items-center gap-2">
+        <a href="/amnen/" class="hover:text-foreground">Ämnen</a>
+        <span aria-hidden="true">/</span>
+        <span class="text-foreground">{t.shortTitle}</span>
+      </nav>
+      <div class="mt-4 bi-mono" style={t.group === "hallbarhet" ? "color:var(--moss)" : undefined}>
+        {t.group === "hallbarhet" ? "AI & hållbarhet" : "AI i samhället"} · område {t.displayOrder} av 19
+      </div>
+      <h1 class="mt-2 text-3xl md:text-4xl leading-tight">{t.title}</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">{t.description}</p>
+    </header>
+
+    <section class="py-10 max-w-3xl">
+      <WhyItMatters>{t.whyItMatters}</WhyItMatters>
+      <div class="mt-8">
+        <h2 class="bi-mono !text-[11px]">Politiska nyckelfrågor</h2>
+        <ul class="mt-3 space-y-2">
+          {
+            t.keyQuestions.map((q) => (
+              <li class="flex gap-3 text-sm leading-relaxed">
+                <span class="bi-mono !text-[10px] pt-0.5" aria-hidden="true">
+                  ?
+                </span>
+                {q}
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </section>
+
+    <!-- Partiernas ståndpunkter -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Sida vid sida · bokstavsordning"
+        title="Partiernas ståndpunkter"
+        description="Fäll ut varje parti för fördjupning, klassning och källor."
+      />
+      <div class="mt-6 space-y-4">
+        {
+          parties.map((party) => {
+            const position = positionByParty.get(party.id);
+            return position ? (
+              <PositionBlock
+                position={position}
+                heading={{
+                  label: party.data.name,
+                  href: `/partier/${party.id}/`,
+                  party: { abbreviation: party.data.abbreviation, color: party.data.color },
+                }}
+                sources={sourcesFor(position.data.sourceIds)}
+              />
+            ) : (
+              <div class="flex flex-wrap items-center justify-between gap-2 border border-dashed border-border px-5 py-3">
+                <a
+                  href={`/partier/${party.id}/`}
+                  class="inline-flex items-center gap-2 text-sm hover:underline underline-offset-4"
+                >
+                  <PartyMark abbreviation={party.data.abbreviation} color={party.data.color} />
+                  {party.data.name}
+                </a>
+                <NotResearched compact />
+              </div>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <!-- Överens / oense -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Jämförande analys"
+        title="Var partierna möts och skiljs åt"
+        description="Redaktionell sammanfattning av likheter och skillnader i det granskade materialet."
+      />
+      {
+        t.analysis ? (
+          <div class="mt-6 grid gap-6 md:grid-cols-2">
+            <div class="border border-border bg-card p-5">
+              <h3 class="bi-mono mb-3">Områden med samsyn</h3>
+              {t.analysis.agreements.length > 0 ? (
+                <ul class="space-y-2 text-sm text-muted-foreground">
+                  {t.analysis.agreements.map((x) => (
+                    <li class="flex gap-2">
+                      <span aria-hidden="true">·</span>
+                      {x}
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <p class="text-sm text-muted-foreground">
+                  Ingen tydlig samsyn har dokumenterats i det granskade materialet.
+                </p>
+              )}
+            </div>
+            <div class="border border-border bg-card p-5">
+              <h3 class="bi-mono mb-3">Områden där partierna skiljer sig</h3>
+              {t.analysis.disagreements.length > 0 ? (
+                <ul class="space-y-2 text-sm text-muted-foreground">
+                  {t.analysis.disagreements.map((x) => (
+                    <li class="flex gap-2">
+                      <span aria-hidden="true">·</span>
+                      {x}
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <p class="text-sm text-muted-foreground">
+                  Inga tydliga skiljelinjer har dokumenterats i det granskade materialet.
+                </p>
+              )}
+            </div>
+            {t.analysis.note && (
+              <p class="md:col-span-2 text-xs text-muted-foreground border-l-2 border-border pl-3">
+                {t.analysis.note}
+                {t.analysis.updatedAt && ` Analysen uppdaterad ${formatDate(t.analysis.updatedAt)}.`}
+              </p>
+            )}
+          </div>
+        ) : (
+          <p class="mt-4 max-w-2xl border border-dashed border-border p-4 text-sm text-muted-foreground">
+            Jämförande analys är ännu inte gjord för det här ämnet. Den skrivs
+            först när ämnets research har granskats redaktionellt.
+          </p>
+        )
+      }
+    </section>
+
+    <!-- Förslag & riksdagsaktivitet -->
+    {
+      (proposals.length > 0 || actions.length > 0) && (
+        <section class="py-10">
+          <SectionLabel
+            eyebrow="Dokumenterat agerande"
+            title="Förslag och riksdagsaktivitet"
+          />
+          {proposals.length > 0 && (
+            <div class="mt-6 space-y-4">
+              {proposals.map((proposal) => {
+                const party = partiesById.get(proposal.data.partyId);
+                return (
+                  <article class="border border-border bg-card p-5">
+                    <div class="flex flex-wrap items-center gap-3 text-xs text-muted-foreground">
+                      {party && (
+                        <PartyMark
+                          abbreviation={party.data.abbreviation}
+                          color={party.data.color}
+                        />
+                      )}
+                      <span class="bi-mono">{formatDate(proposal.data.date)}</span>
+                      <span class="border border-border px-1.5 py-px uppercase tracking-wide text-[10px]">
+                        {PROPOSAL_STATUS_LABELS[proposal.data.status]}
+                      </span>
+                    </div>
+                    <h3 class="mt-2 font-display text-lg leading-snug">{proposal.data.title}</h3>
+                    <p class="mt-2 text-sm text-muted-foreground">{proposal.data.description}</p>
+                    <details class="mt-3">
+                      <summary class="cursor-pointer text-xs text-muted-foreground hover:text-foreground">
+                        Källor ({proposal.data.sourceIds.length})
+                      </summary>
+                      <div class="mt-3 space-y-3">
+                        {sourcesFor(proposal.data.sourceIds).map((s) => (
+                          <SourceItem source={s} />
+                        ))}
+                      </div>
+                    </details>
+                  </article>
+                );
+              })}
+            </div>
+          )}
+          {actions.length > 0 && (
+            <div class="mt-8 overflow-x-auto">
+              <table class="w-full min-w-[42rem] border-collapse text-sm">
+                <caption class="sr-only">Riksdagsaktivitet inom {t.title}</caption>
+                <thead>
+                  <tr class="border-b border-border text-left">
+                    <th scope="col" class="py-2 pr-4 font-medium">Datum</th>
+                    <th scope="col" class="py-2 pr-4 font-medium">Parti</th>
+                    <th scope="col" class="py-2 pr-4 font-medium">Typ</th>
+                    <th scope="col" class="py-2 pr-4 font-medium">Titel</th>
+                    <th scope="col" class="py-2 font-medium">Nivå</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {actions.map((action) => {
+                    const party = partiesById.get(action.data.partyId);
+                    return (
+                      <tr class="border-b border-border align-top">
+                        <td class="py-2.5 pr-4 whitespace-nowrap bi-mono !text-[10px]">
+                          {formatDate(action.data.date)}
+                        </td>
+                        <td class="py-2.5 pr-4">
+                          {party && (
+                            <PartyMark
+                              abbreviation={party.data.abbreviation}
+                              color={party.data.color}
+                            />
+                          )}
+                        </td>
+                        <td class="py-2.5 pr-4">{ACTION_TYPE_LABELS[action.data.actionType]}</td>
+                        <td class="py-2.5 pr-4">
+                          {action.data.title}
+                          {action.data.documentNumber && (
+                            <span class="block bi-mono !text-[10px] mt-0.5">
+                              {action.data.documentNumber}
+                            </span>
+                          )}
+                        </td>
+                        <td class="py-2.5">{action.data.partyLevel ? "Partinivå" : "Enskild"}</td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+          )}
+        </section>
+      )
+    }
+
+    <!-- Saknade ståndpunkter -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Redovisning av luckor"
+        title="Saknade ståndpunkter"
+        description="Att en ståndpunkt saknas betyder inte att partiet är emot frågan."
+      />
+      <div class="mt-6 grid gap-6 md:grid-cols-2">
+        <div class="border border-border bg-card p-5">
+          <h3 class="bi-mono mb-3">Granskade — ingen dokumenterad ståndpunkt</h3>
+          {
+            missingParties.length > 0 ? (
+              <ul class="space-y-1.5 text-sm">
+                {missingParties.map((party) => (
+                  <li>
+                    <a
+                      href={`/partier/${party.id}/`}
+                      class="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground"
+                    >
+                      <PartyMark abbreviation={party.data.abbreviation} color={party.data.color} />
+                      {party.data.name}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p class="text-sm text-muted-foreground">
+                Alla granskade partier har någon form av dokumenterad ståndpunkt.
+              </p>
+            )
+          }
+        </div>
+        <div class="border border-dashed border-border p-5">
+          <h3 class="bi-mono mb-3">Ännu ej granskade partier</h3>
+          {
+            notResearchedParties.length > 0 ? (
+              <p class="text-sm text-muted-foreground">
+                {notResearchedParties.map((p) => p.data.name).join(" · ")}
+              </p>
+            ) : (
+              <p class="text-sm text-muted-foreground">Alla partier är granskade för det här ämnet.</p>
+            )
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- Källor -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Transparens"
+        title={`Källor (${referencedSources.length})`}
+        description="Alla källor som ligger till grund för innehållet på den här sidan."
+      />
+      {
+        referencedSources.length > 0 ? (
+          <div class="mt-6 space-y-3">
+            {referencedSources.map((s) => (
+              <SourceItem source={s} headingLevel="h3" />
+            ))}
+          </div>
+        ) : (
+          <p class="mt-4 text-sm text-muted-foreground">Ämnet har ännu inga researchkällor.</p>
+        )
+      }
+    </section>
+
+    <footer class="mb-16 border-t border-border pt-6 flex flex-wrap items-center justify-between gap-3">
+      <span class="bi-mono">
+        {lastReviewed ? `Senast granskad ${formatDate(lastReviewed)}` : "Ännu ej granskad"}
+      </span>
+      <div class="flex flex-wrap gap-3">
+        <a
+          href={`/jamfor/?amnen=${topic.id}`}
+          class="border border-border px-3 py-1.5 text-xs uppercase tracking-wide text-muted-foreground hover:border-foreground hover:text-foreground transition-colors"
+          >Jämför partier i ämnet</a
+        >
+        <a
+          href={correctionUrl}
+          class="border border-border px-3 py-1.5 text-xs uppercase tracking-wide text-muted-foreground hover:border-foreground hover:text-foreground transition-colors"
+          >Föreslå korrigering</a
+        >
+      </div>
+    </footer>
+  </div>
+</BaseLayout>

@@ -1,0 +1,87 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import PartyCard from "@/components/PartyCard.astro";
+import NeutralityNote from "@/components/NeutralityNote.astro";
+import {
+  getPartiesSorted,
+  getTopicsSorted,
+  getPublishedPositions,
+  getSourcesMap,
+} from "@/lib/content";
+import { formatDate } from "@/lib/format";
+
+const parties = await getPartiesSorted();
+const topics = await getTopicsSorted();
+const positions = await getPublishedPositions();
+const sourcesMap = await getSourcesMap();
+const verifiedAt = parties[0]?.data.verifiedAt;
+const verificationSources = [
+  ...new Set(parties.flatMap((p) => p.data.verificationSourceIds)),
+]
+  .map((id) => sourcesMap.get(id))
+  .filter((s) => s != null);
+---
+
+<BaseLayout
+  title="Partierna"
+  description="Riksdagens åtta partier och deras dokumenterade AI- och hållbarhetspolitik — samma granskning för alla, i bokstavsordning."
+>
+  <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
+    <header class="border-b border-border py-10">
+      <div class="bi-mono">Riksdagens partier · valperioden 2022–2026</div>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Partierna</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
+        Alla åtta riksdagspartier granskas med samma metod och visas med samma
+        layout, alltid i bokstavsordning. Att ett parti har fler granskade ämnen
+        betyder bara att dokumentationsläget är mer komplett — inte att partiets
+        politik är bättre eller sämre.
+      </p>
+    </header>
+
+    <div class="mt-8 grid gap-4 md:grid-cols-2" data-pagefind-ignore>
+      {
+        parties.map((party) => {
+          const partyPositions = positions.filter((p) => p.data.partyId === party.id);
+          return (
+            <PartyCard
+              party={party}
+              reviewedCount={partyPositions.length}
+              totalTopics={topics.length}
+              noPositionCount={
+                partyPositions.filter((p) => p.data.evidenceStatus === "ingen_dokumenterad").length
+              }
+            />
+          );
+        })
+      }
+    </div>
+
+    <div class="mt-8 max-w-3xl">
+      <NeutralityNote />
+    </div>
+
+    <section class="mt-10 mb-16 border-t border-border pt-6">
+      <h2 class="bi-mono !text-[11px]">Verifiering av partiuppgifter</h2>
+      <p class="mt-2 max-w-3xl text-sm text-muted-foreground">
+        Listan över riksdagspartier, mandat och regeringsställning verifierades
+        {verifiedAt && ` ${formatDate(verifiedAt)}`} mot officiella källor — inte
+        utifrån tidigare kunskap. Nio ledamöter sitter under valperioden utan
+        partibeteckning; de redovisas inte som parti.
+      </p>
+      <ul class="mt-3 space-y-1 text-sm">
+        {
+          verificationSources.map((s) => (
+            <li>
+              <a
+                href={`/kallor/#kalla-${s.id}`}
+                class="border-b border-border pb-px text-muted-foreground hover:text-foreground"
+              >
+                {s.data.title} — {s.data.publisher}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  </div>
+</BaseLayout>

@@ -1,0 +1,85 @@
+---
+/**
+ * Evidensstatus-märke: egen ikonform + textetikett + färgton.
+ * Färg används aldrig ensam som betydelsebärare (WCAG 1.4.1).
+ */
+import type { EvidenceStatus } from "@/lib/schema";
+import {
+  EVIDENCE_STATUS_LABELS,
+  EVIDENCE_STATUS_TONE,
+} from "@/lib/evidence";
+
+interface Props {
+  status: EvidenceStatus;
+  linked?: boolean;
+}
+const { status, linked = true } = Astro.props;
+const label = EVIDENCE_STATUS_LABELS[status];
+const tone = EVIDENCE_STATUS_TONE[status];
+---
+
+{
+  linked ? (
+    <a
+      href="/metod/#evidensstatus"
+      class="group inline-flex max-w-full items-center gap-1.5 border border-border bg-card px-2 py-0.5 text-[11px] leading-tight text-foreground hover:border-foreground transition-colors"
+      title={`${label} — läs om klassningen i metodbeskrivningen`}
+    >
+      <svg width="10" height="10" viewBox="0 0 10 10" aria-hidden="true" class="shrink-0" style={`color:${tone}`}>
+        {status === "tydlig_detaljerad" && <rect x="1" y="1" width="8" height="8" fill="currentColor" />}
+        {status === "generell_dokumenterad" && (
+          <>
+            <rect x="1" y="1" width="8" height="8" fill="none" stroke="currentColor" stroke-width="1.2" />
+            <path d="M1 9 L9 1 L9 9 Z" fill="currentColor" />
+          </>
+        )}
+        {status === "konkret_forslag" && (
+          <>
+            <rect x="2" y="1" width="6" height="8" fill="none" stroke="currentColor" stroke-width="1.2" />
+            <line x1="3.5" y1="3.5" x2="6.5" y2="3.5" stroke="currentColor" stroke-width="1" />
+            <line x1="3.5" y1="5.5" x2="6.5" y2="5.5" stroke="currentColor" stroke-width="1" />
+          </>
+        )}
+        {status === "riksdagsaktivitet" && (
+          <>
+            <line x1="2" y1="9" x2="2" y2="3" stroke="currentColor" stroke-width="1.4" />
+            <line x1="5" y1="9" x2="5" y2="3" stroke="currentColor" stroke-width="1.4" />
+            <line x1="8" y1="9" x2="8" y2="3" stroke="currentColor" stroke-width="1.4" />
+            <line x1="0.5" y1="1.5" x2="9.5" y2="1.5" stroke="currentColor" stroke-width="1.2" />
+          </>
+        )}
+        {status === "regeringsatgard" && <circle cx="5" cy="5" r="4" fill="currentColor" />}
+        {status === "uttalande_foretradare" && (
+          <>
+            <rect x="1" y="1.5" width="8" height="5.5" fill="none" stroke="currentColor" stroke-width="1.2" />
+            <path d="M3 7 L3 9.5 L5.5 7 Z" fill="currentColor" />
+          </>
+        )}
+        {status === "indirekt_berord" && (
+          <rect x="1" y="1" width="8" height="8" fill="none" stroke="currentColor" stroke-width="1.2" stroke-dasharray="2 1.5" />
+        )}
+        {status === "motstridiga" && (
+          <>
+            <path d="M1 3 L7 3 M7 3 L5 1 M7 3 L5 5" fill="none" stroke="currentColor" stroke-width="1.2" />
+            <path d="M9 7 L3 7 M3 7 L5 5.5 M3 7 L5 9" fill="none" stroke="currentColor" stroke-width="1.2" />
+          </>
+        )}
+        {status === "andrad_standpunkt" && (
+          <path d="M2 8 C2 4, 4 2, 8 2 M8 2 L6 1 M8 2 L6.5 4" fill="none" stroke="currentColor" stroke-width="1.2" />
+        )}
+        {status === "ingen_dokumenterad" && (
+          <>
+            <rect x="1" y="1" width="8" height="8" fill="none" stroke="currentColor" stroke-width="1.2" />
+            <line x1="2.5" y1="5" x2="7.5" y2="5" stroke="currentColor" stroke-width="1.2" />
+          </>
+        )}
+      </svg>
+      <span>{label}</span>
+    </a>
+  ) : (
+    <span class="inline-flex max-w-full items-center gap-1.5 border border-border bg-card px-2 py-0.5 text-[11px] leading-tight text-foreground">
+      <span class="inline-block h-2 w-2 shrink-0" style={`background:${tone}`} aria-hidden="true" />
+      <span>{label}</span>
+    </span>
+  )
+}

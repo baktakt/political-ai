@@ -1,0 +1,29 @@
+---
+/** Tidslinje över partihändelser, nyast först. */
+import type { CollectionEntry } from "astro:content";
+import { TIMELINE_EVENT_LABELS } from "@/lib/evidence";
+import { formatDate } from "@/lib/format";
+
+interface Props {
+  events: CollectionEntry<"timeline">[];
+}
+const { events } = Astro.props;
+---
+
+<ol class="border-l border-border">
+  {
+    events.map((event) => (
+      <li class="relative pl-6 pb-6 last:pb-0">
+        <span
+          class="absolute -left-[3.5px] top-1.5 h-1.5 w-1.5 bg-foreground"
+          aria-hidden="true"
+        />
+        <div class="bi-mono">
+          {formatDate(event.data.date)} · {TIMELINE_EVENT_LABELS[event.data.eventType]}
+        </div>
+        <div class="mt-1 font-display text-base leading-snug">{event.data.title}</div>
+        <p class="mt-1 text-sm text-muted-foreground">{event.data.description}</p>
+      </li>
+    ))
+  }
+</ol>

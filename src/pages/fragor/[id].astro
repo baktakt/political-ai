@@ -1,0 +1,115 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import PartyMark from "@/components/PartyMark.astro";
+import EvidenceBadge from "@/components/EvidenceBadge.astro";
+import NotResearched from "@/components/NotResearched.astro";
+import SectionLabel from "@/components/SectionLabel.astro";
+import { getCollection } from "astro:content";
+import {
+  getPartiesSorted,
+  getTopicsSorted,
+  getPublishedPositions,
+} from "@/lib/content";
+
+export async function getStaticPaths() {
+  const questions = await getCollection("questions");
+  return questions.map((question) => ({
+    params: { id: question.id },
+    props: { question },
+  }));
+}
+
+const { question } = Astro.props;
+const q = question.data;
+
+const parties = await getPartiesSorted();
+const allTopics = await getTopicsSorted();
+const positions = await getPublishedPositions();
+
+const topics = q.topicIds
+  .map((id) => allTopics.find((t) => t.id === id))
+  .filter((t) => t != null);
+---
+
+<BaseLayout title={q.question} description={q.intro}>
+  <div class="mx-auto max-w-7xl px-6" data-pagefind-body data-pagefind-filter="Typ:Fråga">
+    <header class="border-b border-border py-10">
+      <nav aria-label="Brödsmulor" class="bi-mono flex flex-wrap items-center gap-2">
+        <a href="/fragor/" class="hover:text-foreground">Frågor</a>
+        <span aria-hidden="true">/</span>
+        <span class="text-foreground">Svar</span>
+      </nav>
+      <h1 class="mt-4 max-w-3xl text-3xl md:text-4xl leading-tight">{q.question}</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">{q.intro}</p>
+      <p class="mt-3 max-w-2xl text-sm text-muted-foreground">
+        Svaren nedan är partiernas dokumenterade ståndpunkter ur den granskade
+        datamängden — sammanfattade, källbelagda och utan värdering. Partierna
+        visas i bokstavsordning.
+      </p>
+    </header>
+
+    {
+      topics.map((topic) => (
+        <section class="py-10">
+          <SectionLabel
+            eyebrow={topic.data.group === "hallbarhet" ? "AI & hållbarhet" : "AI i samhället"}
+            title={topic.data.title}
+          >
+            <a
+              slot="right"
+              href={`/amnen/${topic.id}/`}
+              class="border-b border-foreground pb-0.5 text-sm hover:opacity-70"
+            >
+              Fördjupning med källor
+            </a>
+          </SectionLabel>
+          <ul class="mt-6 space-y-3">
+            {parties.map((party) => {
+              const position = positions.find(
+                (p) => p.data.partyId === party.id && p.data.topicId === topic.id,
+              );
+              return (
+                <li class="border border-border bg-card p-4">
+                  <div class="flex flex-wrap items-center justify-between gap-2">
+                    <a
+                      href={`/partier/${party.id}/`}
+                      class="inline-flex items-center gap-2 text-sm font-medium hover:underline underline-offset-4"
+                    >
+                      <PartyMark abbreviation={party.data.abbreviation} color={party.data.color} />
+                      {party.data.name}
+                    </a>
+                    {position ? (
+                      <EvidenceBadge status={position.data.evidenceStatus} />
+                    ) : (
+                      <NotResearched compact />
+                    )}
+                  </div>
+                  {position && (
+                    <p class="mt-2 text-sm leading-relaxed text-muted-foreground">
+                      {position.data.summary}{" "}
+                      <a
+                        href={`/amnen/${topic.id}/#standpunkt-${position.id}`}
+                        class="whitespace-nowrap border-b border-border pb-px text-xs hover:text-foreground"
+                      >
+                        Källor och fördjupning
+                      </a>
+                    </p>
+                  )}
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      ))
+    }
+
+    <footer class="mb-16 border-t border-border pt-6">
+      <p class="text-xs text-muted-foreground max-w-2xl">
+        Att en ståndpunkt saknas betyder inte att partiet är emot frågan — bara
+        att ingen dokumenterad ståndpunkt hittades i de granskade källorna, eller
+        att granskningen inte är gjord ännu. Läs mer om
+        <a href="/metod/" class="border-b border-border pb-px hover:text-foreground">metoden</a>.
+      </p>
+    </footer>
+  </div>
+</BaseLayout>

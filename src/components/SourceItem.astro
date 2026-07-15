@@ -1,0 +1,95 @@
+---
+/**
+ * Fullständig källpost: titel, utgivare, datum, typ, kort utdrag och
+ * förklaring av hur källan stödjer påståendet. Källvisaren i sin helhet.
+ */
+import type { CollectionEntry } from "astro:content";
+import { SOURCE_TYPE_LABELS } from "@/lib/evidence";
+import { formatDate, hostFromUrl } from "@/lib/format";
+
+interface Props {
+  source: CollectionEntry<"sources">;
+  headingLevel?: "h3" | "h4";
+}
+const { source, headingLevel: Heading = "h4" } = Astro.props;
+const s = source.data;
+---
+
+<article
+  class="border border-border bg-card p-4"
+  id={`kalla-${source.id}`}
+  data-pagefind-filter="Typ:Källa"
+>
+  <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted-foreground">
+    <span class="bi-mono !text-[10px]">{SOURCE_TYPE_LABELS[s.sourceType]}</span>
+    {
+      s.officialPolicy && (
+        <span class="border border-foreground px-1.5 py-px text-[10px] uppercase tracking-wide text-foreground">
+          Officiell partipolitik
+        </span>
+      )
+    }
+    {
+      !s.isCurrent && (
+        <span class="border border-border px-1.5 py-px text-[10px] uppercase tracking-wide">
+          Äldre källa
+        </span>
+      )
+    }
+  </div>
+  <Heading class="mt-2 font-display text-base leading-snug">
+    <a
+      href={s.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="hover:underline underline-offset-4">{s.title}</a
+    >
+  </Heading>
+  <p class="mt-1 text-xs text-muted-foreground">
+    {s.publisher}{s.author && ` · ${s.author}`} ·
+    {s.publicationDate ? `publicerad ${formatDate(s.publicationDate)}` : "publiceringsdatum saknas"} ·
+    hämtad {formatDate(s.accessedAt)} · {hostFromUrl(s.url)}
+  </p>
+  {
+    s.excerpt && (
+      <blockquote class="mt-3 border-l-2 border-foreground pl-3 text-sm italic text-foreground">
+        ”{s.excerpt}”
+      </blockquote>
+    )
+  }
+  <p class="mt-2 text-sm text-muted-foreground">
+    <span class="font-medium text-foreground">Så stödjer källan påståendet:</span>
+    {s.supportExplanation}
+  </p>
+  <div class="mt-3 flex flex-wrap gap-4">
+    <a
+      href={s.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="group inline-flex items-center gap-2 border-b border-foreground pb-0.5 text-sm text-foreground hover:opacity-70"
+    >
+      Öppna originalkällan
+      <svg
+        width="12"
+        height="12"
+        viewBox="0 0 12 12"
+        aria-hidden="true"
+        class="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5"
+      >
+        <path d="M3 3h6v6M9 3L3 9" fill="none" stroke="currentColor" stroke-width="1.2"></path>
+      </svg>
+    </a>
+    {
+      s.archivedUrl && (
+        <a
+          href={s.archivedUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="border-b border-border pb-0.5 text-sm text-muted-foreground hover:text-foreground"
+        >
+          Arkiverad kopia
+        </a>
+      )
+    }
+  </div>
+</article>

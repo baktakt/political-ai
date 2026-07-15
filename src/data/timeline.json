@@ -1,0 +1,104 @@
+[
+  {
+    "id": "s-tl-2018-05",
+    "partyId": "s",
+    "date": "2018-05",
+    "title": "S-ledd regering presenterar Sveriges första nationella AI-inriktning",
+    "description": "Regeringen Löfven presenterar 'Nationell inriktning för artificiell intelligens' (maj 2018). Historisk regeringspolitik under S-ledning, före oktober 2022.",
+    "eventType": "regeringsbeslut",
+    "sourceIds": [
+      "s-kalla-regeringen-ai-2018"
+    ]
+  },
+  {
+    "id": "s-tl-2024-10",
+    "partyId": "s",
+    "date": "2024-10",
+    "title": "Kommittémotion: Digitaliseringspolitik för klimat, trygghet och tillväxt",
+    "description": "S lägger sin breda digitaliserings- och AI-motion för riksmötet 2024/25, med bl.a. analys av AI:s energianvändning och datacentrens klimatavtryck.",
+    "eventType": "motion",
+    "sourceIds": [
+      "s-kalla-mot-2425-3127"
+    ]
+  },
+  {
+    "id": "s-tl-2024-10b",
+    "partyId": "s",
+    "date": "2024-10",
+    "title": "S kräver lagstöd för polisens realtidsansiktsigenkänning",
+    "description": "I följdmotionen till propositionen Biometri i brottsbekämpningen välkomnar S förslagen men kräver att regeringen snarast återkommer med lagförslag om realtidskameraövervakning med ansiktsigenkänning kopplad till biometriregistret.",
+    "eventType": "motion",
+    "sourceIds": [
+      "s-kalla-mot-2425-3246"
+    ]
+  },
+  {
+    "id": "s-tl-2024-11",
+    "partyId": "s",
+    "date": "2024-11",
+    "title": "AI-kommissionens rapport – S kräver omedelbart en ny nationell AI-strategi",
+    "description": "AI-kommissionen tidigarelägger sin färdplan till slutet av november 2024. Enligt partiets egen redogörelse i motion 2025/26:3652 krävde S direkt att regeringen omedelbart skulle ta fram en ny AI-strategi för Sverige.",
+    "eventType": "uttalande",
+    "sourceIds": [
+      "s-mot-2025-3652"
+    ]
+  },
+  {
+    "id": "s-tl-2025-01",
+    "partyId": "s",
+    "date": "2025-01",
+    "title": "Följdmotion till forskningspropositionen: Sverige ska bli ett AI-land i världsklass",
+    "description": "S yrkar på ökad forskning om AI-tillämpning för högre kvalitet och effektivitet i välfärden och näringslivet.",
+    "eventType": "motion",
+    "sourceIds": [
+      "s-kalla-mot-2425-3309"
+    ]
+  },
+  {
+    "id": "s-tl-2025-04",
+    "partyId": "s",
+    "date": "2025-04",
+    "title": "Vårmotion 2025: 300 miljoner kronor till AI-kompetens och excellenscenter",
+    "description": "Partimotionen med anledning av vårpropositionen föreslår 300 mkr för AI-kompetens och konkurrenskraft (första svenska excellenscentret för AI, folkbildning, folkbibliotek) samt en 500-miljonersfond för att attrahera ledande forskare inom bl.a. AI.",
+    "eventType": "motion",
+    "sourceIds": [
+      "s-kalla-mot-2425-3415"
+    ]
+  },
+  {
+    "id": "s-tl-2025-06",
+    "partyId": "s",
+    "date": "2025-06",
+    "title": "Partikongressen 2025 antar nytt partiprogram och politiska riktlinjer",
+    "description": "Vid kongressen i Göteborg 28 maj–1 juni 2025 antas ett nytt partiprogram och politiska riktlinjer med AI-skrivningar om bl.a. rättvis fördelning av produktivitetsvinster, kortare arbetstid, reglering av AI och algoritmer, polisiära AI-verktyg med ansiktsigenkänning samt EU-krav på etiska principer för AI i vapenteknologi.",
+    "eventType": "kongressbeslut",
+    "sourceIds": [
+      "s-kalla-partiprogram-2025",
+      "s-kalla-riktlinjer-2025",
+      "s-kalla-kongress-b-2025"
+    ]
+  },
+  {
+    "id": "s-tl-2025-10",
+    "partyId": "s",
+    "date": "2025-10",
+    "title": "Budgetmotionen Ny riktning för Sverige och breda kommittémotioner om AI",
+    "description": "Partimotionen för budgetåret 2026 innehåller en tillväxtpakt med 300 mkr till framtidsteknologier som AI och 100 mkr till Vinnova. Samtidigt läggs kommittémotioner med AI-yrkanden inom digitalisering, utbildning, vård, rättsväsende, arbetsmarknad, näringsliv, energi och försvar.",
+    "eventType": "motion",
+    "sourceIds": [
+      "s-kalla-mot-2526-3551",
+      "s-mot-2025-3652"
+    ]
+  },
+  {
+    "id": "s-tl-2026-04",
+    "partyId": "s",
+    "date": "2026-04",
+    "title": "Vårmotion 2026: AI-effekter på arbetsmarknaden och i välfärden",
+    "description": "Partimotionen noterar tecken på att AI påverkar arbetsmarknadens struktur med risk för ökad arbetslöshet bland yngre akademiker, och vill att AI och ny teknik används för att förenkla rutinuppgifter i välfärden.",
+    "eventType": "motion",
+    "sourceIds": [
+      "s-mot-2026-4101"
+    ]
+  }
+]

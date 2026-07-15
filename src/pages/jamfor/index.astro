@@ -1,0 +1,75 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import CompareTool from "@/components/CompareTool.tsx";
+import NeutralityNote from "@/components/NeutralityNote.astro";
+import {
+  getPartiesSorted,
+  getTopicsSorted,
+  getPublishedPositions,
+  getMeta,
+} from "@/lib/content";
+
+const parties = await getPartiesSorted();
+const topics = await getTopicsSorted();
+const positions = await getPublishedPositions();
+const meta = await getMeta();
+
+const partyItems = parties.map((p) => ({
+  id: p.id,
+  name: p.data.name,
+  abbreviation: p.data.abbreviation,
+  color: p.data.color,
+}));
+const topicItems = topics.map((t) => ({
+  id: t.id,
+  title: t.data.title,
+  shortTitle: t.data.shortTitle,
+  group: t.data.group,
+}));
+const positionItems = positions.map((p) => ({
+  id: p.id,
+  partyId: p.data.partyId,
+  topicId: p.data.topicId,
+  summary: p.data.summary,
+  evidenceStatus: p.data.evidenceStatus,
+  lastUpdatedAt: p.data.lastUpdatedAt,
+}));
+---
+
+<BaseLayout
+  title="Jämför partierna"
+  description="Välj partier och ämnen och jämför dokumenterade AI-ståndpunkter sida vid sida — med filter för evidensstatus och delbar länk."
+>
+  <div class="mx-auto max-w-7xl px-6">
+    <header class="border-b border-border py-10">
+      <div class="bi-mono">Jämförelseverktyg</div>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Jämför partierna</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
+        Välj två eller fler partier och ett eller flera ämnen. Jämförelsen visar
+        dokumenterade ståndpunkter sida vid sida — och markerar tydligt var
+        dokumentation saknas. Verktyget utser ingen vinnare.
+      </p>
+    </header>
+
+    <noscript>
+      <p class="mt-8 border border-border bg-muted p-4 text-sm">
+        Jämförelseverktyget kräver JavaScript. Du kan i stället läsa partiernas
+        ståndpunkter per ämne på <a href="/amnen/" class="underline underline-offset-4">ämnessidorna</a>
+        eller per parti på <a href="/partier/" class="underline underline-offset-4">partisidorna</a> —
+        allt innehåll finns där, med källor.
+      </p>
+    </noscript>
+
+    <CompareTool
+      client:only="react"
+      parties={partyItems}
+      topics={topicItems}
+      positions={positionItems}
+      researchLastUpdated={meta.researchLastUpdated}
+    />
+
+    <div class="my-12 max-w-3xl">
+      <NeutralityNote />
+    </div>
+  </div>
+</BaseLayout>
