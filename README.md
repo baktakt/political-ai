@@ -90,6 +90,7 @@ dokument — det är den publicerade, aktuella versionen.
 **Slutleveranser:**
 [Redaktionell granskningschecklista](docs/REDAKTIONELL_GRANSKNING.md) ·
 [Uppdaterings- och underhållsguide](docs/UNDERHALL.md) ·
+[Brief för autonom researchagent (Hermes)](docs/HERMES_BRIEF.md) ·
 [Korrigeringsprocess](docs/KORRIGERINGSPROCESS.md) ·
 [Kända begränsningar](docs/BEGRANSNINGAR.md) ·
 [Forskningsluckor](docs/FORSKNINGSLUCKOR.md) ·

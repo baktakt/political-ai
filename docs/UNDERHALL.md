@@ -1,5 +1,11 @@
 # Uppdaterings- och underhållsguide
 
+Automatiserad daglig research sköts av en fristående agent ("Hermes") mot
+`docs/HERMES_BRIEF.md` — samma hårda regler som nedan, men skrivet som en
+självständig, körbar instruktion (källdiet per parti, dedupe-regler,
+publiceringsgrind via PR, körrapportformat). Den här sidan beskriver
+motsvarande arbetsflöde för manuell uppdatering.
+
 ## Uppdateringsfrekvens
 
 Enligt metodiken (`/metod/#granskning`): löpande under valrörelsen
