@@ -3,20 +3,33 @@
 ## Vercel (planerad plattform)
 
 Projektet är ett standard Astro-projekt (statisk output, `output: "static"`
-är Astros default) och kräver ingen konfiguration utöver:
+är Astros default). `vercel.json` i repots rot konfigurerar bygget
+explicit så det inte beror på Vercels auto-detektering:
+
+```json
+{
+  "framework": "astro",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
+```
+
+samt en `headers`-sektion med grundläggande skyddshuvuden
+(`X-Content-Type-Options: nosniff`, `Referrer-Policy:
+strict-origin-when-cross-origin`, `X-Frame-Options: DENY`) — i linje med
+webbplatsens integritetsprinciper, se `/om/#integritet`.
 
 1. **Importera repot** i Vercel: New Project → välj
    `baktakt/political-ai` → branch enligt önskemål (produktionsgren, t.ex.
-   `main`, efter att piloten granskats och mergats dit).
-2. **Framework preset:** Vercel identifierar Astro automatiskt.
-   - Build command: `npm run build`
-   - Output directory: `dist`
-   - Install command: `npm install` (standard)
-3. **Miljövariabel:** sätt `SITE_URL` till den faktiska produktions-URL:en
+   `main`, efter att piloten granskats och mergats dit). Vercel läser
+   `vercel.json` automatiskt — inga manuella inställningar för build/output
+   krävs.
+2. **Miljövariabel:** sätt `SITE_URL` till den faktiska produktions-URL:en
    (t.ex. `https://partierna-om-ai.vercel.app` eller en egen domän) —
    `astro.config.mjs` läser denna för korrekta canonical-/OG-/sitemap-/
    RSS-URL:er. Utan den faller den tillbaka till en placeholder-URL.
-4. **Node-version:** `package.json` anger `"engines": {"node": ">=20"}`;
+3. **Node-version:** `package.json` anger `"engines": {"node": ">=20"}`;
    sätt motsvarande i Vercels projektinställningar om den inte auto-
    detekteras.
 
