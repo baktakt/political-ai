@@ -59,10 +59,22 @@ Mörkt läge speglar samma struktur med omvänd ljushet (se `:root.dark` i
 
 ## Motiv i stället för klichéer
 
-Logotypen (`LogoMark`, ärvd) är ett neutralt rutnätsmotiv. Favicon är en
-enkel valurne-linjeteckning (`public/favicon.svg`) — inget nätverks-/
-hjärn-/robotmotiv. `EvidenceBadge` använder geometriska linjeformer (fylld
-ruta, streckad ruta, pilar för motstridiga positioner) snarare än
+Logotypen (`BrandMark.tsx`) är en konturtecknad kammare/kupol på en
+baslinje — en riksdagshalvcirkel/plenisal reducerad till sin enklaste
+siluett, även läsbar som en parlamentsbyggnads kupol — med fyra små
+graderingsstreck längs bågen och en accent i toppen. Egen mark för den
+här webbplatsen, skild från komponentbibliotekets rutnätsmotiv
+(`LogoMark`) som nyhetsbrevet använder. Delas in i header/footer via ett
+tillagt, bakåtkompatibelt `logo`-prop på de delade `Header`/`Footer`-
+komponenterna (`built-intelligence-components`, `src/components/bi/layout.tsx`):
+saknas propet används fortfarande `LogoMark` som standard, så andra
+webbplatser som bygger på samma bibliotek påverkas inte.
+
+Favicon (`public/favicon.svg`) är samma mark i en fetare variant med fast
+marinblå ton och en guldaccent i toppen, för läsbarhet i webbläsarens
+flik. Inget nätverks-/hjärn-/robotmotiv, ingen valurne-clipart, ingen
+solstråle/fyrverkeri-form. `EvidenceBadge` använder på samma sätt geometriska linjeformer
+(fylld ruta, streckad ruta, pilar för motstridiga positioner) snarare än
 trafikljusfärger eller ikonbibliotek med teknik-klichéer.
 
 ## Layout- och interaktionsprinciper

@@ -71,6 +71,17 @@ Byt `#main` mot en specifik commit/tag för att pinna en version. Kör
 `npm run build` efteråt — brutna Tailwind-klasser eller borttagna
 exports syns direkt som byggfel.
 
+**Tillfällig pin (2026-07-15):** `package.json` pekar just nu på
+`#claude/swedish-ai-politics-site-0tm2u3` i stället för `#main`, eftersom
+den branchen innehåller det (bakåtkompatibla) `logo`-propet på
+`Header`/`Footer` som denna webbplatsens `BrandMark` behöver
+(`src/components/SiteHeader.tsx`/`SiteFooter.tsx`). Byt tillbaka till
+`#main` så snart den ändringen är granskad och sammanslagen i
+`built-intelligence-components`, och kör:
+```sh
+npm install built-intelligence-components@github:baktakt/built-intelligence-components#main
+```
+
 ## Driftsättning
 
 Se `DEPLOYMENT.md`.
