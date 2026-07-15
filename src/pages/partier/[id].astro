@@ -1,0 +1,454 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import PartyMark from "@/components/PartyMark.astro";
+import PositionBlock from "@/components/PositionBlock.astro";
+import NotResearched from "@/components/NotResearched.astro";
+import Timeline from "@/components/Timeline.astro";
+import SourceItem from "@/components/SourceItem.astro";
+import EvidenceBadge from "@/components/EvidenceBadge.astro";
+import SectionLabel from "@/components/SectionLabel.astro";
+import {
+  getPartiesSorted,
+  getTopicsSorted,
+  getPositionsByParty,
+  getPublishedProposals,
+  getPublishedActions,
+  getSourcesMap,
+  getTimelineForParty,
+} from "@/lib/content";
+import {
+  ACTION_TYPE_LABELS,
+  GOVERNMENT_STATUS_LABELS,
+  PROPOSAL_STATUS_LABELS,
+} from "@/lib/evidence";
+import { formatDate } from "@/lib/format";
+
+export async function getStaticPaths() {
+  const parties = await getPartiesSorted();
+  return parties.map((party) => ({ params: { id: party.id }, props: { party } }));
+}
+
+const { party } = Astro.props;
+const p = party.data;
+
+const topics = await getTopicsSorted();
+const positions = await getPositionsByParty(party.id);
+const proposals = (await getPublishedProposals()).filter(
+  (x) => x.data.partyId === party.id,
+);
+const actions = (await getPublishedActions()).filter(
+  (x) => x.data.partyId === party.id,
+);
+const timeline = await getTimelineForParty(party.id);
+const sourcesMap = await getSourcesMap();
+
+const positionByTopic = new Map(positions.map((pos) => [pos.data.topicId, pos]));
+const samhalle = topics.filter((t) => t.data.group === "samhalle");
+const hallbarhet = topics.filter((t) => t.data.group === "hallbarhet");
+
+const noPositionTopics = topics.filter(
+  (t) => positionByTopic.get(t.id)?.data.evidenceStatus === "ingen_dokumenterad",
+);
+const notResearchedTopics = topics.filter((t) => !positionByTopic.has(t.id));
+const conflictTopics = topics.filter((t) => {
+  const status = positionByTopic.get(t.id)?.data.evidenceStatus;
+  return status === "motstridiga" || status === "andrad_standpunkt";
+});
+
+const referencedSourceIds = new Set<string>([
+  ...positions.flatMap((x) => x.data.sourceIds),
+  ...proposals.flatMap((x) => x.data.sourceIds),
+  ...actions.flatMap((x) => x.data.sourceIds),
+  ...timeline.flatMap((x) => x.data.sourceIds),
+]);
+const referencedSources = [...referencedSourceIds]
+  .map((id) => sourcesMap.get(id))
+  .filter((s) => s != null)
+  .sort((a, b) => (b.data.publicationDate ?? "").localeCompare(a.data.publicationDate ?? ""));
+
+const sourcesFor = (ids: string[]) =>
+  ids.map((id) => sourcesMap.get(id)).filter((s) => s != null);
+
+const isGovernmentSide = p.governmentStatus !== "opposition";
+const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${party.id}/`)}`;
+---
+
+<BaseLayout
+  title={`${p.name} om AI och hållbarhet`}
+  description={p.aiSummary ?? `${p.name}: dokumenterade ståndpunkter om AI och hållbarhet, förslag, riksdagsaktivitet och källor.`}
+>
+  <div class="mx-auto max-w-7xl px-6" data-pagefind-body data-pagefind-filter={`Parti:${p.abbreviation}`}>
+    <header class="border-b border-border py-10">
+      <nav aria-label="Brödsmulor" class="bi-mono flex flex-wrap items-center gap-2">
+        <a href="/partier/" class="hover:text-foreground">Partierna</a>
+        <span aria-hidden="true">/</span>
+        <span class="text-foreground">{p.name}</span>
+      </nav>
+      <div class="mt-5 flex flex-wrap items-start justify-between gap-6">
+        <div class="max-w-2xl">
+          <h1 class="text-3xl md:text-4xl leading-tight">{p.name}</h1>
+          <p class="mt-3 text-base text-muted-foreground">{p.summary}</p>
+          {p.governmentNote && <p class="mt-2 text-sm text-muted-foreground">{p.governmentNote}</p>}
+        </div>
+        <div class="border border-border bg-card p-4 text-sm">
+          <PartyMark abbreviation={p.abbreviation} color={p.color} size="md" />
+          <dl class="mt-3 space-y-1.5 text-xs text-muted-foreground">
+            <div class="flex gap-2">
+              <dt class="font-medium text-foreground">Status:</dt>
+              <dd>{GOVERNMENT_STATUS_LABELS[p.governmentStatus]}</dd>
+            </div>
+            <div class="flex gap-2">
+              <dt class="font-medium text-foreground">Mandat 2022:</dt>
+              <dd>{p.seats2022}</dd>
+            </div>
+            <div class="flex gap-2">
+              <dt class="font-medium text-foreground">Ledamöter nu:</dt>
+              <dd>{p.currentSeats}</dd>
+            </div>
+            <div class="flex gap-2">
+              <dt class="font-medium text-foreground">Verifierad:</dt>
+              <dd>{formatDate(p.verifiedAt)}</dd>
+            </div>
+          </dl>
+          <a
+            href={p.officialUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="mt-3 inline-block border-b border-foreground pb-0.5 text-xs hover:opacity-70"
+            >Partiets webbplats</a
+          >
+        </div>
+      </div>
+      <div class="mt-6 bi-mono">
+        {
+          p.lastReviewedAt
+            ? `Research senast granskad ${formatDate(p.lastReviewedAt)}`
+            : "Partiets research är ännu inte granskad — endast verifierade grunduppgifter visas"
+        }
+      </div>
+    </header>
+
+    <!-- Övergripande hållning -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Övergripande"
+        title="AI- och hållbarhetshållning i korthet"
+        description="Endast dokumenterade hållningar ur granskade källor. Inga antaganden utifrån ideologi."
+      />
+      <div class="mt-6 grid gap-6 md:grid-cols-2">
+        <div class="border border-border bg-card p-5">
+          <div class="bi-mono mb-2">AI</div>
+          {
+            p.aiSummary ? (
+              <p class="text-sm leading-relaxed">{p.aiSummary}</p>
+            ) : (
+              <NotResearched />
+            )
+          }
+          {
+            p.aiPriorities.length > 0 && (
+              <ul class="mt-3 space-y-1 text-sm text-muted-foreground">
+                {p.aiPriorities.map((x) => (
+                  <li class="flex gap-2">
+                    <span aria-hidden="true">·</span>
+                    {x}
+                  </li>
+                ))}
+              </ul>
+            )
+          }
+        </div>
+        <div class="border border-border bg-card p-5">
+          <div class="bi-mono mb-2">Hållbarhet</div>
+          {
+            p.sustainabilityPriorities.length > 0 ? (
+              <ul class="space-y-1 text-sm text-muted-foreground">
+                {p.sustainabilityPriorities.map((x) => (
+                  <li class="flex gap-2">
+                    <span aria-hidden="true">·</span>
+                    {x}
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <NotResearched />
+            )
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- Ståndpunkter per ämne -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Ämne för ämne"
+        title="Dokumenterade ståndpunkter"
+        description="Fäll ut varje ämne för fördjupning, klassning och källor."
+      />
+      <h3 class="bi-mono mt-8 mb-3">AI i samhället</h3>
+      <div class="space-y-4">
+        {
+          samhalle.map((topic) => {
+            const position = positionByTopic.get(topic.id);
+            return position ? (
+              <PositionBlock
+                position={position}
+                heading={{ label: topic.data.title, href: `/amnen/${topic.id}/` }}
+                sources={sourcesFor(position.data.sourceIds)}
+              />
+            ) : (
+              <div class="flex flex-wrap items-center justify-between gap-2 border border-dashed border-border px-5 py-3">
+                <a href={`/amnen/${topic.id}/`} class="text-sm hover:underline underline-offset-4">
+                  {topic.data.title}
+                </a>
+                <NotResearched compact />
+              </div>
+            );
+          })
+        }
+      </div>
+      <h3 class="bi-mono mt-10 mb-3" style="color:var(--moss)">AI & hållbarhet</h3>
+      <div class="space-y-4">
+        {
+          hallbarhet.map((topic) => {
+            const position = positionByTopic.get(topic.id);
+            return position ? (
+              <PositionBlock
+                position={position}
+                heading={{ label: topic.data.title, href: `/amnen/${topic.id}/` }}
+                sources={sourcesFor(position.data.sourceIds)}
+              />
+            ) : (
+              <div class="flex flex-wrap items-center justify-between gap-2 border border-dashed border-border px-5 py-3">
+                <a href={`/amnen/${topic.id}/`} class="text-sm hover:underline underline-offset-4">
+                  {topic.data.title}
+                </a>
+                <NotResearched compact />
+              </div>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <!-- Konkreta förslag -->
+    {
+      proposals.length > 0 && (
+        <section class="py-10">
+          <SectionLabel
+            eyebrow="Förslag"
+            title="Konkreta förslag"
+            description="Dokumenterade förslag med status i behandlingen."
+          />
+          <div class="mt-6 space-y-4">
+            {proposals.map((proposal) => (
+              <article class="border border-border bg-card p-5">
+                <div class="flex flex-wrap items-center gap-3 text-xs text-muted-foreground">
+                  <span class="bi-mono">{formatDate(proposal.data.date)}</span>
+                  <span class="border border-border px-1.5 py-px uppercase tracking-wide text-[10px]">
+                    {PROPOSAL_STATUS_LABELS[proposal.data.status]}
+                  </span>
+                </div>
+                <h3 class="mt-2 font-display text-lg leading-snug">{proposal.data.title}</h3>
+                <p class="mt-2 text-sm text-muted-foreground">{proposal.data.description}</p>
+                {proposal.data.implementationStatus && (
+                  <p class="mt-2 text-xs text-muted-foreground">
+                    <span class="font-medium text-foreground">Genomförande:</span>{" "}
+                    {proposal.data.implementationStatus}
+                  </p>
+                )}
+                <details class="mt-3">
+                  <summary class="cursor-pointer text-xs text-muted-foreground hover:text-foreground">
+                    Källor ({proposal.data.sourceIds.length})
+                  </summary>
+                  <div class="mt-3 space-y-3">
+                    {sourcesFor(proposal.data.sourceIds).map((s) => (
+                      <SourceItem source={s} />
+                    ))}
+                  </div>
+                </details>
+              </article>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <!-- Riksdagsaktivitet -->
+    {
+      actions.length > 0 && (
+        <section class="py-10">
+          <SectionLabel
+            eyebrow="Riksdagen"
+            title="Aktivitet i riksdagen"
+            description="Motioner, frågor och voteringar. Partinivå = parti- eller kommittémotion; enskild = enskilda ledamöter, inte automatiskt partilinje."
+          />
+          <div class="mt-6 overflow-x-auto">
+            <table class="w-full min-w-[42rem] border-collapse text-sm">
+              <caption class="sr-only">Riksdagsaktivitet för {p.name}</caption>
+              <thead>
+                <tr class="border-b border-border text-left">
+                  <th scope="col" class="py-2 pr-4 font-medium">Datum</th>
+                  <th scope="col" class="py-2 pr-4 font-medium">Typ</th>
+                  <th scope="col" class="py-2 pr-4 font-medium">Titel</th>
+                  <th scope="col" class="py-2 pr-4 font-medium">Nivå</th>
+                  <th scope="col" class="py-2 font-medium">Resultat</th>
+                </tr>
+              </thead>
+              <tbody>
+                {actions.map((action) => (
+                  <tr class="border-b border-border align-top">
+                    <td class="py-2.5 pr-4 whitespace-nowrap bi-mono !text-[10px]">
+                      {formatDate(action.data.date)}
+                    </td>
+                    <td class="py-2.5 pr-4">{ACTION_TYPE_LABELS[action.data.actionType]}</td>
+                    <td class="py-2.5 pr-4">
+                      {action.data.title}
+                      {action.data.documentNumber && (
+                        <span class="block bi-mono !text-[10px] mt-0.5">{action.data.documentNumber}</span>
+                      )}
+                    </td>
+                    <td class="py-2.5 pr-4">{action.data.partyLevel ? "Partinivå" : "Enskild"}</td>
+                    <td class="py-2.5 text-muted-foreground">{action.data.result ?? "—"}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )
+    }
+
+    <!-- Regeringsroll -->
+    {
+      isGovernmentSide && (
+        <section class="py-10">
+          <SectionLabel eyebrow="Viktig distinktion" title="Parti, regering och Tidöavtalet" />
+          <p class="mt-4 max-w-3xl text-sm leading-relaxed text-muted-foreground">
+            {p.name} {p.governmentStatus === "regering" ? "ingår i regeringen" : "är samarbetsparti till regeringen"}
+            under valperioden 2022–2026. Regeringsbeslut kan bygga på kompromisser
+            mellan flera partier och redovisas därför separat från partiets egen
+            politik, med evidensstatusen ”Regeringsåtgärd”. Att regeringen gjort
+            något betyder inte automatiskt att det är {p.abbreviation}:s egen linje —
+            och tvärtom. Läs mer på <a href="/metod/" class="border-b border-border pb-px hover:text-foreground">metodsidan</a>.
+          </p>
+        </section>
+      )
+    }
+
+    <!-- Tidslinje -->
+    {
+      timeline.length > 0 && (
+        <section class="py-10">
+          <SectionLabel eyebrow="Kronologi" title="Tidslinje" />
+          <div class="mt-6 max-w-3xl">
+            <Timeline events={timeline} />
+          </div>
+        </section>
+      )
+    }
+
+    <!-- Luckor -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Redovisning av luckor"
+        title="Var dokumentation saknas"
+        description="Att en ståndpunkt saknas betyder inte att partiet är emot frågan."
+      />
+      <div class="mt-6 grid gap-6 md:grid-cols-2">
+        <div class="border border-border bg-card p-5">
+          <h3 class="bi-mono mb-3">Granskade — ingen dokumenterad ståndpunkt</h3>
+          {
+            noPositionTopics.length > 0 ? (
+              <ul class="space-y-1.5 text-sm">
+                {noPositionTopics.map((t) => (
+                  <li>
+                    <a href={`/amnen/${t.id}/`} class="text-muted-foreground hover:text-foreground border-b border-border pb-px">
+                      {t.data.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p class="text-sm text-muted-foreground">
+                Inga granskade ämnen har slutat i ”ingen dokumenterad ståndpunkt”.
+              </p>
+            )
+          }
+        </div>
+        <div class="border border-dashed border-border p-5">
+          <h3 class="bi-mono mb-3">Ännu ej granskade ämnen</h3>
+          {
+            notResearchedTopics.length > 0 ? (
+              <p class="text-sm text-muted-foreground">
+                {notResearchedTopics.map((t) => t.data.shortTitle).join(" · ")}
+              </p>
+            ) : (
+              <p class="text-sm text-muted-foreground">Alla ämnen är granskade.</p>
+            )
+          }
+        </div>
+      </div>
+      {
+        conflictTopics.length > 0 && (
+          <div class="mt-6 border border-border bg-card p-5">
+            <h3 class="bi-mono mb-3" style="color:var(--terracotta)">
+              Motstridiga eller ändrade ståndpunkter
+            </h3>
+            <ul class="space-y-2 text-sm">
+              {conflictTopics.map((t) => {
+                const position = positionByTopic.get(t.id);
+                return (
+                  <li class="flex flex-wrap items-center gap-2">
+                    <a href={`/amnen/${t.id}/`} class="border-b border-border pb-px hover:text-foreground">
+                      {t.data.title}
+                    </a>
+                    {position && <EvidenceBadge status={position.data.evidenceStatus} />}
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+        )
+      }
+    </section>
+
+    <!-- Källförteckning -->
+    <section class="py-10">
+      <SectionLabel
+        eyebrow="Transparens"
+        title={`Källförteckning (${referencedSources.length})`}
+        description="Alla källor som ligger till grund för innehållet på den här sidan."
+      />
+      {
+        referencedSources.length > 0 ? (
+          <div class="mt-6 space-y-3">
+            {referencedSources.map((s) => (
+              <SourceItem source={s} headingLevel="h3" />
+            ))}
+          </div>
+        ) : (
+          <p class="mt-4 text-sm text-muted-foreground">
+            Inga researchkällor ännu — endast partiets grunduppgifter är verifierade
+            (se <a href="/partier/" class="border-b border-border pb-px">partiöversikten</a>).
+          </p>
+        )
+      }
+    </section>
+
+    <footer class="mb-16 border-t border-border pt-6 flex flex-wrap items-center justify-between gap-3">
+      <span class="bi-mono">
+        {
+          p.lastReviewedAt
+            ? `Senast granskad ${formatDate(p.lastReviewedAt)}`
+            : "Ännu ej granskad"
+        }
+      </span>
+      <a
+        href={correctionUrl}
+        class="border border-border px-3 py-1.5 text-xs uppercase tracking-wide text-muted-foreground hover:border-foreground hover:text-foreground transition-colors"
+        >Hittat ett fel? Föreslå korrigering</a
+      >
+    </footer>
+  </div>
+</BaseLayout>

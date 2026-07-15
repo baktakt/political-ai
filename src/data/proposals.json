@@ -1,0 +1,387 @@
+[
+  {
+    "id": "s-forslag-jobbomstallningsplan-2026",
+    "partyId": "s",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Jobbomställningsplan för AI-omställningen",
+    "description": "Krav på nationell jobbomställningsplan i tre delar: omställningsstöd anpassat till AI (vuxenutbildning och arbetsmarknadsutbildningar kopplade till faktisk AI-användning i arbetslivet), reparerad a-kassa och säkrat värde på inkomstförsäkringar, samt traineeprogram för nyexaminerade.",
+    "date": "2026-04-01",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-nyhet-jobbomstallningsplan-2026"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-ai-utbildning-omstallning-2025",
+    "partyId": "s",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Utbildning i AI och stöd till omställning när arbetsuppgifter förändras",
+    "description": "Riksdagsyrkande om att se över möjligheten till utbildning i AI för medborgare samt möjligheten till omställning när arbetsuppgifter förändras (kommittémotion 2025/26:3652).",
+    "date": "2025-10-07",
+    "status": "avslaget",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-mot-2025-3652"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "m-forslag-talangstrategi-ai-2025",
+    "partyId": "m",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Talangstrategi för AI-spetskompetens",
+    "description": "Förslag i handlingsprogrammet (stämmohandlingar 2025) om en talangstrategi för att attrahera spetskompetens inom AI, exempelvis snabbspår för uppehållstillstånd.",
+    "date": "2025-10-06",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "c-forslag-kunskapsvaxel-2026",
+    "partyId": "c",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Kunskapsväxel med förstärkt omställningsstudiestöd",
+    "description": "Förslag i vårmotionen 2026 om en 'kunskapsväxel' så att alla ska kunna studera mitt i livet och växla till bristyrke eller växla upp i kompetens - inte minst inom AI - genom förstärkt omställningsstudiestöd, fler utbildningsplatser, yrkesutbildningssatsningar och en studentmedarbetarmodell.",
+    "date": "2026-04-28",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-mot-2026-4110"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "v-forslag-arbetstidsforkortning-2025",
+    "partyId": "v",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Utredning om generell arbetstidsförkortning",
+    "description": "Riksdagsyrkande om att regeringen bör tillsätta en utredning med uppdrag att belysa möjligheterna till en generell arbetstidsförkortning; i motiveringen hänvisas bland annat till en ny våg av automatisering och robotisering som höjer produktiviteten (kommittémotion 2025/26:2371).",
+    "date": "2025-10-03",
+    "status": "avslaget",
+    "implementationStatus": null,
+    "sourceIds": [
+      "v-mot-2025-2371"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "v-forslag-plattformsarbete-2025",
+    "partyId": "v",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Ny nationell lagstiftning för plattformsarbetares villkor",
+    "description": "Riksdagsyrkanden om ny nationell lagstiftning för att förbättra plattformsarbetares villkor och om att förändra EU:s plattformsdirektiv för likvärdiga villkor (partimotion 2025/26:307, avsnittet Förbättra plattformsarbetares villkor).",
+    "date": "2025-09-25",
+    "status": "avslaget",
+    "implementationStatus": null,
+    "sourceIds": [
+      "v-mot-2025-307"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "mp-forslag-vidareutbildning-ai-2025",
+    "partyId": "mp",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Fort- och vidareutbildning för yrkesverksamma inom AI",
+    "description": "Riksdagsyrkande om en kraftfull satsning på utbildning, inklusive fort- och vidareutbildning för yrkesverksamma, för ökad förståelse och kompetens inom AI-området för breda grupper (kommittémotion 2025/26:3425).",
+    "date": "2025-10-06",
+    "status": "avslaget",
+    "implementationStatus": null,
+    "sourceIds": [
+      "mp-mot-2025-3425"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "mp-forslag-effektivisering-arbetstid-2023",
+    "partyId": "mp",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "AI-effektiviseringar ska tillvaratas genom bland annat förkortad arbetstid",
+    "description": "Programpunkt i En grön AI-politik (programfördjupning 2023): effektiviseringar som görs med hjälp av AI ska tillvaratas på ett sätt som gynnar välmående, exempelvis genom förkortad arbetstid eller mer tid till mellanmänskliga möten i offentlig sektor.",
+    "date": "2023-01-17",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "mp-programfordjupning-ai-2023"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-ai-strategi-klass-rattvisa",
+    "partyId": "s",
+    "topicIds": [
+      "strategi",
+      "jamlikhet"
+    ],
+    "title": "Uppdaterad nationell AI-strategi med klass- och rättviseperspektiv",
+    "description": "Riksdagsyrkande om att regeringens uppdatering av AI-strategin måste innehålla perspektiven klass och rättvisa; partiet uppger att det redan efter AI-kommissionens rapport (november 2024) krävde att en ny AI-strategi omedelbart skulle tas fram.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-mot-2025-3652"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-excellenscenter-ai",
+    "partyId": "s",
+    "topicIds": [
+      "strategi",
+      "naringsliv",
+      "utbildning",
+      "jamlikhet"
+    ],
+    "title": "300 miljoner kronor till AI-kompetens och ett första svenskt excellenscenter för AI",
+    "description": "Vårmotionen 2025: satsning på 300 miljoner kronor för svensk AI-kompetens och konkurrenskraft – uppstart av ett första svenskt excellenscenter för AI, bred kompetenssatsning i folkbildningen och folkbiblioteken samt kombinationstjänster där forskare kombinerar forskning med anställning i offentlig eller privat sektor.",
+    "date": "2025-04-29",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2425-3415"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-forskarfond-500",
+    "partyId": "s",
+    "topicIds": [
+      "naringsliv",
+      "strategi"
+    ],
+    "title": "500 miljoner kronor i treårig fond för att attrahera ledande forskare inom bl.a. AI",
+    "description": "Vårmotionen 2025: en treårig statlig fond på 500 miljoner kronor, tänkt att växlas upp med näringslivsmedel till en miljardfond, för att attrahera världsledande forskare inom områden som AI, digitalisering, batteriproduktion, life science och telekom.",
+    "date": "2025-04-29",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2425-3415"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-tillvaxtpakt-ai",
+    "partyId": "s",
+    "topicIds": [
+      "naringsliv",
+      "strategi"
+    ],
+    "title": "Tillväxtpakt: 300 miljoner kronor till framtidsteknologier som AI samt 100 miljoner till Vinnova",
+    "description": "Budgetmotionen för 2026 (Ny riktning för Sverige): 300 miljoner kronor som i samarbete med näringslivet investeras i framtidsteknologier som AI och ny industriteknologi, samt 100 miljoner kronor till Vinnova för en satsning på ny teknik.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3551"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-realtids-ansiktsigenkanning",
+    "partyId": "s",
+    "topicIds": [
+      "integritet"
+    ],
+    "title": "Lagstöd för polisens realtidskameraövervakning med ansiktsigenkänning",
+    "description": "Krav på att regeringen snarast återkommer med lagförslag som låter polis och säkerhetspolis, efter tillstånd, använda det nya biometriregistret för biometrisk fjärridentifiering i realtid (realtidskameraövervakning med ansiktsigenkänning), t.ex. vid terrorattacker och mot gängkriminalitet. Först framfört i följdmotion till biometripropositionen 2024, upprepat som yrkande i budgetmotionen för rättsväsendet 2025.",
+    "date": "2024-10-29",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2425-3246",
+      "s-kalla-mot-2526-3586"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-resurscentrum-ai-utbildning",
+    "partyId": "s",
+    "topicIds": [
+      "utbildning"
+    ],
+    "title": "Nationellt resurscentrum för AI i utbildningssektorn lett av ett lärosäte",
+    "description": "Yrkande om att överväga att ge ett lärosäte i uppdrag att leda ett resurscentrum för AI-utveckling som forskar om AI och dess användning i utbildningssektorn, exempelvis metoder för att upptäcka fusk vid examinationer och metoder för god AI-användning i undervisningen.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3810"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-ai-kapacitet-varden",
+    "partyId": "s",
+    "topicIds": [
+      "vard-omsorg",
+      "offentlig-sektor"
+    ],
+    "title": "Förstärkt innovations- och AI-kapacitet i hälso- och sjukvården samt breddinförd välfärdsteknik",
+    "description": "Politiska åtgärder för förstärkt innovations- och AI-kapacitet i hela hälso- och sjukvårdssystemet, riktade medel för innovationsarbete i vården samt yrkande om att välfärdsteknik införs brett och rättssäkert i äldreomsorgen som komplement till personalen, med statligt stöd till kommunerna och undanröjda juridiska hinder.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3645"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-enhetlig-vardinfrastruktur",
+    "partyId": "s",
+    "topicIds": [
+      "vard-omsorg",
+      "offentlig-sektor"
+    ],
+    "title": "Enhetlig och gemensam digital infrastruktur i vården",
+    "description": "Som första steg i att realisera digitaliseringens besparingspotential i offentlig sektor vill partiet reformera vårdens digitala infrastruktur och skapa en enhetlig, gemensam lösning i stället för att 21 regioner utvecklar och underhåller inbördes inkompatibla system.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-mot-2025-3652"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-deepfake-kriminalisering",
+    "partyId": "s",
+    "topicIds": [
+      "barn-unga",
+      "integritet",
+      "demokrati"
+    ],
+    "title": "Utredning om kriminalisering av deepfake-pornografi",
+    "description": "Kommittémotionen om jämställdhet och mäns våld mot kvinnor kräver att en utredning tillsätts för att kriminalisera s.k. deepfake-pornografi och se över pubertetsrekvisitet i barnpornografilagstiftningen; nätoperatörer ska åläggas större ansvar och minderåriga skyddas genom ålderskontroller. Frågan väcktes 2023 i en enskild S-motion.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3591",
+      "s-kalla-mot-2324-2509"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-samverkansprogram-ai",
+    "partyId": "s",
+    "topicIds": [
+      "naringsliv",
+      "strategi"
+    ],
+    "title": "Samverkansprogram för AI mellan akademi, näringsliv och politik",
+    "description": "Partiet vill se ett bredare och mer robust samarbete genom ett samverkansprogram för AI, fortsatta AI-satsningar och fortsatt svensk medfinansiering av EU:s DIGITAL-program som finansierar AI-projekt.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3593"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-upphovsratt-ai",
+    "partyId": "s",
+    "topicIds": [
+      "kultur-upphovsratt"
+    ],
+    "title": "Tillkännagivande om fungerande upphovsrätt i ljuset av AI-utvecklingen",
+    "description": "Riksdagsyrkande om behovet av en fungerande upphovsrätt i ljuset av utvecklingen inom AI; det immaterialrättsliga regelverket ska moderniseras och harmoniseras så att rättighetshavares möjligheter att utöva sina rättigheter inte urholkas.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3593"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-algoritmisk-arbetsledning",
+    "partyId": "s",
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "title": "Tillkännagivande om algoritmisk arbetsledning och arbetsmiljöansvar",
+    "description": "Riksdagsyrkande om algoritmisk arbetsledning och arbetsmiljöansvar: politiken behöver vara vaksam eftersom algoritmisk styrning rätt använd kan förbättra arbetslivet men fel använd leda till detaljövervakning av arbetet.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3590"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-ai-mot-valfardsbrott",
+    "partyId": "s",
+    "topicIds": [
+      "offentlig-sektor"
+    ],
+    "title": "AI och dataanalys i kontrollarbetet mot arbetslivskriminalitet och välfärdsbrott",
+    "description": "Yrkande om att utreda hur AI och dataanalys av företagsuppgifter kan effektivisera arbetet mot arbetslivskriminalitet; enligt de kongressbeslutade riktlinjerna vill partiet utöka användningen av AI-teknologi i kontrollarbetet för att bekämpa brott, och partistyrelsen anger att myndigheternas möjligheter att använda digitala register och AI-teknologi för att identifiera brott bör stärkas.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-mot-2526-3590",
+      "s-kalla-riktlinjer-2025",
+      "s-kalla-kongress-b-2025"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-aldersgranser-algoritmkrav",
+    "partyId": "s",
+    "topicIds": [
+      "barn-unga",
+      "demokrati"
+    ],
+    "title": "Åldersgränser på sociala medier och tydligare krav på algoritmer riktade till minderåriga",
+    "description": "Riksdagsyrkanden om att se över fungerande åldersgränser på sociala medier-plattformar, tydligare krav på algoritmer riktade till minderåriga och plattformarnas ansvar för användarkännedom; riktlinjerna 2025 kräver hårdare regler för plattformsföretagen kring algoritmer och effektiva ålderskontroller.",
+    "date": "2025-10-07",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-riktlinjer-2025"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-eu-etiska-principer-vapen",
+    "partyId": "s",
+    "topicIds": [
+      "forsvar"
+    ],
+    "title": "EU ska ta fram etiska principer för AI inom vapenteknologi",
+    "description": "Position i de kongressbeslutade politiska riktlinjerna 2025 (inte ett riksdagsförslag): 'Vi vill att EU tar fram etiska principer för hur vi hanterar artificiell intelligens inom vapenteknologi.'",
+    "date": "2025-06",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-kalla-riktlinjer-2025"
+    ],
+    "workflowStatus": "publicerad"
+  }
+]

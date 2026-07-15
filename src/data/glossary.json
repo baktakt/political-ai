@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ai",
+    "term": "Artificiell intelligens (AI)",
+    "definition": "Datorsystem som utför uppgifter som normalt kräver mänsklig intelligens, till exempel att tolka språk, känna igen bilder eller fatta beslut utifrån data.",
+    "example": "Ett program som sorterar jobbansökningar automatiskt använder AI."
+  },
+  {
+    "id": "generativ-ai",
+    "term": "Generativ AI",
+    "definition": "AI som skapar nytt innehåll — text, bilder, ljud, video eller kod — utifrån instruktioner. Tekniken bakom tjänster som ChatGPT.",
+    "example": "En elev som ber en chattbott skriva en uppsats använder generativ AI."
+  },
+  {
+    "id": "sprakmodell",
+    "term": "Språkmodell (LLM)",
+    "definition": "En AI-modell tränad på mycket stora mängder text för att förstå och producera språk. LLM står för engelskans large language model.",
+    "example": null
+  },
+  {
+    "id": "algoritm",
+    "term": "Algoritm",
+    "definition": "En uppsättning regler eller steg som en dator följer för att lösa en uppgift. AI-system bygger på algoritmer som tränats på data.",
+    "example": null
+  },
+  {
+    "id": "algoritmisk-arbetsledning",
+    "term": "Algoritmisk arbetsledning",
+    "definition": "När arbetsuppgifter fördelas, övervakas eller betygssätts av automatiska system i stället för av mänskliga chefer.",
+    "example": "En budfirma där en app bestämmer vem som får vilka körningar och mäter arbetstakten."
+  },
+  {
+    "id": "automatiserat-beslutsfattande",
+    "term": "Automatiserat beslutsfattande",
+    "definition": "Beslut som fattas helt eller delvis av datorsystem utan att en människa prövar varje enskilt fall, till exempel i bidragshandläggning.",
+    "example": null
+  },
+  {
+    "id": "deepfake",
+    "term": "Deepfake",
+    "definition": "Manipulerad eller helt AI-genererad bild, ljud eller video som ser äkta ut, ofta där en verklig person tycks säga eller göra något den aldrig gjort.",
+    "example": "Ett fejkat videoklipp där en partiledare tycks hålla ett tal som aldrig ägt rum."
+  },
+  {
+    "id": "syntetiskt-innehall",
+    "term": "Syntetiskt innehåll",
+    "definition": "Innehåll som skapats av AI snarare än av människor eller kameror — text, bilder, röster eller video.",
+    "example": null
+  },
+  {
+    "id": "ai-forordningen",
+    "term": "AI-förordningen (AI Act)",
+    "definition": "EU:s gemensamma lag om artificiell intelligens. Ställer olika hårda krav beroende på hur riskfylld användningen är, och förbjuder vissa användningar helt.",
+    "example": null
+  },
+  {
+    "id": "hogrisk-ai",
+    "term": "Högrisk-AI",
+    "definition": "AI-användning som enligt EU:s AI-förordning kan påverka människors säkerhet eller rättigheter — till exempel i rekrytering, kreditbedömning eller myndighetsbeslut — och därför omfattas av särskilda krav.",
+    "example": null
+  },
+  {
+    "id": "datacenter",
+    "term": "Datacenter",
+    "definition": "Anläggning med stora mängder servrar som lagrar data och utför beräkningar, bland annat för AI. Kräver mycket el och kyla.",
+    "example": null
+  },
+  {
+    "id": "berakningskraft",
+    "term": "Beräkningskraft (GPU:er)",
+    "definition": "Den datorkapacitet som krävs för att träna och köra AI-modeller. Mäts ofta i tillgången på specialiserade processorer, så kallade GPU:er.",
+    "example": null
+  },
+  {
+    "id": "superdator",
+    "term": "Superdator",
+    "definition": "Mycket kraftfull dator som används för avancerade beräkningar inom forskning och AI-träning.",
+    "example": null
+  },
+  {
+    "id": "oppen-kallkod",
+    "term": "Öppen källkod / öppna modeller",
+    "definition": "Programvara eller AI-modeller vars kod eller vikter är fritt tillgängliga att granska, använda och vidareutveckla.",
+    "example": null
+  },
+  {
+    "id": "ansiktsigenkanning",
+    "term": "Ansiktsigenkänning",
+    "definition": "AI-teknik som identifierar personer utifrån ansiktsdrag, till exempel i övervakningskameror.",
+    "example": null
+  },
+  {
+    "id": "biometriska-uppgifter",
+    "term": "Biometriska uppgifter",
+    "definition": "Data om kroppen som kan identifiera en person: ansikte, fingeravtryck, röst eller ögats iris.",
+    "example": null
+  },
+  {
+    "id": "regulatorisk-sandlada",
+    "term": "Regulatorisk sandlåda",
+    "definition": "Ett kontrollerat undantag där företag får testa ny teknik under tillsyn, utan att alla ordinarie regler tillämpas fullt ut.",
+    "example": null
+  },
+  {
+    "id": "rekyleffekt",
+    "term": "Rekyleffekt",
+    "definition": "När effektivisering leder till ökad total konsumtion i stället för minskad. Om något blir billigare används det ofta mer.",
+    "example": "Effektivare AI-beräkningar sänker kostnaden per beräkning — men kan leda till att den totala elanvändningen ändå ökar."
+  },
+  {
+    "id": "digital-suveranitet",
+    "term": "Digital suveränitet",
+    "definition": "Ett lands eller EU:s förmåga att kontrollera sin egen digitala infrastruktur och sina data, utan avgörande beroende av utländska företag eller stater.",
+    "example": null
+  },
+  {
+    "id": "partimotion",
+    "term": "Partimotion och kommittémotion",
+    "definition": "Förslag till riksdagen som lämnas av ett partis ledning (partimotion) eller av partiets ledamöter i ett utskottsområde (kommittémotion). Uttrycker partiets officiella linje, till skillnad från enskilda motioner.",
+    "example": null
+  },
+  {
+    "id": "enskild-motion",
+    "term": "Enskild motion",
+    "definition": "Förslag till riksdagen från en eller flera enskilda ledamöter. Visar vad ledamoten tycker — men är inte automatiskt partiets officiella ståndpunkt.",
+    "example": null
+  },
+  {
+    "id": "betankande",
+    "term": "Betänkande",
+    "definition": "Ett utskotts förslag till riksdagsbeslut, med partiernas ställningstaganden och reservationer redovisade.",
+    "example": null
+  },
+  {
+    "id": "votering",
+    "term": "Votering",
+    "definition": "Omröstning i riksdagens kammare. Visar hur partierna faktiskt röstat i en fråga.",
+    "example": null
+  },
+  {
+    "id": "tidoavtalet",
+    "term": "Tidöavtalet",
+    "definition": "Politisk överenskommelse från oktober 2022 mellan Moderaterna, Kristdemokraterna, Liberalerna och Sverigedemokraterna som ligger till grund för regeringssamarbetet under valperioden 2022–2026.",
+    "example": null
+  }
+]

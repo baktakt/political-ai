@@ -1,0 +1,135 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import EvidenceBadge from "@/components/EvidenceBadge.astro";
+import { getMeta } from "@/lib/content";
+import { formatDate } from "@/lib/format";
+import {
+  EVIDENCE_STATUS_LABELS,
+  EVIDENCE_STATUS_DESCRIPTIONS,
+  EVIDENCE_TYPE_LABELS,
+} from "@/lib/evidence";
+import { EVIDENCE_STATUSES, EVIDENCE_TYPES } from "@/lib/schema";
+
+const meta = await getMeta();
+---
+
+<BaseLayout
+  title="Metod"
+  description="Så arbetar vi: källhierarki, evidensklassning, hantering av osäkerhet och saknad information, neutralitetsprinciper och redaktionellt arbetsflöde."
+>
+  <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
+    <header class="border-b border-border py-10">
+      <div class="bi-mono">Metodbeskrivning · uppdaterad {formatDate(meta.lastUpdated)}</div>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Så arbetar vi</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
+        Webbplatsens uppgift är att redovisa vad riksdagspartierna faktiskt har
+        sagt, föreslagit och gjort om AI och hållbarhet — inte att tycka något om
+        det. Här beskriver vi hur researchen går till, vad klassningarna betyder
+        och var gränserna för metoden går.
+      </p>
+    </header>
+
+    <div class="pol-prose py-10">
+      <h2 id="principer">Grundprinciper</h2>
+      <ul>
+        <li><strong>Neutral:</strong> ingen partirekommendation, ingen rangordning, samma granskning och samma språkliga standard för alla partier. Partierna visas alltid i bokstavsordning.</li>
+        <li><strong>Källbaserad:</strong> varje faktapåstående är kopplat till minst en källa som har öppnats och kontrollerats. Källan visas för dig som läsare.</li>
+        <li><strong>Ärlig om luckor:</strong> när ingen ståndpunkt hittats skriver vi det uttryckligen. Frånvaro av ståndpunkt tolkas aldrig som motstånd.</li>
+        <li><strong>Inga påhitt:</strong> vi uppfinner aldrig en partiposition och härleder aldrig en position enbart ur partiets ideologi.</li>
+        <li><strong>Individ ≠ parti:</strong> en enskild politikers uttalande redovisas som partilinje endast om det stöds av officiellt partimaterial. I riksdagen räknas parti- och kommittémotioner som partinivå; enskilda motioner redovisas som enskilda.</li>
+        <li><strong>Parti ≠ regering:</strong> för regeringspartierna och samarbetspartiet skiljer vi på partiets egen politik, Tidöavtalets överenskommelser och regeringens beslut. Regeringsbeslut kan vara kompromisser.</li>
+      </ul>
+
+      <h2 id="kallhierarki">Källhierarki</h2>
+      <p>
+        Vi använder primära källor så långt det går. Källorna prioriteras i
+        följande ordning:
+      </p>
+      <ol>
+        <li>Partiernas officiella webbplatser</li>
+        <li>Partiprogram och principprogram</li>
+        <li>Valmanifest och valplattformar</li>
+        <li>Riksdagsmotioner (parti- och kommittémotioner före enskilda)</li>
+        <li>Riksdagsfrågor och interpellationer</li>
+        <li>Riksdagsdebatter</li>
+        <li>Utskottsbetänkanden</li>
+        <li>Voteringar i riksdagen</li>
+        <li>Propositioner</li>
+        <li>Regeringsbeslut</li>
+        <li>Statliga utredningar (SOU)</li>
+        <li>Myndighetsrapporter</li>
+        <li>Officiella EU-dokument</li>
+        <li>Uttalanden av behöriga partiföreträdare</li>
+        <li>Etablerade svenska medier</li>
+        <li>Akademiska eller expertanalyser — endast som kontext</li>
+      </ol>
+      <p>Vi använder <strong>inte</strong>: anonyma bloggar, overifierade konton i sociala medier, sökresultatutdrag som belägg, AI-genererade sammanfattningar som källor, Wikipedia som primärkälla eller opinionstexter som belägg för officiell partipolitik. Sociala medier används bara när kontot är verifierat eller uppenbart officiellt, och märks då upp.</p>
+
+      <h2 id="evidensstatus">Evidensstatus</h2>
+      <p>
+        Varje kombination av parti och ämne får en status som beskriver
+        <em>hur väl belagd</em> ståndpunkten är. Statusen är ingen bedömning av
+        politikens kvalitet och ingen rangordning. Vi använder aldrig
+        procentsiffror för säkerhet — i stället förklarar vi klassningen i
+        klartext vid varje ståndpunkt.
+      </p>
+    </div>
+
+    <div class="max-w-3xl">
+      <dl class="divide-y divide-border border-t border-b border-border">
+        {
+          EVIDENCE_STATUSES.map((status) => (
+            <div class="grid gap-2 py-4 sm:grid-cols-[16rem_1fr] sm:gap-6">
+              <dt>
+                <EvidenceBadge status={status} linked={false} />
+              </dt>
+              <dd class="text-sm leading-relaxed text-muted-foreground">
+                {EVIDENCE_STATUS_DESCRIPTIONS[status]}
+              </dd>
+            </div>
+          ))
+        }
+      </dl>
+      <p class="mt-4 text-sm text-muted-foreground">
+        Utöver statusen finns två lägen som inte är klassningar:
+        <span class="whitespace-nowrap">”Ännu ej granskat”</span> betyder att
+        researchen helt enkelt inte är gjord för kombinationen — det säger
+        ingenting om partiet.
+      </p>
+    </div>
+
+    <div class="pol-prose py-10">
+      <h2 id="evidenstyper">Typ av belägg</h2>
+      <p>Varje ståndpunkt märks också med vilken sorts belägg den vilar på:</p>
+      <p>{EVIDENCE_TYPES.map((t) => EVIDENCE_TYPE_LABELS[t]).join(" · ")}</p>
+
+      <h2 id="osakerhet">Hantering av osäkerhet</h2>
+      <p>Vi skiljer konsekvent mellan uttalad partipolitik, konkreta förslag, riksdagsaktivitet, regeringsbeslut, offentliga uttalanden, tolkningar och saknade belägg. All tolkning markeras uttryckligen med ordet <em>”Tolkning:”</em> och formuleras aldrig som partiets officiella position.</p>
+      <p>När källor pekar åt olika håll redovisar vi båda ståndpunkterna med datum och källstatus, utan att själva avgöra vilken som är ”den riktiga” — om inte en nyare officiell policy uppenbart ersätter en äldre. Då beskrivs förändringen med datum.</p>
+      <p>När ett parti sitter i regeringen skiljer vi mellan partiets egen politik, koalitionsöverenskommelser, regeringsbeslut, kompromisser och politik som drivs av ett annat regeringsparti.</p>
+
+      <h2 id="arbetsflode">Redaktionellt arbetsflöde</h2>
+      <p>Research och publicering är åtskilda. Varje påstående går igenom stegen: <em>upptäckt → extraherad → behöver verifiering → verifierad → redaktionell granskning → godkänd → publicerad</em>. Endast publicerade poster visas på webbplatsen. Ett påstående publiceras inte förrän källan öppnats och kontrollerats, påståendet korrekt återger källan, partitillhörigheten är verifierad, belägget klassificerats, publiceringsdatum noterats och en redaktionell granskning gjorts. Föråldrade poster markeras och arkiveras.</p>
+      <p>Innan publicering ställs kontrollfrågorna: Stödjer källan verkligen påståendet? Är källan aktuell? Är det officiell partipolitik eller ett personligt uttalande? En koalitionskompromiss? Har positionen ändrats? Är språket neutralt? Tillämpas samma standard på alla partier? Kan formuleringen gynna eller missgynna något parti?</p>
+
+      <h2 id="granskning">Granskning och uppdatering</h2>
+      <p>Alla partier granskas med samma frågebatteri och samma källkrav. Genomförda granskningar loggas med datum och omfattning, och varje sida visar när dess innehåll senast granskades. Webbplatsen bör uppdateras löpande under valrörelsen — särskilt när valmanifest publiceras — och minst kvartalsvis däremellan. Alla ändringar loggas på <a href="/uppdateringar/">uppdateringssidan</a>.</p>
+
+      <h2 id="ai-anvandning">Öppenhet om AI-användning</h2>
+      <p>Researchen bakom webbplatsen genomförs med stöd av AI-verktyg som söker i och läser källor, under redaktionell styrning och granskning. Det är alltid de underliggande källorna — inte AI-verktygets formuleringar — som är belägget, och varje påstående länkar till sin källa så att du kan kontrollera den själv. AI-genererade sammanfattningar används aldrig som källor.</p>
+
+      <h2 id="begransningar">Begränsningar — vad webbplatsen inte gör</h2>
+      <ul>
+        <li>Den rekommenderar inte något parti och räknar inte fram någon ”bästa match”.</li>
+        <li>Den betygsätter inte politikens kvalitet, genomförbarhet eller kostnad.</li>
+        <li>Den mäter inte partiernas interna åsiktsspridning.</li>
+        <li>Den täcker bara dokumenterade ståndpunkter — det partier tycker men inte dokumenterat syns inte här.</li>
+        <li>Ett ämne som fått statusen ”ingen dokumenterad ståndpunkt” kan ha hunnit få en ståndpunkt efter senaste granskningsdatumet.</li>
+        <li>Piloten täcker inte alla parti–ämneskombinationer; ogranskade kombinationer redovisas öppet som ”ännu ej granskat”.</li>
+      </ul>
+
+      <h2 id="kontakt">Fel och synpunkter</h2>
+      <p>Hittar du ett fel — sakligt, språkligt eller i en källa — använd <a href="/korrigeringar/">korrigeringssidan</a>. Alla rättelser redovisas öppet.</p>
+    </div>
+  </div>
+</BaseLayout>

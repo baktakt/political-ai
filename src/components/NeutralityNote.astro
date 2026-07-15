@@ -1,0 +1,13 @@
+---
+/** Synlig neutralitetsdeklaration. */
+import { SITE } from "@/data/site";
+---
+
+<aside
+  class="border border-border bg-muted/50 px-4 py-3 text-sm text-muted-foreground"
+  aria-label="Neutralitetsdeklaration"
+>
+  <span class="bi-mono !text-[10px] block mb-1">Neutralitet</span>
+  {SITE.neutralityStatement}
+  <a href="/om/" class="ml-1 border-b border-border pb-px hover:text-foreground">Läs mer om hur vi arbetar</a>
+</aside>

@@ -1,0 +1,29 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import QuestionTeaser from "@/components/QuestionTeaser.astro";
+import { getCollection } from "astro:content";
+
+const questions = (await getCollection("questions")).sort(
+  (a, b) => a.data.displayOrder - b.data.displayOrder,
+);
+---
+
+<BaseLayout
+  title="Vanliga frågor"
+  description="Vad säger partierna om AI och jobben, skolan, vården, övervakning, datacenter och klimatet? Svar ur den granskade datamängden."
+>
+  <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
+    <header class="border-b border-border py-10">
+      <div class="bi-mono">Ingångar för väljare</div>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Börja med en fråga</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
+        Vanliga frågor inför valet. Svaren hämtas direkt ur den granskade,
+        källbelagda datamängden — ingenting genereras på fri hand. Där
+        dokumentation saknas står det.
+      </p>
+    </header>
+    <div class="my-10 grid gap-4 sm:grid-cols-2" data-pagefind-ignore>
+      {questions.map((q) => <QuestionTeaser question={q} />)}
+    </div>
+  </div>
+</BaseLayout>

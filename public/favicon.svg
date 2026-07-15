@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Parliamentary chamber/dome silhouette — same mark as the header/footer
+       brand mark (src/components/BrandMark.tsx), bolder strokes and a fixed
+       navy/gold palette for legibility at browser-tab size. -->
+  <path d="M 5 20 A 11 11 0 0 1 27 20" fill="none" stroke="#28345a" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="5" y1="20" x2="27" y2="20" stroke="#28345a" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="24.65" y1="16.85" x2="28.03" y2="15.62" stroke="#28345a" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="20.6" y1="12.03" x2="22.4" y2="8.92" stroke="#28345a" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="11.4" y1="12.03" x2="9.6" y2="8.92" stroke="#28345a" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="7.35" y1="16.85" x2="3.97" y2="15.62" stroke="#28345a" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="16" cy="9" r="2.2" fill="#b98c2e"/>
+</svg>

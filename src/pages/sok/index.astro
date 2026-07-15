@@ -1,0 +1,74 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Sök"
+  description="Sök bland partier, ämnen, ståndpunkter, förslag, källor och begrepp."
+>
+  <div class="mx-auto max-w-7xl px-6">
+    <header class="border-b border-border py-10">
+      <div class="bi-mono">Fritextsök</div>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Sök</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
+        Söker i allt publicerat innehåll: partier, ämnen, ståndpunkter, förslag,
+        källor och ordlista. Använd filtren för att avgränsa till parti eller
+        ämnesgrupp.
+      </p>
+    </header>
+
+    <div id="soek" class="py-10 max-w-3xl"></div>
+    <noscript>
+      <p class="my-8 border border-border bg-muted p-4 text-sm max-w-3xl">
+        Sökfunktionen kräver JavaScript. Du hittar allt innehåll via
+        <a href="/partier/" class="underline underline-offset-4">partierna</a>,
+        <a href="/amnen/" class="underline underline-offset-4">ämnena</a> och
+        <a href="/kallor/" class="underline underline-offset-4">källförteckningen</a>.
+      </p>
+    </noscript>
+
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
+    <script is:inline>
+      window.addEventListener("DOMContentLoaded", () => {
+        if (typeof PagefindUI === "undefined") {
+          const el = document.getElementById("soek");
+          if (el)
+            el.innerHTML =
+              '<p class="border border-dashed border-border p-4 text-sm text-muted-foreground">Sökindexet byggs vid publicering och är inte tillgängligt i utvecklingsläge. Kör <code>npm run build &amp;&amp; npm run preview</code> för att testa sökningen.</p>';
+          return;
+        }
+        new PagefindUI({
+          element: "#soek",
+          showSubResults: true,
+          showImages: false,
+          translations: {
+            placeholder: "Sök efter parti, ämne, förslag eller begrepp …",
+            clear_search: "Rensa",
+            load_more: "Visa fler resultat",
+            search_label: "Sök på webbplatsen",
+            filters_label: "Filter",
+            zero_results: "Inga resultat för [SEARCH_TERM]",
+            many_results: "[COUNT] resultat för [SEARCH_TERM]",
+            one_result: "[COUNT] resultat för [SEARCH_TERM]",
+            searching: "Söker efter [SEARCH_TERM] …",
+          },
+        });
+        // Synlig etikett för sökfältet (WCAG 2.4.6): pagefind sätter bara
+        // aria-label, så vi kopplar en synlig <label> till fältet.
+        const koppla = () => {
+          const falt = document.querySelector("#soek .pagefind-ui__search-input");
+          if (!falt) return requestAnimationFrame(koppla);
+          falt.id = "pagefind-sokfalt";
+          const etikett = document.createElement("label");
+          etikett.htmlFor = "pagefind-sokfalt";
+          etikett.textContent = "Sökord";
+          etikett.className = "block text-sm font-medium mb-2";
+          const root = document.getElementById("soek");
+          root.insertBefore(etikett, root.firstChild);
+        };
+        koppla();
+      });
+    </script>
+  </div>
+</BaseLayout>

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "granskning-partilista-2026-07-15",
+    "partyId": null,
+    "reviewer": "Redaktionen (AI-assisterad pilot)",
+    "reviewDate": "2026-07-15",
+    "topicsReviewed": [],
+    "unresolvedQuestions": [],
+    "notes": "Partilistan verifierad mot riksdagen.se (Ledamöter och partier), riksdagens öppna data (personlista) och Valmyndighetens valresultat 2022. Regeringsstatus verifierad mot Regeringskansliets pressmeddelande om Tidöavtalets bokslut (2026-05-05). Åtta partier; nio ledamöter utan partibeteckning noterade."
+  },
+  {
+    "id": "granskning-arbetsmarknad-2026-07-15",
+    "partyId": null,
+    "reviewer": "Redaktionen (AI-assisterad research, redaktionell granskning)",
+    "reviewDate": "2026-07-15",
+    "topicsReviewed": [
+      "arbetsmarknad"
+    ],
+    "unresolvedQuestions": [
+      "Moderaternas handlingsprogram: citaten kommer från partistyrelsens stämmoproposition (PDF daterad 6 oktober 2025). Att programmet antogs i oförändrad form vid arbetsstämman 23-26 oktober 2025 kunde inte verifieras mot en öppnad källa; moderaterna.se-sidan om programmet var vid lästillfället inte uppdaterad med slutversionen.",
+      "Vårmotionernas (2025/26:4101 S och 2025/26:4110 C) slutliga riksdagsbehandling (finansutskottet, juni 2026) verifierades inte; endast motionstexterna öppnades.",
+      "Valmanifest 2026: endast SD:s valplattform 2026 hittades publicerad (juli 2026). Övriga partiers 2026-manifest var inte publicerade/funna vid söktillfället - bör bevakas inför valet 2026-09-13.",
+      "Socialdemokraternas partiprogram antaget vid kongressen 2025 granskades inte i slutversion (endast utkast hittades via sökning; ej öppnat) - partiets position är i stället belagd med motioner och partiets nyhetssida.",
+      "Citat från partiwebbsidor extraherades via ett hämtningsverktyg som sammanfattar sidinnehåll; ordagrannheten är beroende av verktygets återgivning. Citat ur motioner och PDF:er är däremot verifierade direkt mot fulltext.",
+      "Erik Slottners partitillhörighet (KD) är belagd via Skellefteå kommuns pressmeddelande, inte via regeringen.se (som inte anger partibeteckningar).",
+      "Frågor om arbetsplatsövervakning/algoritmisk arbetsledning: ingen av de åtta partiernas granskade riksdagsdokument innehöll uttryckliga förslag om algoritmisk arbetsledning på arbetsplatser; närmast ligger V:s plattformsarbetskrav. Djupare sökning i utskottsbetänkanden och EU-nämndsprotokoll (t.ex. om plattformsdirektivet) återstår."
+    ],
+    "notes": "Pilotgranskning av ämnet Jobb och arbetsmarknad för samtliga åtta riksdagspartier. Motions- och PDF-citat verifierade mot fulltext av researchagenten; webbcitat beroende av hämtverktygets återgivning (se olösta frågor). Redaktionell kontroll: neutral språkgranskning av samtliga texter, stickprovskontroll av fem källänkar inkl. citatkontroll (Liberalernas AI-sida), referensintegritet via schema-tester samt automatisk länkkontroll av samtliga källor."
+  },
+  {
+    "id": "granskning-parti-s-2026-07-15",
+    "partyId": "s",
+    "reviewer": "Redaktionen (AI-assisterad research, redaktionell granskning)",
+    "reviewDate": "2026-07-15",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "rekyleffekter",
+      "social-hallbarhet",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Utfallet av riksdagsbehandlingen (utskottsbetänkanden och voteringar) för de refererade motionerna 2024/25 och 2025/26 har inte verifierats; samtliga förslag är därför markerade som 'framlagt'.",
+      "Socialdemokraternas valmanifest inför valet 2026-09-13 var inte publicerat vid researchtillfället (2026-07-15) och kan komma att precisera eller ändra AI-politiken.",
+      "Kongressprotokollet 2025 har inte granskats; häfte B är partistyrelsens utlåtanden/beslutsunderlag, och exakta kongressbeslut per att-sats är inte verifierade.",
+      "Ingen fungerande A–Ö-/temasida om AI eller digitalisering hittades på socialdemokraterna.se (testade adresser gav 404), och sidan med Magdalena Anderssons linjetal från kongressen kunde inte öppnas (404) – partiwebbens egna AI-texter är därför underrepresenterade.",
+      "Inga dokumenterade ståndpunkter hittades om: AI-kompisar/chattbottar för barn, vattenanvändning och rapporteringskrav för datacenter/AI, algoritmisk diskriminering som specifik fråga, svenska språkmodeller/superdatorer som egen satsning, samt ersättningsmodeller för kreatörer vid AI-träning.",
+      "Kravet på märkning/vattenstämpling av AI-genererat material finns endast som enskild motion (individnivå) och är inte belagt som partilinje."
+    ],
+    "notes": "Pilotgranskning av Socialdemokraterna över samtliga 19 ämnen: 18 dokumenterade ståndpunkter och en uttrycklig lucka (byggd miljö). Motions- och PDF-citat verifierade mot fulltext (partiprogram och politiska riktlinjer 2025 nedladdade som PDF). Motionsutfall (utskottsbehandling/votering) ej verifierade — alla förslag markerade som framlagda. Redaktionell kontroll: neutral språkgranskning, referensintegritet via schematester, automatisk länkkontroll."
+  }
+]

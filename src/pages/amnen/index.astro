@@ -1,0 +1,72 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import TopicCard from "@/components/TopicCard.astro";
+import SectionLabel from "@/components/SectionLabel.astro";
+import {
+  getPartiesSorted,
+  getTopicGroups,
+  getPublishedPositions,
+} from "@/lib/content";
+
+const parties = await getPartiesSorted();
+const { samhalle, hallbarhet } = await getTopicGroups();
+const positions = await getPublishedPositions();
+
+const countFor = (topicId: string) =>
+  positions.filter((p) => p.data.topicId === topicId).length;
+---
+
+<BaseLayout
+  title="Ämnen"
+  description="Nitton politikområden där AI gör skillnad — från arbetsmarknad och skola till datacenter, klimat och rättvis omställning."
+>
+  <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
+    <header class="border-b border-border py-10">
+      <div class="bi-mono">Taxonomi · 19 områden</div>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Ämnen</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
+        Samma frågor ställs till alla partier inom nitton områden. Hållbarhet är
+        ett huvudspår med fem egna områden — AI:s miljöavtryck granskas lika
+        noga som löftena om AI som klimatverktyg.
+      </p>
+    </header>
+
+    <section class="py-10" data-pagefind-ignore>
+      <SectionLabel
+        eyebrow="Del 1"
+        title="AI i samhället"
+        description="Fjorton områden: från övergripande strategi till barn och unga."
+      />
+      <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {
+          samhalle.map((topic) => (
+            <TopicCard
+              topic={topic}
+              positionCount={countFor(topic.id)}
+              partyCount={parties.length}
+            />
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="py-10 pb-16" data-pagefind-ignore>
+      <SectionLabel
+        eyebrow="Del 2 · huvudspår"
+        title="AI & hållbarhet"
+        description="Fem områden: miljöavtryck, klimatnytta, byggd miljö, rekyleffekter och rättvis omställning."
+      />
+      <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {
+          hallbarhet.map((topic) => (
+            <TopicCard
+              topic={topic}
+              positionCount={countFor(topic.id)}
+              partyCount={parties.length}
+            />
+          ))
+        }
+      </div>
+    </section>
+  </div>
+</BaseLayout>

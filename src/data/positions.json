@@ -1,0 +1,537 @@
+[
+  {
+    "id": "s-arbetsmarknad",
+    "partyId": "s",
+    "topicId": "arbetsmarknad",
+    "summary": "Socialdemokraterna beskriver AI som ett teknikskifte som snabbt förändrar arbetsmarknaden och varnar för ökad arbetslöshet, särskilt bland yngre akademiker, när arbetsuppgifter automatiseras. Partiet kräver en jobbomställningsplan med AI-anpassad omställning, stärkt a-kassa och traineeprogram, och vill att fler får utbildning i AI.",
+    "detailedPosition": "I kommittémotionen En digital politik som bygger jämlikhet och tillväxt (2025/26:3652) har Socialdemokraterna ett eget avsnitt om att 'AI påverkar framtidens arbetsmarknad'. Partiet yrkar där på att se över möjligheten till utbildning i AI för medborgare och till omställning när arbetsuppgifter förändras, och skriver att 'de som riskerar att förlora jobbet till följd av AI-utvecklingen måste få stöd i omställningen' samt att en uppdaterad svensk AI-strategi ska utgå från att det ska bli fler jobb genom AI. I partimotionen med anledning av 2026 års vårproposition (2025/26:4101) anger partiet att AI påverkar arbetsmarknadens struktur och att arbetslösheten bland yngre akademiker riskerar att öka. Vid en pressträff 2026-04-01 presenterade Ardalan Shekarabi kravet på en jobbomställningsplan i tre delar: omställningsstöd anpassat till AI (vuxenutbildning och arbetsmarknadsutbildning kopplad till faktisk AI-användning i arbetslivet), reparerad a-kassa och säkrade inkomstförsäkringar samt traineeprogram för nyexaminerade; partiet beskrev det som att 'kompetenspolitik är nu också AI-politik' och att 'AI förändrar arbetsuppgifter och maktbalansen på våra arbetsplatser'. Tolkning: partiet knyter AI-frågan främst till trygghetssystem, kompetenspolitik och maktförhållanden på arbetsplatserna. Socialdemokraterna är i opposition; riksdagsyrkandena har avslagits.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "motion",
+      "budgetforslag",
+      "tal"
+    ],
+    "confidenceExplanation": "Klassningen bygger på tre samstämmiga partikällor på partinivå: kommittémotion 2025/26:3652 (öppnad i fulltext), partimotion 2025/26:4101 (öppnad i fulltext) och partiets egen nyhetstext om jobbomställningsplanen 2026-04-01. Positionen är uttrycklig, aktuell och innehåller konkreta förslag.",
+    "sourceIds": [
+      "s-nyhet-jobbomstallningsplan-2026",
+      "s-mot-2025-3652",
+      "s-mot-2026-4101"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "sd-arbetsmarknad",
+    "partyId": "sd",
+    "topicId": "arbetsmarknad",
+    "summary": "Sverigedemokraterna har en dokumenterad AI-politik med fokus på nationell AI-plan, myndighetskompetens, utbildning och reglering av automatiserat beslutsfattande, där arbetsmarknaden berörs indirekt via skolundervisningens värde för framtidens arbetsmarknad. Inga dokumenterade förslag specifikt om jobbomställning, arbetstagares villkor eller fördelning av produktivitetsvinster vid AI-införande har hittats; valplattformen 2026 nämner inte AI.",
+    "detailedPosition": "SD:s samlade AI-politik finns i kommittémotionen En tillförlitlig, konkurrenskraftig och hållbar svensk AI-politik (senast 2024/25:1424; motsvarande motion lämnades 2023/24). Där föreslås en nationell AI-plan, en nationell AI-nämnd, myndighetsuppdrag om AI, tidiga utbildningsinsatser i skolan om AI och cybersäkerhet samt en utredning av lagstiftning om tjänster med automatiserat beslutsfattande (konsumentinriktat). Motionen motiverar AI-undervisning i skolan med att kunskapen 'kommer att vara värdefullt på den framtida arbetsmarknaden' och slår fast att 'mänskligheten ska styra AI, inte tvärtom'. Frågor som automatiseringens jobbeffekter, omställning av yrkesverksamma, arbetsplatsövervakning eller fackligt inflytande behandlas inte i det granskade materialet. SD:s valplattform 2026 och principprogram (2023) innehåller inga AI-skrivningar. SD är samarbetsparti till regeringen via Tidöavtalet, men Tidöavtalet innehåller inga skrivningar om AI; regeringens AI-strategi (februari 2026) är därmed regeringens politik och kan inte tillskrivas SD. Tolkning: SD:s dokumenterade AI-politik är teknik- och förvaltningsinriktad snarare än arbetsmarknadsinriktad.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "motion",
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Kommittémotionen 2024/25:1424 (öppnad i fulltext) dokumenterar partiets AI-politik men berör arbetsmarknaden endast indirekt (utbildning). Genomsökning av valplattform 2026 och principprogram 2023 (båda öppnade som PDF) gav noll träffar på AI/automatisering, och sd.se:s 'Vad vi vill' nämner inte AI. Därför 'indirekt_berord' snarare än 'ingen_dokumenterad'.",
+    "sourceIds": [
+      "sd-mot-2024-1424",
+      "sd-valplattform-2026",
+      "gov-tidoavtalet-2022"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "m-arbetsmarknad",
+    "partyId": "m",
+    "topicId": "arbetsmarknad",
+    "summary": "Moderaterna beskriver i förslaget till nytt handlingsprogram (2025) att AI kan utföra vissa arbetsuppgifter självständigt, att vissa jobb kan effektiviseras och bli färre, och att tekniken samtidigt frigör arbetskraft och kan skapa nya arbetstillfällen; utvecklingen ska mötas med omställningsförmåga och kompetenssatsningar, bland annat en talangstrategi för AI-spetskompetens. Som ledande regeringsparti står M bakom Sveriges AI-strategi (februari 2026), som behandlar omställning och kompetens.",
+    "detailedPosition": "I partistyrelsens förslag till nytt handlingsprogram, behandlat vid arbetsstämman i oktober 2025, skriver Moderaterna att AI utvecklats så att den 'kan användas för att självständigt utföra vissa arbetsuppgifter', att detta 'kan leda till att vissa jobb effektiviseras och blir färre' och att 'utvecklingen av AI och den snabba digitaliseringen förändrar arbetsmarknaden i takt med att nya verktyg blir tillgängliga och ersätter gamla arbetsuppgifter'. Samtidigt betonas att AI 'frigör arbetskraft', kan sänka företagens kostnader och 'leda till nya arbetstillfällen', att företag snabbare behöver kunna ställa om och hitta ny personal, samt att de partsgemensamma omställningsorganisationerna fångar upp anställda som förlorar jobbet. Programmet föreslår bland annat en talangstrategi för att attrahera AI-spetskompetens (t.ex. snabbspår för uppehållstillstånd), utökad AI-undervisning i skolan och AI-uppdrag till folkbiblioteken. Detta är partiets egen linje. Därutöver har M+KD+L-regeringen, där M innehar statsministerposten, beslutat Sveriges AI-strategi (februari 2026) med skrivningar om att AI omformar arbetsinnehåll, yrken och kompetensbehov och om omställning via arbetsmarknadens parter - detta är regeringspolitik, inte partiprogram. Tidöavtalet innehåller inga AI-skrivningar. Tolkning: partiets hållning är teknikbejakande med betoning på anpassnings- och konkurrensförmåga snarare än på nya trygghetssystem.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram",
+      "regeringspolitik"
+    ],
+    "confidenceExplanation": "Bygger på stämmohandlingarna 2025 (Proposition 1, handlingsprogrammet; PDF öppnad i fulltext) där AI:s arbetsmarknadseffekter beskrivs uttryckligen, kompletterat med regeringens AI-strategi som regeringspolitik. Att programmet antogs i oförändrad form vid stämman har inte kunnat verifieras mot öppnad källa, därför 'generell_dokumenterad' snarare än högre klassning. M har som regeringsparti inga egna riksdagsmotioner i frågan under valperioden (endast enskilda M-motioner, som inte redovisas som partilinje).",
+    "sourceIds": [
+      "m-stammohandlingar-2025",
+      "gov-ai-strategi-2026",
+      "gov-ai-strategi-pm-2026",
+      "gov-tidoavtalet-2022"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "c-arbetsmarknad",
+    "partyId": "c",
+    "topicId": "arbetsmarknad",
+    "summary": "Centerpartiet vill möta den AI-drivna strukturomvandlingen med utbildning och kompetens, bland annat en 'kunskapsväxel' med förstärkt omställningsstudiestöd så att fler kan byta yrke eller höja sin kompetens mitt i livet. Partiet anser även att kollektivavtal och lagstiftning behöver moderniseras när AI utvecklas.",
+    "detailedPosition": "På Centerpartiets AI-sida är ett huvudbudskap att 'satsa på utbildning och kompetens så att fler kan jobba med och förstå AI'; sidan noterar samtidigt att oron växer 'för jobben, för integriteten och för demokratin' och föreslår bland annat en nationell AI-general och ett nationellt AI-center. I kommittémotionen Arbetsmarknad (2025/26:3191) skriver partiet att utvecklingen av artificiell intelligens, tillsammans med begränsad arbetskraftsinvandring och en växande teknikindustri, 'kommer kräva att både avtal mellan fack och arbetsgivarorganisationer samt lagstiftning moderniseras'. I partimotionen med anledning av 2026 års vårproposition (2025/26:4110) beskrivs 'en snabb strukturomvandling i näringslivet med inte minst AI och grön ekonomi, som ställer krav på nya kompetenser', och partiet föreslår en 'kunskapsväxel': förstärkt omställningsstudiestöd, fler utbildningsplatser, yrkesutbildningssatsningar samt en studentmedarbetarmodell för att minska akademikerarbetslösheten. Tolkning: partiet betonar individens omställningsförmåga och partsmodellens modernisering snarare än ny skyddslagstiftning.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "budgetforslag"
+    ],
+    "confidenceExplanation": "Kommittémotion 2025/26:3191 och partimotion 2025/26:4110 (båda öppnade i fulltext) kopplar uttryckligen AI till arbetsmarknads- och kompetenspolitik med konkreta förslag (kunskapsväxel, förstärkt omställningsstudiestöd). Partiets AI-sida (öppnad) stödjer utbildnings- och kompetenslinjen.",
+    "sourceIds": [
+      "c-webb-ai",
+      "c-mot-2025-3191",
+      "c-mot-2026-4110"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "v-arbetsmarknad",
+    "partyId": "v",
+    "topicId": "arbetsmarknad",
+    "summary": "Vänsterpartiet vill att effektivitets- och produktivitetsvinster från AI och automatisering kommer de anställda till del, i offentlig sektor till exempel genom arbetstidsförkortning med bibehållen lön, och kräver konsekvensanalyser före AI-införande. Partiet driver en utredning om generell arbetstidsförkortning och lagstiftning för att förbättra plattformsarbetares villkor.",
+    "detailedPosition": "På Vänsterpartiets AI-sida anges att AI kan ta över rutinuppgifter i offentlig sektor och att frigjord tid ska användas till förbättringar för offentliganställda, 'genom exempelvis arbetstidsförkortning med bibehållen lön', samt att all AI-användning, särskilt i offentlig verksamhet, ska föregås av noggranna konsekvensanalyser och att AI måste regleras så att den inte används integritetskränkande eller repressivt. I kommittémotionen Arbetsmiljö och arbetstid (2025/26:2371) argumenterar partiet för en generell arbetstidsförkortning och pekar bland annat på 'en ny våg av automatisering och robotisering som höjer produktiviteten inom många områden och innebär att vissa arbeten försvinner'; partiet yrkar på en utredning om generell arbetstidsförkortning. I partimotionen Ordning och reda på arbetsmarknaden (2025/26:307) kräver partiet ny nationell lagstiftning för plattformsarbetares villkor och en förändring av EU:s plattformsdirektiv; motionen beskriver att det nya med plattformsarbete är 'hur de som utför arbetet får arbete, hur arbetet styrs och hur deras arbetsvillkor ser ut'. Tolkning: partiet ser fördelningen av automatiseringens produktivitetsvinster (arbetstid, villkor) och styrningen av arbetet som kärnfrågor, snarare än AI-tekniken i sig. Yrkandena har avslagits i riksdagen.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Positionen bärs av partiets AI-sida (öppnad), partimotion 2025/26:307 och kommittémotion 2025/26:2371 (båda öppnade i fulltext). Kopplingen automatisering-arbetstidsförkortning görs i motionstexten; kravet på arbetstidsförkortning med bibehållen lön vid AI-effektivisering står uttryckligen på partiets AI-sida.",
+    "sourceIds": [
+      "v-webb-ai",
+      "v-mot-2025-2371",
+      "v-mot-2025-307"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "kd-arbetsmarknad",
+    "partyId": "kd",
+    "topicId": "arbetsmarknad",
+    "summary": "Ingen egen dokumenterad KD-position om AI och arbetsmarknaden har hittats i partiets program- och webbmaterial eller i parti-/kommittémotioner under valperioden. Som regeringsparti står KD bakom Sveriges AI-strategi (februari 2026), som behandlar omställning och kompetens, och KD:s civilminister Erik Slottner är ansvarigt statsråd för strategin.",
+    "detailedPosition": "Kristdemokraternas egna kanaler (politiksidorna Digitalisering och Innovation på kristdemokraterna.se) nämner inte AI, automatisering eller arbetsmarknadsomställning, och inga parti- eller kommittémotioner från KD om AI och arbetsmarknaden under valperioden 2022-2026 har hittats i riksdagens öppna data. Det som finns dokumenterat är regeringspolitik: M+KD+L-regeringen beslutade i februari 2026 Sveriges AI-strategi, med skrivningar om att AI omformar arbetsinnehåll, yrken och kompetensbehov, om livslångt lärande och om omställning genom arbetsmarknadens parter. Ansvarigt statsråd är civilminister Erik Slottner (KD), som även offentligt talar om AI och framtidens arbetsmarknad i egenskap av regeringsföreträdare. Denna regeringspolitik kan dock inte likställas med ett eget KD-partiprogram i frågan. Tidöavtalet innehåller inga AI-skrivningar. Tolkning: KD:s hållning i frågan är i praktiken liktydig med regeringens AI-strategi, men partiet har inte formulerat någon egen dokumenterad politik om AI:s arbetsmarknadseffekter.",
+    "evidenceStatus": "regeringsatgard",
+    "evidenceTypes": [
+      "regeringspolitik"
+    ],
+    "confidenceExplanation": "Ingen partikälla med egen AI-arbetsmarknadsposition hittades trots sökningar på kristdemokraterna.se (Politik A till Ö: Digitalisering, Innovation), i riksdagens öppna data (KD-motioner med 'artificiell intelligens' - inga partinivåmotioner i ämnet under valperioden) och via webbsökningar. Belagt är regeringens AI-strategi (öppnad) med KD:s statsråd som ansvarig - därför klassningen 'regeringsatgard'. KD redovisas även under noPositionFound avseende egen partiposition. Sökningen omfattade: kristdemokraterna.se: Vår politik och Politik A till Ö (sidorna Digitalisering och Innovation öppnade - ingen AI- eller arbetsmarknadskoppling; sida om AI saknas; sidan Kompetensförsörjning gav 404); Riksdagens öppna data (data.riksdagen.se): motioner med sökning 'artificiell intelligens' för parti=KD - inga parti- eller kommittémotioner om AI och arbetsmarknaden under valperioden 2022-2026 (träffarna var äldre utgiftsområdesmotioner och en enskild motion om innovation); Webbsökningar (Kristdemokraterna + AI/arbetsmarknad/omställning) - endast lokala/regionala KD-dokument samt uttalanden av civilminister Erik Slottner i regeringsroll, vilka redovisas som regeringspolitik under positions.",
+    "sourceIds": [
+      "kd-webb-digitalisering",
+      "kd-uttalande-slottner-2026",
+      "gov-ai-strategi-2026",
+      "gov-ai-strategi-pm-2026"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "mp-arbetsmarknad",
+    "partyId": "mp",
+    "topicId": "arbetsmarknad",
+    "summary": "Miljöpartiet vill att effektiviseringar genom AI kommer människor till del, till exempel genom förkortad arbetstid eller mer tid för möten i välfärden, och att tekniken ska vara ett stöd och inte ersätta människor i samhällsviktiga verksamheter. Partiet föreslår ett brett kunskapslyft om AI samt fort- och vidareutbildning för yrkesverksamma.",
+    "detailedPosition": "Miljöpartiets AI-sida anger att 'effektiviseringar ska komma människor till del, till exempel genom mer tid för möten i vård, omsorg och skola eller genom förkortad arbetstid' och att 'tekniken ska vara ett stöd, inte ersätta människor i samhällsviktiga verksamheter'. I programfördjupningen En grön AI-politik (2023) föreslår partiet att AI-effektiviseringar 'tillvaratas på ett sätt som gynnar välmående, exempelvis genom förkortad arbetstid eller mer tid till mellanmänskliga möten i offentlig sektor' samt ett kunskapslyft om AI i offentlig sektor 'för att bland annat underlätta en omställning av arbetslivet med livslångt lärande, kunskapsutveckling och vidareutbildning'. I kommittémotionen En grön AI-politik (2025/26:3425) yrkar partiet på 'en kraftfull satsning på utbildning, inklusive fort- och vidareutbildning för yrkesverksamma' inom AI och ansluter sig till AI-kommissionens förslag om stöd till folkbildning; motionen noterar också människors oro för den egna arbetsplatsens utveckling och möjligheten att söka nya jobb. Yrkandena avslogs i riksdagen (bl.a. bet. 2025/26:TU8). Tolkning: partiet kombinerar en välfärds- och arbetstidsinriktad fördelningslinje med breda utbildningssatsningar.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "partiprogram",
+      "motion"
+    ],
+    "confidenceExplanation": "Tre samstämmiga partikällor: AI-sidan på mp.se (öppnad), programfördjupningen En grön AI-politik 2023 (PDF öppnad i fulltext) och kommittémotion 2025/26:3425 (öppnad i fulltext). Positionen är uttrycklig om både fördelning av effektivitetsvinster och omställning/vidareutbildning.",
+    "sourceIds": [
+      "mp-webb-ai",
+      "mp-programfordjupning-ai-2023",
+      "mp-mot-2025-3425"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "l-arbetsmarknad",
+    "partyId": "l",
+    "topicId": "arbetsmarknad",
+    "summary": "Liberalerna förespråkar en teknikoptimistisk nationell AI-politik med satsningar på forskning och på att utbilda fler inom teknik, matematik och naturvetenskap, men partiets AI- och arbetsmarknadssidor innehåller ingen uttalad politik om AI:s effekter på jobb, omställning eller arbetstagares villkor. Som regeringsparti står L bakom Sveriges AI-strategi (februari 2026), som behandlar arbetsmarknad och omställning.",
+    "detailedPosition": "Liberalernas AI-sida (AI och teknikutveckling) driver en nationell AI-strategi, innovationsvänliga regler, mer AI-forskning och stärkt europeiskt tekniskt oberoende, samt anger att 'Sverige behöver utbilda fler människor inom teknik, matematik och naturvetenskap för att stärka konkurrenskraften' - en kompetensförsörjningslinje som indirekt berör arbetsmarknaden. Partiets arbetsmarknadssida (trösklar, inträdesjobb, arbetslinjen) nämner inte AI. På individnivå har riksdagsledamoten Helena Gellerman (L) i den enskilda motionen En hem-chatt-reform (2025/26:3808) argumenterat för att privat AI-användning rustar människor för arbetslivet; detta är en enskild motion och inte partilinje. Som regeringsparti står L bakom Sveriges AI-strategi (beslutad februari 2026) med skrivningar om att AI omformar arbetsinnehåll, yrken och kompetensbehov samt om omställning via arbetsmarknadens parter - detta är regeringspolitik och inte partiets eget program. Tolkning: partiets egen dokumenterade AI-politik fokuserar på innovation, forskning och utbildning snarare än på arbetsmarknadsomställning.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "regeringspolitik",
+      "enskilt_uttalande"
+    ],
+    "confidenceExplanation": "Partiets AI-sida och arbetsmarknadssida öppnades båda: AI-sidan berör kompetens/utbildning men inte AI:s jobbeffekter; arbetsmarknadssidan nämner inte AI (verifierat 2026-07-15). Den enda riksdagsmotion från L om AI och arbetslivet som hittades är en enskild motion (Gellerman), redovisad som individnivå. Regeringens AI-strategi redovisas som regeringspolitik. Därför 'indirekt_berord'.",
+    "sourceIds": [
+      "l-webb-ai",
+      "l-webb-arbetsmarknad",
+      "l-mot-2025-3808",
+      "gov-ai-strategi-2026"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-strategi",
+    "partyId": "s",
+    "topicId": "strategi",
+    "summary": "Socialdemokraterna vill att Sverige ska vara världsledande på att använda digitaliseringens och AI:s möjligheter och kräver att regeringen omedelbart tar fram en uppdaterad nationell AI-strategi där klass- och rättviseperspektiv ingår. Partiet kritiserar regeringen för bristande politiskt ledarskap på AI-området och föreslår riktade investeringar i AI-kompetens.",
+    "detailedPosition": "I kommittémotionen 2025/26:3652 anges målet att Sverige ska vara bäst i världen på att utveckla digitaliseringens möjligheter. Partiet hänvisar till AI-kommissionens slutsats att bristen på politiskt ledarskap är en av Sveriges största AI-utmaningar och uppger att man direkt efter kommissionens rapport (november 2024) krävde att regeringen omedelbart skulle ta fram en ny AI-strategi; motionen yrkar att en uppdaterad AI-strategi måste innehålla perspektiven klass och rättvisa och att strategin ska utgå från att AI ska ge fler jobb och trygga medborgare. Ekonomiskt föreslog partimotionen våren 2025 300 miljoner kronor för AI-kompetens och ett första svenskt excellenscenter för AI, och budgetmotionen hösten 2025 en tillväxtpakt med 300 miljoner kronor till framtidsteknologier som AI samt 100 miljoner kronor till Vinnova. Kongressdokumenten 2025 slår fast att AI måste användas och styras mot mänsklig nytta och att partiet löpande ska utarbeta sakpolitik på området. Historisk bakgrund: den S-ledda regeringen presenterade 2018 Sveriges första nationella inriktning för AI (historisk regeringspolitik, inte nuvarande partidokument).",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "motion",
+      "budgetforslag",
+      "partiprogram",
+      "regeringspolitik"
+    ],
+    "confidenceExplanation": "Flera samstämmiga partinivåkällor 2024–2026 (partimotioner, kommittémotioner, kongressdokument) med både mål, kritik och konkreta anslagsförslag.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-mot-2425-3415",
+      "s-kalla-mot-2526-3551",
+      "s-kalla-kongress-b-2025",
+      "s-kalla-riktlinjer-2025",
+      "s-kalla-regeringen-ai-2018"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-utbildning",
+    "partyId": "s",
+    "topicId": "utbildning",
+    "summary": "Partiet vill att AI integreras i undervisningen så att både elever och lärare kan använda tekniken, att AI-kompetens och källkritik stärks i grund- och gymnasieskolan, och föreslår att ett lärosäte får leda ett nationellt resurscentrum för AI i utbildningssektorn, bland annat för metoder att upptäcka fusk.",
+    "detailedPosition": "Kommittémotionen 2025/26:3810 yrkar att myndigheterna på utbildningsområdet ska följa AI-utvecklingen och bygga förmåga att hantera möjligheter och risker, samt att ett lärosäte bör få i uppdrag att leda ett resurscentrum för AI-utveckling i utbildningssektorn – exempelvis metoder för att upptäcka fusk vid examinationer och metoder att använda AI på ett bra sätt. Kommittémotionen 2025/26:3652 anger att AI-kompetens och källkritik är viktiga moment i grund- och gymnasieskolan och att AI behöver integreras i undervisningen. Partiet vill även bygga ut yrkeshögskolan och yrkesvux med hänvisning till AI-driven omställning samt satsa på AI-kompetens i folkbildningen och folkbiblioteken (vårmotionen 2025). De kongressbeslutade riktlinjerna 2025 vill att skoltiden är mobilfri och att skolan lär ut källkritik och ansvarsfullt agerande på plattformar (angränsande, ej AI-specifikt).",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "budgetforslag",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Konkreta riksdagsyrkanden på partinivå (resurscentrum, myndighetsuppdrag) kompletterade med generella skrivningar om AI i undervisningen.",
+    "sourceIds": [
+      "s-kalla-mot-2526-3810",
+      "s-mot-2025-3652",
+      "s-kalla-mot-2425-3415",
+      "s-kalla-riktlinjer-2025"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-naringsliv",
+    "partyId": "s",
+    "topicId": "naringsliv",
+    "summary": "Partiet föreslår riktade investeringar i AI för konkurrenskraft: ett första svenskt excellenscenter för AI, en tillväxtpakt med 300 miljoner kronor till framtidsteknologier som AI, 100 miljoner kronor till Vinnova, en 500-miljonersfond för att attrahera ledande forskare samt ett samverkansprogram för AI mellan akademi, näringsliv och politik.",
+    "detailedPosition": "I vårmotionen 2025 föreslås 300 miljoner kronor för svensk AI-kompetens och konkurrenskraft (bl.a. excellenscenter för AI och kombinationstjänster forskare/arbetsliv) samt en treårig fond på 500 miljoner kronor för att attrahera ledande forskare inom bl.a. AI. Budgetmotionen 2025/26:3551 innehåller en tillväxtpakt där 300 miljoner kronor investeras i framtidsteknologier som AI tillsammans med näringslivet, plus 100 miljoner kronor till Vinnova. Näringslivsmotionen 2025/26:3593 vill se en nationell innovationsstrategi, fortsatta satsningar på AI, fortsatt svensk medverkan i EU:s DIGITAL-program och ett samverkansprogram för AI; etableringen av AI-infrastruktur i Strängnäs beskrivs som bevis på Sveriges attraktivitet. Motion 2025/26:3652 vill ge Vinnova och Tillväxtverket bredare AI-uppdrag och undanröja hinder för AI-användning (kompetensbrist, datahantering, otydlig regeltolkning). Forskningsmotionen 2024/25:3309 yrkar på ökad forskning om AI-tillämpning för produktivitet i näringslivet och välfärden.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "budgetforslag",
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Flera konkreta, budgetsatta förslag i partimotioner samt yrkanden i kommittémotioner.",
+    "sourceIds": [
+      "s-kalla-mot-2425-3415",
+      "s-kalla-mot-2526-3551",
+      "s-kalla-mot-2526-3593",
+      "s-kalla-mot-2425-3309",
+      "s-mot-2025-3652"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-offentlig-sektor",
+    "partyId": "s",
+    "topicId": "offentlig-sektor",
+    "summary": "Partiet vill öka AI-användningen i offentlig förvaltning för snabbare service och stora effektivitetsvinster, med utökat statligt stöd till kommuner och regioner, bättre tillgång till data och tydliggjord ansvarsfördelning när AI används i myndighetsbeslut. AI ska också användas i kontrollarbetet mot välfärdsbrott och arbetslivskriminalitet.",
+    "detailedPosition": "Motion 2025/26:3652 hänvisar till Diggs bedömning om en besparingspotential på upp till 140 miljarder kronor vid ökad digitalisering, vill att Digg främjar datadelning mellan offentliga aktörer, att staten undanröjer hinder för AI-projekt i myndigheter (kompetensbrist, resursbrist, otydliga EU-tolkningar) och att statligt stöd till kommuners och regioners AI-användning ses över; effektivare offentlig upphandling med hjälp av AI lyfts också. Partistyrelsens kongressutlåtande 2025 betonar att AI kan misstolka lagstiftning och fatta felaktiga beslut som påverkar enskildas fri- och rättigheter och att oklarheter om ansvarsfördelning vid AI i myndighetsbeslut behöver adresseras. Vårmotionen 2026 vill att AI och ny teknik förenklar rutinuppgifter i välfärden så att personalen får mer tid för kärnverksamheten. Riktlinjerna 2025 och motion 2025/26:3590 vill utöka användningen av AI-teknologi i kontrollarbetet mot arbetslivskriminalitet och annan brottslighet.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram",
+      "budgetforslag"
+    ],
+    "confidenceExplanation": "Detaljerade och samstämmiga skrivningar i flera partinivådokument, inklusive uttrycklig hållning om ansvarsfrågan vid automatiserade myndighetsbeslut.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-kongress-b-2025",
+      "s-mot-2026-4101",
+      "s-kalla-riktlinjer-2025",
+      "s-kalla-mot-2526-3590"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-vard-omsorg",
+    "partyId": "s",
+    "topicId": "vard-omsorg",
+    "summary": "Partiet vill se politiska åtgärder för förstärkt innovations- och AI-kapacitet i hela hälso- och sjukvårdssystemet, en enhetlig digital infrastruktur i vården i stället för 21 olika regionala system, och ett brett, rättssäkert införande av välfärdsteknik i äldreomsorgen som komplement till – inte ersättning för – personalen.",
+    "detailedPosition": "Kommittémotionen 2025/26:3645 konstaterar att Sverige inte omsätter innovationer och AI-lösningar i vården i tillräcklig omfattning och kräver politiska åtgärder för förstärkt innovations- och AI-kapacitet; den yrkar även på riktade medel för innovationsarbete i vården samt på ett brett och rättssäkert breddinförande av välfärdsteknik i äldreomsorgen (trygghetslarm med GPS, läkemedelsrobotar, kameror) där staten stödjer kommunerna och juridiska hinder undanröjs. Motion 2025/26:3652 framhåller att AI kan bidra till tidigare sjukdomsdiagnoser och föreslår som första steg en enhetlig, gemensam digital infrastruktur i vården. Riktlinjerna 2025 vill se mer välfärdsteknik i äldreomsorgen för att stärka de äldres självständighet. Motionen 3645 hänvisar också till att en tidigare S-ledd regering tillsatte utredningen om välfärdsteknik (historisk regeringspolitik).",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Konkreta riksdagsyrkanden på kommittémotionsnivå; patientsäkerhets- och patientdatafrågor kopplade till AI berörs däremot endast indirekt.",
+    "sourceIds": [
+      "s-kalla-mot-2526-3645",
+      "s-mot-2025-3652",
+      "s-kalla-riktlinjer-2025",
+      "s-mot-2026-4101"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-integritet",
+    "partyId": "s",
+    "topicId": "integritet",
+    "summary": "Partiet driver två parallella linjer: dels vill det ge polisen utökade AI-verktyg, inklusive lagstöd för realtidskameraövervakning med ansiktsigenkänning kopplad till det nya biometriregistret, dels kräver det tydliga regler för datalagring, dataanvändning och integritetsskydd och varnar för AI-driven övervakning och kartläggning av enskilda.",
+    "detailedPosition": "I följdmotionen 2024/25:3246 om biometripropositionen och i kommittémotionen 2025/26:3586 kräver partiet att regeringen snarast lägger fram lagförslag som ger polisen möjlighet till realtidskameraövervakning med ansiktsigenkänning via biometriregistret, med en tillståndsordning för biometrisk fjärridentifiering i realtid; de kongressbeslutade riktlinjerna 2025 vill utveckla kamerabevakning med ansiktsigenkänning, hemlig dataavläsning och AI-baserade verktyg mot gängkriminalitet. Samtidigt anför motion 2025/26:3652 att personlig integritet kräver ansvarsfull reglering av AI, att var och en ska ha rätt till sin egen data, att AI-användning i övervakningssyfte i auktoritära regimer är en varnande utveckling och att konsekvenserna av öppna persondatabaser i kombination med AI-verktyg inte går att förutse; motion 2025/26:3721 förutsätter lagstiftning som begränsar grundlagsskyddet för integritetskänsliga söktjänster. Tolkning: partiet förespråkar samtidigt utökade polisiära AI-befogenheter och stärkt integritetsskydd på andra områden; källorna redovisar ingen samlad avvägning mellan dessa linjer.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Båda linjerna är väldokumenterade på partinivå med konkreta lagstiftningskrav (ansiktsigenkänning) respektive principiella skrivningar (integritetsskydd).",
+    "sourceIds": [
+      "s-kalla-mot-2425-3246",
+      "s-kalla-mot-2526-3586",
+      "s-kalla-riktlinjer-2025",
+      "s-mot-2025-3652",
+      "s-kalla-mot-2526-3721"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-demokrati",
+    "partyId": "s",
+    "topicId": "demokrati",
+    "summary": "Partiet vill bryta de stora teknikbolagens kontroll över digital kommunikation och AI, kräver transparens kring plattformarnas algoritmer och effektiva sanktioner enligt EU:s regler om digitala tjänster, och varnar för att AI ökar riskerna för desinformation, manipulation och valpåverkan.",
+    "detailedPosition": "Partiprogrammet 2025 beskriver att riskerna ökat när plattformarna kontrolleras av ett fåtal stora globala teknikbolag, inte minst i AI-utvecklingen, och sätter upp målen 'Brutna oligopol och demokratiska spelregler för digital kommunikation och artificiell intelligens' samt åtgärder mot desinformation. Riktlinjerna 2025 kräver större transparens kring algoritmerna bakom plattformarna och effektiva sanktioner mot plattformar som inte följer EU:s regler om digitala tjänster, för att bl.a. motverka desinformation som undergräver fria val. Motion 2025/26:3652 kräver plattformsansvar mot hat, hot och påverkansoperationer och en ny strategi mot hot och hat i den digitala miljön. Budgetmotionen 2025/26:3551 konstaterar att riskerna för manipulation, desinformation och bedrägerier ökar med AI och vill förstärka Konsumentverket. På individnivå (enskild motion 2025/26:1815, ej belagd partilinje) föreslås utredning om obligatorisk vattenstämpel/märkning av AI-genererat bild- och filmmaterial.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "partiprogram",
+      "motion",
+      "budgetforslag"
+    ],
+    "confidenceExplanation": "Kongressbeslutade dokument och flera motioner ger en tydlig partilinje om plattformar, algoritmer och desinformation; krav på märkning av AI-material finns dock endast på enskild motionsnivå.",
+    "sourceIds": [
+      "s-kalla-partiprogram-2025",
+      "s-kalla-riktlinjer-2025",
+      "s-mot-2025-3652",
+      "s-kalla-mot-2526-3551",
+      "s-kalla-mot-2526-1815"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-forsvar",
+    "partyId": "s",
+    "topicId": "forsvar",
+    "summary": "Partiet vill att Sverige ligger i framkant i förståelse, användning och utveckling av AI på försvarsområdet och ser stora möjligheter för försvaret och försvarsindustrin. Det vill se gemensamma EU-innovationsprojekt kring försvarsteknik som AI och att EU tar fram etiska principer för AI i vapenteknologi, samt en offensiv politik mot cyberattacker.",
+    "detailedPosition": "Kommittémotionen 2025/26:3556 bedömer att AI får växande betydelse i konflikter, att Sverige bör agera snabbt för att ta tillvara möjligheterna för försvaret och försvarsindustrin, och att svenska statens insyn och kontroll måste säkras när molntjänster blivit en förutsättning för krigförande förmåga. De kongressbeslutade riktlinjerna 2025 vill ha fler gemensamma EU-innovationsprojekt kring försvarsteknik som AI, rymd- och cyberteknik samt att EU tar fram etiska principer för hur AI hanteras inom vapenteknologi. Motion 2025/26:3652 kräver en offensiv politik mot cyberattacker och dataintrång och konstaterar, med hänvisning till Försvarsberedningen, att cyberangrepp mot kritisk infrastruktur kan vara lika allvarliga som ett konventionellt militärt angrepp. Begreppet autonoma vapensystem behandlas inte uttryckligen i de granskade källorna.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Generell framkantsambition på partinivå plus ett konkret EU-krav (etiska principer för AI i vapenteknologi) i kongressbeslutade riktlinjer.",
+    "sourceIds": [
+      "s-kalla-mot-2526-3556",
+      "s-kalla-riktlinjer-2025",
+      "s-mot-2025-3652"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-kultur-upphovsratt",
+    "partyId": "s",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Partiet kräver i ett riksdagsyrkande en fungerande upphovsrätt i ljuset av AI-utvecklingen och vill säkerställa att rättighetshavarnas möjligheter att utöva sina rättigheter inte urholkas. Det vill också att en bred parlamentarisk utredning tar fram en framtidens mediepolitik mot bakgrund av AI:s påverkan på journalistiken.",
+    "detailedPosition": "Näringslivsmotionen 2025/26:3593 yrkar på 'behovet av en fungerande upphovsrätt i ljuset av utvecklingen inom AI', konstaterar att det immaterialrättsliga regelverket halkar efter AI- och digitaliseringsutvecklingen och vill modernisera och harmonisera det; de kulturella och kreativa näringarnas rättigheter ska inte urholkas. Motion 2025/26:3721 bedömer att AI-framstegen drastiskt kan förändra förutsättningarna för medier och journalistik och vill ge en bred parlamentarisk utredning i uppdrag att ta fram en mediepolitik för framtiden; budgetmotionen 2025/26:3551 avvisar nedskärningar av mediestödet. Partiprogrammet 2025 anger som allmän princip upphovsrätt, trygga villkor och skälig ersättning för konstnärliga yrkesutövare samt grundlagsskyddad public service (ej AI-specifikt). Konkreta modeller för ersättning till kreatörer vid AI-träning på skyddat material har inte påträffats i källorna.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram",
+      "budgetforslag"
+    ],
+    "confidenceExplanation": "Ett uttryckligt AI-relaterat upphovsrättsyrkande på kommittémotionsnivå; detaljer om ersättningsmodeller saknas dock.",
+    "sourceIds": [
+      "s-kalla-mot-2526-3593",
+      "s-kalla-mot-2526-3721",
+      "s-kalla-partiprogram-2025",
+      "s-kalla-mot-2526-3551"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-reglering",
+    "partyId": "s",
+    "topicId": "reglering",
+    "summary": "Partiet anser att EU:s AI-förordning måste genomföras och integreras med hänsyn till bland annat klass- och rättviseperspektiv, att AI-användningen ska regleras och inte överlämnas till marknadskrafterna, och att ansvarsfördelningen när AI används i myndighetsbeslut behöver klargöras. Regelverken ska samtidigt vara flexibla så att konkurrenskraften inte hämmas.",
+    "detailedPosition": "Motion 2025/26:3652 slår fast att den beslutade rättsakten om artificiell intelligens (AI-förordningen) måste genomföras och integreras, att användningen av AI ska regleras och att området inte i sin helhet får överlämnas till marknadskrafterna; samtidigt ska lagstiftningen vara flexibel med tydliga gränsdragningar, inte uppenbart krångligare än till exempel USA:s regelverk, och 'vi ska inte använda personlig integritet som svepskäl där inga integritetsproblem faktiskt finns'. Öppen källkodsmjukvara beskrivs som av stort intresse för offentlig sektor eftersom ett fåtal aktörer dominerar infrastrukturen. Vinnova och Tillväxtverket föreslås stötta små och medelstora företag i tillämpningen av regelverken. Partistyrelsens kongressutlåtande 2025 pekar på att felaktiga AI-beslut kan påverka enskildas fri- och rättigheter och att gränsdragningsproblem om ansvar behöver adresseras. Partiprogrammet 2025 kräver en väl fungerande digital inre marknad i EU 'med tydlig reglering av artificiell intelligens och algoritmer'.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Sammanhängande reglerings- och ansvarshållning i både riksdagsmotioner och kongressbeslutade dokument; specifik tillsynsorganisation för AI-förordningen behandlas dock inte.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-kongress-b-2025",
+      "s-kalla-partiprogram-2025"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-suveranitet",
+    "partyId": "s",
+    "topicId": "suveranitet",
+    "summary": "Partiet betonar att kritisk digital infrastruktur för Sveriges säkerhet aldrig får säljas ut eller kontrolleras av aktörer utan samhällsansvar, att tillräcklig datalagring och beräkningskraft för AI måste säkerställas och att statens insyn och kontroll över molntjänster ska säkras. Det vill även införa ett statligt e-legitimationssystem och ser risker i att ett fåtal globala teknikbolag dominerar AI-utvecklingen.",
+    "detailedPosition": "Motion 2025/26:3652 kräver demokratisk kontroll över nationellt avgörande digital infrastruktur, framhåller att det för AI är avgörande att säkerställa tillräcklig datalagring och beräkningskraft, och yrkar på ett statligt nationellt elektroniskt identifieringssystem som komplement till det bankägda Bank-id; att ett fåtal stora globala teknikbolag kontrollerar plattformar och AI-utveckling beskrivs som en risk för styrning och självständighet, vilket gör öppen källkod intressant för offentlig sektor. Försvarsmotionen 2025/26:3556 anser att lösningar måste sökas för försvarets beroende av molntjänster och att svenska statens insyn och kontroll är oerhört angelägen. Näringslivsmotionen 2025/26:3593 ser positivt på AI-infrastrukturetableringen i Strängnäs och vill ha fortsatt svensk medverkan i EU:s DIGITAL-program. Någon specifik politik för svenska språkmodeller har inte påträffats; språkmodeller nämns som verktyg i förvaltningen.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Tydliga principskrivningar och ett konkret e-legitimationsyrkande, men ingen samlad AI-suveränitetsstrategi (t.ex. superdatorer eller svenska språkmodeller) i de granskade källorna.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-mot-2526-3556",
+      "s-kalla-mot-2526-3593"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-jamlikhet",
+    "partyId": "s",
+    "topicId": "jamlikhet",
+    "summary": "Partiet kräver att den nationella AI-strategin innehåller klass- och rättviseperspektiv, vill ge medborgare möjlighet till utbildning i AI och omställning när arbetsuppgifter förändras, och vill motverka alla former av digitalt utanförskap – inklusive likvärdig tillgång för landsbygd, äldre och personer med funktionsnedsättning.",
+    "detailedPosition": "Motion 2025/26:3652 yrkar att uppdateringen av AI-strategin måste innehålla perspektiven klass och rättvisa samt att möjligheten till AI-utbildning för medborgare och omställning ses över; den kräver fortsatt bredbandsstöd där marknaden inte räcker till, att digitala betaltjänster inte får exkludera grupper, en miniminivå för kontantanvändning, likvärdig tillgång för personer med funktionsnedsättning och att den digitala klyftan mellan generationer sluts. Vårmotionen 2025 föreslår en bred AI-kompetenssatsning i folkbildningen och folkbiblioteken. Partiprogrammet 2025 anger målet att ingen lämnas utanför strukturomvandlingen när AI får en större roll, och partistyrelsens kongressutlåtande betonar jämställdhet och inkludering i AI-utvecklingen. Algoritmisk diskriminering som specifik fråga behandlas inte uttryckligen i de granskade källorna.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram",
+      "budgetforslag"
+    ],
+    "confidenceExplanation": "Flera konkreta yrkanden och budgetförslag med uttalat fördelningsperspektiv; luckan gäller specifikt algoritmisk diskriminering.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-mot-2425-3415",
+      "s-kalla-partiprogram-2025",
+      "s-kalla-kongress-b-2025"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-barn-unga",
+    "partyId": "s",
+    "topicId": "barn-unga",
+    "summary": "Partiet vill införa fungerande åldersgränser på sociala medier, ställa tydligare krav på algoritmer som riktas till minderåriga och skärpa plattformsföretagens ansvar. Det vill också utreda kriminalisering av deepfake-pornografi och skydda minderåriga genom effektiva ålderskontroller.",
+    "detailedPosition": "Motion 2025/26:3652 yrkar på översyn av fungerande åldersgränser på sociala medier-plattformar, tydligare krav på algoritmer riktade till minderåriga och plattformarnas ansvar för användarkännedom. De kongressbeslutade riktlinjerna 2025 beskriver plattformarnas algoritmer som beroendeframkallande och vill se hårdare regler för plattformsföretagen kring algoritmer samt effektiva ålderskontroller för visst innehåll; skoltiden ska vara mobilfri. Kommittémotionen 2025/26:3591 vill tillsätta en utredning för att kriminalisera s.k. deepfake-pornografi, ålägga nätoperatörer större ansvar mot sexuell exploatering av barn och skydda minderåriga från våldsglorifierande pornografi genom ålderskontroller; en stödlinje för barn att få bort övergreppsmaterial från nätet föreslås. Frågan om deepfakeporr väcktes 2023 i en enskild motion (individnivå). AI-kompisar/chattbottar riktade till barn behandlas inte i de granskade källorna.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Konkreta yrkanden på kommittémotionsnivå och kongressbeslutade skrivningar; AI-specifika barnfrågor utöver deepfakes och algoritmer saknas.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-riktlinjer-2025",
+      "s-kalla-mot-2526-3591",
+      "s-kalla-mot-2324-2509"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-miljoavtryck",
+    "partyId": "s",
+    "topicId": "miljoavtryck",
+    "summary": "Partiet uppmärksammar att datakraften för att driva AI är mycket energikrävande och att världens datacenter redan orsakar större koldioxidutsläpp än flyget. För att nå energieffektivitet vill det bland annat samlokalisera datahallar med fjärrvärmenät så att överskottsvärmen tas tillvara.",
+    "detailedPosition": "I motionerna 2024/25:3127 och 2025/26:3652 konstaterar partiet att AI:s energiförbrukning är en utmaning som sällan uppmärksammas, att världens datacenter redan står för större koldioxidutsläpp än flyget och att elförbrukningen kommer att behöva öka i takt med växande processorkapacitet. Partiet pekar på samlokalisering av datahallar med fjärrvärmenät som en energieffektivitetsåtgärd där framgångsrika exempel bör skalas upp. Inga förslag om rapporteringskrav för AI:s miljöpåverkan eller om vattenanvändning i datacenter har påträffats i de granskade källorna.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Problembeskrivning och en utpekad åtgärdsriktning i två på varandra följande kommittémotioner, men inga skarpa styrmedelsförslag.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-mot-2425-3127"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-hallbarhetsverktyg",
+    "partyId": "s",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Partiet vill bejaka teknikutveckling som ökar hållbarheten och ser digitalisering och AI som avgörande verktyg för smarta elnät, energieffektivisering och klimatomställningen, med tillämpningar inom bland annat transporter, jordbruk och skogsbruk.",
+    "detailedPosition": "Motion 2025/26:3652 yrkar att riksdagen ska ställa sig bakom att bejaka teknikutveckling som bidrar till ökad hållbarhet, beskriver digitalisering och AI som centrala när en växande andel väderberoende elproduktion kräver smarta elnät och flexibel elanvändning, och ger exempel som maskininlärningsalgoritmer för energieffektiva fartygsrutter, drönarleveranser till glesbygd samt utvecklingsmöjligheter i jord- och skogsbruk. Energimotionen 2025/26:3594 vill att Svenska kraftnät använder digitalisering, AI och lagringstekniker för att klara den stora ökningen av elanvändning och elproduktion. De kongressbeslutade riktlinjerna 2025 beskriver grön teknik och AI som de stora teknikskiften som ska mötas med aktiv närings- och klimatpolitik.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Återkommande och samstämmiga skrivningar på partinivå, men mestadels som möjlighetsbeskrivningar snarare än specifika program.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-mot-2526-3594",
+      "s-kalla-riktlinjer-2025"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-rekyleffekter",
+    "partyId": "s",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen uttrycklig ståndpunkt om rekyleffekter har påträffats. Partiet berör dock spänningen: det framhåller digitaliseringens och AI:s effektiviserings- och miljövinster men konstaterar samtidigt att AI:s energibehov och datacentrens elförbrukning kommer att fortsätta öka.",
+    "detailedPosition": "Motion 2025/26:3652 lyfter å ena sidan att digitaliseringen kan ge stora miljövinster ('den mest tidsbesparande och miljövänliga resan är den som inte behöver göras alls') och å andra sidan att datakraften för AI är enormt energikrävande och att elförbrukningen kommer att behöva öka ytterligare i takt med att processorkapaciteten växer. Tolkning: partiet redovisar båda sidorna – effektiviseringspotential och växande total energianvändning – men tar inte ställning till rekyleffekter som fenomen och föreslår inga åtgärder specifikt riktade mot dem.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Endast indirekt beröring i digitaliseringsmotionerna; begreppet rekyleffekt eller motsvarande resonemang om nettoeffekter förekommer inte i de granskade källorna.",
+    "sourceIds": [
+      "s-mot-2025-3652",
+      "s-kalla-mot-2425-3127"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-social-hallbarhet",
+    "partyId": "s",
+    "topicId": "social-hallbarhet",
+    "summary": "Partiet betonar att AI:s produktivitetsvinster inte fördelas rättvist av sig själva – varken mellan branscher, regioner eller sociala grupper – och kräver demokratisk styrning, aktiv omställningspolitik och starkt socialförsäkringsskydd. Produktivitetsökningarna ska omsättas i både ökad levnadsstandard och kortare arbetstid.",
+    "detailedPosition": "Partiprogrammet 2025 slår fast att AI:s produktivitetsvinster måste fördelas rättvist genom demokratisk styrning, att samhällets produktivitetsökningar ska omsättas i både ökad levnadsstandard och kortare arbetstid samt att ingen ska lämnas utanför strukturomvandlingen. De kongressbeslutade riktlinjerna 2025 kopplar uttryckligen AI- och digitaliseringsutvecklingen till potential för kortare arbetstid och anger att arbetstiden behöver kortas, i första hand via parterna. Motion 2025/26:3652 konstaterar att AI:s vinster inte kommer att fördelas rättvist mellan branscher, regioner eller sociala grupper utan aktiv politik och en drivande fackföreningsrörelse, och kräver utbildning i AI samt stöd i omställningen för dem som riskerar att förlora jobbet. Vårmotionen 2026 varnar för att AI-driven strukturomvandling riskerar öka arbetslösheten bland yngre akademiker.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "partiprogram",
+      "motion"
+    ],
+    "confidenceExplanation": "Ett av partiets mest genomarbetade AI-teman, förankrat i både kongressbeslutade dokument och riksdagsmotioner 2024–2026.",
+    "sourceIds": [
+      "s-kalla-partiprogram-2025",
+      "s-kalla-riktlinjer-2025",
+      "s-mot-2025-3652",
+      "s-mot-2026-4101"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "s-byggd-miljo",
+    "partyId": "s",
+    "topicId": "byggd-miljo",
+    "summary": "Ingen dokumenterad ståndpunkt om AI i byggande och samhällsbyggnad hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade partiets riksdagsmotioner under valperioden (inklusive utgiftsområdesmotionen för samhällsplanering, bostadsförsörjning och byggande), partiprogrammet och de politiska riktlinjerna från kongressen 2025 samt partiets webbplats. Ingen ståndpunkt om AI i arkitektur, byggande, bygglov eller förvaltning av byggd miljö påträffades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Riksdagens öppna data (dokumentlista, doktyp=mot, parti=S, 2022–2026) med söktermer: 'AI byggsektorn', 'AI byggande', 'artificiell intelligens'; Motion 2025/26:3647 Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande – AI nämns endast i avsnittet om Konsumentverket, inte om byggande eller bygglov; Motion 2025/26:3652 En digital politik som bygger jämlikhet och tillväxt – innehåller endast ett exempel om att digitala nät bör installeras i samband med tunnelbyggen; Socialdemokraternas partiprogram 2025 och politiska riktlinjer 2025 (fulltextsökning på AI/artificiell/algoritm/digitalisering); socialdemokraterna.se via webbsökning (site:socialdemokraterna.se artificiell intelligens); ingen A–Ö-sida om AI eller digitalisering kunde öppnas (404).",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-15"
+  }
+]

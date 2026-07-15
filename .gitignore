@@ -1,0 +1,16 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# environment
+.env
+.env.*
+
+# generated reports (committed snapshots live in docs/rapporter/)
+.tmp/
+
+# OS
+.DS_Store

@@ -1,0 +1,85 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import SourceItem from "@/components/SourceItem.astro";
+import SectionLabel from "@/components/SectionLabel.astro";
+import { getCollection } from "astro:content";
+import { SOURCE_TYPE_LABELS } from "@/lib/evidence";
+import type { SourceType } from "@/lib/schema";
+
+const sources = await getCollection("sources");
+
+/** Gruppera per källtyp i källhierarkins ordning. */
+const hierarchyOrder: SourceType[] = [
+  "partiwebb",
+  "partiprogram",
+  "valmanifest",
+  "motion",
+  "riksdagsfraga",
+  "riksdagsdebatt",
+  "utskottsbetankande",
+  "votering",
+  "proposition",
+  "regeringsbeslut",
+  "koalitionsavtal",
+  "sou",
+  "myndighetsrapport",
+  "myndighetswebb",
+  "eu-dokument",
+  "uttalande",
+  "media",
+  "expertanalys",
+  "ovrigt",
+];
+
+const groups = hierarchyOrder
+  .map((type) => ({
+    type,
+    label: SOURCE_TYPE_LABELS[type],
+    items: sources
+      .filter((s) => s.data.sourceType === type)
+      .sort((a, b) =>
+        (b.data.publicationDate ?? "").localeCompare(a.data.publicationDate ?? ""),
+      ),
+  }))
+  .filter((g) => g.items.length > 0);
+---
+
+<BaseLayout
+  title="Källförteckning"
+  description="Alla källor som ligger till grund för webbplatsens innehåll: dokument, datum, utdrag och förklaring av vad varje källa stödjer."
+>
+  <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
+    <header class="border-b border-border py-10">
+      <div class="bi-mono">Transparens · {sources.length} källor</div>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Källförteckning</h1>
+      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
+        Varje påstående på webbplatsen är kopplat till minst en källa. Här är
+        samtliga, grupperade enligt <a href="/metod/#kallhierarki" class="border-b border-border pb-px hover:text-foreground">källhierarkin</a>:
+        primära källor (partiernas eget material och riksdagens dokument)
+        prioriteras före medierapportering. För varje källa anges vad den
+        stödjer, när den publicerades och när vi hämtade den.
+      </p>
+    </header>
+
+    {
+      groups.map((group) => (
+        <section class="py-8">
+          <SectionLabel eyebrow={`${group.items.length} källor`} title={group.label} />
+          <div class="mt-6 space-y-3">
+            {group.items.map((s) => (
+              <SourceItem source={s} headingLevel="h3" />
+            ))}
+          </div>
+        </section>
+      ))
+    }
+
+    <footer class="mb-16 border-t border-border pt-6">
+      <p class="text-xs text-muted-foreground max-w-2xl">
+        Saknas en källa, eller har en länk slutat fungera?
+        <a href="/korrigeringar/" class="border-b border-border pb-px hover:text-foreground">Meddela oss</a>.
+        Länkar kontrolleras automatiskt vid varje uppdatering.
+      </p>
+    </footer>
+  </div>
+</BaseLayout>

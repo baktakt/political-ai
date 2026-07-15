@@ -1,0 +1,27 @@
+---
+/**
+ * Markerar att en kombination av parti och ämne ännu inte granskats.
+ * Skiljer sig medvetet från "Ingen dokumenterad ståndpunkt hittades",
+ * som är ett granskningsresultat.
+ */
+interface Props {
+  compact?: boolean;
+}
+const { compact = false } = Astro.props;
+---
+
+{
+  compact ? (
+    <span class="inline-flex items-center gap-1.5 border border-dashed border-border px-2 py-0.5 text-[11px] text-muted-foreground">
+      <span aria-hidden="true">…</span> Ännu ej granskat
+    </span>
+  ) : (
+    <div class="border border-dashed border-border p-4 text-sm text-muted-foreground">
+      <span class="bi-mono !text-[10px]">Ännu ej granskat</span>
+      <p class="mt-1.5">
+        Den här kombinationen av parti och ämne har ännu inte granskats i
+        researcharbetet. Det säger ingenting om partiets hållning.
+      </p>
+    </div>
+  )
+}

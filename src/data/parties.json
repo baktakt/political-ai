@@ -1,0 +1,201 @@
+[
+  {
+    "id": "c",
+    "name": "Centerpartiet",
+    "abbreviation": "C",
+    "officialUrl": "https://www.centerpartiet.se",
+    "color": "#009933",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 24,
+    "currentSeats": 24,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "opposition",
+    "governmentNote": null,
+    "summary": "Riksdagsparti med 24 mandat under valperioden 2022–2026. I opposition.",
+    "aiSummary": null,
+    "aiPriorities": [],
+    "sustainabilityPriorities": [],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022"
+    ]
+  },
+  {
+    "id": "kd",
+    "name": "Kristdemokraterna",
+    "abbreviation": "KD",
+    "officialUrl": "https://www.kristdemokraterna.se",
+    "color": "#000077",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 19,
+    "currentSeats": 19,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "regering",
+    "governmentNote": "Regeringsparti sedan oktober 2022 (koalition med M och L, samarbete med SD genom Tidöavtalet).",
+    "summary": "Riksdagsparti med 19 mandat under valperioden 2022–2026. Regeringsparti sedan oktober 2022.",
+    "aiSummary": null,
+    "aiPriorities": [],
+    "sustainabilityPriorities": [],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022",
+      "regeringen-tidoavtalet-bokslut-2026"
+    ]
+  },
+  {
+    "id": "l",
+    "name": "Liberalerna",
+    "abbreviation": "L",
+    "officialUrl": "https://www.liberalerna.se",
+    "color": "#006AB3",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 16,
+    "currentSeats": 16,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "regering",
+    "governmentNote": "Regeringsparti sedan oktober 2022 (koalition med M och KD, samarbete med SD genom Tidöavtalet).",
+    "summary": "Riksdagsparti med 16 mandat under valperioden 2022–2026. Regeringsparti sedan oktober 2022.",
+    "aiSummary": null,
+    "aiPriorities": [],
+    "sustainabilityPriorities": [],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022",
+      "regeringen-tidoavtalet-bokslut-2026"
+    ]
+  },
+  {
+    "id": "mp",
+    "name": "Miljöpartiet de gröna",
+    "abbreviation": "MP",
+    "officialUrl": "https://www.mp.se",
+    "color": "#83CF39",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 18,
+    "currentSeats": 18,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "opposition",
+    "governmentNote": null,
+    "summary": "Riksdagsparti med 18 mandat under valperioden 2022–2026. I opposition.",
+    "aiSummary": null,
+    "aiPriorities": [],
+    "sustainabilityPriorities": [],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022"
+    ]
+  },
+  {
+    "id": "m",
+    "name": "Moderaterna",
+    "abbreviation": "M",
+    "officialUrl": "https://www.moderaterna.se",
+    "color": "#52BDEC",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 68,
+    "currentSeats": 66,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "regering",
+    "governmentNote": "Statsministerparti sedan oktober 2022 (koalition med KD och L, samarbete med SD genom Tidöavtalet). Två ledamöter har lämnat partiet under valperioden och sitter kvar utan partibeteckning.",
+    "summary": "Riksdagsparti med 68 mandat i valet 2022 (66 ledamöter med partibeteckning i juli 2026). Statsministerparti sedan oktober 2022.",
+    "aiSummary": null,
+    "aiPriorities": [],
+    "sustainabilityPriorities": [],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022",
+      "regeringen-tidoavtalet-bokslut-2026"
+    ]
+  },
+  {
+    "id": "s",
+    "name": "Socialdemokraterna",
+    "abbreviation": "S",
+    "officialUrl": "https://www.socialdemokraterna.se",
+    "color": "#E8112D",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 107,
+    "currentSeats": 106,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "opposition",
+    "governmentNote": "I opposition sedan oktober 2022. Ledde regeringen fram till dess; äldre regeringsbeslut under S-ledning redovisas separat från partiets nuvarande politik. En ledamot har lämnat partiet under valperioden.",
+    "summary": "Riksdagens största parti med 107 mandat i valet 2022 (106 ledamöter med partibeteckning i juli 2026). I opposition sedan oktober 2022.",
+    "aiSummary": "Socialdemokraterna beskriver AI som avgörande för tillväxt, produktivitet och välfärd och vill att Sverige ska vara världsledande på att använda digitaliseringens möjligheter. Partiet kritiserar den sittande regeringen för bristande politiskt ledarskap efter AI-kommissionens rapport och kräver en uppdaterad nationell AI-strategi där klass- och rättviseperspektiv ingår. Det föreslår konkreta investeringar – bland annat ett svenskt excellenscenter för AI, en tillväxtpakt med AI-investeringar och förstärkt Vinnova – och vill använda AI brett i offentlig sektor, vård och brottsbekämpning, inklusive lagstöd för polisens realtidsansiktsigenkänning. Samtidigt betonar partiet reglering och fördelning: EU:s AI-förordning ska genomföras, plattformarnas algoritmer regleras, integriteten skyddas och produktivitetsvinsterna fördelas rättvist, bland annat genom omställningsstöd och på sikt kortare arbetstid.",
+    "aiPriorities": [
+      "Uppdaterad nationell AI-strategi med klass- och rättviseperspektiv",
+      "AI-kompetens i hela samhället: excellenscenter för AI, folkbildning, skola och yrkesutbildning",
+      "AI för effektivare offentlig förvaltning och välfärd, med tydlig ansvarsfördelning vid myndighetsbeslut",
+      "Utökade AI-verktyg i brottsbekämpningen, inklusive realtidskameraövervakning med ansiktsigenkänning",
+      "Reglering av plattformar och algoritmer samt genomförande av EU:s AI-förordning"
+    ],
+    "sustainabilityPriorities": [
+      "Digitalisering och AI för smarta elnät och energieffektivisering i klimatomställningen",
+      "Hantera datacentrens växande energianvändning, bl.a. genom samlokalisering av datahallar med fjärrvärmenät",
+      "Rättvis fördelning av AI:s produktivitetsvinster – omställningsstöd, starkt socialförsäkringsskydd och på sikt kortare arbetstid",
+      "Motverka digitalt utanförskap och säkra likvärdig digital tillgång i hela landet"
+    ],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022"
+    ]
+  },
+  {
+    "id": "sd",
+    "name": "Sverigedemokraterna",
+    "abbreviation": "SD",
+    "officialUrl": "https://www.sd.se",
+    "color": "#DDDD00",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 73,
+    "currentSeats": 70,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "samarbetsparti",
+    "governmentNote": "Ingår inte i regeringen men samarbetar med regeringspartierna M, KD och L genom Tidöavtalet (oktober 2022). Tre ledamöter har lämnat partiet under valperioden och sitter kvar utan partibeteckning.",
+    "summary": "Riksdagsparti med 73 mandat i valet 2022 (70 ledamöter med partibeteckning i juli 2026). Samarbetsparti till regeringen genom Tidöavtalet.",
+    "aiSummary": null,
+    "aiPriorities": [],
+    "sustainabilityPriorities": [],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022",
+      "regeringen-tidoavtalet-bokslut-2026"
+    ]
+  },
+  {
+    "id": "v",
+    "name": "Vänsterpartiet",
+    "abbreviation": "V",
+    "officialUrl": "https://www.vansterpartiet.se",
+    "color": "#DA291C",
+    "colorNote": "Identifikationsfärg såsom den förekommer i partiets grafiska material. Används här endast som visuell markör.",
+    "seats2022": 24,
+    "currentSeats": 21,
+    "parliamentaryStatus": "riksdagsparti",
+    "governmentStatus": "opposition",
+    "governmentNote": "I opposition. Tre ledamöter har lämnat partiet under valperioden och sitter kvar utan partibeteckning.",
+    "summary": "Riksdagsparti med 24 mandat i valet 2022 (21 ledamöter med partibeteckning i juli 2026). I opposition.",
+    "aiSummary": null,
+    "aiPriorities": [],
+    "sustainabilityPriorities": [],
+    "lastReviewedAt": "2026-07-15",
+    "verifiedAt": "2026-07-15",
+    "verificationSourceIds": [
+      "riksdagen-ledamoter-partier-2026",
+      "valmyndigheten-valresultat-2022"
+    ]
+  }
+]

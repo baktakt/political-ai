@@ -1,0 +1,493 @@
+[
+  {
+    "id": "s-mot-2025-3652-action",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "En digital politik som bygger jämlikhet och tillväxt (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3652",
+    "result": "Yrkandena avslagna i riksdagsbehandlingen (bl.a. bet. 2025/26:TU8, 2025/26:FiU22)",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "s-mot-2025-3652"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-mot-2026-4101-action",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Partimotion med anledning av 2026 års ekonomiska vårproposition",
+    "date": "2026-04-28",
+    "documentNumber": "2025/26:4101",
+    "result": "Behandlingsutfall ej verifierat vid research-tillfället",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "s-mot-2026-4101"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "sd-mot-2024-1424-action",
+    "partyId": "sd",
+    "actionType": "motion",
+    "title": "En tillförlitlig, konkurrenskraftig och hållbar svensk AI-politik (kommittémotion)",
+    "date": "2024-10-02",
+    "documentNumber": "2024/25:1424",
+    "result": "Yrkandena avslagna (bl.a. bet. 2024/25:UbU10, 2024/25:TU12)",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "c-mot-2025-3191-action",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Arbetsmarknad (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3191",
+    "result": "Yrkandena avslagna (bl.a. bet. 2025/26:AU2, AU9, AU10, AU12)",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "c-mot-2025-3191"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "c-mot-2026-4110-action",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Partimotion med anledning av 2026 års ekonomiska vårproposition",
+    "date": "2026-04-28",
+    "documentNumber": "2025/26:4110",
+    "result": "Behandlingsutfall ej verifierat vid research-tillfället",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "c-mot-2026-4110"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "v-mot-2025-307-action",
+    "partyId": "v",
+    "actionType": "motion",
+    "title": "Ordning och reda på arbetsmarknaden (partimotion)",
+    "date": "2025-09-25",
+    "documentNumber": "2025/26:307",
+    "result": "Yrkandena avslagna (bl.a. bet. 2025/26:AU10, AU12, FiU34)",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "v-mot-2025-307"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "v-mot-2025-2371-action",
+    "partyId": "v",
+    "actionType": "motion",
+    "title": "Arbetsmiljö och arbetstid (kommittémotion)",
+    "date": "2025-10-03",
+    "documentNumber": "2025/26:2371",
+    "result": "Yrkandena avslagna (bl.a. bet. 2025/26:AU10, AU12)",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "v-mot-2025-2371"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "mp-mot-2025-3425-action",
+    "partyId": "mp",
+    "actionType": "motion",
+    "title": "En grön AI-politik (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3425",
+    "result": "Yrkandena avslagna (bet. 2025/26:TU8, 2025/26:NU23)",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "mp-mot-2025-3425"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "l-mot-2025-3808-action",
+    "partyId": "l",
+    "actionType": "motion",
+    "title": "En hem-chatt-reform (ENSKILD motion, Helena Gellerman - ej partilinje)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3808",
+    "result": "Behandlingsutfall ej verifierat; redovisas endast som individnivå-aktivitet",
+    "partyLevel": false,
+    "topicIds": [
+      "arbetsmarknad"
+    ],
+    "sourceIds": [
+      "l-mot-2025-3808"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3652",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "En digital politik som bygger jämlikhet och tillväxt (kommittémotion, trafikutskottet)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3652",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "strategi",
+      "offentlig-sektor",
+      "jamlikhet",
+      "reglering",
+      "integritet",
+      "demokrati",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "suveranitet",
+      "barn-unga",
+      "utbildning",
+      "social-hallbarhet"
+    ],
+    "sourceIds": [
+      "s-mot-2025-3652"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2425-3127",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Digitaliseringspolitik för klimat, trygghet och tillväxt (kommittémotion)",
+    "date": "2024-10-04",
+    "documentNumber": "2024/25:3127",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "strategi",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "offentlig-sektor"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2425-3127"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2425-3415",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Partimotion med anledning av 2025 års ekonomiska vårproposition (300 mkr AI-satsning)",
+    "date": "2025-04-29",
+    "documentNumber": "2024/25:3415",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "strategi",
+      "naringsliv",
+      "utbildning",
+      "jamlikhet"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2425-3415"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3551",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Ny riktning för Sverige (partimotion, budgetmotion 2026)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3551",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "naringsliv",
+      "strategi",
+      "demokrati"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3551"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-4101",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Partimotion med anledning av 2026 års ekonomiska vårproposition",
+    "date": "2026-04-28",
+    "documentNumber": "2025/26:4101",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad",
+      "offentlig-sektor",
+      "vard-omsorg"
+    ],
+    "sourceIds": [
+      "s-mot-2026-4101"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2425-3246",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Följdmotion om prop. 2024/25:37 Biometri i brottsbekämpningen (kommittémotion)",
+    "date": "2024-10-29",
+    "documentNumber": "2024/25:3246",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "integritet"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2425-3246"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3586",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Utgiftsområde 4 Rättsväsendet (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3586",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "integritet",
+      "offentlig-sektor"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3586"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3590",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Utgiftsområde 14 Arbetsmarknad och arbetsliv (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3590",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "arbetsmarknad",
+      "offentlig-sektor"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3590"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3591",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Jämställdhet och mäns våld mot kvinnor (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3591",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "barn-unga",
+      "integritet"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3591"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3593",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Utgiftsområde 24 Näringsliv (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3593",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "naringsliv",
+      "kultur-upphovsratt",
+      "suveranitet"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3593"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3594",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Utgiftsområde 21 Energi (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3594",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "hallbarhetsverktyg"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3594"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3556",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Totalförsvarets beredskap (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3556",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "forsvar",
+      "suveranitet"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3556"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3810",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Utgiftsområde 16 Utbildning och universitetsforskning (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3810",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "utbildning"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3810"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3645",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Utgiftsområde 9 Hälsovård, sjukvård och social omsorg (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3645",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "vard-omsorg"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3645"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-3721",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Utgiftsområde 1 Rikets styrelse (kommittémotion)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3721",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "demokrati",
+      "integritet",
+      "kultur-upphovsratt"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-3721"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2425-3309",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Följdmotion om forsknings- och innovationspropositionen (kommittémotion)",
+    "date": "2025-01-22",
+    "documentNumber": "2024/25:3309",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": true,
+    "topicIds": [
+      "naringsliv",
+      "utbildning"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2425-3309"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2324-2509",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Stoppande av deepfakeporr (enskild motion)",
+    "date": "2023-10-05",
+    "documentNumber": "2023/24:2509",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": false,
+    "topicIds": [
+      "barn-unga",
+      "integritet"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2324-2509"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-akt-mot-2526-1815",
+    "partyId": "s",
+    "actionType": "motion",
+    "title": "Märkning av AI-genererat material för att motverka desinformation och deepfakes (enskild motion)",
+    "date": "2025-10-03",
+    "documentNumber": "2025/26:1815",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna pilotstudie",
+    "partyLevel": false,
+    "topicIds": [
+      "demokrati",
+      "barn-unga"
+    ],
+    "sourceIds": [
+      "s-kalla-mot-2526-1815"
+    ],
+    "workflowStatus": "publicerad"
+  }
+]

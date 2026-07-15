@@ -1,0 +1,22 @@
+---
+/**
+ * Identifikationsmarkör för ett parti: liten färgruta + förkortning.
+ * Färgen är partiets egen identifikationsfärg och används aldrig som
+ * betydelsebärare — förkortningen finns alltid som text.
+ */
+interface Props {
+  abbreviation: string;
+  color: string;
+  size?: "sm" | "md";
+}
+const { abbreviation, color, size = "sm" } = Astro.props;
+const box = size === "md" ? "h-3.5 w-3.5" : "h-2.5 w-2.5";
+---
+
+<span class="inline-flex items-center gap-1.5 whitespace-nowrap">
+  <span
+    class={`${box} inline-block border border-border shrink-0`}
+    style={`background:${color}`}
+    aria-hidden="true"></span>
+  <span class="bi-mono !text-[11px] !text-foreground">{abbreviation}</span>
+</span>

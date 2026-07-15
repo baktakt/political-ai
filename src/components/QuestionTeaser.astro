@@ -1,0 +1,19 @@
+---
+/** Kort för en väljarfråga. */
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  question: CollectionEntry<"questions">;
+}
+const { question } = Astro.props;
+---
+
+<a
+  href={`/fragor/${question.id}/`}
+  class="group block border border-border bg-card p-5 hover:border-foreground transition-colors"
+>
+  <h2 class="font-display text-lg leading-snug group-hover:underline underline-offset-4">
+    {question.data.question}
+  </h2>
+  <p class="mt-2 text-sm text-muted-foreground">{question.data.intro}</p>
+</a>
