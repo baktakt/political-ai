@@ -38,7 +38,9 @@ const actions = (await getPublishedActions()).filter((x) =>
 );
 const sourcesMap = await getSourcesMap();
 
-const positionByParty = new Map(positions.map((pos) => [pos.data.partyId, pos]));
+const positionByParty = new Map<string, (typeof positions)[number]>(
+  positions.map((pos) => [pos.data.partyId, pos]),
+);
 const partiesById = new Map(parties.map((p) => [p.id, p]));
 
 const missingParties = parties.filter(

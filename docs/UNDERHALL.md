@@ -35,10 +35,16 @@ koalitionsavtal, annars kvartalsvis tills nästa valrörelse.
 8. **Kör hela testkedjan** innan push:
    ```sh
    npm test                 # schema + referensintegritet
+   npm run check             # Astro/TypeScript-typkontroll (kör npm run sync först vid tveksamhet)
    npm run build             # Astro-validering + Pagefind-index
    npm run check:links       # externa + interna länkar
    npm run check:a11y        # axe-core på nyckelsidor (kräver build)
    ```
+   `npm run check` är lätt att glömma eftersom `astro build`/`astro dev` inte
+   stoppar på typfel — den upptäcker regressioner som annars bara syns som
+   `any`-typade värden i editorn (t.ex. om `.astro/types.d.ts` av misstag
+   faller ur `tsconfig.json`s `include`, vilket händer tyst och utan
+   byggfel).
 
 ## Att lägga till ett nytt parti (t.ex. om ett nytt parti tar sig in i riksdagen)
 
