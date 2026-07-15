@@ -20,6 +20,19 @@ samt en `headers`-sektion med grundläggande skyddshuvuden
 strict-origin-when-cross-origin`, `X-Frame-Options: DENY`) — i linje med
 webbplatsens integritetsprinciper, se `/om/#integritet`.
 
+**Komponentbiblioteket är vendorat, inte ett fjärrberoende.**
+`built-intelligence-components` installerades ursprungligen direkt från
+GitHub, vilket gav byggfel på Vercel — först `git@github.com: Permission
+denied (publickey)` (npm normaliserar `github:...`-beroenden till
+`git+ssh://` i lockfilen, och Vercels byggcontainer har ingen SSH-nyckel),
+och sedan, efter att ha skrivit om ssh till https, `Invalid username or
+token` (Vercels egen GitHub-integration injicerar ett token som bara är
+behörigt för det här repot, inte för syskonrepot). Lösningen: paketets
+källkod ligger vendorad i `vendor/built-intelligence-components/` och
+installeras som ett lokalt `file:`-beroende — ingen nätverks- eller
+git-åtkomst krävs alls vid `npm install`. Se `UNDERHALL.md` →
+"Komponentbiblioteket är vendorat" för hur man uppdaterar vendorkopian.
+
 1. **Importera repot** i Vercel: New Project → välj
    `baktakt/political-ai` → branch enligt önskemål (produktionsgren, t.ex.
    `main`, efter att piloten granskats och mergats dit). Vercel läser

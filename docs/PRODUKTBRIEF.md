@@ -56,11 +56,14 @@ jämförelseverktyg, sökfunktion, ett fullt researchat ämne och parti.
 ## Teknikval
 
 Astro (statisk site-generator, samma familj som nyhetsbrevsprojektet
-`built-intelligence-components`), med komponentbiblioteket återanvänt via
-`npm install github:baktakt/built-intelligence-components` och en egen
-"civic election"-färgpalett (se `DESIGN_SYSTEM.md`). Strukturerad data som
-JSON valideras med Zod-scheman via Astro content collections. Inga
-användarkonton, ingen spårning, inga annonser.
+`built-intelligence-components`), med komponentbiblioteket återanvänt och
+en egen "civic election"-färgpalett (se `DESIGN_SYSTEM.md`). Biblioteket
+installerades först direkt från GitHub men är sedan 2026-07-15 vendorat i
+`vendor/built-intelligence-components/` som ett lokalt `file:`-beroende —
+Vercels byggmiljö saknar både SSH-nyckel och behörighet för syskonrepot,
+se `UNDERHALL.md`. Strukturerad data som JSON valideras med Zod-scheman
+via Astro content collections. Inga användarkonton, ingen spårning, inga
+annonser.
 
 ## Framgångsmått (kvalitativa, inte engagemangsmått)
 
