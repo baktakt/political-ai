@@ -26,7 +26,7 @@
     "@fontsource/jetbrains-mono": "^5.2.5",
     "@tailwindcss/vite": "^4.1.11",
     "astro": "^5.12.0",
-    "built-intelligence-components": "github:baktakt/built-intelligence-components#claude/swedish-ai-politics-site-0tm2u3",
+    "built-intelligence-components": "file:vendor/built-intelligence-components",
     "pagefind": "^1.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",

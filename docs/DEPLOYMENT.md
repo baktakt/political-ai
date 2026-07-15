@@ -20,24 +20,18 @@ samt en `headers`-sektion med grundläggande skyddshuvuden
 strict-origin-when-cross-origin`, `X-Frame-Options: DENY`) — i linje med
 webbplatsens integritetsprinciper, se `/om/#integritet`.
 
-**Git-beroendet över SSH → HTTPS.** `built-intelligence-components`
-installeras direkt från GitHub (`github:baktakt/...#branch` i
-`package.json`). npm normaliserar internt den referensen till en
-`git+ssh://git@github.com/...`-URL i `package-lock.json`, vilket fungerar
-lokalt om man har en SSH-nyckel eller SSH-proxy konfigurerad — men Vercels
-byggcontainer har ingen SSH-nyckel alls, vilket ger felet `git@github.com:
-Permission denied (publickey)` vid `npm install`. Fixen är att låta git
-själv skriva om alla ssh-URL:er till https innan npm anropar git, vilket
-`vercel.json`s `installCommand` gör:
-```sh
-git config --global url."https://github.com/".insteadOf "git@github.com:"
-git config --global url."https://github.com/".insteadOf "ssh://git@github.com/"
-```
-Det behövs eftersom `built-intelligence-components` är ett publikt repo —
-https kräver ingen autentisering, till skillnad från ssh som kräver en
-nyckel som inte finns i byggmiljön. Denna rad kan tas bort igen om/när
-paketet publiceras till npm i stället för att installeras direkt från
-GitHub.
+**Komponentbiblioteket är vendorat, inte ett fjärrberoende.**
+`built-intelligence-components` installerades ursprungligen direkt från
+GitHub, vilket gav byggfel på Vercel — först `git@github.com: Permission
+denied (publickey)` (npm normaliserar `github:...`-beroenden till
+`git+ssh://` i lockfilen, och Vercels byggcontainer har ingen SSH-nyckel),
+och sedan, efter att ha skrivit om ssh till https, `Invalid username or
+token` (Vercels egen GitHub-integration injicerar ett token som bara är
+behörigt för det här repot, inte för syskonrepot). Lösningen: paketets
+källkod ligger vendorad i `vendor/built-intelligence-components/` och
+installeras som ett lokalt `file:`-beroende — ingen nätverks- eller
+git-åtkomst krävs alls vid `npm install`. Se `UNDERHALL.md` →
+"Komponentbiblioteket är vendorat" för hur man uppdaterar vendorkopian.
 
 1. **Importera repot** i Vercel: New Project → välj
    `baktakt/political-ai` → branch enligt önskemål (produktionsgren, t.ex.

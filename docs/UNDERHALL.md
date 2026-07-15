@@ -68,25 +68,39 @@ Se `TAXONOMI.md` → "Att lägga till ett ämne". Kom ihåg att lägga till
 motsvarande `keyQuestions` och eventuellt en `questions.json`-post om
 ämnet ska vara en egen väljarfråga.
 
-## Uppdatera komponentbiblioteket
+## Komponentbiblioteket är vendorat, inte ett git-beroende
 
-```sh
-npm install github:baktakt/built-intelligence-components#main
-```
-Byt `#main` mot en specifik commit/tag för att pinna en version. Kör
-`npm run build` efteråt — brutna Tailwind-klasser eller borttagna
-exports syns direkt som byggfel.
+`built-intelligence-components` installerades ursprungligen direkt från
+GitHub (`github:baktakt/built-intelligence-components#branch`). Det gav
+ett byggfel på Vercel: npm normaliserar den typen av beroende till en
+`git+ssh://`-URL i `package-lock.json`, och när det väl skrevs om till
+https körde det in i ett annat problem — Vercels egen GitHub-integration
+injicerar ett kort-livat token som bara är behörigt för **detta** repo
+(`political-ai`), inte för syskonrepot, så även en ren https-hämtning
+floppade med "Invalid username or token".
 
-**Tillfällig pin (2026-07-15):** `package.json` pekar just nu på
-`#claude/swedish-ai-politics-site-0tm2u3` i stället för `#main`, eftersom
-den branchen innehåller det (bakåtkompatibla) `logo`-propet på
-`Header`/`Footer` som denna webbplatsens `BrandMark` behöver
-(`src/components/SiteHeader.tsx`/`SiteFooter.tsx`). Byt tillbaka till
-`#main` så snart den ändringen är granskad och sammanslagen i
-`built-intelligence-components`, och kör:
-```sh
-npm install built-intelligence-components@github:baktakt/built-intelligence-components#main
+Lösningen (2026-07-15): paketets faktiska källkod — inte hela
+demo/galleri-appen den också är i sitt eget repo, bara det som verkligen
+importeras (`components/bi`, `components/ui`, `data`, `lib`, `styles.css`,
+`index.ts`, `ui.ts`) — ligger nu i `vendor/built-intelligence-components/`
+i det här repot, installerat via en lokal `file:`-beroende:
+```json
+"built-intelligence-components": "file:vendor/built-intelligence-components"
 ```
+Ingen nätverks- eller git-åtkomst behövs vid `npm install` längre —
+npm symlänkar `node_modules/built-intelligence-components` till
+`vendor/built-intelligence-components/` och kör dess egna `prepare`-skript
+(tsup) lokalt, precis som förut men utan fjärrhämtningen.
+
+**Att uppdatera vendorkopian** när originalbiblioteket
+(`baktakt/built-intelligence-components`) ändras: kopiera över de ändrade
+filerna manuellt (`components/bi/*`, `components/ui/*`, `data/*`, `lib/utils.ts`,
+`lib/formatters.ts`, `styles.css`, `index.ts`, `ui.ts`) till
+`vendor/built-intelligence-components/src/`, kör `npm install` om från
+repots rot, och kör hela testkedjan (steg 8 ovan). `vendor/.../package.json`
+är medvetet trimmad (bara det den vendorade koden faktiskt importerar —
+se dess `dependencies`) — om en ny import tillkommer som kräver ett
+paket som inte redan finns där, lägg till det.
 
 ## Driftsättning
 

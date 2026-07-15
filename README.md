@@ -34,9 +34,11 @@ npm run build       # astro build && pagefind --site dist
 npm run preview     # serverar dist/ lokalt
 ```
 
-Kräver Node ≥ 20. Komponentbiblioteket installeras direkt från GitHub
-(`github:baktakt/built-intelligence-components#main`) — `npm install` drar
-och bygger det automatiskt via dess `prepare`-skript.
+Kräver Node ≥ 20. Komponentbiblioteket (`built-intelligence-components`)
+är vendorat i `vendor/built-intelligence-components/` och installeras som
+ett lokalt `file:`-beroende — `npm install` länkar och bygger det
+automatiskt via dess `prepare`-skript, utan nätverks- eller git-åtkomst.
+Se `docs/UNDERHALL.md` för hur vendorkopian uppdateras.
 
 ## Kommandon
 
