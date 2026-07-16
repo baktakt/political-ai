@@ -4,7 +4,7 @@ Körd: 2026-07-16
 
 ## Externa källänkar
 
-Kontrollerade: 49 · Fungerande: 49 · Trasiga/oåtkomliga: 0
+Kontrollerade: 50 · Fungerande: 50 · Trasiga/oåtkomliga: 0
 
 Alla externa källänkar svarade OK.
 
