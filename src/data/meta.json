@@ -2,9 +2,9 @@
   {
     "id": "meta",
     "datasetVersion": "0.1.0",
-    "lastUpdated": "2026-07-15",
-    "researchLastUpdated": "2026-07-15",
+    "lastUpdated": "2026-07-16",
+    "researchLastUpdated": "2026-07-16",
     "pilot": true,
-    "notes": "Pilotversion. Research omfattar ämnet 'Jobb och arbetsmarknad' för samtliga riksdagspartier samt en fullständig partiprofil (Socialdemokraterna). Övriga kombinationer är ännu ej granskade."
+    "notes": "Pilotversion. Research omfattar ämnet 'Jobb och arbetsmarknad' för samtliga riksdagspartier, en fullständig partiprofil (Socialdemokraterna) samt en manifestobaserad uppdatering för Centerpartiet om AI-strategi och arbetsmarknad. Övriga kombinationer är ännu ej granskade."
   }
 ]
