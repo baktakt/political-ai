@@ -718,5 +718,20 @@
     "officialPolicy": false,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-valmanifest-2026",
+    "title": "Centerpartiets valmanifest 2026 – Sverige kan mer",
+    "publisher": "Centerpartiet (val2026.centerpartiet.se)",
+    "author": null,
+    "publicationDate": "2026-06",
+    "url": "https://val2026.centerpartiet.se/wp-content/uploads/2026/06/Valmanifest-2026.pdf",
+    "accessedAt": "2026-07-16",
+    "sourceType": "valmanifest",
+    "excerpt": "Sverige ska vara ett land där AI och digitalisering skapar fler möjligheter, fler företag och fler jobb i hela landet.",
+    "supportExplanation": "Valmanifestet innehåller avsnittet 'AI och ny teknik som skapar fler jobb i en ny ekonomi'. Där föreslår Centerpartiet bland annat att jobb- och utbildningspolitiken läggs om för AI-eran, ett nationellt AI-center i världsklass, bättre villkor för forskning, entreprenörskap och arbetskraftsinvandring samt stöd till små företag att använda ny teknik.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

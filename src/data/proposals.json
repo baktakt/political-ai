@@ -383,5 +383,40 @@
       "s-kalla-riktlinjer-2025"
     ],
     "workflowStatus": "publicerad"
+  },
+  {
+    "id": "c-forslag-jobb-utbildning-ai-eran-2026",
+    "partyId": "c",
+    "topicIds": [
+      "arbetsmarknad",
+      "utbildning"
+    ],
+    "title": "Lägg om jobb- och utbildningspolitiken för AI-eran",
+    "description": "Förslag i valmanifestet 2026 om att utbildning, omställningsstöd och arbetsmarknadspolitik ska anpassas till hur AI förändrar jobben, samt att en struktur för löpande analys och reformförslag utifrån AI:s påverkan på arbetsmarknaden och utbildningssystemet ska skapas.",
+    "date": "2026-06",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-valmanifest-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-forslag-nationellt-ai-center-2026",
+    "partyId": "c",
+    "topicIds": [
+      "strategi",
+      "naringsliv"
+    ],
+    "title": "Nationellt AI-center i världsklass",
+    "description": "Förslag i valmanifestet 2026 och på partiets AI-sida om ett nationellt AI-center; valmanifestet kopplar detta till Sveriges möjligheter att leda AI-utveckling, forskning, entreprenörskap och ny tillväxt.",
+    "date": "2026-06",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-valmanifest-2026",
+      "c-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

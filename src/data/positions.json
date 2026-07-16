@@ -65,21 +65,23 @@
     "id": "c-arbetsmarknad",
     "partyId": "c",
     "topicId": "arbetsmarknad",
-    "summary": "Centerpartiet vill möta den AI-drivna strukturomvandlingen med utbildning och kompetens, bland annat en 'kunskapsväxel' med förstärkt omställningsstudiestöd så att fler kan byta yrke eller höja sin kompetens mitt i livet. Partiet anser även att kollektivavtal och lagstiftning behöver moderniseras när AI utvecklas.",
-    "detailedPosition": "På Centerpartiets AI-sida är ett huvudbudskap att 'satsa på utbildning och kompetens så att fler kan jobba med och förstå AI'; sidan noterar samtidigt att oron växer 'för jobben, för integriteten och för demokratin' och föreslår bland annat en nationell AI-general och ett nationellt AI-center. I kommittémotionen Arbetsmarknad (2025/26:3191) skriver partiet att utvecklingen av artificiell intelligens, tillsammans med begränsad arbetskraftsinvandring och en växande teknikindustri, 'kommer kräva att både avtal mellan fack och arbetsgivarorganisationer samt lagstiftning moderniseras'. I partimotionen med anledning av 2026 års vårproposition (2025/26:4110) beskrivs 'en snabb strukturomvandling i näringslivet med inte minst AI och grön ekonomi, som ställer krav på nya kompetenser', och partiet föreslår en 'kunskapsväxel': förstärkt omställningsstudiestöd, fler utbildningsplatser, yrkesutbildningssatsningar samt en studentmedarbetarmodell för att minska akademikerarbetslösheten. Tolkning: partiet betonar individens omställningsförmåga och partsmodellens modernisering snarare än ny skyddslagstiftning.",
-    "evidenceStatus": "konkret_forslag",
+    "summary": "Centerpartiet vill möta AI-driven strukturomvandling med utbildning, omställningsstöd och fler vägar till nya jobb. I valmanifestet 2026 vill partiet lägga om jobb- och utbildningspolitiken för AI-eran, skapa löpande analys av AI:s påverkan på arbetsmarknaden och se till att AI och digitalisering skapar fler jobb i hela landet.",
+    "detailedPosition": "Centerpartiets valmanifest 2026 har ett eget avsnitt om 'AI och ny teknik som skapar fler jobb i en ny ekonomi'. Där skriver partiet att artificiell intelligens omformar arbetsmarknaden och ekonomin i grunden och att Sverige behöver bli bäst på tillämpning av AI i både privat och offentlig sektor. Valmanifestet föreslår att jobb- och utbildningspolitiken läggs om för AI-eran: utbildning, omställningsstöd och arbetsmarknadspolitik ska anpassas till hur AI förändrar jobben, och en struktur för löpande analys och reformförslag utifrån AI:s påverkan på arbetsmarknaden och utbildningssystemet ska skapas. Detta ligger i linje med tidigare granskade källor: partiets AI-sida betonar utbildning och kompetens, kommittémotionen Arbetsmarknad (2025/26:3191) anger att AI kräver modernisering av avtal och lagstiftning, och vårmotionen 2026 (2025/26:4110) föreslår en 'kunskapsväxel' för omställning och kompetenshöjning, inte minst inom AI. Tolkning: valmanifestet gör arbetsmarknadsomställningen vid AI till en central valfråga för partiet, med fokus på kompetens, rörlighet och företagens användning av ny teknik.",
+    "evidenceStatus": "tydlig_detaljerad",
     "evidenceTypes": [
+      "valmanifest",
       "motion",
       "budgetforslag"
     ],
-    "confidenceExplanation": "Kommittémotion 2025/26:3191 och partimotion 2025/26:4110 (båda öppnade i fulltext) kopplar uttryckligen AI till arbetsmarknads- och kompetenspolitik med konkreta förslag (kunskapsväxel, förstärkt omställningsstudiestöd). Partiets AI-sida (öppnad) stödjer utbildnings- och kompetenslinjen.",
+    "confidenceExplanation": "Klassningen bygger på Centerpartiets valmanifest 2026, som har ett särskilt AI-avsnitt om jobb och utbildning, samt på tidigare öppnade partinivåkällor: AI-sidan, kommittémotion 2025/26:3191 och partimotion 2025/26:4110. Valmanifestet gör positionen mer aktuell och mer utförlig än tidigare granskning.",
     "sourceIds": [
+      "c-valmanifest-2026",
       "c-webb-ai",
       "c-mot-2025-3191",
       "c-mot-2026-4110"
     ],
-    "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-16"
   },
   {
     "id": "v-arbetsmarknad",
@@ -533,5 +535,23 @@
     "sourceIds": [],
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-15"
+  },
+  {
+    "id": "c-strategi",
+    "partyId": "c",
+    "topicId": "strategi",
+    "summary": "Centerpartiet vill att Sverige ska leda den digitala omställningen och bli bäst på att tillämpa AI i både privat och offentlig sektor. Partiet föreslår ett nationellt AI-center i världsklass, en nationell AI-general och åtgärder för forskning, entreprenörskap, arbetskraftsinvandring och små företags användning av ny teknik.",
+    "detailedPosition": "I valmanifestet 2026 skriver Centerpartiet att artificiell intelligens omformar arbetsmarknaden och ekonomin i grunden och att Sverige har goda förutsättningar att leda den digitala omställningen genom forskning, innovation, entreprenörskap, startups och scaleups. Partiet vill att Sverige blir bäst på tillämpning av AI i både privat och offentlig sektor och lyfter ett nationellt AI-center i världsklass, bättre villkor för forskning, entreprenörskap och arbetskraftsinvandring samt starkare möjligheter för små företag att ta till sig ny teknik. Partiets AI-sida föreslår också en nationell AI-general och ett nationellt AI-center. Tolkning: Centerpartiets övergripande AI-linje är tillväxt- och tillämpningsinriktad, med betoning på företag, kompetens och offentlig sektors användning snarare än på begränsning av tekniken.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på valmanifestet 2026 och partiets officiella AI-sida. Båda är partiets egna källor och innehåller uttryckliga nationella prioriteringar för AI, inklusive nationellt AI-center och styrning av Sveriges AI-arbete.",
+    "sourceIds": [
+      "c-valmanifest-2026",
+      "c-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-16"
   }
 ]
