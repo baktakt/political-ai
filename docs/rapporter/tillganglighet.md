@@ -1,8 +1,8 @@
 # Tillgänglighetskontroll (axe-core)
 
-Körd: 2026-07-15 · Regeluppsättning: WCAG 2.0/2.1 A+AA, WCAG 2.2 AA samt best practice
+Körd: 2026-07-16 · Regeluppsättning: WCAG 2.0/2.1 A+AA, WCAG 2.2 AA samt best practice
 
-Sidor kontrollerade: 14 · Avvikelser totalt: 0
+Sidor kontrollerade: 15 · Avvikelser totalt: 0
 
 ## /
 
@@ -53,6 +53,10 @@ Inga avvikelser.
 Inga avvikelser.
 
 ## /ordlista/
+
+Inga avvikelser.
+
+## /omvarldsbevakning/
 
 Inga avvikelser.
 

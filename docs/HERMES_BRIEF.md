@@ -95,6 +95,20 @@ by guessing.
 **You may edit:**
 - `src/data/positions.json`, `proposals.json`, `actions.json`,
   `sources.json`, `timeline.json` — the actual research content.
+- `src/data/omvarldsbevakning.json` — international AI reports (the
+  "Omvärldsbevakning" page). Only from verified publishers (the
+  `publisherType` enum is the whitelist: research institutions,
+  international organisations, government agencies, EU institutions,
+  governments, established think tanks — nothing else). `keyTakeaways`
+  must be faithful Swedish translations of the report's *own* stated
+  conclusions, never your synthesis of what the report "means"; if a
+  report doesn't state its own takeaways, summarise chapter findings
+  conservatively and say in `summary` that the distillation is
+  editorial. One entry per report; dedupe by `url`. Same publish gate
+  as positions: land at `behover_redaktionell_granskning`. Suggested
+  cadence: only add reports of genuine significance (an annual index,
+  an OECD/EU/UN flagship, a government AI strategy from a major
+  country) — this is a curated shelf, not a news feed.
 - `src/data/parties.json` — only `lastReviewedAt`, `aiSummary`,
   `aiPriorities`, `sustainabilityPriorities`, and only for a party you
   just genuinely re-reviewed. Never touch `seats2022`, `color`,

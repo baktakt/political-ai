@@ -7,6 +7,13 @@
     "type": "lansering"
   },
   {
+    "id": "2026-07-15-omvarldsbevakning",
+    "date": "2026-07-15",
+    "title": "Ny sektion: Omvärldsbevakning",
+    "description": "En ny sektion samlar betydande internationella rapporter om AI-utvecklingen från verifierade utgivare, sammanfattade på svenska med länk till originalet. Först ut: Stanford HAI:s AI Index Report 2026, med rapportens tio huvudslutsatser i svensk översättning.",
+    "type": "innehall"
+  },
+  {
     "id": "2026-07-16-c-valmanifest-ai",
     "date": "2026-07-16",
     "title": "Centerpartiets valmanifest 2026 granskat för AI-frågor",

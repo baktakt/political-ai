@@ -102,6 +102,15 @@ export const GOVERNMENT_STATUS_LABELS: Record<string, string> = {
   opposition: "Opposition",
 };
 
+export const WATCH_PUBLISHER_TYPE_LABELS: Record<string, string> = {
+  forskningsinstitution: "Forskningsinstitution",
+  internationell_organisation: "Internationell organisation",
+  myndighet: "Myndighet",
+  eu_institution: "EU-institution",
+  regering: "Regering",
+  tankesmedja: "Tankesmedja",
+};
+
 export const TIMELINE_EVENT_LABELS: Record<string, string> = {
   dokument: "Dokument",
   motion: "Motion",

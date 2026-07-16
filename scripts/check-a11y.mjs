@@ -31,6 +31,7 @@ const PAGES = [
   "/metod/",
   "/korrigeringar/",
   "/ordlista/",
+  "/omvarldsbevakning/",
   "/sok/",
 ];
 

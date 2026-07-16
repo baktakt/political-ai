@@ -22,6 +22,7 @@ import {
   glossaryEntrySchema,
   updateEntrySchema,
   datasetMetaSchema,
+  watchReportSchema,
   PARTY_IDS,
 } from "../src/lib/schema";
 
@@ -42,6 +43,7 @@ const questions = load("questions");
 const glossary = load("glossary");
 const updates = load("updates");
 const meta = load("meta");
+const watchReports = load("omvarldsbevakning");
 
 const partyIds = new Set(parties.map((p: any) => p.id));
 const topicIds = new Set(topics.map((t: any) => t.id));
@@ -71,6 +73,8 @@ describe("schemavalidering", () => {
   it("glossary.json följer schemat", () => validateAll("glossary", glossary, glossaryEntrySchema));
   it("updates.json följer schemat", () => validateAll("updates", updates, updateEntrySchema));
   it("meta.json följer schemat", () => validateAll("meta", meta, datasetMetaSchema));
+  it("omvarldsbevakning.json följer schemat", () =>
+    validateAll("omvarldsbevakning", watchReports, watchReportSchema));
 });
 
 describe("partilistan", () => {
@@ -99,7 +103,7 @@ describe("taxonomin", () => {
 
 describe("referensintegritet", () => {
   it("unika id:n i varje samling", () => {
-    for (const [name, items] of Object.entries({ parties, topics, positions, proposals, actions, sources, timeline, questions, glossary, updates })) {
+    for (const [name, items] of Object.entries({ parties, topics, positions, proposals, actions, sources, timeline, questions, glossary, updates, watchReports })) {
       const ids = (items as any[]).map((x) => x.id);
       expect(new Set(ids).size, `dubblett-id i ${name}`).toBe(ids.length);
     }
@@ -134,6 +138,15 @@ describe("referensintegritet", () => {
     for (const q of questions) {
       for (const tid of q.topicIds) expect(topicIds.has(tid), `${q.id}: okänt ämne ${tid}`).toBe(true);
     }
+  });
+  it("omvärldsbevakningen refererar existerande ämnen och har unika URL:er", () => {
+    for (const r of watchReports) {
+      for (const tid of r.relatedTopicIds) {
+        expect(topicIds.has(tid), `${r.id}: okänt ämne ${tid}`).toBe(true);
+      }
+    }
+    const urls = watchReports.map((r: any) => r.url);
+    expect(new Set(urls).size, "samma rapport-URL förekommer flera gånger").toBe(urls.length);
   });
 });
 

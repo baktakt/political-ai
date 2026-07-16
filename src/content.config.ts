@@ -21,6 +21,7 @@ import {
   glossaryEntrySchema,
   updateEntrySchema,
   datasetMetaSchema,
+  watchReportSchema,
 } from "./lib/schema";
 
 export const collections = {
@@ -75,5 +76,9 @@ export const collections = {
   meta: defineCollection({
     loader: file("src/data/meta.json"),
     schema: datasetMetaSchema,
+  }),
+  omvarldsbevakning: defineCollection({
+    loader: file("src/data/omvarldsbevakning.json"),
+    schema: watchReportSchema,
   }),
 };
