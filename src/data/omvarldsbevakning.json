@@ -1,0 +1,34 @@
+[
+  {
+    "id": "stanford-hai-ai-index-2026",
+    "title": "The 2026 AI Index Report",
+    "publisher": "Stanford HAI (Stanford Institute for Human-Centered Artificial Intelligence)",
+    "publisherType": "forskningsinstitution",
+    "publicationDate": "2026",
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+    "accessedAt": "2026-07-15",
+    "language": "en",
+    "summary": "Stanford HAI:s årliga AI Index är en av världens mest citerade samlade lägesbilder över AI-utvecklingen. 2026 års upplaga täcker nio områden — forskning och utveckling, teknisk prestanda, ansvarsfull AI, ekonomi, vetenskap, medicin, utbildning, policy och styrning samt opinion — och sammanfattar sina viktigaste resultat i tio punkter.",
+    "keyTakeaways": [
+      "AI-förmågan planar inte ut — den accelererar och når fler människor än någonsin.",
+      "Prestandagapet mellan amerikanska och kinesiska AI-modeller har i praktiken slutits.",
+      "USA har flest AI-datacenter, och merparten av deras chip tillverkas av ett enda taiwanesiskt chipgjuteri.",
+      "AI-modeller kan vinna guld i den internationella matematikolympiaden — men kan inte tillförlitligt läsa av ett klockslag.",
+      "Ansvarsfull AI håller inte jämna steg med AI-förmågan: säkerhetsmätningarna släpar efter och incidenterna ökar kraftigt.",
+      "USA leder i AI-investeringar, men landets förmåga att attrahera global talang minskar.",
+      "AI-användningen sprids i historisk takt, och konsumenter får stort värde från verktyg som ofta är gratis att använda.",
+      "Den formella utbildningen släpar efter AI, men människor lär sig AI-färdigheter i alla skeden av livet.",
+      "AI-suveränitet håller på att bli ett definierande inslag i nationell politik, men ländernas förmågor är ojämnt fördelade.",
+      "AI-experter och allmänheten har mycket olika syn på teknikens framtid."
+    ],
+    "relatedTopicIds": [
+      "strategi",
+      "suveranitet",
+      "reglering",
+      "utbildning",
+      "naringsliv"
+    ],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-07-15"
+  }
+]

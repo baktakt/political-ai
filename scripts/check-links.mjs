@@ -63,11 +63,18 @@ function* htmlFiles(dir) {
   }
 }
 
-// --- 1. Externa källänkar ---
+// --- 1. Externa länkar: källor + omvärldsbevakningens rapporter ---
 const sources = JSON.parse(readFileSync(join(ROOT, "src/data/sources.json"), "utf-8"));
-console.log(`Kontrollerar ${sources.length} externa källänkar …`);
+const watchReports = JSON.parse(
+  readFileSync(join(ROOT, "src/data/omvarldsbevakning.json"), "utf-8"),
+);
+const externalItems = [
+  ...sources.map((s) => ({ id: s.id, url: s.url })),
+  ...watchReports.map((r) => ({ id: `omvarldsbevakning/${r.id}`, url: r.url })),
+];
+console.log(`Kontrollerar ${externalItems.length} externa länkar …`);
 const external = await pool(
-  sources,
+  externalItems,
   async (s) => ({ id: s.id, url: s.url, ...(await checkUrl(s.url)) }),
   CONCURRENCY,
 );

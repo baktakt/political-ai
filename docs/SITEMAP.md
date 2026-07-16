@@ -46,6 +46,13 @@
 /kallor/                    Fullständig källförteckning, grupperad enligt
                             källhierarkin (partiwebb → … → expertanalys)
 
+/omvarldsbevakning/         Internationell utblick — betydande rapporter om
+                            AI-utvecklingen från verifierade utgivare
+                            (forskningsinstitutioner, internationella
+                            organisationer, myndigheter m.fl.), med svensk
+                            sammanfattning av rapportens egna huvudslutsatser
+                            och länk till originalet
+
 /metod/                     Metodik: principer, källhierarki, evidensstatus,
                             evidenstyper, hantering av osäkerhet, redaktionellt
                             arbetsflöde, granskningsrutin, öppenhet om

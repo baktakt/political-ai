@@ -310,6 +310,43 @@ export const glossaryEntrySchema = z.object({
 });
 export type GlossaryEntry = z.infer<typeof glossaryEntrySchema>;
 
+/** Utgivartyper som godtas i omvärldsbevakningen — endast verifierade källor. */
+export const WATCH_PUBLISHER_TYPES = [
+  "forskningsinstitution",
+  "internationell_organisation",
+  "myndighet",
+  "eu_institution",
+  "regering",
+  "tankesmedja",
+] as const;
+
+/**
+ * Omvärldsbevakning: internationella rapporter om AI från verifierade
+ * utgivare. keyTakeaways är rapportens egna huvudslutsatser i svensk
+ * översättning — aldrig webbplatsens egna ställningstaganden.
+ */
+export const watchReportSchema = z.object({
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  /** Rapportens originaltitel. */
+  title: z.string(),
+  publisher: z.string(),
+  publisherType: z.enum(WATCH_PUBLISHER_TYPES),
+  publicationDate: flexDateSchema,
+  url: z.string().url(),
+  accessedAt: isoDateSchema,
+  /** Rapportens originalspråk (ISO 639-1, t.ex. "en"). */
+  language: z.string().min(2).max(5),
+  /** Neutral svensk beskrivning av vad rapporten är och täcker. */
+  summary: z.string(),
+  /** Rapportens egna huvudslutsatser, troget översatta till svenska. */
+  keyTakeaways: z.array(z.string()).min(1),
+  /** Koppling till webbplatsens ämnestaxonomi. */
+  relatedTopicIds: z.array(z.string()),
+  workflowStatus: workflowStatusSchema,
+  addedAt: isoDateSchema,
+});
+export type WatchReport = z.infer<typeof watchReportSchema>;
+
 export const updateEntrySchema = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/),
   date: isoDateSchema,

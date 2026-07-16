@@ -20,6 +20,7 @@ export const NAV_ITEMS: NavItem[] = [
   { href: "/amnen/", label: "Ämnen" },
   { href: "/jamfor/", label: "Jämför" },
   { href: "/fragor/", label: "Frågor" },
+  { href: "/omvarldsbevakning/", label: "Omvärld" },
   { href: "/metod/", label: "Metod" },
   { href: "/sok/", label: "Sök" },
 ];
@@ -29,6 +30,7 @@ export const FOOTER_BROWSE_LINKS: NavItem[] = [
   { href: "/amnen/", label: "Ämnen" },
   { href: "/jamfor/", label: "Jämför partier" },
   { href: "/fragor/", label: "Vanliga frågor" },
+  { href: "/omvarldsbevakning/", label: "Omvärldsbevakning" },
   { href: "/sok/", label: "Sök" },
 ];
 
