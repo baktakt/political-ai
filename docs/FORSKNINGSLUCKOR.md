@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-16**. Detta dokument räknas som en del av
+Statusen är **2026-07-17**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,10 +10,11 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 27 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 28 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
-  S räknas en gång — samt C/strategi efter granskning av valmanifest 2026).
-- **Ej granskade:** 125. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  S räknas en gång — samt C/strategi och L/strategi efter granskning av
+  valmanifest 2026).
+- **Ej granskade:** 124. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -63,8 +64,8 @@ med sökvägar.
 - Övriga partiers valmanifest inför valet 2026-09-13 är under bevakning.
   SD:s valplattform 2026 var integrerad 2026-07-15. Centerpartiets
   valmanifest 2026 hittades och AI-avsnittet integrerades 2026-07-16.
-  Liberalernas valmanifest 2026 hittades samma dag men är ännu inte
-  integrerat i datan.
+  Liberalernas valmanifest 2026 integrerades delvis 2026-07-17 för
+  strategi och arbetsmarknad; övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna
 

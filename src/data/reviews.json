@@ -77,5 +77,20 @@
       "Liberalernas valmanifest 2026 hittades också under manifestobevakningen men integrerades inte i denna PR och behöver en egen fokuserad granskning."
     ],
     "notes": "Manifestobevakning inför valet 2026. Centerpartiets valmanifest 2026 öppnades som PDF och fulltextsöktes på AI, artificiell, digital, automatisering, algoritm, data och teknik. Avsnittet 'AI och ny teknik som skapar fler jobb i en ny ekonomi' användes för uppdatering av C/arbetsmarknad och ny ståndpunkt C/strategi. Centerpartiets officiella AI-sida och tidigare C-motioner återkontrollerades som kompletterande källor."
+  },
+  {
+    "id": "granskning-l-valmanifest-ai-2026-07-17",
+    "partyId": "l",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-17",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad"
+    ],
+    "unresolvedQuestions": [
+      "Liberalernas valmanifest 2026 granskades fokuserat för AI-skrivningar. Manifestets AI-delar om strategi, europeisk teknisk kapacitet och AI-kunskapslyft integrerades; övriga ämnen i manifestet behöver separat genomgång.",
+      "Valmanifestets skrivning om AI-kunskapslyft gäller användning i vardagen och på jobbet, men ger inte detaljer om omställningssystem, arbetsvillkor eller arbetsplatsövervakning."
+    ],
+    "notes": "Manifestobevakning inför valet 2026. Liberalernas valmanifest 2026 öppnades på liberalerna.se, PDF-länken verifierades och manifestosidorna fulltextsöktes på AI, artificiell, digital, teknik, algoritm, automatisering, data, cyber, deepfake, jobb och utbildning. AI-träffarna fanns främst i avsnitten om skola, trygghet samt 'Frihet som håller för framtiden'. Denna körning integrerade endast strategi och arbetsmarknad."
   }
 ]

@@ -733,5 +733,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "l-valmanifest-2026",
+    "title": "Liberalernas valmanifest 2026 – Frihet som håller för framtiden",
+    "publisher": "Liberalerna (liberalerna.se)",
+    "author": null,
+    "publicationDate": "2026",
+    "url": "https://www.liberalerna.se/valmanifest-2026/7-frihet-som-haller-for-framtiden",
+    "accessedAt": "2026-07-17",
+    "sourceType": "valmanifest",
+    "excerpt": "Vi vill genomföra ett AI-kunskapslyft så att fler kan använda AI i vardagen och på jobbet.",
+    "supportExplanation": "Valmanifestet innehåller avsnittet 'Frihet som håller för framtiden'. Där skriver Liberalerna att Europa behöver stärka sin kapacitet inom halvledare, molntjänster, AI och betalningssystem, att Sverige ska leda teknikrevolutionen inom bland annat AI och att partiet vill genomföra ett AI-kunskapslyft för vardag och jobb.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
