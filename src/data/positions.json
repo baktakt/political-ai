@@ -146,22 +146,24 @@
     "id": "l-arbetsmarknad",
     "partyId": "l",
     "topicId": "arbetsmarknad",
-    "summary": "Liberalerna förespråkar en teknikoptimistisk nationell AI-politik med satsningar på forskning och på att utbilda fler inom teknik, matematik och naturvetenskap, men partiets AI- och arbetsmarknadssidor innehåller ingen uttalad politik om AI:s effekter på jobb, omställning eller arbetstagares villkor. Som regeringsparti står L bakom Sveriges AI-strategi (februari 2026), som behandlar arbetsmarknad och omställning.",
-    "detailedPosition": "Liberalernas AI-sida (AI och teknikutveckling) driver en nationell AI-strategi, innovationsvänliga regler, mer AI-forskning och stärkt europeiskt tekniskt oberoende, samt anger att 'Sverige behöver utbilda fler människor inom teknik, matematik och naturvetenskap för att stärka konkurrenskraften' - en kompetensförsörjningslinje som indirekt berör arbetsmarknaden. Partiets arbetsmarknadssida (trösklar, inträdesjobb, arbetslinjen) nämner inte AI. På individnivå har riksdagsledamoten Helena Gellerman (L) i den enskilda motionen En hem-chatt-reform (2025/26:3808) argumenterat för att privat AI-användning rustar människor för arbetslivet; detta är en enskild motion och inte partilinje. Som regeringsparti står L bakom Sveriges AI-strategi (beslutad februari 2026) med skrivningar om att AI omformar arbetsinnehåll, yrken och kompetensbehov samt om omställning via arbetsmarknadens parter - detta är regeringspolitik och inte partiets eget program. Tolkning: partiets egen dokumenterade AI-politik fokuserar på innovation, forskning och utbildning snarare än på arbetsmarknadsomställning.",
-    "evidenceStatus": "indirekt_berord",
+    "summary": "Liberalerna förespråkar en teknikoptimistisk nationell AI-politik och vill genomföra ett AI-kunskapslyft så att fler kan använda AI i vardagen och på jobbet. Partiets material betonar utbildning, forskning och kompetensförsörjning, men innehåller inga detaljerade förslag om AI:s effekter på jobb, omställning eller arbetstagares villkor. Som regeringsparti står L även bakom Sveriges AI-strategi (februari 2026), som behandlar arbetsmarknad och omställning.",
+    "detailedPosition": "Liberalernas valmanifest 2026 anger att Sverige ska leda teknikrevolutionen inom bland annat AI, kvantteknologi, energi och bioteknik, och att partiet vill genomföra ett AI-kunskapslyft så att fler kan använda AI i vardagen och på jobbet. Detta kompletterar partiets AI-sida, som driver en nationell AI-strategi, innovationsvänliga regler, mer AI-forskning och stärkt europeiskt tekniskt oberoende, samt anger att Sverige behöver utbilda fler inom teknik, matematik och naturvetenskap för att stärka konkurrenskraften. Partiets arbetsmarknadssida nämner inte AI. På individnivå har riksdagsledamoten Helena Gellerman (L) i den enskilda motionen En hem-chatt-reform (2025/26:3808) argumenterat för att privat AI-användning rustar människor för arbetslivet; detta är en enskild motion och inte partilinje. Som regeringsparti står L bakom Sveriges AI-strategi (beslutad februari 2026) med skrivningar om att AI omformar arbetsinnehåll, yrken och kompetensbehov samt om omställning via arbetsmarknadens parter - detta är regeringspolitik och inte partiets eget program. Tolkning: partiets egen dokumenterade AI-arbetsmarknadslinje är främst kompetens- och innovationsinriktad, snarare än en detaljerad politik för jobbomställning eller arbetsvillkor.",
+    "evidenceStatus": "generell_dokumenterad",
     "evidenceTypes": [
+      "valmanifest",
       "regeringspolitik",
       "enskilt_uttalande"
     ],
-    "confidenceExplanation": "Partiets AI-sida och arbetsmarknadssida öppnades båda: AI-sidan berör kompetens/utbildning men inte AI:s jobbeffekter; arbetsmarknadssidan nämner inte AI (verifierat 2026-07-15). Den enda riksdagsmotion från L om AI och arbetslivet som hittades är en enskild motion (Gellerman), redovisad som individnivå. Regeringens AI-strategi redovisas som regeringspolitik. Därför 'indirekt_berord'.",
+    "confidenceExplanation": "Valmanifestet 2026 och partiets AI-sida är officiella partikällor och innehåller uttryckliga skrivningar om AI-kompetens och användning i jobbet, men inte detaljerade förslag om AI:s jobbeffekter, omställningssystem eller arbetstagares villkor. Regeringens AI-strategi redovisas separat som regeringspolitik, och Gellerman-motionen är enskild motion. Därför 'generell_dokumenterad' snarare än 'tydlig_detaljerad'.",
     "sourceIds": [
+      "l-valmanifest-2026",
       "l-webb-ai",
       "l-webb-arbetsmarknad",
       "l-mot-2025-3808",
       "gov-ai-strategi-2026"
     ],
-    "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-17"
   },
   {
     "id": "s-strategi",
@@ -553,5 +555,23 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-16"
+  },
+  {
+    "id": "l-strategi",
+    "partyId": "l",
+    "topicId": "strategi",
+    "summary": "Liberalerna vill att Sverige ska leda teknikrevolutionen inom bland annat AI och genomföra ett AI-kunskapslyft så att fler kan använda AI i vardagen och på jobbet. Partiet betonar forskning, innovationsklimat, europeisk teknisk kapacitet och nationell AI-strategi.",
+    "detailedPosition": "I valmanifestet 2026 skriver Liberalerna att Sverige ska leda teknikrevolutionen genom genombrott och teknikskiften inom AI, kvantteknologi, energi och bioteknik, med innovationsklimat och forskningsinfrastruktur i världsklass. Manifestet anger också att Europa behöver stärka sin egen kapacitet inom halvledare, molntjänster, AI och betalningssystem. Partiets AI-sida förespråkar en nationell AI-strategi, innovationsvänliga regler, mer AI-forskning, stärkt europeiskt tekniskt oberoende och fler utbildade inom teknik, matematik och naturvetenskap. Tolkning: Liberalernas övergripande AI-linje är forsknings-, innovations- och kompetensinriktad med ett tydligt europeiskt suveränitetsperspektiv.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026 och partiets officiella AI-sida. Båda är partiets egna källor och innehåller uttryckliga nationella och europeiska prioriteringar för AI, forskning, regler och kompetens.",
+    "sourceIds": [
+      "l-valmanifest-2026",
+      "l-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-17"
   }
 ]
