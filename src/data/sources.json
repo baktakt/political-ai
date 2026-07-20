@@ -750,16 +750,28 @@
     "isCurrent": true
   },
   {
+<<<<<<< HEAD
+    "id": "l-valmanifest-2026-kunskap",
+    "title": "Liberalernas valmanifest 2026 – Kunskap som öppnar dörrar",
+=======
     "id": "l-valmanifest-2026-skola",
     "title": "Liberalernas valmanifest 2026 – 2. Kunskap som öppnar dörrar",
+>>>>>>> origin/main
     "publisher": "Liberalerna (liberalerna.se)",
     "author": null,
     "publicationDate": "2026",
     "url": "https://www.liberalerna.se/valmanifest-2026/2-kunskap-som-oppnar-dorrar",
+<<<<<<< HEAD
+    "accessedAt": "2026-07-19",
+    "sourceType": "valmanifest",
+    "excerpt": "Och när AI är vardag blir det ännu viktigare att varje ung människa får med sig de kunskaper som behövs för att vara källkritisk.",
+    "supportExplanation": "Valmanifestets skolkapitel kopplar AI till behovet av källkritiska kunskaper i skolan. Samma kapitel betonar lärarledd undervisning, läroböcker och en minskad roll för skärmar i förskola och lågstadium.",
+=======
     "accessedAt": "2026-07-18",
     "sourceType": "valmanifest",
     "excerpt": "När AI är vardag blir det ännu viktigare att varje ung människa får med sig de kunskaper som behövs för att vara källkritisk.",
     "supportExplanation": "Valmanifestets skolavsnitt kopplar AI i vardagen till behovet av källkritiska kunskaper. Samma avsnitt föreslår bland annat fler riktiga läroböcker, begränsad skärmanvändning i yngre åldrar och att fler unga, särskilt kvinnor, läser matematik och naturvetenskapliga ämnen (STEM).",
+>>>>>>> origin/main
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
