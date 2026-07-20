@@ -28,17 +28,17 @@
     "type": "innehall"
   },
   {
-<<<<<<< HEAD
     "id": "2026-07-19-l-valmanifest-utbildning",
     "date": "2026-07-19",
     "title": "Liberalernas valmanifest 2026 kompletterat med utbildningsfrågan",
     "description": "Liberalernas skolkapitel i valmanifestet 2026 har granskats för AI-frågor. Granskningen lägger till partiets utbildningsposition om AI, källkritik och AI-kunskapslyft för redaktionell granskning.",
-=======
-    "id": "2026-07-18-l-valmanifest-utbildning-suveranitet",
-    "date": "2026-07-18",
-    "title": "Liberalernas valmanifest 2026 fortsatt granskat",
-    "description": "Liberalernas valmanifest 2026 har granskats vidare för AI-frågor. Granskningen lägger till ståndpunkter om skola och utbildning samt AI-suveränitet för redaktionell granskning.",
->>>>>>> origin/main
+    "type": "innehall"
+  },
+  {
+    "id": "2026-07-20-l-valmanifest-naringsliv-suveranitet",
+    "date": "2026-07-20",
+    "title": "Liberalernas valmanifest granskat för näringsliv och AI-suveränitet",
+    "description": "Liberalernas valmanifest 2026 har granskats vidare för AI-frågor. Granskningen lägger till ståndpunkter om företagande, innovation och konkurrenskraft samt AI-suveränitet och infrastruktur för redaktionell granskning.",
     "type": "innehall"
   }
 ]
