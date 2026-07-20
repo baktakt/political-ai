@@ -575,6 +575,7 @@
     "lastUpdatedAt": "2026-07-17"
   },
   {
+<<<<<<< HEAD
     "id": "l-naringsliv",
     "partyId": "l",
     "topicId": "naringsliv",
@@ -586,16 +587,49 @@
     ],
     "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026 och partiets officiella AI-sida, båda öppnade vid granskningen. Källorna innehåller uttryckliga skrivningar om AI som teknikskifte, forskningsinfrastruktur, FoU-avdrag, anslagsnivåer och innovationsvänliga regler. Några detaljerade sektorsvisa företagsstöd för AI hittades inte i den granskade texten.",
     "sourceIds": [
+=======
+    "id": "l-utbildning",
+    "partyId": "l",
+    "topicId": "utbildning",
+<<<<<<< HEAD
+    "summary": "Liberalerna kopplar AI i skolan främst till källkritik och grundläggande kunskaper. I valmanifestet 2026 skriver partiet att när AI är vardag blir det ännu viktigare att varje ung människa får kunskaper för att vara källkritisk, och partiet vill samtidigt genomföra ett AI-kunskapslyft för vardag och arbete.",
+    "detailedPosition": "I Liberalernas valmanifest 2026, kapitlet om skola och bildning, anges att läskrisen ska mötas med läroböcker, litteratur och lärarledd undervisning och att det, när AI är vardag, blir ännu viktigare att varje ung människa får kunskaper för att vara källkritisk. Samma valmanifest innehåller även förslaget om ett AI-kunskapslyft så att fler kan använda AI i vardagen och på jobbet. Partiets AI-sida anger därutöver att Sverige behöver utbilda fler inom teknik, matematik och naturvetenskap. Valmanifestet innehåller inte detaljerade förslag om generativ AI i undervisningen, examination, fuskhantering eller likvärdig tillgång till AI-verktyg. Tolkning: partiets dokumenterade utbildningslinje betonar källkritik, basfärdigheter och bred AI-kompetens snarare än regler för AI-användning i klassrummet.",
+=======
+    "summary": "Liberalerna kopplar AI i vardagen till behovet av källkritiska kunskaper i skolan och vill stärka utbildning inom teknik, matematik och naturvetenskap. Partiet föreslår också ett bredare AI-kunskapslyft för användning i vardagen och på jobbet.",
+    "detailedPosition": "I valmanifestets skolavsnitt skriver Liberalerna att när AI är vardag blir det viktigare att varje ung människa får de kunskaper som behövs för att vara källkritisk. Samma avsnitt betonar fler riktiga läroböcker, mindre skärmanvändning i yngre åldrar och fler unga, särskilt kvinnor, i matematik och naturvetenskapliga ämnen (STEM). I valmanifestets framtidsavsnitt vill partiet genomföra ett AI-kunskapslyft så att fler kan använda AI i vardagen och på jobbet. Partiets AI-sida anger dessutom att Sverige behöver utbilda fler inom teknik, matematik och naturvetenskap för att stärka konkurrenskraften. Tolkning: Liberalernas AI-relaterade utbildningslinje är främst kompetens- och källkritiksinriktad; manifestet ger inte detaljer om examination, fuskregler eller skolans användning av generativ AI i undervisningen.",
+>>>>>>> origin/main
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+<<<<<<< HEAD
+    "confidenceExplanation": "Klassningen bygger på två öppnade valmanifestkapitel från Liberalernas valmanifest 2026 samt partiets AI-sida. Källorna är officiella och aktuella, men AI-skrivningarna om utbildning är övergripande och saknar detaljer om exempelvis prov, fusk, lärarverktyg eller elevdata.",
+    "sourceIds": [
+      "l-valmanifest-2026-kunskap",
+=======
+    "confidenceExplanation": "Klassningen bygger på två officiella manifestosidor och partiets AI-sida. Källorna innehåller tydliga men övergripande skrivningar om AI, källkritik och teknisk kompetens; de innehåller däremot inte konkreta yrkanden om AI-verktyg, examination eller lärarutbildning.",
+    "sourceIds": [
+      "l-valmanifest-2026-skola",
+>>>>>>> origin/main
+>>>>>>> origin/main
       "l-valmanifest-2026",
       "l-webb-ai"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
+<<<<<<< HEAD
     "lastUpdatedAt": "2026-07-20"
+=======
+<<<<<<< HEAD
+    "lastUpdatedAt": "2026-07-19"
+=======
+    "lastUpdatedAt": "2026-07-18"
+>>>>>>> origin/main
   },
   {
     "id": "l-suveranitet",
     "partyId": "l",
     "topicId": "suveranitet",
+<<<<<<< HEAD
     "summary": "Liberalerna vill stärka Europas tekniska oberoende och minska beroendet av digital teknik och komponenter från andra delar av världen. I valmanifestet pekar partiet ut halvledare, molntjänster, AI och betalningssystem som områden där Europa behöver stärka sin egen kapacitet.",
     "detailedPosition": "I valmanifestet 2026 skriver Liberalerna att Sveriges och Europas stora beroende av digital teknik från andra delar av världen gör samhället sårbart för cyberhot och påtryckningar, och att Europa därför behöver stärka sin egen kapacitet inom halvledare, molntjänster, AI och betalningssystem. Partiets AI-sida utvecklar samma linje: Europa är beroende av teknik och komponenter från andra delar av världen, bland annat mikrochips, halvledare och kritiska mineraler, och Liberalerna vill minska Europas sårbarhet genom investeringar i europeisk produktion, snabbare tillståndsprocesser och nya frihandelsavtal med demokratiska länder. Tolkning: partiets suveränitetsposition är europeiskt inriktad och gäller kritiska teknikleveranskedjor snarare än en särskild svensk statlig AI-infrastruktur.",
     "evidenceStatus": "generell_dokumenterad",
@@ -603,11 +637,25 @@
       "valmanifest"
     ],
     "confidenceExplanation": "Valmanifestet och AI-sidan är officiella partikällor och är samstämmiga om europeiskt tekniskt oberoende. Källorna nämner AI, halvledare och molntjänster, men innehåller inte ett konkret förslag om svenska språkmodeller, statligt ägda modeller eller svensk superdatorinfrastruktur; därför klassas positionen som generell dokumenterad.",
+=======
+    "summary": "Liberalerna vill stärka Europas tekniska oberoende inom halvledare, molntjänster, AI och betalningssystem samt utveckla europeiska AI-system och språkmodeller. Partiet kopplar frågan till sårbarhet för cyberhot, påtryckningar och beroende av auktoritära stater.",
+    "detailedPosition": "I valmanifestet 2026 skriver Liberalerna att Sveriges och Europas beroende av digital teknik från andra delar av världen skapar sårbarhet för cyberhot och påtryckningar, och att Europa därför behöver stärka sin egen kapacitet inom halvledare, molntjänster, AI och betalningssystem. Partiets AI-sida utvecklar samma linje: Europa är beroende av mikrochips, halvledare och kritiska mineraler från andra delar av världen, och Liberalerna vill minska sårbarheten genom europeisk produktion, snabbare tillståndsprocesser och frihandelsavtal med demokratiska länder. Sidan anger också att Europa behöver egna AI-lösningar, AI-system och språkmodeller som bygger på demokratiska värderingar och respekt för mänskliga rättigheter. Tolkning: partiets suveränitetslinje är europeisk snarare än nationellt svensk och kopplar AI-infrastruktur till demokrati, säkerhet och leveranskedjor.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026 och officiella AI-sida. Båda källorna är aktuella och uttryckliga om europeisk teknisk kapacitet, AI-system, språkmodeller och beroenderisker.",
+>>>>>>> origin/main
     "sourceIds": [
       "l-valmanifest-2026",
       "l-webb-ai"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
+<<<<<<< HEAD
     "lastUpdatedAt": "2026-07-20"
+=======
+    "lastUpdatedAt": "2026-07-18"
+>>>>>>> origin/main
+>>>>>>> origin/main
   }
 ]
