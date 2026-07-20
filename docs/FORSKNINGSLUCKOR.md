@@ -1,14 +1,6 @@
 # Forskningsluckor
 
-<<<<<<< HEAD
 Statusen är **2026-07-20**. Detta dokument räknas som en del av
-=======
-<<<<<<< HEAD
-Statusen är **2026-07-19**. Detta dokument räknas som en del av
-=======
-Statusen är **2026-07-18**. Detta dokument räknas som en del av
->>>>>>> origin/main
->>>>>>> origin/main
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -18,28 +10,11 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-<<<<<<< HEAD
-- **Granskade i piloten:** 30 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 31 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
-  S räknas en gång — samt C/strategi och L/strategi, L/näringsliv och
-  L/suveränitet efter granskning av valmanifest 2026).
-- **Ej granskade:** 122. Dessa visas som "Ännu ej granskat" på webbplatsen,
-=======
-<<<<<<< HEAD
-- **Granskade i piloten:** 29 (18 för S över alla ämnen utom arbetsmarknad
-  som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
-  S räknas en gång — samt C/strategi och L/strategi och L/utbildning efter
-  granskning av valmanifest 2026).
-- **Ej granskade:** 123. Dessa visas som "Ännu ej granskat" på webbplatsen,
-=======
-- **Granskade i piloten:** 30 (18 för S över alla ämnen utom arbetsmarknad
-  som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
-  S räknas en gång — samt C/strategi och L/strategi efter granskning av
-  valmanifest 2026, plus L/utbildning och L/suveranitet efter fortsatt
-  manifestogranskning).
-- **Ej granskade:** 122. Dessa visas som "Ännu ej granskat" på webbplatsen,
->>>>>>> origin/main
->>>>>>> origin/main
+  S räknas en gång — samt C/strategi och L/strategi, L/utbildning,
+  L/näringsliv och L/suveränitet efter granskning av valmanifest 2026).
+- **Ej granskade:** 121. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -90,17 +65,9 @@ med sökvägar.
   SD:s valplattform 2026 var integrerad 2026-07-15. Centerpartiets
   valmanifest 2026 hittades och AI-avsnittet integrerades 2026-07-16.
   Liberalernas valmanifest 2026 integrerades delvis 2026-07-17 för
-<<<<<<< HEAD
-  strategi och arbetsmarknad och granskades vidare 2026-07-20 för
-  näringsliv och AI-suveränitet; övriga ämnen återstår.
-=======
-<<<<<<< HEAD
-  strategi och arbetsmarknad samt kompletterades 2026-07-19 för utbildning;
-=======
-  strategi och arbetsmarknad och 2026-07-18 för utbildning och suveränitet;
->>>>>>> origin/main
-  övriga ämnen återstår.
->>>>>>> origin/main
+  strategi och arbetsmarknad, kompletterades 2026-07-19 med utbildning och
+  granskades vidare 2026-07-20 för näringsliv och AI-suveränitet; övriga
+  ämnen återstår.
 
 ## Nästa steg för att stänga luckorna
 
