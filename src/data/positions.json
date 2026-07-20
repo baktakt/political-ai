@@ -628,5 +628,99 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-20"
+  },
+  {
+    "id": "mp-strategi",
+    "partyId": "mp",
+    "topicId": "strategi",
+    "summary": "Miljöpartiet vill att AI används ansvarsfullt och styrs demokratiskt med respekt för mänskliga rättigheter, integritet, upphovsrätt, klimat och miljö. Partiet prioriterar tydliga etiska riktlinjer, transparens, bättre tillsyn, minskat beroende av globala teknikföretag och ett brett kunskapslyft om AI.",
+    "detailedPosition": "På partiets AI- och digitaliseringssida skriver Miljöpartiet att AI ska utvecklas och användas med respekt för mänskliga rättigheter, integritet och upphovsrätt, med tydliga krav på transparens kring hur AI-tjänster fungerar, när de används och vilken data de tränas på. Partiet vill att Sverige ska vara aktivt i EU och internationellt för att påverka AI-utvecklingen, minska beroendet av globala teknikföretag, stärka kontrollen över samhällsviktig data och digital infrastruktur samt stärka europeiska molntjänster och öppna standarder. Kommittémotionen En grön AI-politik (2025/26:3425) knyter AI-politiken till försiktighetsprincipen, mänskliga rättigheter, demokrati, hållbarhet, transparens och digital suveränitet. Tolkning: partiets övergripande AI-linje är styrnings-, rättighets- och hållbarhetsinriktad snarare än enbart tillväxtinriktad.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "partiprogram",
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida och kommittémotion 2025/26:3425, båda öppnade vid granskningen. Källorna är samstämmiga om demokratisk kontroll, transparens, tillsyn, europeisk digital suveränitet och ett brett kunskapslyft; någon 2026-valmanifesttext från MP hittades inte vid manifestobevakningen.",
+    "sourceIds": [
+      "mp-webb-ai",
+      "mp-mot-2025-3425"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-20"
+  },
+  {
+    "id": "mp-utbildning",
+    "partyId": "mp",
+    "topicId": "utbildning",
+    "summary": "Miljöpartiet vill genomföra ett brett kunskapslyft om AI i hela samhället och lyfter skolan, biblioteken, folkbildningen och fort- och vidareutbildning för yrkesverksamma som viktiga delar. Partiet kopplar utbildningsfrågan till källkritik, digital kunskap och medieläskunnighet.",
+    "detailedPosition": "Miljöpartiets AI-sida anger att fler behöver förstå hur AI fungerar, hur tekniken kan användas och vilka risker den innebär, och att skolan och biblioteken spelar en viktig roll för källkritik och digital kunskap. I kommittémotionen En grön AI-politik (2025/26:3425) yrkar partiet på en kraftfull satsning på utbildning, inklusive fort- och vidareutbildning för yrkesverksamma, för bredare förståelse och kompetens inom AI-området, och ansluter sig till stöd för folkbildning genom bland annat folkhögskolor och bibliotek. I en senare kommittémotion om läroplaner (2025/26:4054) kritiserar partiet att digital kompetens tonas ned och lyfter medieläskunnighet som förmåga att hantera desinformation, tolka och producera innehåll och verka i en digital miljö. Tolkning: partiets utbildningslinje betonar bred samhällskompetens, källkritik och digital bildning mer än detaljerade regler för AI vid prov och examination.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på ett konkret yrkande i kommittémotion 2025/26:3425 om AI-utbildning och fort-/vidareutbildning, kompletterat med partiets AI-sida och kommittémotion 2025/26:4054 om digital kompetens i läroplanerna. Källorna behandlar inte detaljerat fuskhantering, examination eller likvärdig tillgång till specifika AI-verktyg.",
+    "sourceIds": [
+      "mp-webb-ai",
+      "mp-mot-2025-3425",
+      "mp-mot-2026-4054"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-20"
+  },
+  {
+    "id": "mp-offentlig-sektor",
+    "partyId": "mp",
+    "topicId": "offentlig-sektor",
+    "summary": "Miljöpartiet vill använda AI i offentlig sektor för att avlasta monotona uppgifter, förbättra beslutsstöd och ge snabbare service, men med krav på mänskligt yttersta ansvar, konsekvensanalyser, transparens och kontroll över samhällsviktig data.",
+    "detailedPosition": "Partiets AI-sida skriver att AI kan användas för bättre välfärd och mer tid för människor, bland annat genom att avlasta monotona uppgifter, förbättra beslutsstöd och ge snabbare service i offentlig sektor. Samma sida anger att tekniken ska vara ett stöd, inte ersätta människor i samhällsviktiga verksamheter, och att människor alltid ska ha det yttersta ansvaret för att hantering av ärenden och insatser inom vård och omsorg utförs korrekt. I kommittémotionen En grön AI-politik (2025/26:3425) vill partiet ge relevanta myndigheter i uppdrag att kartlägga data i offentlig sektor, klarlägga vad befintlig lagstiftning tillåter och pröva behov av lagändringar. Motionen betonar också försiktighetsprincipen, långsiktiga etiska och hållbarhetsmässiga följder, transparens kring hur AI fungerar och fattar beslut samt problem med överklagande utan mänsklig granskning. Tolkning: partiet är positivt till offentlig AI-användning när den frigör tid och förbättrar service, men vill rama in den med mänskligt ansvar och rättssäkerhetskrav.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "partiprogram",
+      "motion"
+    ],
+    "confidenceExplanation": "Källorna är partiets officiella AI-sida och kommittémotion 2025/26:3425. De innehåller både användningsområden i offentlig sektor och krav på ansvar, transparens och konsekvensanalys, vilket ger en tydlig dokumenterad position.",
+    "sourceIds": [
+      "mp-webb-ai",
+      "mp-mot-2025-3425"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-20"
+  },
+  {
+    "id": "mp-integritet",
+    "partyId": "mp",
+    "topicId": "integritet",
+    "summary": "Miljöpartiet vill begränsa AI-användning som kan kränka integritet och rättigheter. Partiet stödjer AI-förordningens huvudregel om förbud mot ansiktsigenkänning i realtid på allmänt tillgängliga platser och vill ha endast få, begränsade undantag.",
+    "detailedPosition": "I kommittémotionen med anledning av regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid (2025/26:3953) skriver Miljöpartiet att EU:s AI-förordning behövs som stark gemensam reglering som värnar säkerhet och grundläggande rättigheter. Partiet framhåller att huvudregeln är ett generellt förbud mot realtidsansiktsigenkänning på allmänt tillgängliga platser och att detta sätter en gräns mot normaliserad massövervakning. Motionen anger att det för Miljöpartiet var viktigt att AI-förordningen genomförs i sin helhet, liksom ett förbud med endast ett fåtal begränsade undantag, och föreslår skärpningar av regeringens proposition: färre brottskategorier, högre misstankegrad och större restriktivitet vid identifiering i realtid. Partiets AI-sida anger också att AI ska utvecklas med respekt för integritet och att risker som övervakning, diskriminering, maktkoncentration och integritetsintrång ska motverkas.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger främst på kommittémotion 2025/26:3953, som är partinivå och direkt behandlar ansiktsigenkänning i realtid, samt på partiets AI-sida. Motionen innehåller konkreta begränsningsyrkanden och tydlig argumentation om integritet och grundläggande rättigheter.",
+    "sourceIds": [
+      "mp-mot-2026-3953",
+      "mp-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-20"
+  },
+  {
+    "id": "mp-miljoavtryck",
+    "partyId": "mp",
+    "topicId": "miljoavtryck",
+    "summary": "Miljöpartiet beskriver AI:s energianvändning och klimatpåverkan som risker som behöver förebyggas nationellt och internationellt. Partiet vill att elen kommer från förnybara källor, att varje AI-sökning blir mindre energikrävande och att elnätskapacitet styrs efter klimat- och samhällsnytta.",
+    "detailedPosition": "På partiets AI- och digitaliseringssida skriver Miljöpartiet att AI kräver mycket energi och ökar de globala klimatutsläppen, och att AI:s miljö- och klimatkonsekvenser behöver förebyggas nationellt och internationellt. Partiet anger att elen behöver komma från förnybar el och att varje sökning behöver bli mindre energikrävande. I fråga om lokalisering och elnät skriver partiet att det är viktigt med rätt geografisk placering där det finns tillgång till stora mängder el, krav på viss andel egenproducerad el och förmåga att balansera tillgången på el, samt att tilldelningen av kapacitet i elnätet ska styras utifrån klimat- och samhällsnytta. Tolkning: partiet behandlar AI:s miljöavtryck främst genom energi- och elnätsstyrning, inte genom detaljerade rapporteringskrav för vatten, hårdvara eller utsläpp per modell.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida, som uttryckligen tar upp AI:s energianvändning, klimatutsläpp, förnybar el och elnätsprioritering. Källan innehåller däremot inte detaljerade krav på vattenrapportering, hårdvarulivscykel eller obligatorisk miljöredovisning från AI-leverantörer.",
+    "sourceIds": [
+      "mp-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-20"
   }
 ]

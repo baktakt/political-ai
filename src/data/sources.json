@@ -763,5 +763,35 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "mp-mot-2026-3953",
+    "title": "Motion 2025/26:3953 med anledning av prop. 2025/26:150 Polisens användning av AI för ansiktsigenkänning i realtid (kommittémotion, Ulrika Westerlund m.fl., MP)",
+    "publisher": "Sveriges riksdag",
+    "author": "Ulrika Westerlund m.fl. (MP)",
+    "publicationDate": "2026-03-18",
+    "url": "https://data.riksdagen.se/dokument/HD023953",
+    "accessedAt": "2026-07-20",
+    "sourceType": "motion",
+    "excerpt": "För Miljöpartiet var det viktigt att AI-förordningen genomförs i sin helhet, liksom ett förbud mot ansiktsigenkänning i realtid med endast ett fåtal begränsade undantag.",
+    "supportExplanation": "Kommittémotion med anledning av regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid. Motionen redovisar Miljöpartiets stöd för AI-förordningens huvudregel om förbud mot realtidsansiktsigenkänning på allmänt tillgängliga platser och föreslår flera begränsningar av regeringens undantag.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "mp-mot-2026-4054",
+    "title": "Motion 2025/26:4054 med anledning av prop. 2025/26:194 Nya läroplaner – för en stark kunskapsskola (kommittémotion, Camilla Hansén m.fl., MP)",
+    "publisher": "Sveriges riksdag",
+    "author": "Camilla Hansén m.fl. (MP)",
+    "publicationDate": "2026-04-01",
+    "url": "https://data.riksdagen.se/dokument/HD024054",
+    "accessedAt": "2026-07-20",
+    "sourceType": "motion",
+    "excerpt": "Medieläskunnighet handlar om att kunna hantera desinformation, tolka och producera innehåll och verka i en digital miljö.",
+    "supportExplanation": "Kommittémotion om nya läroplaner. Den är inte en ren AI-motion, men används som kompletterande partinivåbelägg för Miljöpartiets utbildningslinje om digital bildning, medieläskunnighet och kritik mot att digital kompetens tonas ned i läroplanerna.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

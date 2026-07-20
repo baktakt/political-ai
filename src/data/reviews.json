@@ -107,7 +107,6 @@
       "Manifestobevakningen av övriga partiers startsidor gav inga nya valmanifestträffar utöver redan integrerade C, L och SD; startsidor är inte en fullständig garanti för frånvaro och bör bevakas fortsatt."
     ],
     "notes": "Fokuserad fortsättning på Liberalernas valmanifest 2026. Valmanifestets avsnitt om forskning/teknikrevolution och europeisk teknisk kapacitet öppnades och jämfördes med Liberalernas officiella AI-sida. Två nya ståndpunkter lades till för redaktionell granskning: L/näringsliv och L/suveränitet."
-
   },
   {
     "id": "granskning-l-valmanifest-utbildning-2026-07-19",
@@ -122,5 +121,23 @@
       "Inga detaljerade förslag hittades i de öppnade L-källorna om generativ AI vid examination, fusk, lärares AI-stöd eller likvärdig tillgång till AI-verktyg i skolan."
     ],
     "notes": "Liberalernas valmanifestkapitel 'Kunskap som öppnar dörrar' öppnades i webbläsare och kontrollerades mot ämnet utbildning. AI-träffen gäller källkritiska kunskaper när AI är vardag. Tidigare öppnade valmanifestkapitel 'Frihet som håller för framtiden' och partiets AI-sida användes som kompletterande källor för AI-kunskapslyft och teknik-/naturvetenskaplig kompetens."
+  },
+  {
+    "id": "granskning-mp-ai-breddning-2026-07-20",
+    "partyId": "mp",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-20",
+    "topicsReviewed": [
+      "strategi",
+      "utbildning",
+      "offentlig-sektor",
+      "integritet",
+      "miljoavtryck"
+    ],
+    "unresolvedQuestions": [
+      "Miljöpartiets valmanifest inför valet 2026-09-13 hittades inte vid manifestobevakningen denna körning; befintlig AI-sida, programfördjupning och riksdagsmotioner kan därför behöva färskhetsgranskas mot ett kommande manifest.",
+      "Granskningen omfattade fem MP-ämnen men inte hela partiprofilen. Övriga MP-ämnen, särskilt demokrati, kultur/upphovsrätt, reglering, suveränitet och hållbarhetsverktyg, återstår för separat genomgång."
+    ],
+    "notes": "Breddad granskning av Miljöpartiets officiella AI-sida och partinivåmotioner 2025/26:3425, 2025/26:3953 och 2025/26:4054. Manifestobevakning gjordes för M, KD, MP, S och V utan att nytt valmanifest 2026 kunde verifieras. Nya MP-positioner skrevs för strategi, utbildning, offentlig sektor, integritet och AI:s miljöavtryck med workflowStatus behover_redaktionell_granskning."
   }
 ]

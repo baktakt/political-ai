@@ -10,11 +10,13 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 31 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 36 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi och L/strategi, L/utbildning,
-  L/näringsliv och L/suveränitet efter granskning av valmanifest 2026).
-- **Ej granskade:** 121. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  L/näringsliv och L/suveränitet efter granskning av valmanifest 2026,
+  samt MP/strategi, MP/utbildning, MP/offentlig sektor, MP/integritet och
+  MP/miljöavtryck efter breddad granskning av partiets AI-material).
+- **Ej granskade:** 116. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -66,8 +68,9 @@ med sökvägar.
   valmanifest 2026 hittades och AI-avsnittet integrerades 2026-07-16.
   Liberalernas valmanifest 2026 integrerades delvis 2026-07-17 för
   strategi och arbetsmarknad, kompletterades 2026-07-19 med utbildning och
-  granskades vidare 2026-07-20 för näringsliv och AI-suveränitet; övriga
-  ämnen återstår.
+  granskades vidare 2026-07-20 för näringsliv och AI-suveränitet. Samma dag
+  kompletterades MP för fem ämnen utifrån AI-sida och kommittémotioner, men
+  inget MP-valmanifest 2026 kunde verifieras; övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna
 
