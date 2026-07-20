@@ -573,5 +573,41 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-17"
+  },
+  {
+    "id": "l-naringsliv",
+    "partyId": "l",
+    "topicId": "naringsliv",
+    "summary": "Liberalerna vill att Sverige ska leda teknikrevolutionen inom bland annat AI, med forskningsinfrastruktur och innovationsklimat i världsklass. Partiet vill öka privata och offentliga forskningsanslag till sammanlagt 4 procent av BNP, stärka AI-forskningen och skapa innovationsvänliga regler.",
+    "detailedPosition": "I valmanifestet 2026 skriver Liberalerna att Sverige ska leda teknikrevolutionen genom genombrott och teknikskiften inom AI, kvantteknologi, energi och bioteknik. För detta krävs enligt partiet forskningsinfrastruktur där Sverige ligger i framkant, ett innovationsklimat i världsklass, mer resurser till framgångsrika forskare, generösare FoU-avdrag för företag och privata och offentliga forskningsanslag på sammanlagt 4 procent av BNP. Partiets AI-sida anger också att Sverige ska vara ledande inom AI, innovation och teknisk utveckling, att regler ska uppmuntra innovation och teknikutveckling samt att mer forskning och utveckling inom AI behövs. Tolkning: Liberalernas näringslivslinje kopplar AI främst till forskning, företagens innovationsvillkor och svensk/europeisk konkurrenskraft.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026 och partiets officiella AI-sida, båda öppnade vid granskningen. Källorna innehåller uttryckliga skrivningar om AI som teknikskifte, forskningsinfrastruktur, FoU-avdrag, anslagsnivåer och innovationsvänliga regler. Några detaljerade sektorsvisa företagsstöd för AI hittades inte i den granskade texten.",
+    "sourceIds": [
+      "l-valmanifest-2026",
+      "l-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-20"
+  },
+  {
+    "id": "l-suveranitet",
+    "partyId": "l",
+    "topicId": "suveranitet",
+    "summary": "Liberalerna vill stärka Europas tekniska oberoende och minska beroendet av digital teknik och komponenter från andra delar av världen. I valmanifestet pekar partiet ut halvledare, molntjänster, AI och betalningssystem som områden där Europa behöver stärka sin egen kapacitet.",
+    "detailedPosition": "I valmanifestet 2026 skriver Liberalerna att Sveriges och Europas stora beroende av digital teknik från andra delar av världen gör samhället sårbart för cyberhot och påtryckningar, och att Europa därför behöver stärka sin egen kapacitet inom halvledare, molntjänster, AI och betalningssystem. Partiets AI-sida utvecklar samma linje: Europa är beroende av teknik och komponenter från andra delar av världen, bland annat mikrochips, halvledare och kritiska mineraler, och Liberalerna vill minska Europas sårbarhet genom investeringar i europeisk produktion, snabbare tillståndsprocesser och nya frihandelsavtal med demokratiska länder. Tolkning: partiets suveränitetsposition är europeiskt inriktad och gäller kritiska teknikleveranskedjor snarare än en särskild svensk statlig AI-infrastruktur.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Valmanifestet och AI-sidan är officiella partikällor och är samstämmiga om europeiskt tekniskt oberoende. Källorna nämner AI, halvledare och molntjänster, men innehåller inte ett konkret förslag om svenska språkmodeller, statligt ägda modeller eller svensk superdatorinfrastruktur; därför klassas positionen som generell dokumenterad.",
+    "sourceIds": [
+      "l-valmanifest-2026",
+      "l-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-20"
   }
 ]

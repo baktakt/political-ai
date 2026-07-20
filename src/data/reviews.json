@@ -92,5 +92,20 @@
       "Valmanifestets skrivning om AI-kunskapslyft gäller användning i vardagen och på jobbet, men ger inte detaljer om omställningssystem, arbetsvillkor eller arbetsplatsövervakning."
     ],
     "notes": "Manifestobevakning inför valet 2026. Liberalernas valmanifest 2026 öppnades på liberalerna.se, PDF-länken verifierades och manifestosidorna fulltextsöktes på AI, artificiell, digital, teknik, algoritm, automatisering, data, cyber, deepfake, jobb och utbildning. AI-träffarna fanns främst i avsnitten om skola, trygghet samt 'Frihet som håller för framtiden'. Denna körning integrerade endast strategi och arbetsmarknad."
+  },
+  {
+    "id": "granskning-l-valmanifest-naringsliv-suveranitet-2026-07-20",
+    "partyId": "l",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-20",
+    "topicsReviewed": [
+      "naringsliv",
+      "suveranitet"
+    ],
+    "unresolvedQuestions": [
+      "Granskningen byggde på Liberalernas valmanifest 2026 och partiets AI-sida. Riksdagens öppna data kontrollerades för L-motioner med söktermerna AI, artificiell intelligens, molntjänster, halvledare och digital suveränitet; aktuella träffar under valperioden var enskilda motioner eller saknade direkt partinivåbelägg för dessa två ämnen.",
+      "Manifestobevakningen av övriga partiers startsidor gav inga nya valmanifestträffar utöver redan integrerade C, L och SD; startsidor är inte en fullständig garanti för frånvaro och bör bevakas fortsatt."
+    ],
+    "notes": "Fokuserad fortsättning på Liberalernas valmanifest 2026. Valmanifestets avsnitt om forskning/teknikrevolution och europeisk teknisk kapacitet öppnades och jämfördes med Liberalernas officiella AI-sida. Två nya ståndpunkter lades till för redaktionell granskning: L/näringsliv och L/suveränitet."
   }
 ]
