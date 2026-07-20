@@ -94,6 +94,7 @@
     "notes": "Manifestobevakning inför valet 2026. Liberalernas valmanifest 2026 öppnades på liberalerna.se, PDF-länken verifierades och manifestosidorna fulltextsöktes på AI, artificiell, digital, teknik, algoritm, automatisering, data, cyber, deepfake, jobb och utbildning. AI-träffarna fanns främst i avsnitten om skola, trygghet samt 'Frihet som håller för framtiden'. Denna körning integrerade endast strategi och arbetsmarknad."
   },
   {
+<<<<<<< HEAD
     "id": "granskning-l-valmanifest-utbildning-2026-07-19",
     "partyId": "l",
     "reviewer": "Hermes Agent (AI-assisterad research)",
@@ -106,5 +107,20 @@
       "Inga detaljerade förslag hittades i de öppnade L-källorna om generativ AI vid examination, fusk, lärares AI-stöd eller likvärdig tillgång till AI-verktyg i skolan."
     ],
     "notes": "Liberalernas valmanifestkapitel 'Kunskap som öppnar dörrar' öppnades i webbläsare och kontrollerades mot ämnet utbildning. AI-träffen gäller källkritiska kunskaper när AI är vardag. Tidigare öppnade valmanifestkapitel 'Frihet som håller för framtiden' och partiets AI-sida användes som kompletterande källor för AI-kunskapslyft och teknik-/naturvetenskaplig kompetens."
+=======
+    "id": "granskning-l-valmanifest-fortsatt-2026-07-18",
+    "partyId": "l",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-18",
+    "topicsReviewed": [
+      "utbildning",
+      "suveranitet"
+    ],
+    "unresolvedQuestions": [
+      "Liberalernas valmanifest 2026 granskades fortsatt utifrån AI-träffar i avsnitten om skola och framtid. Denna körning integrerade utbildning och AI-suveränitet; övriga ämnen i manifestet är inte fullständigt genomgångna.",
+      "Skolavsnittet kopplar AI till källkritik och kompetens men innehåller inga detaljerade ställningstaganden om generativ AI i undervisning, examination eller fuskhantering."
+    ],
+    "notes": "Manifestobevakning inför valet 2026. Liberalernas manifestosidor 'Kunskap som öppnar dörrar' och 'Frihet som håller för framtiden' samt partiets AI-sida öppnades och fulltextsöktes på AI, artificiell, digital, teknik, matematik, naturvetenskap, molntjänster och halvledare. Nya positioner lades till för L/utbildning och L/suveranitet för redaktionell granskning."
+>>>>>>> origin/main
   }
 ]
