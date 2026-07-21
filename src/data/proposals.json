@@ -418,5 +418,54 @@
       "c-webb-ai"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-forslag-konsekvensanalyser-ai",
+    "partyId": "v",
+    "topicIds": [
+      "strategi",
+      "offentlig-sektor"
+    ],
+    "title": "Konsekvensanalyser före AI-användning, särskilt i offentlig verksamhet",
+    "description": "Partiets AI-sida anger att all användning av AI, särskilt inom offentlig verksamhet, ska föregås av noggranna konsekvensanalyser och att regeringen ansvarar för att kommuner, regioner och myndigheter får stöd i detta.",
+    "date": "2026-01-19",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "v-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-forslag-ansiktsigenkanning-integritet-2026",
+    "partyId": "v",
+    "topicIds": [
+      "integritet"
+    ],
+    "title": "Stärkt integritetsskydd och tidsbegränsning för polisens realtidsansiktsigenkänning",
+    "description": "Kommittémotion 2025/26:3947 yrkar på säkrare tillståndsprövning, stärkt skydd för integritet, information och rättigheter samt tidsbegränsning och utvärdering av lagen om polisens användning av AI-system för ansiktsigenkänning i realtid.",
+    "date": "2026-03-16",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "v-mot-2026-3947"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-forslag-forbud-autonoma-vapen-2025",
+    "partyId": "v",
+    "topicIds": [
+      "forsvar"
+    ],
+    "title": "Internationellt förbud mot helt autonoma vapensystem",
+    "description": "Kommittémotion 2025/26:54 yrkar på att Sverige aldrig ska främja utvecklingen av eller delta i verksamhet som rör helt autonoma vapensystem och att Sverige ska arbeta för en bindande internationell konvention mot sådana vapensystem.",
+    "date": "2025-09-12",
+    "status": "avslaget",
+    "implementationStatus": "Yrkandet avslogs i betänkande 2025/26:FöU3 enligt riksdagens dokumentstatus.",
+    "sourceIds": [
+      "v-mot-2025-54"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

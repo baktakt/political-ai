@@ -139,5 +139,24 @@
       "Granskningen omfattade fem MP-ämnen men inte hela partiprofilen. Övriga MP-ämnen, särskilt demokrati, kultur/upphovsrätt, reglering, suveränitet och hållbarhetsverktyg, återstår för separat genomgång."
     ],
     "notes": "Breddad granskning av Miljöpartiets officiella AI-sida och partinivåmotioner 2025/26:3425, 2025/26:3953 och 2025/26:4054. Manifestobevakning gjordes för M, KD, MP, S och V utan att nytt valmanifest 2026 kunde verifieras. Nya MP-positioner skrevs för strategi, utbildning, offentlig sektor, integritet och AI:s miljöavtryck med workflowStatus behover_redaktionell_granskning."
+  },
+  {
+    "id": "granskning-v-ai-breddning-2026-07-21",
+    "partyId": "v",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-21",
+    "topicsReviewed": [
+      "strategi",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "forsvar"
+    ],
+    "unresolvedQuestions": [
+      "Vänsterpartiets valplattform inför valet 2026-09-13 hittades inte vid manifestobevakningen denna körning; partiets AI-sida och riksdagsmotioner behöver därför färskhetsgranskas mot ett kommande manifest.",
+      "Granskningen omfattade fem nya V-ämnen utöver tidigare arbetsmarknadsposition, men inte hela partiprofilen. Utbildning, näringsliv, demokrati, kultur/upphovsrätt, reglering, suveränitet och hållbarhetsämnen återstår.",
+      "Utfallet för motion 2025/26:3947 och partimotion 2025/26:2777 verifierades inte i utskottsbetänkanden; nya actions/proposals är därför markerade för redaktionell granskning och, där utfall saknas, som ej verifierade."
+    ],
+    "notes": "Breddad granskning av Vänsterpartiets officiella AI-sida (uppdaterad 2026-01-19) och partinivåmotioner 2025/26:3947, 2025/26:2777 och 2025/26:54. Nya V-positioner skrevs för strategi, offentlig sektor, vård och omsorg, integritet samt försvar med workflowStatus behover_redaktionell_granskning. Manifestobevakning gjordes för V, M, KD, S och MP utan att nya valmanifest 2026 kunde verifieras via testade URL:er."
   }
 ]

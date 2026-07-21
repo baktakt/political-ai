@@ -188,10 +188,20 @@
     "governmentStatus": "opposition",
     "governmentNote": "I opposition. Tre ledamöter har lämnat partiet under valperioden och sitter kvar utan partibeteckning.",
     "summary": "Riksdagsparti med 24 mandat i valet 2022 (21 ledamöter med partibeteckning i juli 2026). I opposition.",
-    "aiSummary": null,
-    "aiPriorities": [],
-    "sustainabilityPriorities": [],
-    "lastReviewedAt": "2026-07-15",
+    "aiSummary": "Vänsterpartiet vill ta vara på AI:s möjligheter men reglera tekniken mot riskabel, integritetskränkande och repressiv användning. Partiet betonar konsekvensanalyser före AI-användning, särskilt i offentlig sektor, och vill att effektiviseringar ska stärka det offentliga åtagandet och förbättra villkor för anställda. I vården ser partiet möjligheter för diagnostik, provanalys och minskad administration, men betonar patientintegritet och nej till kommersiell exploatering av patientdata. I integritets- och försvarsfrågor vill partiet ha starka rättighetsskydd vid ansiktsigenkänning i realtid och förbud mot helt autonoma vapensystem.",
+    "aiPriorities": [
+      "Noggranna konsekvensanalyser före AI-användning, särskilt i offentlig verksamhet",
+      "AI i offentlig sektor och vård som avlastar rutinuppgifter och frigör tid för människor",
+      "Reglering mot integritetskränkande, repressiv eller diskriminerande AI-användning",
+      "Stärkt integritetsskydd, riskanalyser och tidsbegränsning vid polisens realtidsansiktsigenkänning",
+      "Internationellt förbud mot helt autonoma vapensystem"
+    ],
+    "sustainabilityPriorities": [
+      "AI-effektiviseringar ska komma offentligt anställda och välfärden till del, exempelvis genom mer tid för patientmöten och kortare arbetstid",
+      "Skydd mot diskriminering, minskad tillit och påverkan på demokratins funktionssätt vid AI-användning",
+      "Patienters integritet ska värnas och privata företag ska inte tjäna pengar på patientdata"
+    ],
+    "lastReviewedAt": "2026-07-21",
     "verifiedAt": "2026-07-15",
     "verificationSourceIds": [
       "riksdagen-ledamoter-partier-2026",

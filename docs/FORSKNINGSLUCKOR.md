@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-20**. Detta dokument räknas som en del av
+Statusen är **2026-07-21**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,13 +10,15 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 36 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 41 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi och L/strategi, L/utbildning,
   L/näringsliv och L/suveränitet efter granskning av valmanifest 2026,
   samt MP/strategi, MP/utbildning, MP/offentlig sektor, MP/integritet och
-  MP/miljöavtryck efter breddad granskning av partiets AI-material).
-- **Ej granskade:** 116. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  MP/miljöavtryck efter breddad granskning av partiets AI-material, samt
+  V/strategi, V/offentlig sektor, V/vård, V/integritet och V/försvar efter
+  breddad granskning av partiets AI-sida och riksdagsmotioner).
+- **Ej granskade:** 111. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -70,7 +72,10 @@ med sökvägar.
   strategi och arbetsmarknad, kompletterades 2026-07-19 med utbildning och
   granskades vidare 2026-07-20 för näringsliv och AI-suveränitet. Samma dag
   kompletterades MP för fem ämnen utifrån AI-sida och kommittémotioner, men
-  inget MP-valmanifest 2026 kunde verifieras; övriga ämnen återstår.
+  inget MP-valmanifest 2026 kunde verifieras. V kompletterades 2026-07-21
+  för fem ämnen utifrån AI-sida och riksdagsmotioner; inget V-, M-, KD-, S-
+  eller MP-valmanifest 2026 kunde verifieras via testade URL:er denna
+  körning. Övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna
 
