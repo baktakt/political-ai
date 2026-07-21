@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 44 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 48 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi och L/strategi, L/utbildning,
   L/näringsliv och L/suveränitet efter granskning av valmanifest 2026,
@@ -19,8 +19,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   V/strategi, V/offentlig sektor, V/vård, V/integritet och V/försvar efter
   breddad granskning av partiets AI-sida och riksdagsmotioner, samt
   M/strategi, M/näringsliv och M/vård utifrån Moderaternas stämmohandlingar
-  2025).
-- **Ej granskade:** 108. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  2025, samt KD/strategi, KD/utbildning, KD/näringsliv och KD/integritet där
+  inga egna partinivåpositioner hittades).
+- **Ej granskade:** 104. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -41,6 +42,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 - **KD / arbetsmarknad:** ingen egen partiposition hittades; endast
   regeringens gemensamma AI-strategi (där KD:s civilminister är ansvarigt
   statsråd) är dokumenterad.
+- **KD / strategi, utbildning, näringsliv och integritet:** inga egna
+  partinivåpositioner hittades i granskade partikanaler och Riksdagens öppna
+  data. Relevanta träffar var regeringspolitik eller enskilda motioner, inte
+  KD-partilinje.
 - **SD / arbetsmarknad:** berörs endast indirekt (via skolans värde för
   "framtidens arbetsmarknad"); SD:s egen valplattform 2026 innehåller
   överhuvudtaget inga AI-relaterade skrivningar (verifierat genom
@@ -77,8 +82,10 @@ med sökvägar.
   kompletterades MP för fem ämnen utifrån AI-sida och kommittémotioner, men
   inget MP-valmanifest 2026 kunde verifieras. V kompletterades 2026-07-21
   för fem ämnen utifrån AI-sida och riksdagsmotioner. M kompletterades senare
-  2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025; inget V-, M-,
-  KD-, S- eller MP-valmanifest 2026 kunde verifieras via testade URL:er dessa
+  2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025. Senare
+  2026-07-21 granskades KD för strategi, utbildning, näringsliv och
+  integritet utan att egna partinivåpositioner hittades. Inget V-, M-, KD-,
+  S- eller MP-valmanifest 2026 kunde verifieras via testade URL:er dessa
   körningar. Övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna

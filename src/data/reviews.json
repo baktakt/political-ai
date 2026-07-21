@@ -175,5 +175,22 @@
       "Riksdagens öppna data visade flera M- och KD-motioner med AI-träffar under 2025/26, men de aktuella M- och KD-träffarna i denna kontroll var enskilda motioner och användes därför inte som partipositioner."
     ],
     "notes": "Breddad granskning av Moderaternas stämmohandlingar 2025 med fulltextsökning på AI, artificiell intelligens, digitalisering, talangstrategi, forskning, företag, vård och hälso- och sjukvård. Nya M-positioner skrevs för övergripande AI-strategi, företagande/innovation och vård/omsorg med workflowStatus behover_redaktionell_granskning. M-, KD- och S-webbplatser samt Riksdagens öppna data kontrollerades översiktligt för nya manifest och partinivåmaterial."
+  },
+  {
+    "id": "granskning-kd-ai-luckor-2026-07-21",
+    "partyId": "kd",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-21",
+    "topicsReviewed": [
+      "strategi",
+      "utbildning",
+      "naringsliv",
+      "integritet"
+    ],
+    "unresolvedQuestions": [
+      "Kristdemokraternas valmanifest inför valet 2026-09-13 hittades inte via testade URL:er eller startsida denna körning; nya manifestosidor kan ändra läget.",
+      "Riksdagens öppna data gav KD-träffar på AI/digitalisering, men relevanta träffar under valperioden var enskilda motioner eller regeringspolitik och har därför inte behandlats som KD-partilinje."
+    ],
+    "notes": "Fokuserad luckgranskning för Kristdemokraterna över fyra ämnen: övergripande AI-strategi, utbildning, näringsliv och integritet. Partiets webbplats, Politik A till Ö-sidor och Riksdagens öppna data kontrollerades. Resultatet blev fyra uttryckliga 'ingen dokumenterad ståndpunkt'-poster för redaktionell granskning, utan nya källposter eftersom inga nya partinivåkällor hittades."
   }
 ]

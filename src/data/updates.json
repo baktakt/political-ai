@@ -61,5 +61,12 @@
     "title": "Moderaternas AI-positioner breddade utifrån stämmohandlingar",
     "description": "Moderaternas stämmohandlingar 2025 har granskats vidare för AI-frågor. Granskningen lägger till ståndpunkter om övergripande AI-strategi, företagande och innovation samt vård och omsorg för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-21-kd-ai-luckor",
+    "date": "2026-07-21",
+    "title": "Kristdemokraternas AI-luckor granskade för fler ämnen",
+    "description": "Kristdemokraternas webbmaterial och riksdagsmotioner har granskats för AI-strategi, utbildning, näringsliv och integritet. Granskningen hittade inga egna partinivåpositioner i dessa ämnen och lägger därför till uttryckliga luckposter för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

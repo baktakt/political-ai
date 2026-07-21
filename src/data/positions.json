@@ -862,5 +862,57 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "kd-strategi",
+    "partyId": "kd",
+    "topicId": "strategi",
+    "summary": "Ingen egen dokumenterad KD-ståndpunkt om en övergripande AI-strategi hittades i de granskade partikällorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Digitalisering och Innovation, partiets startsida och sökningar efter valmanifest 2026, samt Riksdagens öppna data för KD-motioner med söktermerna AI och artificiell intelligens. Ingen egen partikälla med en samlad KD-position om nationell AI-strategi, AI-investeringar eller Sveriges roll inom AI påträffades. Som regeringsparti omfattas KD av regeringens AI-strategi, men den redovisas som regeringspolitik och ska inte förväxlas med ett eget KD-partidokument.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se startsida; Politik A till Ö; politiksidorna Digitalisering och Innovation; testade URL:er för valmanifest 2026; Riksdagens öppna data för KD-motioner med 'AI' och 'artificiell intelligens'. Träffarna under valperioden var enskilda motioner eller regeringspolitik, inte partimotion/kommittémotion med en egen KD-strategi.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "kd-utbildning",
+    "partyId": "kd",
+    "topicId": "utbildning",
+    "summary": "Ingen egen dokumenterad KD-ståndpunkt om AI i skola och utbildning hittades i de granskade partikällorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, relevanta utbildnings- och digitaliseringssidor samt Riksdagens öppna data för KD-motioner med sökningar på AI, artificiell intelligens och digitalisering. Ingen partimotion, kommittémotion eller officiell partipolitisk sida med ställningstaganden om generativ AI i undervisningen, AI-kompetens, examination, fusk eller likvärdig tillgång till AI-verktyg påträffades. Frånvaron ska inte tolkas som att partiet är emot AI i utbildning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se Politik A till Ö och relevanta sidor som Digitalisering och Förskola; försök att hitta skolsida och valmanifest 2026; Riksdagens öppna data för KD-motioner med 'AI', 'artificiell intelligens' och 'digitalisering'. Inga partinivåbelägg om AI i skola eller utbildning hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "kd-naringsliv",
+    "partyId": "kd",
+    "topicId": "naringsliv",
+    "summary": "Ingen egen dokumenterad KD-position om AI, företagande och innovationspolitik på partinivå hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politiksidor om Digitalisering, Innovation och Företagande samt Riksdagens öppna data för KD-motioner med AI-relaterade söktermer. En enskild motion av en KD-ledamot om innovationsklimat i Västsverige nämner digitalisering och artificiell intelligens i regionens techsektor, men motionen är enskild och kan inte användas som KD:s partilinje. Ingen partimotion, kommittémotion eller officiell partikälla med konkreta KD-förslag om AI-startups, AI-forskning, beräkningskraft, kapital eller regulatoriska sandlådor hittades.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Digitalisering, Innovation och Företagande; testade valmanifest-URL:er; Riksdagens öppna data för KD med 'AI', 'artificiell intelligens', 'digitalisering' och 'innovation'. Motion 2025/26:3667 var enskild motion av Magnus Berntsson (KD), inte partinivåbelägg.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "kd-integritet",
+    "partyId": "kd",
+    "topicId": "integritet",
+    "summary": "Ingen egen dokumenterad KD-position om AI, integritet och övervakning hittades i de granskade partikällorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politiksidor om Digitalisering, Rättsväsendet och Brottsbekämpning samt Riksdagens öppna data för KD-motioner om AI, ansiktsigenkänning, deepfake och digitalisering. Inga partinivåförslag från KD om ansiktsigenkänning, polisens AI-användning, algoritmisk profilering eller rättigheter vid automatiserade system påträffades. Regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid är regeringspolitik och inte ett separat KD-partidokument.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Digitalisering, Rättsväsendet och Brottsbekämpning; Riksdagens öppna data för KD med 'AI', 'artificiell intelligens', 'ansiktsigenkänning', 'deepfake' och 'digitalisering'. Inga KD-parti- eller kommittémotioner om AI och integritet hittades; träffar på digitalisering var enskilda motioner utan direkt AI-position.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
   }
 ]
