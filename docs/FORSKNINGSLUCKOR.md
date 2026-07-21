@@ -10,15 +10,17 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 41 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 44 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi och L/strategi, L/utbildning,
   L/näringsliv och L/suveränitet efter granskning av valmanifest 2026,
   samt MP/strategi, MP/utbildning, MP/offentlig sektor, MP/integritet och
   MP/miljöavtryck efter breddad granskning av partiets AI-material, samt
   V/strategi, V/offentlig sektor, V/vård, V/integritet och V/försvar efter
-  breddad granskning av partiets AI-sida och riksdagsmotioner).
-- **Ej granskade:** 111. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  breddad granskning av partiets AI-sida och riksdagsmotioner, samt
+  M/strategi, M/näringsliv och M/vård utifrån Moderaternas stämmohandlingar
+  2025).
+- **Ej granskade:** 108. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -62,7 +64,8 @@ med sökvägar.
   2024/25–2025/26 (alla proposals har `status: "framlagt"`, inget
   `"bifallet"`/`"avslaget"` är ännu verifierat).
 - Slutversionen av Moderaternas handlingsprogram (endast
-  stämmoproposition öppnad).
+  stämmoproposition öppnad; använd för M/arbetsmarknad, M/strategi,
+  M/näringsliv och M/vård).
 - Kongressprotokoll för S 2025 (partiprogram och politiska riktlinjer
   öppnade i slutversion; själva mötesprotokollet med att-satser inte).
 - Övriga partiers valmanifest inför valet 2026-09-13 är under bevakning.
@@ -73,9 +76,10 @@ med sökvägar.
   granskades vidare 2026-07-20 för näringsliv och AI-suveränitet. Samma dag
   kompletterades MP för fem ämnen utifrån AI-sida och kommittémotioner, men
   inget MP-valmanifest 2026 kunde verifieras. V kompletterades 2026-07-21
-  för fem ämnen utifrån AI-sida och riksdagsmotioner; inget V-, M-, KD-, S-
-  eller MP-valmanifest 2026 kunde verifieras via testade URL:er denna
-  körning. Övriga ämnen återstår.
+  för fem ämnen utifrån AI-sida och riksdagsmotioner. M kompletterades senare
+  2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025; inget V-, M-,
+  KD-, S- eller MP-valmanifest 2026 kunde verifieras via testade URL:er dessa
+  körningar. Övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna
 

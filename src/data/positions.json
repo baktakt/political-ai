@@ -811,5 +811,56 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "m-strategi",
+    "partyId": "m",
+    "topicId": "strategi",
+    "summary": "Moderaterna beskriver AI som en del av ett bredare teknikskifte som Sverige ska bejaka för innovation, konkurrenskraft och nya lösningar. I stämmohandlingarna 2025 föreslås bland annat mer högre utbildning och grundforskning inom AI, fler AI-gästprofessurer, en talangstrategi för AI-spetskompetens och bredare möjligheter att prova AI-verktyg.",
+    "detailedPosition": "Moderaternas stämmohandlingar 2025 anger i handlingsprogrammet att nya teknologier, inte minst artificiell intelligens, ökar behovet av omställning och nya lösningar och att utvecklingen ska bejakas så att företag kan starta och växa i Sverige. I samma dokument beskrivs AI som en teknik som både kan effektivisera uppgifter och öppna nya möjligheter. Stämmohandlingarna innehåller också förslag om att möjliggöra ökad digitalisering och AI-användning genom fler gästprofessurer inom AI, större satsningar på högre utbildning och grundläggande forskning inom AI, en talangstrategi för att attrahera AI-spetskompetens och en särskild satsning på folkbiblioteken för att människor ska kunna prova AI-verktyg. Tolkning: positionen är teknik- och tillväxtinriktad, med kompetensförsörjning och innovationsmiljö som centrala verktyg.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, digitalisering, talangstrategi och forskning. Dokumentet är partistyrelsens stämmoproposition; att alla delar antogs i oförändrad form vid arbetsstämman har inte verifierats mot separat öppnad källa.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "m-naringsliv",
+    "partyId": "m",
+    "topicId": "naringsliv",
+    "summary": "Moderaterna kopplar AI till svensk innovationskraft, företagens omställning och konkurrenskraft. Partiets stämmohandlingar beskriver AI som en möjlighet att utveckla nya metoder, effektivisera uppgifter, optimera resursanvändning och skapa nya arbetstillfällen, och föreslår satsningar på AI-kompetens och forskning.",
+    "detailedPosition": "I stämmohandlingarna 2025 skriver Moderaterna att Sverige är en forsknings- och innovationsnation och att nya teknologier, särskilt artificiell intelligens, ökar behovet av omställning och nya lösningar. Dokumentet anger att AI kan göra arbeten enklare, frigöra arbetskraft, optimera elförbrukning och göra varor och tjänster billigare, samtidigt som företag behöver kunna ställa om och hitta ny personal. I förslagsdelen nämns fler AI-gästprofessurer, mer högre utbildning och grundläggande forskning inom AI samt en talangstrategi för att attrahera AI-spetskompetens. Tolkning: näringslivslinjen betonar att Sverige ska tillvarata AI för produktivitet, investeringar och konkurrenskraft snarare än att begränsa företagens användning av tekniken.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Belägget är samma öppnade stämmohandling som redan används för M/arbetsmarknad. AI skrivs in i avsnitt om teknikskifte, innovation, arbetsmarknad och förslag om högre utbildning/forskning. Det är dokumenterat men relativt övergripande för näringslivsämnet, och slutlig antagen programtext har inte verifierats separat.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "m-vard-omsorg",
+    "partyId": "m",
+    "topicId": "vard-omsorg",
+    "summary": "Moderaterna nämner AI i vården som en del av avancerad medicinteknik och digitala beslutsstöd. Stämmohandlingarna anger att digitala beslutsstöd i kombination med vårdpersonalens kunnande och erfarenhet kan ge förutsättningar för tillgänglig och säker vård.",
+    "detailedPosition": "I vård- och omsorgsdelen av Moderaternas stämmohandlingar 2025 anges att svensk hälso- och sjukvård fortsatt ska bidra till innovationer inom avancerad medicinteknik, läkemedel och lösningar i användandet av artificiell intelligens. Dokumentet skriver att digitala beslutsstöd tillsammans med vårdpersonalens kunnande och erfarenhet ger förutsättningar för tillgänglig och säker vård. Tolkning: partiet beskriver AI i vården som ett stöd till vårdpersonal och innovation, men de öppnade skrivningarna innehåller inte detaljerade krav om patientdata, ansvar vid felbedömningar eller upphandling av AI-system.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Källan är Moderaternas stämmohandlingar 2025, öppnad som PDF och kontrollerad i fulltext. AI-kopplingen till vård finns uttryckligen, men den är kort och saknar detaljer om flera av ämnets nyckelfrågor. Att handlingsprogrammet antogs i oförändrad form har inte verifierats mot separat öppnad källa.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
   }
 ]
