@@ -914,5 +914,118 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "c-utbildning",
+    "partyId": "c",
+    "topicId": "utbildning",
+    "summary": "Centerpartiet vill satsa på AI-kompetens i hela utbildningssystemet och genom folkbildning. Partiet vill att jobb- och utbildningspolitiken läggs om för AI-eran och kopplar högre utbildning, livslångt lärande och forskning till Sveriges AI-förmåga.",
+    "detailedPosition": "Centerpartiets AI-sida anger att partiet vill satsa på utbildning och kompetens så att fler kan jobba med och förstå AI, bland annat genom grundskola, gymnasieskola, universitet, bibliotek och civilsamhälle. I valmanifestet 2026 vill partiet lägga om jobb- och utbildningspolitiken för AI-eran och skapa löpande analys och reformförslag utifrån AI:s påverkan på arbetsmarknaden och utbildningssystemet. Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar på ett nationellt kunskapslyft om användningen av artificiell intelligens. Kommittémotionen En högre utbildning för en stärkt kompetensnation (2025/26:3189) kopplar AI till arbetsmarknad, geopolitik, högre utbildning och forskning. Tolkning: Centerpartiets utbildningslinje är bred kompetensförsörjning och livslångt lärande snarare än detaljerade regler om generativ AI vid prov, fusk eller elevdata.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "valmanifest",
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Centerpartiets valmanifest 2026, partiets AI-sida och två kommittémotioner. Källorna innehåller konkreta yrkanden om nationellt AI-kunskapslyft och omlagd jobb- och utbildningspolitik för AI-eran, men saknar detaljer om examination och klassrumsanvändning.",
+    "sourceIds": [
+      "c-valmanifest-2026",
+      "c-webb-ai",
+      "c-mot-2025-2832",
+      "c-mot-2025-3189"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "c-offentlig-sektor",
+    "partyId": "c",
+    "topicId": "offentlig-sektor",
+    "summary": "Centerpartiet vill använda AI och öppna data för smartare myndighetsservice och välfärd. Partiet föreslår öppna offentliga data, strukturerade data och API:er i offentlig sektor samt AI-tillämpningar i vård, skola och myndighetsservice.",
+    "detailedPosition": "På AI-sidan skriver Centerpartiet att AI ska användas för att förbättra välfärden och skapa ett smartare och tryggare Sverige, med exempel som snabbare diagnoser, verktyg för lärare och smidigare myndighetsservice. Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar att offentliga data som utgångspunkt ska vara öppna, att staten ska ta ledarrollen i standarder och strukturerade data/API:er samt att staten utvecklar kompetens i analys och användning av data. Motionen anger att säker lagring av data är viktig men att nytta av data är minst lika viktig för bättre välfärd. Tolkning: partiet vill öka offentlig sektors AI- och dataanvändning, men de öppnade källorna innehåller få detaljer om överklagande, ansvarsfördelning eller upphandling av automatiserade beslut.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Positionen är belagd med partiets AI-sida, valmanifestets AI-avsnitt och kommittémotion 2025/26:2832. Motionen innehåller konkreta yrkanden om öppna data, standarder och API:er; de specifika AI-exemplen i välfärden kommer främst från partiets AI-sida.",
+    "sourceIds": [
+      "c-webb-ai",
+      "c-valmanifest-2026",
+      "c-mot-2025-2832"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "c-integritet",
+    "partyId": "c",
+    "topicId": "integritet",
+    "summary": "Centerpartiet betonar att AI-utveckling ska ske med respekt för individens frihet, rättssäkerhet och personlig integritet. Partiet föreslår avslag på regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid.",
+    "detailedPosition": "Centerpartiets AI-sida anger att etik och integritet ska komma först och att AI-utvecklingen måste ske med respekt för individens frihet och rättssäkerhet. I kommittémotionen Digitalisering för hela Sverige (2025/26:2832) vill partiet samtidigt se över den svenska GDPR-implementeringen för att främja AI-utveckling, eftersom datadelning enligt motionen ibland hindras på ett sätt som försvårar företags AI-användning. I följdmotionen om polisens användning av AI för ansiktsigenkänning i realtid (2025/26:3956) föreslår Centerpartiet att riksdagen avslår regeringens förslag och beskriver förslaget som massövervakning som hotar rättssäkerhet och personlig integritet. Tolkning: partiet kombinerar en integritetslinje mot realtidsansiktsigenkänning med en mer innovationsinriktad datadelningslinje i andra sammanhang.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger främst på kommittémotion 2025/26:3956, där C på partinivå yrkar avslag på propositionen om realtidsansiktsigenkänning. AI-sidan och digitaliseringsmotionen kompletterar med generell integritetsprincip och datadelningslinje.",
+    "sourceIds": [
+      "c-mot-2026-3956",
+      "c-webb-ai",
+      "c-mot-2025-2832"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "c-kultur-upphovsratt",
+    "partyId": "c",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Centerpartiet vill modernisera upphovsrätten för AI-åldern. Partiet pekar på generativa AI-modellers träning på upphovsrättsskyddat material och föreslår transparens i träningsdata samt licensmodeller som ger kreatörer betalt när verk används i kommersiella AI-tjänster.",
+    "detailedPosition": "I kommittémotionen med anledning av propositionen om privatkopieringsersättning (2025/26:4037) skriver Centerpartiet att upphovsrätten står inför nya och mer komplexa utmaningar genom generativ AI, eftersom modeller tränas på stora mängder upphovsrättsskyddat material ofta utan samtycke eller ersättning. Partiet vill att regeringen i stället för att reformera privatkopieringsersättningen fokuserar på modern och hållbar lagstiftning nationellt och inom EU, med transparens i träningsdata och fungerande licensmodeller som garanterar att kreatörer får betalt när deras verk används för kommersiella AI-tjänster. Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) innehåller också en bredare skrivning om framtidssäkrad upphovsrätt.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Kommittémotion 2025/26:4037 innehåller ett uttryckligt AI-relaterat resonemang om upphovsrätt, träningsdata och licensmodeller. Källan är partinivå och ger ett konkret reformspår, även om den exakta lagtekniska modellen inte preciseras.",
+    "sourceIds": [
+      "c-mot-2026-4037",
+      "c-mot-2025-2832"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "c-suveranitet",
+    "partyId": "c",
+    "topicId": "suveranitet",
+    "summary": "Centerpartiet vill stärka svensk och nordisk AI-infrastruktur genom nationell strategi för högpresterande beräkning, öppna data och nordiskt AI-samarbete. Partiet vill att regeringen bevakar och bidrar till språkmodeller som fungerar för nordiska språk.",
+    "detailedPosition": "Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar på en nationell strategi för High-Performance Computing i Sverige samt öppna offentliga data, standarder och API:er som grund för digital utveckling och AI. I kommittémotionen Internationellt samarbete i en utmanande tid (2025/26:3729) vill Centerpartiet stärka nordiskt samarbete om AI och skriver att regeringen bör bevaka och bidra till att det finns AI-språkmodeller som kan hantera de nordiska språken i så hög utsträckning som möjligt, med hänsyn till integritet och säkerhet. Tolkning: positionen är framför allt nordisk och infrastrukturell, inte ett krav på en specifik statligt ägd svensk grundmodell.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på två kommittémotioner med konkreta yrkanden om HPC-strategi respektive nordiskt AI-samarbete och språkmodeller. Källorna anger riktning och vissa verktyg, men lämnar öppet exakt hur språkmodellerna ska byggas eller finansieras.",
+    "sourceIds": [
+      "c-mot-2025-2832",
+      "c-mot-2025-3729"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "c-byggd-miljo",
+    "partyId": "c",
+    "topicId": "byggd-miljo",
+    "summary": "Centerpartiet kopplar AI till digitaliserad samhällsplanering, öppna geodata och effektivare planprocesser. Partiet vill utvärdera om lag- eller regeländringar krävs för att ta vara på AI:s möjligheter i statliga myndigheter och kommuner.",
+    "detailedPosition": "I kommittémotionen Bostäder och samhällsbyggnad (2025/26:3184) behandlar Centerpartiet digitalisering av planprocesser, öppna kommunala och statliga fastighets- och geodata samt digitaliserade detaljplaner och planeringsunderlag. Motionen anger att den snabba teknikutvecklingen, exempelvis artificiell intelligens, har stor potential för ytterligare effektiviseringar i statliga myndigheter och kommuner. Partiet vill att detta utvärderas för att se om lag- eller regeländringar krävs för att på bästa sätt ta vara på teknikens möjligheter. Tolkning: positionen rör främst planering och myndighetsprocesser, inte AI i arkitektur, materialoptimering eller byggproduktion.",
+    "evidenceStatus": "riksdagsaktivitet",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Belägget är en kommittémotion på partinivå med uttrycklig AI-koppling i avsnittet om digitaliserad planering. Eftersom förslaget främst är att utvärdera möjliga regeländringar och AI nämns som exempel på teknikutveckling klassas det som riksdagsaktivitet snarare än detaljerad AI-politik.",
+    "sourceIds": [
+      "c-mot-2025-3184"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-21"
   }
 ]

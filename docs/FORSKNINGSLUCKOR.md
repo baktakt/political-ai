@@ -10,18 +10,21 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 48 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 54 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
-  S räknas en gång — samt C/strategi och L/strategi, L/utbildning,
-  L/näringsliv och L/suveränitet efter granskning av valmanifest 2026,
-  samt MP/strategi, MP/utbildning, MP/offentlig sektor, MP/integritet och
-  MP/miljöavtryck efter breddad granskning av partiets AI-material, samt
-  V/strategi, V/offentlig sektor, V/vård, V/integritet och V/försvar efter
-  breddad granskning av partiets AI-sida och riksdagsmotioner, samt
-  M/strategi, M/näringsliv och M/vård utifrån Moderaternas stämmohandlingar
-  2025, samt KD/strategi, KD/utbildning, KD/näringsliv och KD/integritet där
-  inga egna partinivåpositioner hittades).
-- **Ej granskade:** 104. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
+  C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
+  granskning av valmanifest, AI-sida och riksdagsmotioner, samt L/strategi,
+  L/utbildning, L/näringsliv och L/suveränitet efter granskning av
+  valmanifest 2026, samt MP/strategi, MP/utbildning, MP/offentlig sektor,
+  MP/integritet och MP/miljöavtryck efter breddad granskning av partiets
+  AI-material, samt V/strategi, V/offentlig sektor, V/vård, V/integritet och
+  V/försvar efter breddad granskning av partiets AI-sida och
+  riksdagsmotioner, samt M/strategi, M/näringsliv och M/vård utifrån
+  Moderaternas stämmohandlingar 2025, samt KD/strategi, KD/utbildning,
+  KD/näringsliv och KD/integritet där inga egna partinivåpositioner
+  hittades).
+- **Ej granskade:** 98. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -39,6 +42,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 - **S / byggd-miljö:** ingen ståndpunkt om AI i bygg- och samhällsplanering
   hittades trots sökning i utgiftsområdesmotioner, partiprogram och
   webbplats.
+- **C / byggd-miljö:** granskad och dokumenterad som riksdagsaktivitet via
+  kommittémotion om digitaliserad planering; AI-positionen är begränsad till
+  möjlig effektivisering och behov av utvärderade regeländringar, inte
+  byggproduktion eller materialoptimering.
 - **KD / arbetsmarknad:** ingen egen partiposition hittades; endast
   regeringens gemensamma AI-strategi (där KD:s civilminister är ansvarigt
   statsråd) är dokumenterad.
@@ -84,9 +91,10 @@ med sökvägar.
   för fem ämnen utifrån AI-sida och riksdagsmotioner. M kompletterades senare
   2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025. Senare
   2026-07-21 granskades KD för strategi, utbildning, näringsliv och
-  integritet utan att egna partinivåpositioner hittades. Inget V-, M-, KD-,
-  S- eller MP-valmanifest 2026 kunde verifieras via testade URL:er dessa
-  körningar. Övriga ämnen återstår.
+  integritet utan att egna partinivåpositioner hittades. Ännu senare
+  2026-07-21 breddades C med sex ämnen utifrån AI-sida, valmanifest och
+  kommittémotioner. Inget V-, M-, KD-, S- eller MP-valmanifest 2026 kunde
+  verifieras via testade URL:er dessa körningar. Övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna
 

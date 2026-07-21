@@ -68,5 +68,12 @@
     "title": "Kristdemokraternas AI-luckor granskade för fler ämnen",
     "description": "Kristdemokraternas webbmaterial och riksdagsmotioner har granskats för AI-strategi, utbildning, näringsliv och integritet. Granskningen hittade inga egna partinivåpositioner i dessa ämnen och lägger därför till uttryckliga luckposter för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-21-c-ai-breddning",
+    "date": "2026-07-21",
+    "title": "Centerpartiets AI-positioner breddade till fler ämnen",
+    "description": "Centerpartiets AI-sida, valmanifest 2026 och flera kommittémotioner har granskats vidare. Granskningen lägger till ståndpunkter om utbildning, offentlig sektor, integritet, kultur och upphovsrätt, AI-suveränitet samt byggd miljö för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

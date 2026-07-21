@@ -192,5 +192,25 @@
       "Riksdagens öppna data gav KD-träffar på AI/digitalisering, men relevanta träffar under valperioden var enskilda motioner eller regeringspolitik och har därför inte behandlats som KD-partilinje."
     ],
     "notes": "Fokuserad luckgranskning för Kristdemokraterna över fyra ämnen: övergripande AI-strategi, utbildning, näringsliv och integritet. Partiets webbplats, Politik A till Ö-sidor och Riksdagens öppna data kontrollerades. Resultatet blev fyra uttryckliga 'ingen dokumenterad ståndpunkt'-poster för redaktionell granskning, utan nya källposter eftersom inga nya partinivåkällor hittades."
+  },
+  {
+    "id": "granskning-c-ai-breddning-2026-07-21",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-21",
+    "topicsReviewed": [
+      "utbildning",
+      "offentlig-sektor",
+      "integritet",
+      "kultur-upphovsratt",
+      "suveranitet",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Centerpartiets valmanifest 2026 är fortsatt endast delvis integrerat; denna körning kompletterade tidigare strategi/arbetsmarknad med sex ämnen men inte hela partiprofilen.",
+      "Utfallet av de refererade C-motionerna 2025/26:2832, 3956, 4037, 3189, 3184 och 3729 har inte verifierats i utskottsbetänkanden eller voteringar.",
+      "Partiets AI-sida saknar publiceringsdatum; den öppnades på nytt 2026-07-21 och används tillsammans med daterade riksdagsmotioner."
+    ],
+    "notes": "Breddad granskning av Centerpartiets officiella AI-sida, valmanifest 2026 och partinivåmotioner i Riksdagens öppna data. Nya C-positioner skrevs för utbildning, offentlig sektor, integritet, kultur/upphovsrätt, AI-suveränitet och byggd miljö med workflowStatus behover_redaktionell_granskning. Källor öppnades via centerpartiet.se och data.riksdagen.se; sökningar omfattade AI, artificiell intelligens, digitalisering, ansiktsigenkänning, upphovsrätt, språkmodell och byggande."
   }
 ]

@@ -12,10 +12,20 @@
     "governmentStatus": "opposition",
     "governmentNote": null,
     "summary": "Riksdagsparti med 24 mandat under valperioden 2022–2026. I opposition.",
-    "aiSummary": null,
-    "aiPriorities": [],
-    "sustainabilityPriorities": [],
-    "lastReviewedAt": "2026-07-15",
+    "aiSummary": "Centerpartiet vill att Sverige ska leda AI-utvecklingen på ett ansvarsfullt sätt genom utbildning, öppna data, nationell samordning och ett nationellt AI-center. Partiet kopplar AI till jobb, företagande, välfärd och offentlig service, vill se ett nationellt kunskapslyft och vill stärka infrastruktur som högpresterande beräkning och nordiska språkmodeller. Samtidigt betonar partiet integritet och rättssäkerhet, bland annat genom att avvisa regeringens förslag om polisens realtidsansiktsigenkänning.",
+    "aiPriorities": [
+      "Nationellt AI-center och nationell AI-general för samordning",
+      "AI-kompetens i hela utbildningssystemet och nationellt kunskapslyft",
+      "Öppna offentliga data, standarder och API:er för innovation och offentlig nytta",
+      "AI och ny teknik för fler jobb, företag och bättre välfärd",
+      "Integritet och rättssäkerhet, inklusive nej till polisens realtidsansiktsigenkänning"
+    ],
+    "sustainabilityPriorities": [
+      "AI och digitalisering som verktyg för effektivare samhällsplanering och offentliga processer",
+      "Regional tillgång till digital infrastruktur och kompetens i hela landet",
+      "Nordiska språkmodeller och digital suveränitet med hänsyn till integritet och säkerhet"
+    ],
+    "lastReviewedAt": "2026-07-21",
     "verifiedAt": "2026-07-15",
     "verificationSourceIds": [
       "riksdagen-ledamoter-partier-2026",

@@ -540,5 +540,114 @@
       "v-mot-2025-54"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-2832",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Digitalisering för hela Sverige (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:2832",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "strategi",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "integritet",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet"
+    ],
+    "sourceIds": [
+      "c-mot-2025-2832"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-3956",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Följdmotion om polisens användning av AI för ansiktsigenkänning i realtid (kommittémotion)",
+    "date": "2026-03-18",
+    "documentNumber": "2025/26:3956",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "integritet"
+    ],
+    "sourceIds": [
+      "c-mot-2026-3956"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-4037",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Följdmotion om privatkopieringsersättning (AI och upphovsrätt)",
+    "date": "2026-04-01",
+    "documentNumber": "2025/26:4037",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "kultur-upphovsratt"
+    ],
+    "sourceIds": [
+      "c-mot-2026-4037"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-3189",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "En högre utbildning för en stärkt kompetensnation (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3189",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "utbildning"
+    ],
+    "sourceIds": [
+      "c-mot-2025-3189"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-3184",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Bostäder och samhällsbyggnad (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3184",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "byggd-miljo"
+    ],
+    "sourceIds": [
+      "c-mot-2025-3184"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-3729",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Internationellt samarbete i en utmanande tid (nordiskt AI-samarbete)",
+    "date": "2025-10-07",
+    "documentNumber": "2025/26:3729",
+    "result": "Utfall av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "suveranitet"
+    ],
+    "sourceIds": [
+      "c-mot-2025-3729"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]
