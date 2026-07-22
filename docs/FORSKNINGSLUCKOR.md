@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-21**. Detta dokument räknas som en del av
+Statusen är **2026-07-22**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 54 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 58 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -23,8 +23,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   riksdagsmotioner, samt M/strategi, M/näringsliv och M/vård utifrån
   Moderaternas stämmohandlingar 2025, samt KD/strategi, KD/utbildning,
   KD/näringsliv och KD/integritet där inga egna partinivåpositioner
-  hittades).
-- **Ej granskade:** 98. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
+  SD/reglering utifrån kommittémotion 2024/25:1424).
+- **Ej granskade:** 94. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -56,7 +57,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 - **SD / arbetsmarknad:** berörs endast indirekt (via skolans värde för
   "framtidens arbetsmarknad"); SD:s egen valplattform 2026 innehåller
   överhuvudtaget inga AI-relaterade skrivningar (verifierat genom
-  fulltextsökning).
+  fulltextsökning). Samma kommittémotion 2024/25:1424 har 2026-07-22
+  använts för granskade positioner om strategi, utbildning, offentlig sektor
+  och reglering.
 - **L / arbetsmarknad:** motsvarande — indirekt berört via kompetens-
   försörjning, inget uttalat ställningstagande om AI:s effekter på jobb.
 - **S:** inga dokumenterade ståndpunkter hittades specifikt om AI-kompisar/
@@ -93,7 +96,10 @@ med sökvägar.
   2026-07-21 granskades KD för strategi, utbildning, näringsliv och
   integritet utan att egna partinivåpositioner hittades. Ännu senare
   2026-07-21 breddades C med sex ämnen utifrån AI-sida, valmanifest och
-  kommittémotioner. Inget V-, M-, KD-, S- eller MP-valmanifest 2026 kunde
+  kommittémotioner. SD kompletterades 2026-07-22 för strategi, utbildning,
+  offentlig sektor och reglering utifrån kommittémotion 2024/25:1424; SD:s
+  valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
+  fulltextsökning. Inget V-, M-, KD-, S- eller MP-valmanifest 2026 kunde
   verifieras via testade URL:er dessa körningar. Övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna

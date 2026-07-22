@@ -1027,5 +1027,74 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-21"
+  },
+  {
+    "id": "sd-strategi",
+    "partyId": "sd",
+    "topicId": "strategi",
+    "summary": "Sverigedemokraterna vill att Sverige tar fram en nationell AI-plan och inrättar en nationell AI-nämnd. Partiets kommittémotion beskriver AI-politiken som försiktigt positiv, med betoning på konkurrenskraft, teknikneutralitet, öppenhet, transparens, ansvarstagande och att människor ska styra AI.",
+    "detailedPosition": "I kommittémotionen En tillförlitlig, konkurrenskraftig och hållbar svensk AI-politik (2024/25:1424) föreslår Sverigedemokraterna att Sverige utarbetar en nationell AI-plan och att en nationell AI-nämnd inrättas med ansvar för ledning och styrning på området. Motionen anger att politiken bör ha en framskjuten position för att förstå både potential och risker med AI, att Sverige bör ligga i framkant när det gäller AI-teknik och relaterad vetenskap, och att öppenhet, transparens och ansvarstagande bör vara ledstjärnor. Partiet skriver också att dess AI-politik innebär att mänskligheten ska styra AI, inte tvärtom. Tolkning: positionen är teknikpositiv men styrningsinriktad, med nationell planering och parlamentarisk/expertbaserad bevakning som centrala verktyg.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på SD:s kommittémotion 2024/25:1424, öppnad i fulltext 2026-07-22. Motionen är partinivå och innehåller uttryckliga riksdagsyrkanden om nationell AI-plan och nationell AI-nämnd. SD:s valplattform 2026 innehåller enligt tidigare granskning inga AI-skrivningar, så motionen är den bärande källan.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "sd-utbildning",
+    "partyId": "sd",
+    "topicId": "utbildning",
+    "summary": "Sverigedemokraterna föreslår tidiga utbildningsinsatser i skolan om AI och cybersäkerhet samt stärkt allmän medvetenhet om AI och cyberresiliens. Motiveringen är att elever behöver förstå teknikens möjligheter och begränsningar och rustas för en framtida arbetsmarknad.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 yrkar Sverigedemokraterna på att stärka allmänhetens medvetande om AI och cyberresiliens samt på tidiga utbildningsinsatser i skolan om AI och cybersäkerhet. Motionen anger att elever genom tidiga insatser får en djupare förståelse för teknikens grundläggande principer, möjligheter och begränsningar, vilket enligt partiet kommer att vara värdefullt på den framtida arbetsmarknaden. Källan behandlar däremot inte generativ AI vid prov, fuskhantering eller likvärdig tillgång till specifika AI-verktyg i skolan.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Belägget är ett konkret riksdagsyrkande i SD:s kommittémotion 2024/25:1424, öppnad i fulltext 2026-07-22. Förslaget är tydligt om AI- och cybersäkerhetskunskap, men inte detaljerat om skolans praktiska hantering av generativ AI.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "sd-offentlig-sektor",
+    "partyId": "sd",
+    "topicId": "offentlig-sektor",
+    "summary": "Sverigedemokraterna vill att myndigheter främjar AI-användning och hanterar AI-risker. Partiet kopplar detta till en nationell AI-plan och till långsiktiga mål för AI i offentlig förvaltning, där tekniken enligt motionen kan öka effektiviteten och förbättra samhället.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 föreslår SD att myndigheter ska verka främjande i fråga om artificiell intelligens och samtidigt hantera risker med tekniken. Motionen skriver att svensk offentlig förvaltning har en stark digital grund men saknar jämförbara långsiktiga satsningar och visioner som näringslivet, och att AI har stor potential att förbättra samhället och öka effektiviteten i offentlig förvaltning. Partiet hänvisar till Diggs bedömning om möjlig årlig nytta upp till 140 miljarder kronor och vill att regeringen och relevanta myndigheter sätter ambitiösa mål. Tolkning: SD:s linje är att offentlig sektor ska använda AI mer långsiktigt och strategiskt, men med riskhantering och nationell styrning.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på flera yrkanden i SD:s kommittémotion 2024/25:1424 om myndigheters främjande uppdrag, riskhantering och nationell AI-plan. Motionen är partinivå och öppnades i fulltext 2026-07-22. Den behandlar effektivisering och myndighetsuppdrag, men inte detaljer om överklagande eller mänsklig kontroll i enskilda beslut.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "sd-reglering",
+    "partyId": "sd",
+    "topicId": "reglering",
+    "summary": "Sverigedemokraterna är försiktigt positiva till EU:s AI-förordning men kritiserar reglerna om högrisk-AI som för strikta. Partiet vill utreda ansvar när AI orsakar skada och lagstiftning för tjänster där automatiserat beslutsfattande ingår.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 skriver SD att partiet är försiktigt positivt till AI-akten men inte nöjt med alltför strikta skrivningar om högrisk-AI, eftersom de enligt motionen kan kväva svensk innovation och stå i vägen för potentiella fördelar i privat och offentlig sektor. Motionen yrkar också på att tillsätta en utredning om vem som bär ansvaret när AI orsakar skada för individer eller juridiska personer och på att utreda lagstiftning som berör tjänster där automatiserat beslutsfattande ingår. Tolkning: regleringslinjen kombinerar stöd för viss AI-reglering med oro för regelbörda och innovationshinder.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "regelgivning"
+    ],
+    "confidenceExplanation": "Belägget är SD:s kommittémotion 2024/25:1424, öppnad i fulltext 2026-07-22. Motionen innehåller konkreta yrkanden om ansvarsutredning och lagstiftning för automatiserat beslutsfattande samt en uttrycklig hållning till EU:s AI-förordning.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
   }
 ]
