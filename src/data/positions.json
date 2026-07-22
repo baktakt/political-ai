@@ -1202,5 +1202,57 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "mp-demokrati",
+    "partyId": "mp",
+    "topicId": "demokrati",
+    "summary": "Miljöpartiet vill stärka demokratisk kontroll, transparens och ansvarsutkrävande kring AI. Partiet kopplar AI-risker till desinformation, fejkade bilder och beroende av globala teknikföretag, och vill att Sverige verkar nationellt och inom EU för säker och rättighetsrespekterande AI-användning.",
+    "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att AI och digitalisering ska stärka demokratin och att teknikutvecklingen behöver göras rättssäker, rättvis, hållbar och demokratisk. Partiet vill ha tydliga krav på transparens kring hur AI-tjänster fungerar, när de används och vilken data de tränas på, samt stärka kunskapen om källkritik, desinformation och fejkade bilder. I kommittémotionen En grön AI-politik (2025/26:3425) yrkar partiet på lösningar för större transparens och möjligheter till ansvarsutkrävande nationellt och på europeisk nivå. Motionen behandlar däremot inte särskilt AI-genererat kampanjmaterial, partiets egen kampanjanvändning eller detaljerade valregler. Tolkning: partiets dokumenterade demokratilinje är bred och rör transparens, kunskap och kontroll över AI-system snarare än ett avgränsat regelpaket för valrörelser.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion", "partiprogram"],
+    "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-22, och kommittémotion 2025/26:3425, öppnad i fulltext. Motionen innehåller ett konkret yrkande om transparens och ansvarsutkrävande. Granskningen hittade inte ett separat MP-förslag om deepfakes i valrörelser eller märkning av kampanjmaterial.",
+    "sourceIds": ["mp-webb-ai", "mp-mot-2025-3425"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "mp-kultur-upphovsratt",
+    "partyId": "mp",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Miljöpartiet vill säkra upphovsmakares rättigheter när AI tränas på skyddat material. Partiet föreslår lagstiftning för upphovsmakares rättigheter, nationell och EU-nivåbaserad utredning av ny lagstiftning och satsningar på AI och teknik som fungerar på svenska, med ersättningsmekanismer för rättighetshavare.",
+    "detailedPosition": "I kommittémotionen En grön AI-politik (2025/26:3425) skriver Miljöpartiet att AI tränas på stora mängder befintligt material och att det är svårt för upphovsrättsinnehavare att hävda sina rättigheter. Motionen yrkar på lagstiftning för att säkra upphovsmakares rättigheter och på en utredning om ny lagstiftning på nationell och EU-nivå. I kulturmotionen Kultur och bildning (2025/26:3775) finns ett särskilt avsnitt om AI, arbetstillfällen och upphovsrätt. Där vill partiet stärka satsningar på projekt som utvecklar AI och annan teknik för svenska språket, exempelvis Kungliga bibliotekets arbete, och anger att sådana satsningar på AI-utveckling och stora språkmodeller bör garantera framtida mekanismer för ersättning till rättighetshavare. Tolkning: positionen kombinerar upphovsrättsligt skydd med språk- och kulturpolitisk AI-infrastruktur.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion"],
+    "confidenceExplanation": "Klassningen bygger på två kommittémotioner på partinivå: 2025/26:3425 och 2025/26:3775. Båda öppnades i fulltext. Källorna innehåller konkreta yrkanden om upphovsrätt och AI samt tydliga skrivningar om ersättning till rättighetshavare, men exakta licens- eller ersättningsmodeller anges inte.",
+    "sourceIds": ["mp-mot-2025-3425", "mp-mot-2025-3775"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "mp-reglering",
+    "partyId": "mp",
+    "topicId": "reglering",
+    "summary": "Miljöpartiet vill ha tydliga etiska riktlinjer, bättre tillsyn och större transparens för AI. Partiet vill att Sverige verkar inom EU och internationellt för säker AI som inte kränker integritet och rättigheter, och stödjer utveckling av ansvarsutkrävande på nationell och europeisk nivå.",
+    "detailedPosition": "På Miljöpartiets AI-sida anger partiet att AI ska utvecklas och användas med respekt för mänskliga rättigheter, integritet och upphovsrätt samt att det ska finnas tydliga krav på transparens kring hur AI-tjänster fungerar, när de används och vilken data de tränas på. Sidan lyfter tydliga etiska riktlinjer, bättre tillsyn och större transparens. I kommittémotionen En grön AI-politik (2025/26:3425) yrkar partiet på lösningar för transparens och ansvarsutkrävande på nationell och europeisk nivå samt att Sverige i EU ska verka för säker AI-användning som inte kränker integritet och rättigheter. Motionen nämner AI-förordningen som delvis implementerad, men redovisar inte en detaljerad svensk tillsynsmodell för AI-förordningen. Tolkning: partiets regleringslinje är rättighets- och transparensinriktad, med EU-nivån som viktig arena.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion", "regelgivning", "partiprogram"],
+    "confidenceExplanation": "Källorna är partiets officiella AI-sida och kommittémotion 2025/26:3425, båda öppnade 2026-07-22. Motionen innehåller konkreta yrkanden om transparens, ansvarsutkrävande och säker AI i EU; detaljer om svensk myndighetsfördelning för tillsyn saknas.",
+    "sourceIds": ["mp-webb-ai", "mp-mot-2025-3425"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "mp-suveranitet",
+    "partyId": "mp",
+    "topicId": "suveranitet",
+    "summary": "Miljöpartiet vill minska beroendet av globala teknikföretag och stärka kontrollen över samhällsviktig data och digital infrastruktur. Partiet pekar på europeiska molntjänster, öppna standarder och svenskspråkig AI-teknik som viktiga delar.",
+    "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att Sverige och EU behöver bättre kontroll över samhällsviktig data och digital infrastruktur för datasäkerhet, demokratisk styrning och möjlighet att använda AI utan beroende av ett fåtal företag. Partiet vill stärka europeiska molntjänster och öppna standarder. I kommittémotionen En grön AI-politik (2025/26:3425) behandlas digital suveränitet och minskat beroende av globala teknikföretag. Kulturmotionen 2025/26:3775 vill stärka projekt som utvecklar AI och annan teknik att fungera på svenska, exempelvis Kungliga bibliotekets arbete, och kopplar detta till framtida ersättning till rättighetshavare. Tolkning: positionen handlar främst om europeisk och svensk kontroll över data, moln, standarder och språkförmåga, inte om en uttrycklig statligt ägd grundmodell eller superdator.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": ["partiprogram", "motion"],
+    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida samt kommittémotionerna 2025/26:3425 och 2025/26:3775, öppnade i fulltext. Källorna är samstämmiga om digital suveränitet, europeiska molntjänster, öppna standarder och svensk språkförmåga, men saknar detaljer om finansiering, ägarskap eller särskild superdatorinfrastruktur.",
+    "sourceIds": ["mp-webb-ai", "mp-mot-2025-3425", "mp-mot-2025-3775"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
   }
 ]

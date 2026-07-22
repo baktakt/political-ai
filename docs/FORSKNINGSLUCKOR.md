@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 64 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 68 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -18,7 +18,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   L/utbildning, L/näringsliv och L/suveränitet efter granskning av
   valmanifest 2026, samt MP/strategi, MP/utbildning, MP/offentlig sektor,
   MP/integritet och MP/miljöavtryck efter breddad granskning av partiets
-  AI-material, samt V/strategi, V/offentlig sektor, V/vård, V/integritet,
+  AI-material, samt MP/demokrati, MP/kultur-upphovsrätt, MP/reglering och
+  MP/suveränitet efter fortsatt granskning av AI-sidan och motionerna
+  2025/26:3425 och 2025/26:3775, samt V/strategi, V/offentlig sektor, V/vård, V/integritet,
   V/försvar, V/kultur-upphovsrätt, V/jämlikhet och V/social hållbarhet
   efter breddad granskning av partiets AI-sida och riksdagsmotioner, samt
   M/strategi, M/näringsliv och M/vård utifrån
@@ -27,7 +29,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
   SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet utifrån
   kommittémotion 2024/25:1424).
-- **Ej granskade:** 88. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 84. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -109,7 +111,11 @@ med sökvägar.
   integritet utan att egna partinivåpositioner hittades. Ännu senare
   2026-07-21 breddades C med sex ämnen utifrån AI-sida, valmanifest och
   kommittémotioner. SD kompletterades 2026-07-22 för strategi, utbildning,
-  offentlig sektor, reglering, näringsliv, demokrati och AI-suveränitet utifrån kommittémotion 2024/25:1424; SD:s
+  offentlig sektor och reglering, samt senare för näringsliv, demokrati och
+  AI-suveränitet utifrån kommittémotion 2024/25:1424. MP kompletterades
+  2026-07-22 för demokrati, kultur/upphovsrätt, reglering och AI-suveränitet
+  utifrån AI-sidan samt kommittémotionerna 2025/26:3425 och 2025/26:3775.
+  SD:s
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
   fulltextsökning. Inget V-, M-, KD-, S- eller MP-valmanifest 2026 kunde
   verifieras via testade URL:er dessa körningar. Övriga ämnen återstår.
