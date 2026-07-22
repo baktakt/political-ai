@@ -247,5 +247,22 @@
       "Motionens utskottsutfall verifierades inte på nytt i denna körning."
     ],
     "notes": "Fortsatt breddad granskning av Sverigedemokraternas kommittémotion 2024/25:1424 efter föregående SD-körning. Motionen öppnades på nytt via Riksdagens öppna data och kontrollerades för näringsliv/innovation, demokrati/desinformation och AI-suveränitet/infrastruktur. Tre nya SD-positioner skrevs med workflowStatus behover_redaktionell_granskning. Manifestobevakning gjordes samtidigt för S, M, KD, MP och V utan att nya 2026-valmanifest kunde verifieras."
+  },
+  {
+    "id": "granskning-v-ai-kultur-jamlikhet-social-2026-07-22",
+    "partyId": "v",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-22",
+    "topicsReviewed": [
+      "kultur-upphovsratt",
+      "jamlikhet",
+      "social-hallbarhet"
+    ],
+    "unresolvedQuestions": [
+      "Vänsterpartiets valplattform inför valet 2026-09-13 hittades inte vid tidigare manifestobevakning; dessa positioner bygger på AI-sidan och riksdagsmotioner 2023/24-2025/26.",
+      "Utfallet av motionerna 2023/24:17, 2025/26:2819 och 2025/26:2370 verifierades inte i utskottsbetänkanden eller voteringar.",
+      "För kultur/upphovsrätt hittades ett konkret utredningsyrkande från 2023 och en aktuellare kulturpolitisk hänvisning från 2025, men ingen detaljerad ny modell för licenser eller ersättning till kreatörer."
+    ],
+    "notes": "Fortsatt breddad granskning av Vänsterpartiets AI-relaterade partinivåmaterial för tre återstående ämnesluckor: kultur/upphovsrätt, jämlikhet och social hållbarhet. Riksdagens öppna data söktes på AI, artificiell intelligens, upphovsrätt, digital kompetens och digitalisering för parti=V. Källorna 2023/24:17, 2025/26:2819 och 2025/26:2370 öppnades i fulltext och kontrollerades för partinivå, yrkanden och ämneskopplingar."
   }
 ]

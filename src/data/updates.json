@@ -89,5 +89,12 @@
     "title": "Sverigedemokraternas AI-motion granskad för ytterligare ämnen",
     "description": "Sverigedemokraternas kommittémotion om svensk AI-politik har granskats vidare. Granskningen lägger till ståndpunkter om företagande och innovation, demokrati och AI-transparens samt nationell AI-infrastruktur för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-22-v-ai-kultur-jamlikhet-social",
+    "date": "2026-07-22",
+    "title": "Vänsterpartiets AI-positioner kompletterade för kultur och sociala frågor",
+    "description": "Vänsterpartiets motioner om AI och upphovsrätt, digital kompetens och AI-risker har granskats. Granskningen lägger till ståndpunkter om kultur och upphovsrätt, jämlikhet samt social hållbarhet för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

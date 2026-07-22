@@ -551,5 +551,38 @@
       "c-mot-2025-3729"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-forslag-utredning-ai-upphovsratt-2023",
+    "partyId": "v",
+    "topicIds": [
+      "kultur-upphovsratt"
+    ],
+    "title": "Utredning om AI:s inlärning på upphovsrättsskyddat material",
+    "description": "Kommittémotion 2023/24:17 yrkar på att regeringen tillsätter en utredning som ser över upphovsrättslagstiftningen i relation till AI:s inlärning på upphovsrättsskyddat material.",
+    "date": "2023-09-19",
+    "status": "framlagt",
+    "implementationStatus": "Utfallet av riksdagsbehandlingen verifierades inte i denna granskning.",
+    "sourceIds": [
+      "v-mot-2023-17"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-forslag-digital-kompetens-ai-2025",
+    "partyId": "v",
+    "topicIds": [
+      "jamlikhet",
+      "social-hallbarhet"
+    ],
+    "title": "Förslag om digital kompetens och grundläggande AI-kunskap i befolkningen",
+    "description": "Kommittémotion 2025/26:2370 yrkar på att regeringen återkommer med förslag om hur behovet av god digital kompetens och grundläggande kunskap om integritet, källkritik och AI hos befolkningen ska tillgodoses.",
+    "date": "2025-10-03",
+    "status": "framlagt",
+    "implementationStatus": "Utfallet av riksdagsbehandlingen verifierades inte i denna granskning.",
+    "sourceIds": [
+      "v-mot-2025-2370"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

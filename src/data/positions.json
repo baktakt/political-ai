@@ -1147,5 +1147,60 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "v-kultur-upphovsratt",
+    "partyId": "v",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Vänsterpartiet vill att upphovsrätten ses över i relation till AI:s inlärning på upphovsrättsskyddat material. Partiet har också i en senare kulturpolitisk partimotion beskrivit AI-användning som en fråga som ställer nya krav på upphovsrätten.",
+    "detailedPosition": "I kommittémotionen AI och upphovsrätt (2023/24:17) yrkar Vänsterpartiet på att regeringen ska tillsätta en utredning som ser över upphovsrättslagstiftningen i relation till AI:s inlärning på upphovsrättsskyddat material. Motionen beskriver upphovsrätten som grund för kulturskapares försörjning och anger samtidigt att internet ska utvecklas som en fri och öppen plattform. I partimotionen Vissa kulturpolitiska frågor (2025/26:2819) återkommer frågan mer övergripande: användningen av AI sägs ställa nya krav på upphovsrätten i samband med musiklivets villkor. Tolkning: partiets dokumenterade linje är att AI och upphovsrätt bör hanteras genom utredning och anpassning av regelverket, snarare än genom en färdig detaljerad modell för ersättning eller licensiering.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på kommittémotion 2023/24:17, som innehåller ett konkret yrkande om utredning av AI:s inlärning på upphovsrättsskyddat material, samt på partimotion 2025/26:2819 som visar att frågan fortsatt nämns i partiets kulturpolitik. Inget nyare detaljerat V-förslag om AI-träning, licenser eller ersättningsmodell hittades i denna granskning.",
+    "sourceIds": [
+      "v-mot-2023-17",
+      "v-mot-2025-2819"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "v-jamlikhet",
+    "partyId": "v",
+    "topicId": "jamlikhet",
+    "summary": "Vänsterpartiet kopplar AI till jämlik tillgång till digital kompetens, digital delaktighet och skydd mot risker som diskriminering, felaktiga data och bristande transparens. Partiet vill att regeringen återkommer med förslag om hur befolkningens grundläggande kunskap om integritet, källkritik och AI ska tillgodoses.",
+    "detailedPosition": "I kommittémotionen Fungerande postservice, bredband och telefoni i hela landet (2025/26:2370) skriver Vänsterpartiet att samhällets digitalisering gör internetanslutning till en förutsättning för fullständig delaktighet. Motionen yrkar på att regeringen ska återkomma med förslag om hur behovet av god digital kompetens och grundläggande kunskap om integritet, källkritik och AI hos befolkningen ska tillgodoses. Samma motion yrkar på att offentliga aktörer ska få stöd och förutsättningar att hantera risker kring rättssäkerhet, transparens, personlig integritet, diskriminering och felaktiga data vid AI-användning. Partiets AI-sida anger också att AI-system kan leda till ojämlikhet, minskad tillit och diskriminering om de inte regleras rätt. Tolkning: partiet behandlar jämlikhetsfrågan både som tillgång till digital infrastruktur/kunskap och som skydd mot skadliga eller diskriminerande AI-system.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på en kommittémotion på partinivå med konkreta yrkanden om digital kompetens, AI-kunskap och stöd till offentliga aktörer samt på partiets AI-sida om risker för ojämlikhet och diskriminering. Granskningen hittade inte ett mer detaljerat separat program om algoritmisk diskriminering.",
+    "sourceIds": [
+      "v-mot-2025-2370",
+      "v-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "v-social-hallbarhet",
+    "partyId": "v",
+    "topicId": "social-hallbarhet",
+    "summary": "Vänsterpartiet vill att produktivitets- och effektivitetsvinster från AI och automatisering kommer människor till del, exempelvis genom arbetstidsförkortning med bibehållen lön i offentlig sektor. Partiet betonar också konsekvensanalyser, rättssäkerhet, integritet och digital kompetens som villkor för tillit till AI-användning.",
+    "detailedPosition": "Partiets AI-sida anger att AI kan frigöra tid i offentlig sektor och att vinsterna ska komma anställda och medborgare till del, exempelvis genom arbetstidsförkortning med bibehållen lön, fler anställda eller större offentligt åtagande. I kommittémotionen Arbetsmiljö och arbetstid (2025/26:2371) kopplar Vänsterpartiet automatisering och robotisering till högre produktivitet och driver en utredning om generell arbetstidsförkortning. I motionen om postservice, bredband och telefoni (2025/26:2370) kopplar partiet digital delaktighet till samhällsdeltagande och begär förslag om digital kompetens och grundläggande AI-kunskap hos befolkningen. Tolkning: partiets sociala hållbarhetslinje är att AI-vinster ska fördelas genom tid, välfärd och delaktighet, samtidigt som risker måste hanteras före införande.",
+    "evidenceStatus": "tydlig_detaljerad",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Positionen bygger på partiets AI-sida, kommittémotion 2025/26:2371 om automatisering och arbetstidsförkortning samt kommittémotion 2025/26:2370 om digital delaktighet, AI-kunskap och stöd för rättssäker AI-användning i offentlig sektor. Källorna är samstämmiga om social fördelning och riskhantering, men detaljer om regionala effekter av AI är begränsade.",
+    "sourceIds": [
+      "v-webb-ai",
+      "v-mot-2025-2371",
+      "v-mot-2025-2370"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
   }
 ]

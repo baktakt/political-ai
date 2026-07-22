@@ -649,5 +649,57 @@
       "c-mot-2025-3729"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-akt-mot-2324-17",
+    "partyId": "v",
+    "actionType": "motion",
+    "title": "AI och upphovsrätt (kommittémotion)",
+    "date": "2023-09-19",
+    "documentNumber": "2023/24:17",
+    "result": "Utfallet av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "kultur-upphovsratt"
+    ],
+    "sourceIds": [
+      "v-mot-2023-17"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-akt-mot-2526-2819",
+    "partyId": "v",
+    "actionType": "motion",
+    "title": "Vissa kulturpolitiska frågor (partimotion, AI och upphovsrätt omnämns)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:2819",
+    "result": "Utfallet av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "kultur-upphovsratt"
+    ],
+    "sourceIds": [
+      "v-mot-2025-2819"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "v-akt-mot-2526-2370",
+    "partyId": "v",
+    "actionType": "motion",
+    "title": "Fungerande postservice, bredband och telefoni i hela landet (kommittémotion, digitalisering och AI)",
+    "date": "2025-10-03",
+    "documentNumber": "2025/26:2370",
+    "result": "Utfallet av riksdagsbehandlingen ej verifierat i denna granskning",
+    "partyLevel": true,
+    "topicIds": [
+      "jamlikhet",
+      "social-hallbarhet"
+    ],
+    "sourceIds": [
+      "v-mot-2025-2370"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

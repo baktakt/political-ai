@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 61 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 64 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -18,15 +18,16 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   L/utbildning, L/näringsliv och L/suveränitet efter granskning av
   valmanifest 2026, samt MP/strategi, MP/utbildning, MP/offentlig sektor,
   MP/integritet och MP/miljöavtryck efter breddad granskning av partiets
-  AI-material, samt V/strategi, V/offentlig sektor, V/vård, V/integritet och
-  V/försvar efter breddad granskning av partiets AI-sida och
-  riksdagsmotioner, samt M/strategi, M/näringsliv och M/vård utifrån
+  AI-material, samt V/strategi, V/offentlig sektor, V/vård, V/integritet,
+  V/försvar, V/kultur-upphovsrätt, V/jämlikhet och V/social hållbarhet
+  efter breddad granskning av partiets AI-sida och riksdagsmotioner, samt
+  M/strategi, M/näringsliv och M/vård utifrån
   Moderaternas stämmohandlingar 2025, samt KD/strategi, KD/utbildning,
   KD/näringsliv och KD/integritet där inga egna partinivåpositioner
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
   SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet utifrån
   kommittémotion 2024/25:1424).
-- **Ej granskade:** 91. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 88. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -63,6 +64,14 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   reglering, näringsliv, demokrati och AI-suveränitet.
 - **L / arbetsmarknad:** motsvarande — indirekt berört via kompetens-
   försörjning, inget uttalat ställningstagande om AI:s effekter på jobb.
+
+- **V / kultur-upphovsrätt:** granskad och dokumenterad via kommittémotion
+  2023/24:17 om AI och upphovsrätt samt partimotion 2025/26:2819.
+  Detaljerad modell för ersättning/licensiering hittades inte.
+- **V / jämlikhet och social hållbarhet:** granskad via AI-sidan,
+  arbetsmiljö-/arbetstidsmotion och kommittémotion 2025/26:2370 om
+  digitalisering och AI. Regionala AI-effekter är fortsatt begränsat
+  belagda.
 - **S:** inga dokumenterade ståndpunkter hittades specifikt om AI-kompisar/
   chattbottar för barn, datacenters vattenanvändning och rapporteringskrav,
   algoritmisk diskriminering som egen fråga, svenska språkmodeller/
@@ -92,7 +101,9 @@ med sökvägar.
   granskades vidare 2026-07-20 för näringsliv och AI-suveränitet. Samma dag
   kompletterades MP för fem ämnen utifrån AI-sida och kommittémotioner, men
   inget MP-valmanifest 2026 kunde verifieras. V kompletterades 2026-07-21
-  för fem ämnen utifrån AI-sida och riksdagsmotioner. M kompletterades senare
+  för fem ämnen utifrån AI-sida och riksdagsmotioner och 2026-07-22
+  för kultur/upphovsrätt, jämlikhet och social hållbarhet utifrån
+  ytterligare V-motioner. M kompletterades senare
   2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025. Senare
   2026-07-21 granskades KD för strategi, utbildning, näringsliv och
   integritet utan att egna partinivåpositioner hittades. Ännu senare

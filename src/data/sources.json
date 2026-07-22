@@ -928,5 +928,50 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "v-mot-2023-17",
+    "title": "Motion 2023/24:17 AI och upphovsrätt (kommittémotion, Vasiliki Tsouplaki m.fl., V)",
+    "publisher": "Sveriges riksdag",
+    "author": "Vasiliki Tsouplaki m.fl. (V)",
+    "publicationDate": "2023-09-19",
+    "url": "https://data.riksdagen.se/dokument/HB0217",
+    "accessedAt": "2026-07-22",
+    "sourceType": "motion",
+    "excerpt": "regeringen bör tillsätta en utredning som ser över upphovsrättslagstiftningen i relation till AI:s inlärning på upphovsrättsskyddat material",
+    "supportExplanation": "Kommittémotion på partinivå om AI och upphovsrätt. Motionen yrkar på en utredning av upphovsrättslagstiftningen i relation till AI:s inlärning på upphovsrättsskyddat material.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "v-mot-2025-2819",
+    "title": "Motion 2025/26:2819 Vissa kulturpolitiska frågor (partimotion, Nooshi Dadgostar m.fl., V)",
+    "publisher": "Sveriges riksdag",
+    "author": "Nooshi Dadgostar m.fl. (V)",
+    "publicationDate": "2025-10-06",
+    "url": "https://data.riksdagen.se/dokument/HD022819",
+    "accessedAt": "2026-07-22",
+    "sourceType": "motion",
+    "excerpt": "Användningen av AI ställer nya krav på upphovsrätten.",
+    "supportExplanation": "Partimotion på partinivå om kulturpolitik. Den nämner AI som en av de frågor som ställer nya krav på upphovsrätten och som behöver hanteras i kultur- och musikpolitikens villkor.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "v-mot-2025-2370",
+    "title": "Motion 2025/26:2370 Fungerande postservice, bredband och telefoni i hela landet (kommittémotion, Malin Östh m.fl., V)",
+    "publisher": "Sveriges riksdag",
+    "author": "Malin Östh m.fl. (V)",
+    "publicationDate": "2025-10-03",
+    "url": "https://data.riksdagen.se/dokument/HD022370",
+    "accessedAt": "2026-07-22",
+    "sourceType": "motion",
+    "excerpt": "hur behovet av god digital kompetens och grundläggande kunskap om integritet, källkritik och AI hos befolkningen ska tillgodoses",
+    "supportExplanation": "Kommittémotion på partinivå om post, bredband, digitalisering och AI. Motionen yrkar på förslag om digital kompetens och grundläggande AI-kunskap i befolkningen samt stöd till offentliga aktörer för att hantera risker vid AI-användning.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
