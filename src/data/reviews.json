@@ -230,5 +230,22 @@
       "Utfallet av motion 2024/25:1424 har tidigare noterats som avslag i riksdagsbehandling, men denna körning verifierade inte varje utskottsbetänkande på nytt."
     ],
     "notes": "Breddad granskning av Sverigedemokraternas kommittémotion 2024/25:1424 En tillförlitlig, konkurrenskraftig och hållbar svensk AI-politik. Motionen öppnades på nytt via Riksdagens öppna data och kontrollerades för partinivå, yrkanden och ämneskopplingar. Fyra nya SD-positioner skrevs för strategi, utbildning, offentlig sektor och reglering med workflowStatus behover_redaktionell_granskning."
+  },
+  {
+    "id": "granskning-sd-ai-fortsatt-breddning-2026-07-22",
+    "partyId": "sd",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-22",
+    "topicsReviewed": [
+      "naringsliv",
+      "demokrati",
+      "suveranitet"
+    ],
+    "unresolvedQuestions": [
+      "SD:s valplattform 2026 innehåller enligt tidigare granskning inga AI-skrivningar; även denna fortsatta breddning bygger därför på kommittémotion 2024/25:1424 som bärande partinivåkälla.",
+      "Manifestobevakning 2026-07-22 öppnade startsidor och politik-/nyhetssidor för S, M, KD, MP och V. Inget nytt riksdagsvalmanifest 2026 kunde verifieras; MP:s sidor hänvisade fortsatt till valmanifest 2024 och 2022.",
+      "Motionens utskottsutfall verifierades inte på nytt i denna körning."
+    ],
+    "notes": "Fortsatt breddad granskning av Sverigedemokraternas kommittémotion 2024/25:1424 efter föregående SD-körning. Motionen öppnades på nytt via Riksdagens öppna data och kontrollerades för näringsliv/innovation, demokrati/desinformation och AI-suveränitet/infrastruktur. Tre nya SD-positioner skrevs med workflowStatus behover_redaktionell_granskning. Manifestobevakning gjordes samtidigt för S, M, KD, MP och V utan att nya 2026-valmanifest kunde verifieras."
   }
 ]

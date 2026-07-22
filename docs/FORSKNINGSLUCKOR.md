@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 58 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 61 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -24,8 +24,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   Moderaternas stämmohandlingar 2025, samt KD/strategi, KD/utbildning,
   KD/näringsliv och KD/integritet där inga egna partinivåpositioner
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
-  SD/reglering utifrån kommittémotion 2024/25:1424).
-- **Ej granskade:** 94. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet utifrån
+  kommittémotion 2024/25:1424).
+- **Ej granskade:** 91. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -59,7 +60,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   överhuvudtaget inga AI-relaterade skrivningar (verifierat genom
   fulltextsökning). Samma kommittémotion 2024/25:1424 har 2026-07-22
   använts för granskade positioner om strategi, utbildning, offentlig sektor
-  och reglering.
+  reglering, näringsliv, demokrati och AI-suveränitet.
 - **L / arbetsmarknad:** motsvarande — indirekt berört via kompetens-
   försörjning, inget uttalat ställningstagande om AI:s effekter på jobb.
 - **S:** inga dokumenterade ståndpunkter hittades specifikt om AI-kompisar/
@@ -97,7 +98,7 @@ med sökvägar.
   integritet utan att egna partinivåpositioner hittades. Ännu senare
   2026-07-21 breddades C med sex ämnen utifrån AI-sida, valmanifest och
   kommittémotioner. SD kompletterades 2026-07-22 för strategi, utbildning,
-  offentlig sektor och reglering utifrån kommittémotion 2024/25:1424; SD:s
+  offentlig sektor, reglering, näringsliv, demokrati och AI-suveränitet utifrån kommittémotion 2024/25:1424; SD:s
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
   fulltextsökning. Inget V-, M-, KD-, S- eller MP-valmanifest 2026 kunde
   verifieras via testade URL:er dessa körningar. Övriga ämnen återstår.

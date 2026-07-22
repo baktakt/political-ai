@@ -1096,5 +1096,56 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "sd-naringsliv",
+    "partyId": "sd",
+    "topicId": "naringsliv",
+    "summary": "Sverigedemokraterna vill att AI-politiken ska vara konkurrenskraftig och teknikneutral, särskilt i EU, och varnar för att alltför strikta regler för högrisk-AI kan hämma svensk innovation. Partiet vill också att forskningsfinansiärer prioriterar AI-forskning, inklusive forskning om teknikens risker.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 skriver SD att en genomtänkt AI-politik inte bör försämra näringslivets konkurrenskraft gentemot länder där AI-utvecklingen ligger i framkant, med särskild hänsyn till små och medelstora företag som har begränsade resurser att bära byråkratiska krav. Motionen anger att partiet är försiktigt positivt till EU:s AI-förordning men inte nöjt med alltför strikta skrivningar om högrisk-AI eftersom detta enligt motionen riskerar att kväva svensk innovation. Motionen yrkar också att Sverige ska arbeta för en konkurrenskraftig och teknikneutral AI-politik inom EU samt att Vetenskapsrådet och andra forskningsfinansiärer bör prioritera AI-forskning, både om möjligheter och risker. Tolkning: positionen kombinerar innovations- och konkurrenskraftshänsyn med riskforskning, men utan detaljerade budgetbelopp eller företagsprogram.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Belägget är SD:s kommittémotion 2024/25:1424, öppnad i fulltext 2026-07-22. Motionen är partinivå och innehåller uttryckliga yrkanden om konkurrenskraftig och teknikneutral AI-politik inom EU samt forskningsprioritering, men saknar detaljerad finansiering eller näringslivsprogram.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "sd-demokrati",
+    "partyId": "sd",
+    "topicId": "demokrati",
+    "summary": "Sverigedemokraterna vill reglera när AI får kommunicera med människor utan att informera mottagaren om att det är AI. Partiet vill även främja internationellt samarbete om normgivning och brottsbekämpning för att möta AI-relaterade hot och motverka brottslig AI-användning.",
+    "detailedPosition": "Kommittémotionen 2024/25:1424 innehåller ett yrkande om att det ska regleras i lag i vilken utsträckning AI får kommunicera med människor utan att informera mottagaren om att det är AI. Motionen innehåller också yrkanden om att främja internationellt samarbete inom normgivning och brottsbekämpning för att möta hot förknippade med AI, samt om att motverka tillämpning av AI för brottsliga ändamål. Den behandlar däremot inte uttryckligen AI-genererat kampanjmaterial, deepfakes i valrörelser eller partiets egen kampanjanvändning av AI. Tolkning: källan ger en dokumenterad linje om transparens vid AI-kommunikation och brottsbekämpande samarbete, men inte en fullständig val- och desinformationspolitik.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på konkreta yrkanden i SD:s kommittémotion 2024/25:1424, öppnad i fulltext 2026-07-22. Kopplingen till demokratiämnet gäller transparens när AI kommunicerar med människor samt AI-relaterade hot och brottslig användning; valpåverkan och deepfakes är inte uttryckligen utvecklade.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "sd-suveranitet",
+    "partyId": "sd",
+    "topicId": "suveranitet",
+    "summary": "Sverigedemokraterna vill att Sverige tar fram planer för en sammanhängande nationell AI-infrastruktur för gemensamma AI-lösningar i offentlig förvaltning. Motionen beskriver både fysisk infrastruktur för lagring, delning och bearbetning av data och mjuk infrastruktur i form av relevanta AI-tjänster.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 hänvisar SD till Diggs rapport om offentlig förvaltnings AI-förmåga och skriver att Sverige behöver en samordnad nationell AI-infrastruktur. Motionen beskriver detta som både fysisk AI-infrastruktur för lagring, delning och bearbetning av data inom gällande lagstiftning och mjuk AI-infrastruktur för utveckling av nödvändiga och relevanta AI-tjänster. Partiet anser att Sverige bör utarbeta planer för en sammanhängande nationell AI-infrastruktur avsedd för gemensamma AI-lösningar inom offentlig förvaltning, och konstaterar att arbetet kräver omfattande ekonomiska insatser. Motionen innehåller däremot inga detaljer om svenska språkmodeller, superdatorer eller offentlig sektors beroende av utländska molntjänster.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Belägget är SD:s kommittémotion 2024/25:1424, öppnad i fulltext 2026-07-22. Motionen är partinivå och innehåller ett konkret förslag om nationell AI-infrastruktur för offentlig förvaltning, men saknar preciseringar om ägarskap, leverantörsberoende, språkmodeller och superdatorer.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-22"
   }
 ]
