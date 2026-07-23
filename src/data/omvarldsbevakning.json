@@ -30,5 +30,32 @@
     ],
     "workflowStatus": "publicerad",
     "addedAt": "2026-07-15"
+  },
+  {
+    "id": "esam-ai-regulatorisk-sandlada-2026",
+    "title": "AI-regulatorisk sandlåda – redovisning av pilotprojekt",
+    "publisher": "eSamverkansprogrammet (eSam)",
+    "publisherType": "myndighet",
+    "publicationDate": "2026-02",
+    "url": "https://www.esamverka.se/download/18.2eb33fa919b2c04ecba8c39/1770131431787/ES2026-01%20Slutrapport%20AI-regulatorisk%20sandl%C3%A5da%20-%20redovisning%20av%20pilotprojekt.pdf",
+    "accessedAt": "2026-07-23",
+    "language": "sv",
+    "summary": "eSams slutrapport redovisar en svensk pilot för AI-regulatorisk sandlåda enligt EU:s AI-förordning. Piloten genomfördes med Integritetsskyddsmyndigheten och flera myndigheter, bland annat Bolagsverket, Skatteverket, Arbetsförmedlingen, Ekonomistyrningsverket, Riksarkivet, Försäkringskassan och Post- och telestyrelsen, för att pröva hur AI-system kan analyseras och dokumenteras i praktiska utvecklingsfall.",
+    "keyTakeaways": [
+      "AI-förordningen beskrivs som en hanterbar 'ordning och reda-lagstiftning' där mycket handlar om struktur, rutiner och dokumentation kring AI-system.",
+      "En AI-regulatorisk sandlåda kan hjälpa deltagande aktörer att tolka AI-förordningen och hålla utvecklingsprojekt igång när svåra juridiska och tekniska frågor uppstår.",
+      "Analysen behöver börja med om lösningen är ett AI-system, fortsätta med systemets gränser, risknivå och aktörernas roller, och därefter hantera kraven för exempelvis högrisk-AI.",
+      "Högriskklassning medför omfattande dokumentationskrav och krav på spårbarhet; kapacitet, processer och administrativ förmåga blir därför centrala styrningsfrågor.",
+      "Rapporten framhåller tvärfunktionella arbetsgrupper med juridisk, teknisk, verksamhets- och ledningskompetens som avgörande för att sandlådan ska fungera.",
+      "För en effektiv svensk sandlåda krävs stegvisa men omfattande satsningar, samverkan mellan myndigheter och en flexibel kombination av juridisk vägledning, tekniskt stöd och andra innovationsstöd."
+    ],
+    "relatedTopicIds": [
+      "reglering",
+      "offentlig-sektor",
+      "strategi",
+      "naringsliv"
+    ],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-07-23"
   }
 ]

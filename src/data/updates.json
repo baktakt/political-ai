@@ -117,5 +117,12 @@
     "title": "Kristdemokraternas AI-luckor granskade för offentlig sektor, vård, demokrati och försvar",
     "description": "Kristdemokraternas webbmaterial och riksdagsmotioner har granskats för fyra ytterligare AI-ämnen. Granskningen hittade inga egna dokumenterade partinivåpositioner om AI i offentlig sektor, vård och omsorg, demokrati eller försvar och lägger därför till uttryckliga luckposter för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-23-esam-ai-sandlada-omvarld",
+    "date": "2026-07-23",
+    "title": "eSams slutrapport om AI-regulatorisk sandlåda tillagd i omvärldsbevakningen",
+    "description": "Omvärldsbevakningen har kompletterats med eSams slutrapport ES2026-01 om en svensk pilot för AI-regulatorisk sandlåda, med lärdomar om AI-förordningen, myndighetssamverkan, dokumentationskrav och praktiskt sandlådearbete.",
+    "type": "innehall"
   }
 ]

@@ -1,10 +1,10 @@
 # Länkkontroll
 
-Körd: 2026-07-16
+Körd: 2026-07-23
 
 ## Externa källänkar
 
-Kontrollerade: 50 · Fungerande: 50 · Trasiga/oåtkomliga: 0
+Kontrollerade: 68 · Fungerande: 68 · Trasiga/oåtkomliga: 0
 
 Alla externa källänkar svarade OK.
 
