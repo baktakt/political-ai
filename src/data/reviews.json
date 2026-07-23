@@ -318,5 +318,24 @@
       "Riksdagsträffar under 2025/26 var enskilda motioner eller saknade direkt AI-koppling på partinivå; de har därför inte använts som KD:s partilinje."
     ],
     "notes": "Fokuserad luckgranskning av Kristdemokraterna för fyra ämnen: AI i offentlig sektor, vård och omsorg, demokrati/val/desinformation samt försvar/cybersäkerhet. Kristdemokraternas politik A till Ö öppnades för Digitalisering, Sjukvård, E-hälsa, Demokrati, Försvar och närliggande sidor. Riksdagens öppna data söktes för parti=KD och riksmöte 2025/26 med AI, artificiell intelligens, digitalisering, automatiserat beslutsfattande, algoritm, deepfake, desinformation, cyber, cybersäkerhet, välfärdsteknik, e-hälsa, digital vård och patientdata. Inga dokumenterade partinivåpositioner hittades; fyra luckposter skrevs med workflowStatus behover_redaktionell_granskning."
+  },
+  {
+    "id": "granskning-m-stammohandlingar-ai-fortsatt-breddning-2026-07-23",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-23",
+    "topicsReviewed": [
+      "utbildning",
+      "offentlig-sektor",
+      "reglering",
+      "forsvar",
+      "hallbarhetsverktyg"
+    ],
+    "unresolvedQuestions": [
+      "Moderaternas slutliga handlingsprogram efter arbetsstämman 23-26 oktober 2025 kunde fortfarande inte verifieras mot en separat öppnad slutversion; granskningen bygger på stämmohandlingarna daterade 6 oktober 2025.",
+      "Manifestobevakning av M, KD, S, MP och V:s startsidor gav inget nytt verifierat valmanifest 2026; träffar gällde äldre EU-/riksdagsvalmanifest eller webbmanifest-filer.",
+      "Källan innehåller konkreta att-satser om offentlig AI och utbildnings-/forskningssatsningar, men detaljer saknas om exempelvis tillsyn enligt AI-förordningen, mänsklig kontroll i automatiserade beslut och autonoma vapensystem."
+    ],
+    "notes": "Fortsatt breddning av Moderaternas AI-positioner utifrån stämmohandlingarna 2025. PDF:en öppnades, extraherades och fulltextsöktes på artificiell intelligens, AI, digitalisering, folkbibliotek, gästprofessur, offentlig sektor, reglering, GDPR, AI Act, cyber, försvar, klimat, energi och resurser. Fem nya positioner skrevs för redaktionell granskning."
   }
 ]

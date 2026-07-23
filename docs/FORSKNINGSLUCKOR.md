@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 76 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 81 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -26,13 +26,15 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   V/utbildning, V/näringsliv, V/hållbarhetsverktyg och V/byggd miljö där
   inga dokumenterade partinivåpositioner hittades, samt M/strategi,
   M/näringsliv och M/vård utifrån
-  Moderaternas stämmohandlingar 2025, samt KD/strategi, KD/utbildning,
+  Moderaternas stämmohandlingar 2025, samt M/utbildning,
+  M/offentlig sektor, M/reglering, M/försvar och M/hållbarhetsverktyg efter
+  fortsatt granskning av samma stämmohandlingar, samt KD/strategi, KD/utbildning,
   KD/näringsliv, KD/integritet, KD/offentlig sektor, KD/vård,
   KD/demokrati och KD/försvar där inga egna partinivåpositioner
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
   SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet utifrån
   kommittémotion 2024/25:1424).
-- **Ej granskade:** 76. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 71. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -98,7 +100,8 @@ med sökvägar.
   `"bifallet"`/`"avslaget"` är ännu verifierat).
 - Slutversionen av Moderaternas handlingsprogram (endast
   stämmoproposition öppnad; använd för M/arbetsmarknad, M/strategi,
-  M/näringsliv och M/vård).
+  M/näringsliv, M/vård, M/utbildning, M/offentlig sektor, M/reglering,
+  M/försvar och M/hållbarhetsverktyg).
 - Kongressprotokoll för S 2025 (partiprogram och politiska riktlinjer
   öppnade i slutversion; själva mötesprotokollet med att-satser inte).
 - Övriga partiers valmanifest inför valet 2026-09-13 är under bevakning.
@@ -114,7 +117,10 @@ med sökvägar.
   ytterligare V-motioner; 2026-07-23 granskades V/utbildning, V/näringsliv,
   V/hållbarhetsverktyg och V/byggd miljö utan att dokumenterade
   partinivåpositioner hittades. M kompletterades senare
-  2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025. Senare
+  2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025, och
+  2026-07-23 breddades M ytterligare för utbildning, offentlig sektor,
+  reglering, försvar/cybersäkerhet och AI som hållbarhetsverktyg utifrån
+  samma stämmohandlingar. Senare
   2026-07-21 granskades KD för strategi, utbildning, näringsliv och
   integritet utan att egna partinivåpositioner hittades, och 2026-07-23
   granskades KD vidare för offentlig sektor, vård, demokrati och försvar

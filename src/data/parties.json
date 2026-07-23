@@ -127,10 +127,20 @@
     "governmentStatus": "regering",
     "governmentNote": "Statsministerparti sedan oktober 2022 (koalition med KD och L, samarbete med SD genom Tidöavtalet). Två ledamöter har lämnat partiet under valperioden och sitter kvar utan partibeteckning.",
     "summary": "Riksdagsparti med 68 mandat i valet 2022 (66 ledamöter med partibeteckning i juli 2026). Statsministerparti sedan oktober 2022.",
-    "aiSummary": null,
-    "aiPriorities": [],
-    "sustainabilityPriorities": [],
-    "lastReviewedAt": "2026-07-15",
+    "aiSummary": "Moderaterna beskriver AI som ett teknikskifte som ska bejakas för innovation, konkurrenskraft, välfärd och offentlig effektivisering. I stämmohandlingarna föreslås satsningar på AI-kompetens, forskning, gästprofessurer, talangstrategi, bibliotek och folkbildning samt AI-implementering i offentlig sektor med gemensam kärninfrastruktur och laggenomlysning. Partiet kopplar också AI till vårdens digitala beslutsstöd, cybersäkerhet och optimerad elförbrukning, men flera skrivningar bygger på stämmopropositioner vars slutliga antagande inte har verifierats separat.",
+    "aiPriorities": [
+      "Bejaka AI som teknikskifte för innovation, företagande och konkurrenskraft",
+      "AI-kompetens genom högre utbildning, grundforskning, gästprofessurer, talangstrategi och folkbildning",
+      "Implementera AI i offentlig sektor för effektivare arbete, handläggning och brottsbekämpning",
+      "Genomlysa lagar och förordningar för att möjliggöra ökad digitalisering och AI-användning",
+      "AI och digitala beslutsstöd som stöd för tillgänglig och säker vård"
+    ],
+    "sustainabilityPriorities": [
+      "AI ska kunna bidra till optimerad elförbrukning och bättre hushållning med resurser",
+      "AI-driven produktivitet ska mötas med omställning, kompetensutveckling och nya jobb",
+      "Cybersäkerhet och skydd av offentliga kärnfunktioner med stöd av ny teknik, bland annat AI"
+    ],
+    "lastReviewedAt": "2026-07-23",
     "verifiedAt": "2026-07-15",
     "verificationSourceIds": [
       "riksdagen-ledamoter-partier-2026",

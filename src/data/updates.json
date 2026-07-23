@@ -124,5 +124,12 @@
     "title": "eSams slutrapport om AI-regulatorisk sandlåda tillagd i omvärldsbevakningen",
     "description": "Omvärldsbevakningen har kompletterats med eSams slutrapport ES2026-01 om en svensk pilot för AI-regulatorisk sandlåda, med lärdomar om AI-förordningen, myndighetssamverkan, dokumentationskrav och praktiskt sandlådearbete.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-23-m-stammohandlingar-ai-fortsatt-breddning",
+    "date": "2026-07-23",
+    "title": "Moderaternas AI-positioner breddade med utbildning, offentlig sektor och reglering",
+    "description": "Moderaternas stämmohandlingar 2025 har granskats vidare för AI-frågor. Granskningen lägger till ståndpunkter om utbildning, offentlig sektor, reglering, försvar/cybersäkerhet och AI som hållbarhetsverktyg för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

@@ -864,6 +864,92 @@
     "lastUpdatedAt": "2026-07-21"
   },
   {
+    "id": "m-utbildning",
+    "partyId": "m",
+    "topicId": "utbildning",
+    "summary": "Moderaterna vill göra AI mer tillgängligt genom skola, högre utbildning, folkbibliotek och folkbildning. I stämmohandlingarna föreslås fler gästprofessurer inom AI, mer högre utbildning och grundforskning inom AI samt att allmänheten ska kunna prova AI-verktyg kostnadsfritt på bibliotek.",
+    "detailedPosition": "I Moderaternas stämmohandlingar 2025 anges att AI behöver tillgängliggöras för hela svenska folket, från skolan till högre upp i åldrarna. Förslagsdelen anger att fler gästprofessurer inom AI ska skapas på universitet och högskolor, att Sverige ska satsa mer på högre utbildning och grundläggande forskning inom AI, att folkbiblioteken ska få en särskild satsning så att alla kan prova AI-verktyg och att folkbildningen ska erbjuda ett kontinuerligt digitalt kompetenslyft. Tolkning: partiets utbildningslinje gäller främst kompetensförsörjning, forskning och allmän digital bildning; källan behandlar inte detaljer om generativ AI vid examination, fusk eller elevdata.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas stämmohandlingar 2025, öppnade som PDF och fulltextsökta 2026-07-23. Proposition 9 innehåller konkreta att-satser om AI-gästprofessurer, högre utbildning och forskning inom AI, bibliotek och folkbildning. Slutligt antagen programtext har inte verifierats mot separat källa.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "m-offentlig-sektor",
+    "partyId": "m",
+    "topicId": "offentlig-sektor",
+    "summary": "Moderaterna vill implementera AI i offentlig sektor för att effektivisera arbete, handläggning och brottsbekämpning. Partiet föreslår gemensam kärninfrastruktur för AI-drivna verktyg i offentlig sektor och en genomlysning av lagar och förordningar för ökad digitalisering och AI-användning.",
+    "detailedPosition": "I stämmohandlingarnas förslag om AI och digitalisering anger Moderaterna att AI ska implementeras i offentlig sektor för att effektivisera arbete, handläggning och brottsbekämpning samt att implementeringen ska följas upp och utvärderas. Förslagsdelen anger också en gemensam kärninfrastruktur för utveckling och leverans av AI-drivna verktyg inom offentlig sektor och en större genomlysning av lagar och förordningar med målet att möjliggöra ökad digitalisering och användning av AI. I en annan proposition nämns modern teknik, exempelvis AI, som verktyg för att granska utgifter hos statliga myndigheter, kommuner och regioner. Tolkning: positionen är tydligt effektiviseringsinriktad; källan preciserar inte hur överklagande, mänsklig kontroll eller ansvar i enskilda automatiserade beslut ska regleras.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Belägget är Moderaternas stämmohandlingar 2025, särskilt proposition 9 med konkreta att-satser om offentlig AI-implementering, kärninfrastruktur, uppföljning och laggenomlysning. Dokumentet är partistyrelsens stämmoproposition; antagen slutversion har inte verifierats separat.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "m-reglering",
+    "partyId": "m",
+    "topicId": "reglering",
+    "summary": "Moderaterna vill undanröja hinder för utveckling och implementering av AI. I stämmohandlingarna beskrivs GDPR och AI Act som regelverk som kan ha försämrat europeisk konkurrenskraft, och partiet vill genomlysa lagar och förordningar för att möjliggöra mer digitalisering och AI-användning.",
+    "detailedPosition": "I stämmohandlingarnas avsnitt om att riva hinder för utveckling och implementering av AI skriver Moderaterna att AI och maskininlärning har skapat nya möjligheter för näringsliv och offentlig sektor och kan stärka konkurrenskraft, välfärd och arbetsmarknad. Samma avsnitt anger att regelverk som GDPR och AI Act har utformats på ett sätt som försämrat europeisk konkurrenskraft och står i vägen för produktivitetstillväxt, och att varsamhet krävs med nya begränsningar samtidigt som befintliga regelverk behöver reformeras. Förslagsdelen vill genomlysa lagar och förordningar för att möjliggöra ökad digitalisering och AI-användning. Tolkning: partiets regleringslinje är innovations- och konkurrenskraftsinriktad; källan innehåller inte en detaljerad svensk tillsynsmodell för AI-förordningen.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram",
+      "regelgivning"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas stämmohandlingar 2025, öppnade i fulltext. Källan ger en tydlig men övergripande hållning till AI Act/GDPR, regelbörda och laggenomlysning. Slutligt antagen programtext har inte verifierats mot separat källa.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "m-forsvar",
+    "partyId": "m",
+    "topicId": "forsvar",
+    "summary": "Moderaterna kopplar AI till cybersäkerhet, teknisk innovation och säkerhetspolitik. Stämmohandlingarna anger att Sverige ska dra nytta av den senaste tekniken, bland annat AI, i cybersäkerhetsarbetet och bedriva aktiv teknikdiplomati kring teknikområden som AI.",
+    "detailedPosition": "I stämmohandlingarnas säkerhets- och utrikespolitiska avsnitt skriver Moderaterna att Sverige ska vara ledande inom cybersäkerhet och att cybersäkerhetsnivån i offentlig sektor ska vara hög för att freda offentliga kärnfunktioner från angrepp. Dokumentet anger att Sverige ska dra nytta av den senaste tillgängliga tekniken, bland annat AI, i samarbete mellan offentlig sektor, näringsliv, akademi och civilsamhälle, och ta krafttag mot statsstödda cyberhot. I utrikes- och säkerhetspolitiken beskrivs ny teknik som artificiell intelligens, miniatyriserade satelliter och kvantteknik som allt viktigare, och Sverige ska bedriva aktiv teknikdiplomati. Tolkning: positionen är en generell säkerhets- och cyberlinje; källan behandlar inte autonoma vapensystem eller en detaljerad militär AI-doktrin.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Belägget är Moderaternas stämmohandlingar 2025, öppnade och fulltextsökta på AI och cyber. AI nämns uttryckligen i cybersäkerhets- och teknikdiplomatiska avsnitt, men utan konkreta yrkanden om autonoma vapensystem eller särskilda militära AI-system.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "m-hallbarhetsverktyg",
+    "partyId": "m",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Moderaterna beskriver AI som ett möjligt verktyg för att optimera elförbrukning, förbättra hushållning med resurser och bidra i den gröna omställningen. Skrivningen finns i stämmohandlingarnas bredare avsnitt om teknikskifte, företagande och arbetsmarknad.",
+    "detailedPosition": "I Moderaternas stämmohandlingar 2025 står att användandet av AI öppnar nya möjligheter: algoritmer kan utveckla nya metoder för att lösa uppgifter snabbare, göra arbeten enklare och frigöra arbetskraft. Dokumentet anger även att tekniken kan användas för att optimera elförbrukning och förbättra hushållning med resurser, och på så sätt bidra i den gröna omställningen. Tolkning: partiet dokumenterar AI som ett hållbarhetsverktyg på en övergripande nivå, men källan innehåller inte separata satsningar för AI i elnät, transporter, jordbruk, skogsbruk, miljöövervakning eller klimatanpassning.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på en uttrycklig men kort skrivning i Moderaternas stämmohandlingar 2025 om AI för optimerad elförbrukning, bättre resurshushållning och grön omställning. Eftersom det saknas konkreta hållbarhetsprogram eller yrkanden klassas positionen som indirekt berörd.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
     "id": "kd-strategi",
     "partyId": "kd",
     "topicId": "strategi",
