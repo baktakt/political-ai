@@ -1331,5 +1331,57 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "kd-offentlig-sektor",
+    "partyId": "kd",
+    "topicId": "offentlig-sektor",
+    "summary": "Ingen egen dokumenterad KD-ståndpunkt om AI i offentlig sektor hittades i de granskade partikällorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Digitalisering, E-hälsa, Offentlig upphandling och relevanta välfärds-/förvaltningssidor, samt Riksdagens öppna data för KD-motioner under riksmötet 2025/26 med söktermer som AI, artificiell intelligens, digitalisering, algoritm och automatiserat beslutsfattande. Ingen partimotion, kommittémotion eller officiell partikälla med KD-ställningstaganden om AI i myndigheter, kommuner, regioner, automatiserade beslut, offentlig upphandling av AI eller mänsklig kontroll påträffades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se Politik A till Ö, särskilt Digitalisering, E-hälsa och Offentlig upphandling; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'digitalisering', 'automatiserat beslutsfattande' och 'algoritm'. Träffarna var enskilda motioner eller saknade direkt AI-koppling på partinivå.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "kd-vard-omsorg",
+    "partyId": "kd",
+    "topicId": "vard-omsorg",
+    "summary": "Ingen egen dokumenterad KD-ståndpunkt om AI i vård och omsorg hittades i de granskade partikällorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Sjukvård, E-hälsa, Äldre och Digitalisering, samt Riksdagens öppna data för KD-motioner under riksmötet 2025/26 med söktermer som AI, artificiell intelligens, välfärdsteknik, e-hälsa, digital vård och patientdata. En enskild KD-motion om moderniserad patientdatalag och digital vårdinfrastruktur hittades, men den är inte partinivå och innehåller inte en AI-position. Ingen partimotion, kommittémotion eller officiell partikälla om medicinsk AI, AI-beslutsstöd, patientdata för AI-utveckling eller AI i äldreomsorgen påträffades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Sjukvård, E-hälsa, Äldre och Digitalisering; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'välfärdsteknik', 'e-hälsa', 'digital vård' och 'patientdata'. Motion 2025/26:3110 var enskild motion av Larry Söder (KD), inte partinivåbelägg, och hittade AI-träffar saknades i vårdämnet.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "kd-demokrati",
+    "partyId": "kd",
+    "topicId": "demokrati",
+    "summary": "Ingen egen dokumenterad KD-ståndpunkt om AI, demokrati, val och desinformation hittades i de granskade partikällorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Demokrati, Yttrandefrihet, Public service, Digitalisering och relevanta rättighets-/mediesidor, samt Riksdagens öppna data för KD-motioner under riksmötet 2025/26 med söktermer som AI, artificiell intelligens, algoritm, deepfake, desinformation och digitalisering. Inga partinivåförslag om AI-genererat kampanjmaterial, deepfakes, valpåverkan, plattformsalgoritmer eller märkning av syntetiskt innehåll påträffades. Frånvaron ska inte tolkas som att partiet saknar demokrati- eller mediepolitik i övrigt.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Demokrati, Yttrandefrihet, Public service och Digitalisering; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'algoritm', 'deepfake', 'desinformation' och 'digitalisering'. Träffar på desinformation och digitalisering var enskilda motioner eller saknade AI-koppling på partinivå.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "kd-forsvar",
+    "partyId": "kd",
+    "topicId": "forsvar",
+    "summary": "Ingen egen dokumenterad KD-ståndpunkt om AI i försvar, cybersäkerhet eller nationell säkerhet hittades i de granskade partikällorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Försvar, Säkerhetspolitik, Nato, Terrorbekämpning och Digitalisering, samt Riksdagens öppna data för KD-motioner under riksmötet 2025/26 med söktermer som AI, artificiell intelligens, cyber, cybersäkerhet, autonom och algoritm. Ingen partimotion, kommittémotion eller officiell partikälla med KD-ställningstaganden om militär AI, autonoma vapensystem, AI i cyberförsvar eller AI-krav på kritisk infrastruktur påträffades. Frånvaron ska inte tolkas som att partiet saknar försvars- eller säkerhetspolitik i övrigt.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Försvar, Säkerhetspolitik, Nato, Terrorbekämpning och Digitalisering; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'cyber', 'cybersäkerhet', 'autonom' och 'algoritm'. Aktuella träffar var enskilda motioner eller saknade direkt partinivåbelägg om AI i försvar och säkerhet.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
   }
 ]

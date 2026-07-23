@@ -300,5 +300,23 @@
       "Öppnade V-motioner med närliggande träffar rörde bland annat digital delaktighet, klimat/transport, industri/landsbygd och vårproposition, men gav inte partinivåpositioner om dessa fyra AI-ämnen."
     ],
     "notes": "Fokuserad luckgranskning av Vänsterpartiet för fyra återstående ämnen: skola/utbildning, företagande/innovation, AI som hållbarhetsverktyg och byggd miljö. Vänsterpartiets officiella AI-sida öppnades på nytt. Riksdagens öppna data söktes för parti=V med AI, artificiell intelligens, digital kompetens, digitalisering, algoritm, automatiserat beslutsfattande, datacenter, klimat, hållbar, utbildning, innovation, byggande och planering. Inga dokumenterade partinivåpositioner hittades; fyra luckposter skrevs med workflowStatus behover_redaktionell_granskning."
+  },
+  {
+    "id": "granskning-kd-ai-luckor-offentlig-vard-demokrati-forsvar-2026-07-23",
+    "partyId": "kd",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-23",
+    "topicsReviewed": [
+      "offentlig-sektor",
+      "vard-omsorg",
+      "demokrati",
+      "forsvar"
+    ],
+    "unresolvedQuestions": [
+      "Kristdemokraternas valmanifest inför valet 2026-09-13 hittades inte vid manifestobevakningen denna körning; luckposterna behöver färskhetsgranskas mot ett kommande valmanifest.",
+      "Granskningen av KD-materialet bygger på partiets webbsidor och Riksdagens öppna data för riksmötet 2025/26. Äldre KD-kommittémotioner före innevarande valperiod kan beröra digitalisering eller cyberfrågor, men har inte behandlats som aktuell partinivåposition om AI.",
+      "Riksdagsträffar under 2025/26 var enskilda motioner eller saknade direkt AI-koppling på partinivå; de har därför inte använts som KD:s partilinje."
+    ],
+    "notes": "Fokuserad luckgranskning av Kristdemokraterna för fyra ämnen: AI i offentlig sektor, vård och omsorg, demokrati/val/desinformation samt försvar/cybersäkerhet. Kristdemokraternas politik A till Ö öppnades för Digitalisering, Sjukvård, E-hälsa, Demokrati, Försvar och närliggande sidor. Riksdagens öppna data söktes för parti=KD och riksmöte 2025/26 med AI, artificiell intelligens, digitalisering, automatiserat beslutsfattande, algoritm, deepfake, desinformation, cyber, cybersäkerhet, välfärdsteknik, e-hälsa, digital vård och patientdata. Inga dokumenterade partinivåpositioner hittades; fyra luckposter skrevs med workflowStatus behover_redaktionell_granskning."
   }
 ]

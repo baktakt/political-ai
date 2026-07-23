@@ -110,5 +110,12 @@
     "title": "Vänsterpartiets AI-luckor granskade för utbildning, näringsliv och hållbarhet",
     "description": "Vänsterpartiets AI-sida och riksdagsmotioner har granskats för fyra ytterligare ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI i utbildning, näringsliv, hållbarhetsverktyg eller byggd miljö och lägger därför till uttryckliga luckposter för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-23-kd-ai-luckor-offentlig-vard-demokrati-forsvar",
+    "date": "2026-07-23",
+    "title": "Kristdemokraternas AI-luckor granskade för offentlig sektor, vård, demokrati och försvar",
+    "description": "Kristdemokraternas webbmaterial och riksdagsmotioner har granskats för fyra ytterligare AI-ämnen. Granskningen hittade inga egna dokumenterade partinivåpositioner om AI i offentlig sektor, vård och omsorg, demokrati eller försvar och lägger därför till uttryckliga luckposter för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

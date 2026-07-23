@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 72 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 76 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -27,11 +27,12 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   inga dokumenterade partinivåpositioner hittades, samt M/strategi,
   M/näringsliv och M/vård utifrån
   Moderaternas stämmohandlingar 2025, samt KD/strategi, KD/utbildning,
-  KD/näringsliv och KD/integritet där inga egna partinivåpositioner
+  KD/näringsliv, KD/integritet, KD/offentlig sektor, KD/vård,
+  KD/demokrati och KD/försvar där inga egna partinivåpositioner
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
   SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet utifrån
   kommittémotion 2024/25:1424).
-- **Ej granskade:** 80. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 76. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -56,10 +57,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 - **KD / arbetsmarknad:** ingen egen partiposition hittades; endast
   regeringens gemensamma AI-strategi (där KD:s civilminister är ansvarigt
   statsråd) är dokumenterad.
-- **KD / strategi, utbildning, näringsliv och integritet:** inga egna
-  partinivåpositioner hittades i granskade partikanaler och Riksdagens öppna
-  data. Relevanta träffar var regeringspolitik eller enskilda motioner, inte
-  KD-partilinje.
+- **KD / strategi, utbildning, näringsliv, integritet, offentlig sektor,
+  vård, demokrati och försvar:** inga egna partinivåpositioner hittades i
+  granskade partikanaler och Riksdagens öppna data. Relevanta träffar var
+  regeringspolitik eller enskilda motioner, inte KD-partilinje.
 - **SD / arbetsmarknad:** berörs endast indirekt (via skolans värde för
   "framtidens arbetsmarknad"); SD:s egen valplattform 2026 innehåller
   överhuvudtaget inga AI-relaterade skrivningar (verifierat genom
@@ -115,7 +116,9 @@ med sökvägar.
   partinivåpositioner hittades. M kompletterades senare
   2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025. Senare
   2026-07-21 granskades KD för strategi, utbildning, näringsliv och
-  integritet utan att egna partinivåpositioner hittades. Ännu senare
+  integritet utan att egna partinivåpositioner hittades, och 2026-07-23
+  granskades KD vidare för offentlig sektor, vård, demokrati och försvar
+  utan att egna partinivåpositioner hittades. Ännu senare
   2026-07-21 breddades C med sex ämnen utifrån AI-sida, valmanifest och
   kommittémotioner. SD kompletterades 2026-07-22 för strategi, utbildning,
   offentlig sektor och reglering, samt senare för näringsliv, demokrati och
