@@ -1210,9 +1210,15 @@
     "summary": "Miljöpartiet vill stärka demokratisk kontroll, transparens och ansvarsutkrävande kring AI. Partiet kopplar AI-risker till desinformation, fejkade bilder och beroende av globala teknikföretag, och vill att Sverige verkar nationellt och inom EU för säker och rättighetsrespekterande AI-användning.",
     "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att AI och digitalisering ska stärka demokratin och att teknikutvecklingen behöver göras rättssäker, rättvis, hållbar och demokratisk. Partiet vill ha tydliga krav på transparens kring hur AI-tjänster fungerar, när de används och vilken data de tränas på, samt stärka kunskapen om källkritik, desinformation och fejkade bilder. I kommittémotionen En grön AI-politik (2025/26:3425) yrkar partiet på lösningar för större transparens och möjligheter till ansvarsutkrävande nationellt och på europeisk nivå. Motionen behandlar däremot inte särskilt AI-genererat kampanjmaterial, partiets egen kampanjanvändning eller detaljerade valregler. Tolkning: partiets dokumenterade demokratilinje är bred och rör transparens, kunskap och kontroll över AI-system snarare än ett avgränsat regelpaket för valrörelser.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion", "partiprogram"],
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
     "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-22, och kommittémotion 2025/26:3425, öppnad i fulltext. Motionen innehåller ett konkret yrkande om transparens och ansvarsutkrävande. Granskningen hittade inte ett separat MP-förslag om deepfakes i valrörelser eller märkning av kampanjmaterial.",
-    "sourceIds": ["mp-webb-ai", "mp-mot-2025-3425"],
+    "sourceIds": [
+      "mp-webb-ai",
+      "mp-mot-2025-3425"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-22"
   },
@@ -1223,9 +1229,14 @@
     "summary": "Miljöpartiet vill säkra upphovsmakares rättigheter när AI tränas på skyddat material. Partiet föreslår lagstiftning för upphovsmakares rättigheter, nationell och EU-nivåbaserad utredning av ny lagstiftning och satsningar på AI och teknik som fungerar på svenska, med ersättningsmekanismer för rättighetshavare.",
     "detailedPosition": "I kommittémotionen En grön AI-politik (2025/26:3425) skriver Miljöpartiet att AI tränas på stora mängder befintligt material och att det är svårt för upphovsrättsinnehavare att hävda sina rättigheter. Motionen yrkar på lagstiftning för att säkra upphovsmakares rättigheter och på en utredning om ny lagstiftning på nationell och EU-nivå. I kulturmotionen Kultur och bildning (2025/26:3775) finns ett särskilt avsnitt om AI, arbetstillfällen och upphovsrätt. Där vill partiet stärka satsningar på projekt som utvecklar AI och annan teknik för svenska språket, exempelvis Kungliga bibliotekets arbete, och anger att sådana satsningar på AI-utveckling och stora språkmodeller bör garantera framtida mekanismer för ersättning till rättighetshavare. Tolkning: positionen kombinerar upphovsrättsligt skydd med språk- och kulturpolitisk AI-infrastruktur.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion"],
+    "evidenceTypes": [
+      "motion"
+    ],
     "confidenceExplanation": "Klassningen bygger på två kommittémotioner på partinivå: 2025/26:3425 och 2025/26:3775. Båda öppnades i fulltext. Källorna innehåller konkreta yrkanden om upphovsrätt och AI samt tydliga skrivningar om ersättning till rättighetshavare, men exakta licens- eller ersättningsmodeller anges inte.",
-    "sourceIds": ["mp-mot-2025-3425", "mp-mot-2025-3775"],
+    "sourceIds": [
+      "mp-mot-2025-3425",
+      "mp-mot-2025-3775"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-22"
   },
@@ -1236,9 +1247,16 @@
     "summary": "Miljöpartiet vill ha tydliga etiska riktlinjer, bättre tillsyn och större transparens för AI. Partiet vill att Sverige verkar inom EU och internationellt för säker AI som inte kränker integritet och rättigheter, och stödjer utveckling av ansvarsutkrävande på nationell och europeisk nivå.",
     "detailedPosition": "På Miljöpartiets AI-sida anger partiet att AI ska utvecklas och användas med respekt för mänskliga rättigheter, integritet och upphovsrätt samt att det ska finnas tydliga krav på transparens kring hur AI-tjänster fungerar, när de används och vilken data de tränas på. Sidan lyfter tydliga etiska riktlinjer, bättre tillsyn och större transparens. I kommittémotionen En grön AI-politik (2025/26:3425) yrkar partiet på lösningar för transparens och ansvarsutkrävande på nationell och europeisk nivå samt att Sverige i EU ska verka för säker AI-användning som inte kränker integritet och rättigheter. Motionen nämner AI-förordningen som delvis implementerad, men redovisar inte en detaljerad svensk tillsynsmodell för AI-förordningen. Tolkning: partiets regleringslinje är rättighets- och transparensinriktad, med EU-nivån som viktig arena.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion", "regelgivning", "partiprogram"],
+    "evidenceTypes": [
+      "motion",
+      "regelgivning",
+      "partiprogram"
+    ],
     "confidenceExplanation": "Källorna är partiets officiella AI-sida och kommittémotion 2025/26:3425, båda öppnade 2026-07-22. Motionen innehåller konkreta yrkanden om transparens, ansvarsutkrävande och säker AI i EU; detaljer om svensk myndighetsfördelning för tillsyn saknas.",
-    "sourceIds": ["mp-webb-ai", "mp-mot-2025-3425"],
+    "sourceIds": [
+      "mp-webb-ai",
+      "mp-mot-2025-3425"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-22"
   },
@@ -1249,10 +1267,69 @@
     "summary": "Miljöpartiet vill minska beroendet av globala teknikföretag och stärka kontrollen över samhällsviktig data och digital infrastruktur. Partiet pekar på europeiska molntjänster, öppna standarder och svenskspråkig AI-teknik som viktiga delar.",
     "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att Sverige och EU behöver bättre kontroll över samhällsviktig data och digital infrastruktur för datasäkerhet, demokratisk styrning och möjlighet att använda AI utan beroende av ett fåtal företag. Partiet vill stärka europeiska molntjänster och öppna standarder. I kommittémotionen En grön AI-politik (2025/26:3425) behandlas digital suveränitet och minskat beroende av globala teknikföretag. Kulturmotionen 2025/26:3775 vill stärka projekt som utvecklar AI och annan teknik att fungera på svenska, exempelvis Kungliga bibliotekets arbete, och kopplar detta till framtida ersättning till rättighetshavare. Tolkning: positionen handlar främst om europeisk och svensk kontroll över data, moln, standarder och språkförmåga, inte om en uttrycklig statligt ägd grundmodell eller superdator.",
     "evidenceStatus": "generell_dokumenterad",
-    "evidenceTypes": ["partiprogram", "motion"],
+    "evidenceTypes": [
+      "partiprogram",
+      "motion"
+    ],
     "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida samt kommittémotionerna 2025/26:3425 och 2025/26:3775, öppnade i fulltext. Källorna är samstämmiga om digital suveränitet, europeiska molntjänster, öppna standarder och svensk språkförmåga, men saknar detaljer om finansiering, ägarskap eller särskild superdatorinfrastruktur.",
-    "sourceIds": ["mp-webb-ai", "mp-mot-2025-3425", "mp-mot-2025-3775"],
+    "sourceIds": [
+      "mp-webb-ai",
+      "mp-mot-2025-3425",
+      "mp-mot-2025-3775"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-22"
+  },
+  {
+    "id": "v-utbildning",
+    "partyId": "v",
+    "topicId": "utbildning",
+    "summary": "Ingen dokumenterad V-position om AI i skola och utbildning hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets AI-sida, sökningar i Riksdagens öppna data för V-motioner med AI, artificiell intelligens, digital kompetens och utbildningsrelaterade termer samt öppnade riksdagsmotioner som gav närliggande träffar. Inga partinivåförslag hittades om generativ AI i undervisningen, examination, AI-kompetens för elever eller likvärdig tillgång till AI-verktyg. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets officiella AI-sida (öppnad 2026-07-23), Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digital kompetens, digitalisering, algoritm och utbildning samt öppnade träffar som 2025/26:2817, 2025/26:2780 och 2025/26:4108. Träffarna rörde främst digital delaktighet, landsbygd, kultur, vård, ekonomi eller arbetsmarknad och gav ingen dokumenterad utbildningsposition om AI på partinivå.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "v-naringsliv",
+    "partyId": "v",
+    "topicId": "naringsliv",
+    "summary": "Ingen dokumenterad V-position om AI-företagande, AI-startups, beräkningskraft eller regulatoriska sandlådor hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets AI-sida, Riksdagens öppna data för V-motioner och öppnade närliggande motioner om vårproposition, industri- och landsbygdspolitik samt försvarsindustri. Partiets material berör ny teknik, digitalisering och arbetsmarknad i bred mening, men inga partinivåförslag hittades om särskild AI-innovationspolitik, kapital till AI-bolag, beräkningskraft för företag eller AI-sandlådor. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets AI-sida och Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digitalisering, algoritm, ny teknik, industri och innovation. Öppnade träffar, bland annat 2025/26:4108, 2025/26:2817 och 2025/26:54, gav inte någon dokumenterad partiposition om AI som näringslivs- eller innovationspolitik.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "v-hallbarhetsverktyg",
+    "partyId": "v",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Ingen dokumenterad V-position om AI som verktyg för klimat- och miljöarbete hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets AI-sida och Riksdagens öppna data för V-motioner om AI, digitalisering, datacenter, klimat och hållbar utveckling. Öppnade träffar innehöll omfattande klimat- och transportpolitik samt vissa digitaliseringsskrivningar, men inga partinivåförslag där AI används för energioptimering, elnät, transporter, jordbruk, skogsbruk, miljöövervakning eller klimatanpassning. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets AI-sida, Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digitalisering, datacenter, klimat, hållbar och automatiserat beslutsfattande samt öppnade motioner som 2025/26:2780 och 2025/26:2817. Träffarna gav klimat- och digitaliseringspolitik men ingen dokumenterad AI-som-hållbarhetsverktyg-position på partinivå.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "v-byggd-miljo",
+    "partyId": "v",
+    "topicId": "byggd-miljo",
+    "summary": "Ingen dokumenterad V-position om AI i byggande och samhällsbyggnad hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets AI-sida och sökningar i Riksdagens öppna data efter V-material om AI, digitalisering, automatiserat beslutsfattande, byggande, planering, infrastruktur och klimat. Inga partinivåförslag hittades om AI i arkitektur, bygglov, projektering, byggproduktion, energieffektivisering i byggnader eller klimatriskanalys i samhällsplanering. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets AI-sida, Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digitalisering, automatiserat beslutsfattande, byggande, planering, infrastruktur och klimat samt öppnade närliggande motioner som 2025/26:2780 och 2025/26:2817. Inga öppnade träffar gav en dokumenterad AI-position om byggd miljö på partinivå.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-23"
   }
 ]

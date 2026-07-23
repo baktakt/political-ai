@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-22**. Detta dokument räknas som en del av
+Statusen är **2026-07-23**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 68 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 72 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -23,13 +23,15 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   2025/26:3425 och 2025/26:3775, samt V/strategi, V/offentlig sektor, V/vård, V/integritet,
   V/försvar, V/kultur-upphovsrätt, V/jämlikhet och V/social hållbarhet
   efter breddad granskning av partiets AI-sida och riksdagsmotioner, samt
-  M/strategi, M/näringsliv och M/vård utifrån
+  V/utbildning, V/näringsliv, V/hållbarhetsverktyg och V/byggd miljö där
+  inga dokumenterade partinivåpositioner hittades, samt M/strategi,
+  M/näringsliv och M/vård utifrån
   Moderaternas stämmohandlingar 2025, samt KD/strategi, KD/utbildning,
   KD/näringsliv och KD/integritet där inga egna partinivåpositioner
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
   SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet utifrån
   kommittémotion 2024/25:1424).
-- **Ej granskade:** 84. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 80. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -74,6 +76,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   arbetsmiljö-/arbetstidsmotion och kommittémotion 2025/26:2370 om
   digitalisering och AI. Regionala AI-effekter är fortsatt begränsat
   belagda.
+- **V / utbildning, näringsliv, hållbarhetsverktyg och byggd miljö:**
+  granskades 2026-07-23 mot AI-sidan och Riksdagens öppna data utan att
+  dokumenterade partinivåpositioner om dessa AI-ämnen hittades.
 - **S:** inga dokumenterade ståndpunkter hittades specifikt om AI-kompisar/
   chattbottar för barn, datacenters vattenanvändning och rapporteringskrav,
   algoritmisk diskriminering som egen fråga, svenska språkmodeller/
@@ -105,7 +110,9 @@ med sökvägar.
   inget MP-valmanifest 2026 kunde verifieras. V kompletterades 2026-07-21
   för fem ämnen utifrån AI-sida och riksdagsmotioner och 2026-07-22
   för kultur/upphovsrätt, jämlikhet och social hållbarhet utifrån
-  ytterligare V-motioner. M kompletterades senare
+  ytterligare V-motioner; 2026-07-23 granskades V/utbildning, V/näringsliv,
+  V/hållbarhetsverktyg och V/byggd miljö utan att dokumenterade
+  partinivåpositioner hittades. M kompletterades senare
   2026-07-21 för tre ämnen utifrån stämmohandlingarna 2025. Senare
   2026-07-21 granskades KD för strategi, utbildning, näringsliv och
   integritet utan att egna partinivåpositioner hittades. Ännu senare

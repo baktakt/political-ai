@@ -103,5 +103,12 @@
     "title": "Miljöpartiets AI-positioner kompletterade för demokrati, reglering och kultur",
     "description": "Miljöpartiets AI-sida och partinivåmotioner har granskats vidare. Granskningen lägger till ståndpunkter om demokrati, kultur och upphovsrätt, reglering samt AI-suveränitet för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-23-v-ai-luckor-utbildning-naringsliv-hallbarhet",
+    "date": "2026-07-23",
+    "title": "Vänsterpartiets AI-luckor granskade för utbildning, näringsliv och hållbarhet",
+    "description": "Vänsterpartiets AI-sida och riksdagsmotioner har granskats för fyra ytterligare ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI i utbildning, näringsliv, hållbarhetsverktyg eller byggd miljö och lägger därför till uttryckliga luckposter för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

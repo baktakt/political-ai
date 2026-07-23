@@ -282,5 +282,23 @@
       "För demokratiämnet hittades en bred linje om transparens, ansvarsutkrävande och desinformation, men inget detaljerat MP-förslag om AI-genererat kampanjmaterial eller partiets egen AI-användning i valrörelsen."
     ],
     "notes": "Fortsatt breddad granskning av Miljöpartiets AI-politik för fyra återstående ämnesluckor: demokrati, kultur/upphovsrätt, reglering och AI-suveränitet. Miljöpartiets AI- och digitaliseringssida öppnades på nytt och sidmetadata kontrollerades. Riksdagens öppna data söktes för MP med AI, artificiell intelligens, upphovsrätt, språkmodell, datacenter och deepfake. Kommittémotionerna 2025/26:3425 och 2025/26:3775 öppnades i fulltext och kontrollerades för partinivå, yrkanden och ämneskopplingar."
+  },
+  {
+    "id": "granskning-v-ai-luckor-utbildning-naringsliv-hallbarhet-2026-07-23",
+    "partyId": "v",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-23",
+    "topicsReviewed": [
+      "utbildning",
+      "naringsliv",
+      "hallbarhetsverktyg",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Vänsterpartiets valplattform inför valet 2026-09-13 hittades inte vid manifestobevakningen denna körning; de uttryckliga luckposterna behöver därför färskhetsgranskas mot ett kommande valmanifest.",
+      "Granskningen av utbildning, näringsliv, hållbarhetsverktyg och byggd miljö bygger på AI-sidan och Riksdagens öppna data. Den utesluter inte att äldre eller lokala V-dokument kan beröra närliggande digitaliseringsfrågor utan AI-koppling.",
+      "Öppnade V-motioner med närliggande träffar rörde bland annat digital delaktighet, klimat/transport, industri/landsbygd och vårproposition, men gav inte partinivåpositioner om dessa fyra AI-ämnen."
+    ],
+    "notes": "Fokuserad luckgranskning av Vänsterpartiet för fyra återstående ämnen: skola/utbildning, företagande/innovation, AI som hållbarhetsverktyg och byggd miljö. Vänsterpartiets officiella AI-sida öppnades på nytt. Riksdagens öppna data söktes för parti=V med AI, artificiell intelligens, digital kompetens, digitalisering, algoritm, automatiserat beslutsfattande, datacenter, klimat, hållbar, utbildning, innovation, byggande och planering. Inga dokumenterade partinivåpositioner hittades; fyra luckposter skrevs med workflowStatus behover_redaktionell_granskning."
   }
 ]
