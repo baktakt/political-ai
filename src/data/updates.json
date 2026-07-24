@@ -138,5 +138,12 @@
     "title": "Sverigedemokraternas AI-motion granskad för integritet, cyber och barnfrågor",
     "description": "Sverigedemokraternas kommittémotion om AI-politik har granskats vidare. Granskningen lägger till ståndpunkter om integritet och automatiserat beslutsfattande, försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-24-sd-ai-luckor-vard-kultur-hallbarhet",
+    "date": "2026-07-24",
+    "title": "Sverigedemokraternas återstående AI-luckor granskade för vård, kultur och hållbarhet",
+    "description": "Sverigedemokraternas valplattform, AI-motion och riksdagsmotioner har granskats för sex ytterligare AI-ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI i vård, kultur/upphovsrätt, miljöavtryck, hållbarhetsverktyg, byggd miljö eller rekyleffekter och lägger därför till uttryckliga luckposter för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

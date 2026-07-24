@@ -1537,5 +1537,83 @@
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-vard-omsorg",
+    "partyId": "sd",
+    "topicId": "vard-omsorg",
+    "summary": "Ingen dokumenterad partinivåposition om AI i vård och omsorg hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade SD:s valplattform 2026, partiets kommittémotion 2024/25:1424 om AI-politik samt Riksdagens öppna data för SD-motioner under 2025/26. Enskilda motioner om husläkare och artificiell intelligens samt cancerprevention öppnades, men de är inte partimotioner eller kommittémotioner och används därför inte som SD:s partilinje. Frånvaron ska inte tolkas som att partiet är emot AI i vård eller omsorg.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda vårdsökningar gjordes på vård, omsorg, e-hälsa, patientdata, cancer och husläkare.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-kultur-upphovsratt",
+    "partyId": "sd",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Ingen dokumenterad partinivåposition om AI, kultur och upphovsrätt hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade SD:s valplattform 2026, kommittémotion 2024/25:1424 och Riksdagens öppna data. Kommittémotion 2025/26:4007 om privatkopieringsersättning öppnades som närliggande partinivåträff, men den gav ingen dokumenterad ståndpunkt om AI-träning, generativ AI, transparens i träningsdata eller ersättningsmodeller för kulturskapare. Frånvaron ska inte tolkas som att partiet är emot sådana regler.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda kultursökningar gjordes på upphovsrätt, privatkopieringsersättning, generativ AI, språkmodeller, journalistik och kultur.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-miljoavtryck",
+    "partyId": "sd",
+    "topicId": "miljoavtryck",
+    "summary": "Ingen dokumenterad partinivåposition om AI:s miljöavtryck hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade SD:s valplattform 2026, kommittémotion 2024/25:1424 och Riksdagens öppna data. Inga partinivåbelägg hittades om datacenters el- eller vattenanvändning, AI-systemens klimatpåverkan, hårdvarans livscykel eller miljörapportering för AI-leverantörer. Frånvaron ska inte tolkas som att partiet är emot miljökrav på AI eller datacenter.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda miljösökningar gjordes på datacenter, klimat, miljö, hållbar, energi, vatten, resurs och hårdvara.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-hallbarhetsverktyg",
+    "partyId": "sd",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Ingen dokumenterad partinivåposition om AI som verktyg för hållbar utveckling hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade SD:s valplattform 2026, kommittémotion 2024/25:1424 och Riksdagens öppna data. Inga partinivåbelägg hittades om AI för energioptimering, elnät, transporter, jordbruk, skogsbruk, miljöövervakning, cirkulär ekonomi eller klimatanpassning. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda hållbarhetssökningar gjordes på klimat, hållbar, energi, elnät, transporter, jordbruk, skogsbruk, miljöövervakning och cirkulär ekonomi.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-byggd-miljo",
+    "partyId": "sd",
+    "topicId": "byggd-miljo",
+    "summary": "Ingen dokumenterad partinivåposition om AI i byggande och samhällsbyggnad hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade SD:s valplattform 2026, kommittémotion 2024/25:1424 och Riksdagens öppna data. Inga partinivåbelägg hittades om AI i arkitektur, projektering, bygglov, digital planering, energieffektivisering av byggnader eller materialoptimering. Frånvaron ska inte tolkas som att partiet är emot AI-användning i byggd miljö.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda sökningar gjordes på byggande, samhällsbyggnad, bygglov, planering, arkitektur, fastighet och infrastruktur.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-rekyleffekter",
+    "partyId": "sd",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade SD:s valplattform 2026, kommittémotion 2024/25:1424 och Riksdagens öppna data. Inga partinivåbelägg hittades om att partiet skiljer mellan effektivisering per AI-användning och total resursanvändning, eller om styrmedel mot ökande beräkning, energianvändning eller konsumtion när AI gör processer billigare. Frånvaron ska inte tolkas som att partiet avvisar frågan.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda sökningar gjordes på rekyleffekter, rebound, resursanvändning, effektivisering, beräkning och datacenter.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
   }
 ]

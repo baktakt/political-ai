@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 85 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 91 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -34,8 +34,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
   SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet samt
   SD/integritet, SD/försvar, SD/barn-unga och SD/jämlikhet utifrån
-  kommittémotion 2024/25:1424).
-- **Ej granskade:** 67. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
+  SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
+  SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades).
+- **Ej granskade:** 61. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 

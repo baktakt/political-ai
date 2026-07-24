@@ -355,5 +355,25 @@
       "Manifestobevakning av S, M, KD, MP och V:s startsidor gav inget nytt verifierat riksdagsvalmanifest 2026; startsidor är inte en fullständig garanti för frånvaro."
     ],
     "notes": "Fortsatt breddad granskning av Sverigedemokraternas kommittémotion 2024/25:1424 för fyra återstående ämnesluckor: integritet, försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet. Motionen öppnades i fulltext via Riksdagens öppna data. Sökningar gjordes även i Riksdagens öppna data för parti=SD med AI, artificiell intelligens, ansiktsigenkänning, cyber, autonoma vapensystem, upphovsrätt, datacenter, hållbar och algoritm. Nya 2025/26-träffar som var enskilda motioner behandlades inte som partinivåpositioner."
+  },
+  {
+    "id": "granskning-sd-ai-luckor-vard-kultur-hallbarhet-2026-07-24",
+    "partyId": "sd",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-24",
+    "topicsReviewed": [
+      "vard-omsorg",
+      "kultur-upphovsratt",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "byggd-miljo",
+      "rekyleffekter"
+    ],
+    "unresolvedQuestions": [
+      "Granskningen bygger på SD:s valplattform 2026, kommittémotion 2024/25:1424 och Riksdagens öppna data för 2025/26. Den utesluter inte att äldre eller lokala SD-dokument kan beröra närliggande digitaliseringsfrågor utan AI-koppling.",
+      "Riksdagsträffar om husläkare och AI, cancerprevention och en ny AI-politisk motion under 2025/26 var enskilda motioner och behandlades därför inte som SD:s partilinje.",
+      "Kommittémotion 2025/26:4007 om privatkopieringsersättning öppnades som närliggande kultur-/upphovsrättskälla, men gav ingen dokumenterad AI-position."
+    ],
+    "notes": "Fokuserad luckgranskning av Sverigedemokraterna för sex återstående ämnen: vård och omsorg, kultur/upphovsrätt, AI:s miljöavtryck, AI som hållbarhetsverktyg, byggd miljö och rekyleffekter. SD:s valplattform 2026 och kommittémotion 2024/25:1424 kontrollerades på nytt. Riksdagens öppna data söktes för parti=SD och riksmöte 2025/26 med AI, artificiell intelligens, upphovsrätt, datacenter, hållbar, klimat, byggande, rekyleffekter, vård, omsorg, e-hälsa, patientdata, energi och resursanvändning. Inga dokumenterade partinivåpositioner hittades; sex luckposter skrevs med workflowStatus behover_redaktionell_granskning."
   }
 ]
