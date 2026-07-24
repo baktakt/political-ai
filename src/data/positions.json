@@ -1469,5 +1469,73 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-23"
+  },
+  {
+    "id": "sd-integritet",
+    "partyId": "sd",
+    "topicId": "integritet",
+    "summary": "Sverigedemokraterna vill reglera AI-användning som påverkar konsumenter och medborgare genom krav på transparens, mänsklig kontroll, möjlighet att pröva och häva automatiserade beslut samt skydd av personuppgifter. Partiet betonar också att grundläggande rättigheter och friheter inte får hotas av AI-tillämpning.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 skriver Sverigedemokraterna att AI-reglering ska vara tillförlitlig och att risknivån i teknikens tillämpning inte får vara så hög att grundläggande värderingar, rättigheter och friheter hotas. Motionen har ett särskilt avsnitt om automatiserat beslutsfattande där partiet vill utreda lagstiftning för tjänster där sådant ingår. Där anges att kartläggning av konsumtionsmönster, vanor och beteenden ska vara transparent och tydlig, att konsumenten ska kunna säga nej till kartläggning, att mänsklig kontroll, ansvarsfördelning, korrigeringsmöjlighet, möjlighet att pröva och häva beslut samt skydd av personuppgifter behöver beaktas. Tolkning: positionen gäller främst konsument- och förvaltningsnära automatiserade beslut, inte en särskild linje om polisens ansiktsigenkänning eller prediktivt polisarbete.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på SD:s kommittémotion 2024/25:1424, öppnad i fulltext 2026-07-24. Motionen är partinivå och innehåller ett uttryckligt yrkande om lagstiftning för automatiserat beslutsfattande samt detaljer om transparens, mänsklig kontroll, prövning och personuppgiftsskydd. Inga partinivåbelägg hittades i denna körning om ansiktsigenkänning eller prediktivt polisarbete.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-forsvar",
+    "partyId": "sd",
+    "topicId": "forsvar",
+    "summary": "Sverigedemokraterna kopplar AI-politiken till cyberresiliens, gränsöverskridande hot och internationellt samarbete om normgivning och brottsbekämpning. Partiet vill stärka allmänhetens medvetenhet om AI och cyberresiliens och motverka AI-användning för brottsliga ändamål.",
+    "detailedPosition": "Kommittémotionen 2024/25:1424 innehåller yrkanden om att främja internationellt samarbete inom normgivning och brottsbekämpning för att möta hot förknippade med AI, att motverka tillämpning av AI för brottsliga ändamål samt att stärka allmänhetens medvetande om AI och cyberresiliens. I motiveringen beskriver partiet riskerna med AI som gränsöverskridande och skriver att cyberresiliens handlar om förmågan att förebygga cyberattacker och hot. Motionen behandlar inte militär AI, autonoma vapensystem eller särskilda säkerhetskrav för kritisk infrastruktur.",
+    "evidenceStatus": "riksdagsaktivitet",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på en partinivåmotion som uttryckligen tar upp AI-relaterade hot, internationell normgivning, brottsbekämpning och cyberresiliens. Eftersom källan inte behandlar militär AI eller autonoma vapen klassas positionen som riksdagsaktivitet inom försvars-/cybersäkerhetsämnet snarare än som en detaljerad försvarspolitisk AI-doktrin.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-barn-unga",
+    "partyId": "sd",
+    "topicId": "barn-unga",
+    "summary": "Sverigedemokraterna vill ha tidiga utbildningsinsatser i skolan om AI och cybersäkerhet. I regleringen av automatiserat beslutsfattande lyfter partiet särskilt tjänster som används av oskyddade konsumenter, exempelvis barn.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 yrkar Sverigedemokraterna på tidiga utbildningsinsatser i skolan om AI och cybersäkerhet. Partiet skriver att elever bör få grundläggande förståelse för AI, språkmodeller, etik, samhällspåverkan, risker och möjligheter samt kunskap om cybersäkerhet, digitala plattformar och bedrägerier. I avsnittet om automatiserat beslutsfattande anger partiet att behovet av konsumentsäkerhet och trygghet gäller särskilt tjänster som oskyddade konsumenter, exempelvis barn, använder. Motionen innehåller däremot inga förslag om AI-kompisar, chattbottar riktade till barn, deepfake-övergrepp eller åldersverifiering.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på konkreta yrkanden i SD:s kommittémotion 2024/25:1424 om skolundervisning i AI/cybersäkerhet och om lagstiftning för automatiserat beslutsfattande. Barnkopplingen är tydlig men avgränsad till utbildning och konsumentskydd; flera av ämnets andra nyckelfrågor saknar belägg i källan.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "sd-jamlikhet",
+    "partyId": "sd",
+    "topicId": "jamlikhet",
+    "summary": "Sverigedemokraterna vill stärka allmänhetens medvetenhet om AI och cyberresiliens så att människor kan fatta informerade beslut och skydda digitala identiteter, privata data och nätverk. Någon särskild politik om algoritmisk diskriminering, funktionsrätt eller geografiska skillnader hittades inte i den granskade källan.",
+    "detailedPosition": "I kommittémotionen 2024/25:1424 yrkar Sverigedemokraterna på att stärka allmänhetens medvetande om AI och cyberresiliens. Motiveringen anger att människor behöver förstå hur AI fungerar, vilka möjligheter och utmaningar tekniken medför och hur digitala identiteter, privata data och nätverk skyddas mot skadlig kod, phishing och andra hot. Tolkning: detta berör digital delaktighet och grundläggande förmåga att använda tekniken säkert, men motionen innehåller inte en uttrycklig jämlikhetsanalys om algoritmisk diskriminering, tillgänglighet för personer med funktionsnedsättning eller stad-land-skillnader.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "motion"
+    ],
+    "confidenceExplanation": "Klassningen bygger på den öppnade kommittémotionens yrkande om allmänt AI- och cybersäkerhetsmedvetande. Det är ett relevant men indirekt belägg för jämlikhetsämnet eftersom källan inte uttryckligen behandlar algoritmisk diskriminering, tillgänglighet eller särskilt utsatta grupper.",
+    "sourceIds": [
+      "sd-mot-2024-1424"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-24"
   }
 ]

@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-23**. Detta dokument räknas som en del av
+Statusen är **2026-07-24**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 81 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 85 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -32,9 +32,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   KD/näringsliv, KD/integritet, KD/offentlig sektor, KD/vård,
   KD/demokrati och KD/försvar där inga egna partinivåpositioner
   hittades, samt SD/strategi, SD/utbildning, SD/offentlig sektor och
-  SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet utifrån
+  SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet samt
+  SD/integritet, SD/försvar, SD/barn-unga och SD/jämlikhet utifrån
   kommittémotion 2024/25:1424).
-- **Ej granskade:** 71. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 67. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -67,8 +68,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   "framtidens arbetsmarknad"); SD:s egen valplattform 2026 innehåller
   överhuvudtaget inga AI-relaterade skrivningar (verifierat genom
   fulltextsökning). Samma kommittémotion 2024/25:1424 har 2026-07-22
-  använts för granskade positioner om strategi, utbildning, offentlig sektor
-  reglering, näringsliv, demokrati och AI-suveränitet.
+  använts för granskade positioner om strategi, utbildning, offentlig sektor,
+  reglering, näringsliv, demokrati och AI-suveränitet, och 2026-07-24 för
+  integritet, försvar/cybersäkerhet, barn och unga samt jämlikhet/digital
+  delaktighet.
 - **L / arbetsmarknad:** motsvarande — indirekt berört via kompetens-
   försörjning, inget uttalat ställningstagande om AI:s effekter på jobb.
 
@@ -133,7 +136,10 @@ med sökvägar.
   utifrån AI-sidan samt kommittémotionerna 2025/26:3425 och 2025/26:3775.
   SD:s
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
-  fulltextsökning. Inget V-, M-, KD-, S- eller MP-valmanifest 2026 kunde
+  fulltextsökning. SD kompletterades 2026-07-24 för integritet,
+  försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet
+  utifrån samma kommittémotion 2024/25:1424. Inget V-, M-, KD-, S- eller
+  MP-valmanifest 2026 kunde
   verifieras via testade URL:er dessa körningar. Övriga ämnen återstår.
 
 ## Nästa steg för att stänga luckorna

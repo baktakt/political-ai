@@ -337,5 +337,23 @@
       "Källan innehåller konkreta att-satser om offentlig AI och utbildnings-/forskningssatsningar, men detaljer saknas om exempelvis tillsyn enligt AI-förordningen, mänsklig kontroll i automatiserade beslut och autonoma vapensystem."
     ],
     "notes": "Fortsatt breddning av Moderaternas AI-positioner utifrån stämmohandlingarna 2025. PDF:en öppnades, extraherades och fulltextsöktes på artificiell intelligens, AI, digitalisering, folkbibliotek, gästprofessur, offentlig sektor, reglering, GDPR, AI Act, cyber, försvar, klimat, energi och resurser. Fem nya positioner skrevs för redaktionell granskning."
+  },
+  {
+    "id": "granskning-sd-ai-integritet-forsvar-barn-jamlikhet-2026-07-24",
+    "partyId": "sd",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-24",
+    "topicsReviewed": [
+      "integritet",
+      "forsvar",
+      "barn-unga",
+      "jamlikhet"
+    ],
+    "unresolvedQuestions": [
+      "Granskningen bygger främst på SD:s kommittémotion 2024/25:1424, eftersom SD:s valplattform 2026 enligt tidigare fulltextsökning saknar AI-skrivningar.",
+      "Riksdagens öppna data gav flera SD-träffar under 2025/26, men de relevanta träffarna i denna kontroll var enskilda motioner och användes därför inte som partilinje.",
+      "Manifestobevakning av S, M, KD, MP och V:s startsidor gav inget nytt verifierat riksdagsvalmanifest 2026; startsidor är inte en fullständig garanti för frånvaro."
+    ],
+    "notes": "Fortsatt breddad granskning av Sverigedemokraternas kommittémotion 2024/25:1424 för fyra återstående ämnesluckor: integritet, försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet. Motionen öppnades i fulltext via Riksdagens öppna data. Sökningar gjordes även i Riksdagens öppna data för parti=SD med AI, artificiell intelligens, ansiktsigenkänning, cyber, autonoma vapensystem, upphovsrätt, datacenter, hållbar och algoritm. Nya 2025/26-träffar som var enskilda motioner behandlades inte som partinivåpositioner."
   }
 ]
