@@ -1018,5 +1018,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "m-valloften-2026",
+    "title": "Vallöften 2026",
+    "publisher": "Moderaterna (moderaterna.se)",
+    "author": null,
+    "publicationDate": null,
+    "url": "https://moderaterna.se/valloften-2026/",
+    "accessedAt": "2026-07-25",
+    "sourceType": "valmanifest",
+    "excerpt": "Sidan uppdateras kontinuerligt med vallöften fram till 13 september 2026.",
+    "supportExplanation": "Moderaternas officiella sida med vallöften inför riksdagsvalet 2026. Hela sidan öppnades och kontrollerades för AI, artificiell intelligens, algoritm, digitalisering, datacenter, språkmodell och automatisering. Inga sådana skrivningar finns i den åtkomliga versionen. Källan används som färskhetsunderlag, inte som ensamt belägg för en AI-ståndpunkt.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

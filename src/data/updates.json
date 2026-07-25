@@ -166,5 +166,12 @@
     "title": "Socialdemokraternas valplattform 2026 granskad för AI-frågor",
     "description": "Socialdemokraternas valplattform Plan för Sverige har lagts till som färskhetskälla och kontrollerats mot samtliga redan dokumenterade AI-ämnen. Dokumentet innehåller inga separata AI-skrivningar, så inga tidigare AI-positioner har ändrats.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-25-m-valloften-farskhet",
+    "date": "2026-07-25",
+    "title": "Moderaternas vallöften 2026 granskade för AI-frågor",
+    "description": "Moderaternas officiella sida med vallöften 2026 har lagts till som färskhetskälla och kontrollerats mot de redan dokumenterade AI-ämnena. Den åtkomliga versionen innehåller inga separata AI-skrivningar, så inga tidigare AI-positioner har ändrats.",
+    "type": "innehall"
   }
 ]

@@ -423,5 +423,18 @@
       "PDF:ens publiceringsdatum anges inte på källsidan eller i dokumentet och är därför registrerat som okänt."
     ],
     "notes": "Manifestofärskhetsgranskning av Socialdemokraterna efter att den officiella valsidan med valplattformen 'Plan för Sverige' verifierats. Den länkade PDF:en öppnades och hela dokumentet kontrollerades för AI, artificiell intelligens, algoritm, deepfake, digitalisering, datacenter, språkmodell och automatisering. Inga träffar hittades. Samtliga 19 redan dokumenterade ämnespositioner kontrollerades därför mot valplattformen utan att någon ändrad eller ny AI-ståndpunkt kunde beläggas."
+  },
+  {
+    "id": "granskning-m-valloften-farskhet-2026-07-25",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-25",
+    "topicsReviewed": ["strategi", "arbetsmarknad", "utbildning", "naringsliv", "offentlig-sektor", "vard-omsorg", "reglering", "forsvar", "hallbarhetsverktyg"],
+    "unresolvedQuestions": [
+      "Sidan med vallöften är en löpande publicering och inte en verifierad heltäckande valplattform; den kan därför inte ersätta de ämnesspecifika stämmohandlingarna från 2025.",
+      "Sidan saknar angivet publiceringsdatum och registreras därför med okänt publiceringsdatum.",
+      "De återstående M-ämnena utan positionspost behöver fortsatt separat granskning i partimaterial och Riksdagens öppna data."
+    ],
+    "notes": "Manifestofärskhetsgranskning av Moderaternas officiella sida 'Vallöften 2026'. Sidan öppnades och lästes i sin helhet; den kontrollerades för AI, artificiell intelligens, algoritm, digitalisering, datacenter, språkmodell och automatisering. Inga träffar hittades. De nio redan dokumenterade AI-ämnena kontrollerades därför utan att någon ny eller ändrad AI-ståndpunkt kunde beläggas."
   }
 ]
