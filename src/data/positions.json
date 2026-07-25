@@ -1615,5 +1615,44 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-24"
+  },
+  {
+    "id": "mp-vard-omsorg",
+    "partyId": "mp",
+    "topicId": "vard-omsorg",
+    "summary": "Miljöpartiet vill att AI används som stöd i vård och omsorg för bättre beslutsstöd och mer tid för möten, men att människor alltid har det yttersta ansvaret för att ärenden och insatser hanteras korrekt.",
+    "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att AI kan bidra till bättre vård, och att AI kan avlasta monotona uppgifter, förbättra beslutsstöd och ge snabbare service. Partiet anger att effektiviseringar ska komma människor till del, exempelvis genom mer tid för möten i vård och omsorg. Samma sida säger att tekniken ska vara ett stöd och inte ersätta människor i samhällsviktiga verksamheter, samt att människor alltid ska ha det yttersta ansvaret för att hantering av ärenden och insatser inom vård och omsorg utförs korrekt. Källan innehåller inte detaljerade förslag om klinisk validering, journaldata eller ansvarsfördelning mellan vårdgivare och AI-leverantörer.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": ["partiprogram"],
+    "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-25. Den uttrycker en partilinje om användning av AI i vård och omsorg samt mänskligt yttersta ansvar, men saknar detaljerade vårdpolitiska AI-förslag.",
+    "sourceIds": ["mp-webb-ai"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "mp-jamlikhet",
+    "partyId": "mp",
+    "topicId": "jamlikhet",
+    "summary": "Miljöpartiet vill att AI och digitalisering kommer alla människor till del och varnar för att utvecklingen kan öka ojämlikheten. Partiet kopplar detta till tillgängliga digitala tjänster, digital kompetens och uppkoppling i hela landet.",
+    "detailedPosition": "Miljöpartiets AI- och digitaliseringssida anger att den tekniska utvecklingen ska komma alla människor till del, men att AI och digitalisering samtidigt kan öka ojämlikheten. Partiet vill att digitaliseringen ska vara inkluderande, säker och hållbar, med offentliga tjänster som är tillgängliga och användarvänliga. Det vill också att alla hushåll och företag ska ha tillgång till säker, robust och effektiv uppkoppling, med statligt stöd där marknaden inte ger god uppkoppling, och lyfter ett brett kunskapslyft om AI. Källan behandlar inte algoritmisk diskriminering eller särskilda rättsmedel för personer som påverkas av automatiserade beslut.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": ["partiprogram"],
+    "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-25. Sidan har uttryckliga principer om jämlik tillgång, digital delaktighet och risk för ökad ojämlikhet, men inte detaljerade förslag om algoritmisk diskriminering.",
+    "sourceIds": ["mp-webb-ai"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "mp-hallbarhetsverktyg",
+    "partyId": "mp",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Miljöpartiet vill att AI och digitalisering används för att stärka klimatomställningen och beskriver AI som ett möjligt verktyg för snabbare omställning, under förutsättning att användningen sker ansvarsfullt.",
+    "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att AI och digitalisering ska stärka klimatomställningen i hela landet. I sidans frågor och svar beskrivs AI som en möjlighet att bidra till snabbare klimatomställning om tekniken används ansvarsfullt. Partiet anger samtidigt att AI:s miljö- och klimatkonsekvenser behöver förebyggas nationellt och internationellt. Tolkning: partiet behandlar AI både som ett möjligt verktyg i klimatomställningen och som en teknik vars egen klimatpåverkan behöver hanteras. Källan innehåller inte avgränsade AI-förslag för en viss klimatsektor eller ett särskilt genomförandeprogram.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": ["partiprogram"],
+    "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-25. Sidan kopplar uttryckligen AI till klimatomställningen men innehåller inga detaljerade styrmedel eller sektorsspecifika förslag.",
+    "sourceIds": ["mp-webb-ai"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
   }
 ]

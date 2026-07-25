@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-24**. Detta dokument räknas som en del av
+Statusen är **2026-07-25**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,14 +10,15 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 91 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 94 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
   granskning av valmanifest, AI-sida och riksdagsmotioner, samt L/strategi,
   L/utbildning, L/näringsliv och L/suveränitet efter granskning av
   valmanifest 2026, samt MP/strategi, MP/utbildning, MP/offentlig sektor,
-  MP/integritet och MP/miljöavtryck efter breddad granskning av partiets
+  MP/integritet, MP/miljöavtryck, MP/vård, MP/jämlikhet och
+  MP/hållbarhetsverktyg efter breddad granskning av partiets
   AI-material, samt MP/demokrati, MP/kultur-upphovsrätt, MP/reglering och
   MP/suveränitet efter fortsatt granskning av AI-sidan och motionerna
   2025/26:3425 och 2025/26:3775, samt V/strategi, V/offentlig sektor, V/vård, V/integritet,

@@ -145,5 +145,12 @@
     "title": "Sverigedemokraternas återstående AI-luckor granskade för vård, kultur och hållbarhet",
     "description": "Sverigedemokraternas valplattform, AI-motion och riksdagsmotioner har granskats för sex ytterligare AI-ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI i vård, kultur/upphovsrätt, miljöavtryck, hållbarhetsverktyg, byggd miljö eller rekyleffekter och lägger därför till uttryckliga luckposter för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-25-mp-ai-vard-jamlikhet-hallbarhet",
+    "date": "2026-07-25",
+    "title": "Miljöpartiets AI-politik kompletterad för vård, jämlikhet och klimatomställning",
+    "description": "Miljöpartiets officiella AI-sida har granskats vidare. Granskningen lägger till ståndpunkter om AI som stöd i vård och omsorg, inkluderande digitalisering samt AI som verktyg i klimatomställningen för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

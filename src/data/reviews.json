@@ -375,5 +375,17 @@
       "Kommittémotion 2025/26:4007 om privatkopieringsersättning öppnades som närliggande kultur-/upphovsrättskälla, men gav ingen dokumenterad AI-position."
     ],
     "notes": "Fokuserad luckgranskning av Sverigedemokraterna för sex återstående ämnen: vård och omsorg, kultur/upphovsrätt, AI:s miljöavtryck, AI som hållbarhetsverktyg, byggd miljö och rekyleffekter. SD:s valplattform 2026 och kommittémotion 2024/25:1424 kontrollerades på nytt. Riksdagens öppna data söktes för parti=SD och riksmöte 2025/26 med AI, artificiell intelligens, upphovsrätt, datacenter, hållbar, klimat, byggande, rekyleffekter, vård, omsorg, e-hälsa, patientdata, energi och resursanvändning. Inga dokumenterade partinivåpositioner hittades; sex luckposter skrevs med workflowStatus behover_redaktionell_granskning."
+  },
+  {
+    "id": "granskning-mp-ai-vard-jamlikhet-hallbarhet-2026-07-25",
+    "partyId": "mp",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-25",
+    "topicsReviewed": ["vard-omsorg", "jamlikhet", "hallbarhetsverktyg"],
+    "unresolvedQuestions": [
+      "Miljöpartiets valmanifest inför valet 2026-09-13 hittades inte i denna kontroll; de nya posterna behöver färskhetsgranskas mot ett kommande manifest.",
+      "AI-sidan innehåller en övergripande linje men inga detaljerade förslag om klinisk validering i vården, algoritmisk diskriminering eller sektorsspecifika klimatprogram."
+    ],
+    "notes": "Fokuserad luckgranskning av Miljöpartiet för vård och omsorg, jämlikhet/digital delaktighet och AI som hållbarhetsverktyg. Partiets officiella AI- och digitaliseringssida öppnades och lästes på nytt. Den dokumenterar AI som stöd i vård och omsorg med mänskligt yttersta ansvar, risk för ökad ojämlikhet och krav på inkluderande digitalisering, samt AI som möjligt verktyg i klimatomställningen. Tre nya positionsposter skrevs för redaktionell granskning."
   }
 ]
