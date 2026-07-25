@@ -381,11 +381,35 @@
     "partyId": "mp",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-25",
-    "topicsReviewed": ["vard-omsorg", "jamlikhet", "hallbarhetsverktyg"],
+    "topicsReviewed": [
+      "vard-omsorg",
+      "jamlikhet",
+      "hallbarhetsverktyg"
+    ],
     "unresolvedQuestions": [
       "Miljöpartiets valmanifest inför valet 2026-09-13 hittades inte i denna kontroll; de nya posterna behöver färskhetsgranskas mot ett kommande manifest.",
       "AI-sidan innehåller en övergripande linje men inga detaljerade förslag om klinisk validering i vården, algoritmisk diskriminering eller sektorsspecifika klimatprogram."
     ],
     "notes": "Fokuserad luckgranskning av Miljöpartiet för vård och omsorg, jämlikhet/digital delaktighet och AI som hållbarhetsverktyg. Partiets officiella AI- och digitaliseringssida öppnades och lästes på nytt. Den dokumenterar AI som stöd i vård och omsorg med mänskligt yttersta ansvar, risk för ökad ojämlikhet och krav på inkluderande digitalisering, samt AI som möjligt verktyg i klimatomställningen. Tre nya positionsposter skrevs för redaktionell granskning."
+  },
+  {
+    "id": "granskning-v-valplattform-och-ai-luckor-2026-07-25",
+    "partyId": "v",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-25",
+    "topicsReviewed": [
+      "reglering",
+      "demokrati",
+      "barn-unga",
+      "miljoavtryck",
+      "suveranitet",
+      "rekyleffekter"
+    ],
+    "unresolvedQuestions": [
+      "Vänsterpartiets valplattform 2026 är publicerad men innehåller inga separata AI-skrivningar; den kan därför inte i sig ersätta de äldre, ämnesspecifika motionerna och AI-sidan.",
+      "Granskningen hittade en tydlig regleringsposition om AI för ansiktsigenkänning i realtid, men ingen komplett partinivåmodell för svensk AI-tillsyn eller AI-förordningens genomförande.",
+      "Sökningen avser partiets nationella material och riksdagsmotioner under 2025/26; äldre eller lokala dokument med närliggande digitaliseringspolitik kan finnas utan att uttrycka en AI-position."
+    ],
+    "notes": "Manifestofärskhetsgranskning av Vänsterpartiet efter att valplattformen 2026 publicerats. Den officiella webbsidan och den länkade PDF:en öppnades; hela valplattformen kontrollerades för AI-relaterade skrivningar och hade inga separata träffar. Partiets AI-sida lästes på nytt. Riksdagens öppna data för parti=V och riksmöte 2025/26 kontrollerades med AI, artificiell intelligens, algoritm, deepfake, AI barn, AI datacenter, AI rekyleffekt, AI molntjänster och AI språkmodell. En ny regleringsposition dokumenterades utifrån öppnad kommittémotion 2025/26:3947; en generell demokratiposition och fyra uttryckliga luckposter skrevs för redaktionell granskning."
   }
 ]

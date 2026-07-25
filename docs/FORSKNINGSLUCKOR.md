@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 94 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 100 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -38,7 +38,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
   SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades).
-- **Ej granskade:** 61. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 52. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -88,6 +88,8 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 - **V / utbildning, näringsliv, hållbarhetsverktyg och byggd miljö:**
   granskades 2026-07-23 mot AI-sidan och Riksdagens öppna data utan att
   dokumenterade partinivåpositioner om dessa AI-ämnen hittades.
+- **V / barn och unga, miljöavtryck, suveränitet och rekyleffekter:** granskades 2026-07-25 mot valplattformen 2026, AI-sidan och Riksdagens öppna data utan att dokumenterade partinivåpositioner hittades. V:s valplattform 2026 innehåller inga separata AI-skrivningar.
+- **V / demokrati och reglering:** granskades 2026-07-25. AI-sidan behandlar demokratisk påverkan generellt; kommittémotion 2025/26:3947 innehåller konkreta förslag om rättssäkerhets- och integritetsskydd vid AI-ansiktsigenkänning i realtid, men inte en heltäckande AI-regleringsmodell.
 - **S:** inga dokumenterade ståndpunkter hittades specifikt om AI-kompisar/
   chattbottar för barn, datacenters vattenanvändning och rapporteringskrav,
   algoritmisk diskriminering som egen fråga, svenska språkmodeller/
@@ -141,7 +143,7 @@ med sökvägar.
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
   fulltextsökning. SD kompletterades 2026-07-24 för integritet,
   försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet
-  utifrån samma kommittémotion 2024/25:1424. Inget V-, M-, KD-, S- eller
+  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Inget M-, KD-, S- eller
   MP-valmanifest 2026 kunde
   verifieras via testade URL:er dessa körningar. Övriga ämnen återstår.
 

@@ -1623,9 +1623,13 @@
     "summary": "Miljöpartiet vill att AI används som stöd i vård och omsorg för bättre beslutsstöd och mer tid för möten, men att människor alltid har det yttersta ansvaret för att ärenden och insatser hanteras korrekt.",
     "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att AI kan bidra till bättre vård, och att AI kan avlasta monotona uppgifter, förbättra beslutsstöd och ge snabbare service. Partiet anger att effektiviseringar ska komma människor till del, exempelvis genom mer tid för möten i vård och omsorg. Samma sida säger att tekniken ska vara ett stöd och inte ersätta människor i samhällsviktiga verksamheter, samt att människor alltid ska ha det yttersta ansvaret för att hantering av ärenden och insatser inom vård och omsorg utförs korrekt. Källan innehåller inte detaljerade förslag om klinisk validering, journaldata eller ansvarsfördelning mellan vårdgivare och AI-leverantörer.",
     "evidenceStatus": "generell_dokumenterad",
-    "evidenceTypes": ["partiprogram"],
+    "evidenceTypes": [
+      "partiprogram"
+    ],
     "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-25. Den uttrycker en partilinje om användning av AI i vård och omsorg samt mänskligt yttersta ansvar, men saknar detaljerade vårdpolitiska AI-förslag.",
-    "sourceIds": ["mp-webb-ai"],
+    "sourceIds": [
+      "mp-webb-ai"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-25"
   },
@@ -1636,9 +1640,13 @@
     "summary": "Miljöpartiet vill att AI och digitalisering kommer alla människor till del och varnar för att utvecklingen kan öka ojämlikheten. Partiet kopplar detta till tillgängliga digitala tjänster, digital kompetens och uppkoppling i hela landet.",
     "detailedPosition": "Miljöpartiets AI- och digitaliseringssida anger att den tekniska utvecklingen ska komma alla människor till del, men att AI och digitalisering samtidigt kan öka ojämlikheten. Partiet vill att digitaliseringen ska vara inkluderande, säker och hållbar, med offentliga tjänster som är tillgängliga och användarvänliga. Det vill också att alla hushåll och företag ska ha tillgång till säker, robust och effektiv uppkoppling, med statligt stöd där marknaden inte ger god uppkoppling, och lyfter ett brett kunskapslyft om AI. Källan behandlar inte algoritmisk diskriminering eller särskilda rättsmedel för personer som påverkas av automatiserade beslut.",
     "evidenceStatus": "generell_dokumenterad",
-    "evidenceTypes": ["partiprogram"],
+    "evidenceTypes": [
+      "partiprogram"
+    ],
     "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-25. Sidan har uttryckliga principer om jämlik tillgång, digital delaktighet och risk för ökad ojämlikhet, men inte detaljerade förslag om algoritmisk diskriminering.",
-    "sourceIds": ["mp-webb-ai"],
+    "sourceIds": [
+      "mp-webb-ai"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-25"
   },
@@ -1649,9 +1657,100 @@
     "summary": "Miljöpartiet vill att AI och digitalisering används för att stärka klimatomställningen och beskriver AI som ett möjligt verktyg för snabbare omställning, under förutsättning att användningen sker ansvarsfullt.",
     "detailedPosition": "På Miljöpartiets AI- och digitaliseringssida skriver partiet att AI och digitalisering ska stärka klimatomställningen i hela landet. I sidans frågor och svar beskrivs AI som en möjlighet att bidra till snabbare klimatomställning om tekniken används ansvarsfullt. Partiet anger samtidigt att AI:s miljö- och klimatkonsekvenser behöver förebyggas nationellt och internationellt. Tolkning: partiet behandlar AI både som ett möjligt verktyg i klimatomställningen och som en teknik vars egen klimatpåverkan behöver hanteras. Källan innehåller inte avgränsade AI-förslag för en viss klimatsektor eller ett särskilt genomförandeprogram.",
     "evidenceStatus": "generell_dokumenterad",
-    "evidenceTypes": ["partiprogram"],
+    "evidenceTypes": [
+      "partiprogram"
+    ],
     "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, öppnad 2026-07-25. Sidan kopplar uttryckligen AI till klimatomställningen men innehåller inga detaljerade styrmedel eller sektorsspecifika förslag.",
-    "sourceIds": ["mp-webb-ai"],
+    "sourceIds": [
+      "mp-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "v-reglering",
+    "partyId": "v",
+    "topicId": "reglering",
+    "summary": "Vänsterpartiet beskriver EU:s AI-förordning som nödvändig reglering och vill ha särskilda rättssäkerhets- och integritetsskydd kring polisens användning av AI för ansiktsigenkänning i realtid. Partiet har föreslagit säkrare tillståndsprövning, starkare skydd för integritet, information och rättigheter samt tidsbegränsning och utvärdering av lagen.",
+    "detailedPosition": "I kommittémotionen 2025/26:3947 skriver Vänsterpartiet att AI-förordningen innebär en nödvändig reglering av AI inom EU. Motionen innehåller tre yrkanden: säkrare tillståndsprövning, stärkt skydd för integritet, information och rättigheter i lagen om AI-system för ansiktsigenkänning i realtid för brottsbekämpning samt tidsbegränsning och utvärdering av lagen. Yrkandena avslogs i riksdagsbehandlingen. Tolkning: den dokumenterade regleringslinjen är konkret för ansiktsigenkänning i realtid, men ger inte en fullständig svensk modell för tillsyn av AI-förordningen eller regler för alla AI-system.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "motion",
+      "regelgivning"
+    ],
+    "confidenceExplanation": "Klassningen bygger på öppnad fulltext av kommittémotion 2025/26:3947, en partinivåmotion med tre konkreta yrkanden om reglering av AI-system för ansiktsigenkänning i realtid. Källan är avgränsad till brottsbekämpning och kan inte ensam belägga Vänsterpartiets syn på alla delar av AI-regleringen.",
+    "sourceIds": [
+      "v-mot-2026-3947"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "v-demokrati",
+    "partyId": "v",
+    "topicId": "demokrati",
+    "summary": "Vänsterpartiet beskriver AI som en risk för bland annat minskad tillit och påverkan på demokratins funktionssätt. Partiet vill att AI-användning, särskilt i offentlig verksamhet, föregås av noggranna konsekvensanalyser.",
+    "detailedPosition": "På Vänsterpartiets officiella AI-sida anges att AI kan innebära bristande transparens och fientlig användning samt leda till diskriminering, minskad tillit och påverkan på demokratins funktionssätt. Sidan anger att riskerna måste adresseras och att all AI-användning, särskilt inom offentlig verksamhet, ska föregås av noggranna konsekvensanalyser. Tolkning: detta är en generell hållning om demokratiska risker och förhandsbedömning, inte ett särskilt förslag om deepfakes i valrörelser, märkning av AI-genererat kampanjmaterial eller plattformsansvar.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida, öppnad på nytt 2026-07-25. Den nämner uttryckligen demokratins funktionssätt, tillit, transparens och konsekvensanalyser men saknar avgränsade förslag för val, kampanjer eller syntetiskt innehåll.",
+    "sourceIds": [
+      "v-webb-ai"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "v-barn-unga",
+    "partyId": "v",
+    "topicId": "barn-unga",
+    "summary": "Ingen dokumenterad V-position om AI och barn eller unga hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets valplattform 2026, partiets officiella AI-sida och Riksdagens öppna data för V-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, AI barn och deepfake. Öppnade och relevanta träffar rörde andra sakområden eller saknade AI-koppling till barn och unga. Ingen partinivåposition om AI-kompisar, barns data, åldersverifiering eller AI-genererade övergrepp hittades. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI barn och deepfake. Ingen dokumenterad partinivåposition om AI och barn eller unga hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "v-miljoavtryck",
+    "partyId": "v",
+    "topicId": "miljoavtryck",
+    "summary": "Ingen dokumenterad V-position om AI:s miljöavtryck hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets valplattform 2026, partiets officiella AI-sida och Riksdagens öppna data för V-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, AI datacenter, klimat och energi. Ingen partinivåposition om AI:s el- eller vattenanvändning, datacenter, hårdvarans livscykel eller miljörapportering hittades. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI datacenter, klimat och energi. Ingen dokumenterad partinivåposition om AI:s miljöavtryck hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "v-suveranitet",
+    "partyId": "v",
+    "topicId": "suveranitet",
+    "summary": "Ingen dokumenterad V-position om AI-suveränitet och AI-infrastruktur hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets valplattform 2026, partiets officiella AI-sida och Riksdagens öppna data för V-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, AI molntjänster, AI språkmodell och digital infrastruktur. Ingen partinivåposition om AI-specifika molntjänster, beräkningskraft, språkmodeller, superdatorer eller beroende av utländska AI-leverantörer hittades. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI molntjänster, AI språkmodell och digital infrastruktur. Ingen dokumenterad partinivåposition om AI-suveränitet hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "v-rekyleffekter",
+    "partyId": "v",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen dokumenterad V-position om AI-relaterade rekyleffekter eller total resursanvändning hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Vänsterpartiets valplattform 2026, partiets officiella AI-sida och Riksdagens öppna data för V-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, AI rekyleffekt, resursanvändning och energi. Ingen partinivåposition hittades som kopplar AI-effektivisering till ökad total beräkning, konsumtion eller annan rekyleffekt. Frånvaron ska inte tolkas som att partiet är emot styrmedel på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI rekyleffekt, resursanvändning och energi. Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter hittades.",
+    "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-25"
   }
