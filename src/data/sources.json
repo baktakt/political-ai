@@ -1003,5 +1003,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "s-valplattform-2026",
+    "title": "Plan för Sverige",
+    "publisher": "Socialdemokraterna (socialdemokraterna.se)",
+    "author": null,
+    "publicationDate": null,
+    "url": "https://www.socialdemokraterna.se/download/18.68544bb219c4794c4a4684c/1771599906618/Valplattform.pdf",
+    "accessedAt": "2026-07-25",
+    "sourceType": "valmanifest",
+    "excerpt": null,
+    "supportExplanation": "Socialdemokraternas officiella valplattform inför riksdagsvalet 2026. Hela PDF:en öppnades och kontrollerades för AI-relaterade skrivningar; den innehåller ingen separat skrivning om AI, artificiell intelligens, algoritmer, deepfakes, datacenter eller språkmodeller. Källan används därför som färskhetsunderlag, inte som ensamt belägg för en AI-ståndpunkt.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

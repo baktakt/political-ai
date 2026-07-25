@@ -159,5 +159,12 @@
     "title": "Vänsterpartiets valplattform 2026 och AI-frågor granskade",
     "description": "Vänsterpartiets valplattform 2026 har lagts till som färskhetskälla och kontrollerats för AI-skrivningar. Granskningen dokumenterar en position om AI-reglering och en generell position om demokratiska AI-risker samt fyra tydliga luckposter för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-25-s-valplattform-farskhet",
+    "date": "2026-07-25",
+    "title": "Socialdemokraternas valplattform 2026 granskad för AI-frågor",
+    "description": "Socialdemokraternas valplattform Plan för Sverige har lagts till som färskhetskälla och kontrollerats mot samtliga redan dokumenterade AI-ämnen. Dokumentet innehåller inga separata AI-skrivningar, så inga tidigare AI-positioner har ändrats.",
+    "type": "innehall"
   }
 ]

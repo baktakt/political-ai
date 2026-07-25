@@ -411,5 +411,17 @@
       "Sökningen avser partiets nationella material och riksdagsmotioner under 2025/26; äldre eller lokala dokument med närliggande digitaliseringspolitik kan finnas utan att uttrycka en AI-position."
     ],
     "notes": "Manifestofärskhetsgranskning av Vänsterpartiet efter att valplattformen 2026 publicerats. Den officiella webbsidan och den länkade PDF:en öppnades; hela valplattformen kontrollerades för AI-relaterade skrivningar och hade inga separata träffar. Partiets AI-sida lästes på nytt. Riksdagens öppna data för parti=V och riksmöte 2025/26 kontrollerades med AI, artificiell intelligens, algoritm, deepfake, AI barn, AI datacenter, AI rekyleffekt, AI molntjänster och AI språkmodell. En ny regleringsposition dokumenterades utifrån öppnad kommittémotion 2025/26:3947; en generell demokratiposition och fyra uttryckliga luckposter skrevs för redaktionell granskning."
+  },
+  {
+    "id": "granskning-s-valplattform-farskhet-2026-07-25",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-25",
+    "topicsReviewed": ["strategi", "arbetsmarknad", "utbildning", "naringsliv", "offentlig-sektor", "vard-omsorg", "integritet", "demokrati", "forsvar", "kultur-upphovsratt", "reglering", "suveranitet", "jamlikhet", "barn-unga", "miljoavtryck", "hallbarhetsverktyg", "rekyleffekter", "social-hallbarhet", "byggd-miljo"],
+    "unresolvedQuestions": [
+      "Valplattformen innehåller inga separata AI-skrivningar och ersätter därför inte de tidigare ämnesspecifika partiprogrammen, riktlinjerna och motionerna som bär S:s befintliga AI-positioner.",
+      "PDF:ens publiceringsdatum anges inte på källsidan eller i dokumentet och är därför registrerat som okänt."
+    ],
+    "notes": "Manifestofärskhetsgranskning av Socialdemokraterna efter att den officiella valsidan med valplattformen 'Plan för Sverige' verifierats. Den länkade PDF:en öppnades och hela dokumentet kontrollerades för AI, artificiell intelligens, algoritm, deepfake, digitalisering, datacenter, språkmodell och automatisering. Inga träffar hittades. Samtliga 19 redan dokumenterade ämnespositioner kontrollerades därför mot valplattformen utan att någon ändrad eller ny AI-ståndpunkt kunde beläggas."
   }
 ]
