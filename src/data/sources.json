@@ -1033,5 +1033,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "m-webb-krankande-ai-bilder-2026",
+    "title": "Vi vill göra kränkande AI-bilder olagliga",
+    "publisher": "Moderaterna (moderaterna.se)",
+    "author": null,
+    "publicationDate": "2026-06-29",
+    "url": "https://moderaterna.se/nyhet/vi-vill-gora-krankande-ai-bilder-olagliga/",
+    "accessedAt": "2026-07-26",
+    "sourceType": "partiwebb",
+    "excerpt": "Vi föreslår att både den som skapar och den som sprider kränkande deepfakes ska kunna dömas i de allvarligaste fallen.",
+    "supportExplanation": "Moderaternas egen nyhetstext presenterar två förslag: kriminalisering av att skapa och sprida kränkande deepfakes i de allvarligaste fallen samt en utredning om rätt till personliga kännetecken som ansikte och röst.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

@@ -173,5 +173,12 @@
     "title": "Moderaternas vallöften 2026 granskade för AI-frågor",
     "description": "Moderaternas officiella sida med vallöften 2026 har lagts till som färskhetskälla och kontrollerats mot de redan dokumenterade AI-ämnena. Den åtkomliga versionen innehåller inga separata AI-skrivningar, så inga tidigare AI-positioner har ändrats.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-26-m-deepfakes",
+    "date": "2026-07-26",
+    "title": "Moderaternas förslag om kränkande AI-genererade förfalskningar granskat",
+    "description": "Moderaternas nationella webbplats har granskats för en ny AI-relaterad lagstiftningsposition. Granskningen dokumenterar förslag om kriminalisering av kränkande deepfakes och utredning om rätt till ansikte och röst, för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

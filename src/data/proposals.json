@@ -584,5 +584,21 @@
       "v-mot-2025-2370"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "m-forslag-krankande-deepfakes-2026",
+    "partyId": "m",
+    "topicIds": [
+      "demokrati"
+    ],
+    "title": "Kriminalisering av kränkande deepfakes och utredning om rätt till ansikte och röst",
+    "description": "Moderaterna föreslår att skapande och spridning av kränkande deepfakes ska kunna leda till straffansvar i de allvarligaste fallen. Partiet vill också utreda en särskild rätt till ansikte och röst för skydd mot AI-genererade förfalskningar.",
+    "date": "2026-06-29",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "m-webb-krankande-ai-bilder-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

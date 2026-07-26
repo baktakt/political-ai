@@ -830,6 +830,23 @@
     "lastUpdatedAt": "2026-07-21"
   },
   {
+    "id": "m-demokrati",
+    "partyId": "m",
+    "topicId": "demokrati",
+    "summary": "Moderaterna vill kriminalisera att skapa och sprida kränkande deepfakes i de allvarligaste fallen. Partiet vill också utreda en särskild rätt till ansikte och röst för att stärka skyddet mot AI-genererade förfalskningar.",
+    "detailedPosition": "I en nyhet på Moderaternas webbplats den 29 juni 2026 föreslår partiet att den som skapar eller sprider kränkande deepfakes ska kunna dömas i de allvarligaste fallen. Exemplen omfattar AI-genererade sexvideoer utan samtycke och manipulerade filmer för utpressning, förföljelse, trakasserier eller skada på någons rykte. Partiet vill även utreda en rätt till personliga kännetecken, som ansikte och röst, med syftet att ge den enskilde större kontroll över användningen av identiteten på nätet och underlätta borttagning av manipulerat material. Källan anger inte någon särskild reglering av AI-genererat innehåll i valrörelser eller plattformars ansvar.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "regelgivning"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas egen, öppnade nyhetstext från 29 juni 2026. Texten formulerar två konkreta lagstiftningsinriktade förslag om kränkande AI-genererade förfalskningar. Förslagen är partiets webbkommunikation och inte en riksdagsmotion eller ett regeringsbeslut.",
+    "sourceIds": [
+      "m-webb-krankande-ai-bilder-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-26"
+  },
+  {
     "id": "m-naringsliv",
     "partyId": "m",
     "topicId": "naringsliv",

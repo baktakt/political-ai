@@ -436,5 +436,17 @@
       "De återstående M-ämnena utan positionspost behöver fortsatt separat granskning i partimaterial och Riksdagens öppna data."
     ],
     "notes": "Manifestofärskhetsgranskning av Moderaternas officiella sida 'Vallöften 2026'. Sidan öppnades och lästes i sin helhet; den kontrollerades för AI, artificiell intelligens, algoritm, digitalisering, datacenter, språkmodell och automatisering. Inga träffar hittades. De nio redan dokumenterade AI-ämnena kontrollerades därför utan att någon ny eller ändrad AI-ståndpunkt kunde beläggas."
+  },
+  {
+    "id": "granskning-m-deepfakes-2026-07-26",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-26",
+    "topicsReviewed": ["demokrati"],
+    "unresolvedQuestions": [
+      "Källan är Moderaternas egen nyhetstext och anger konkreta lagstiftningsinriktade förslag, men den är inte en riksdagsmotion eller ett regeringsbeslut. Fortsatt granskning behövs om förslagen läggs i riksdagen eller preciseras i ett valmanifest.",
+      "Texten gäller kränkande deepfakes generellt och innehåller inte en särskild position om AI-genererat kampanjmaterial, valpåverkan eller plattformars ansvar."
+    ],
+    "notes": "Fokuserad färskhetsgranskning av Moderaternas nationella webbmaterial efter kontroll av partiets sitemap och den öppnade nyheten 'Vi vill göra kränkande AI-bilder olagliga'. Sidans publiceringsdatum verifierades i sidans metadata som 2026-06-29. Texten dokumenterar förslag om kriminalisering av skapande och spridning av kränkande deepfakes i de allvarligaste fallen och om utredning av rätt till ansikte och röst. En positionspost och en förslagspost skrevs med workflowStatus behover_redaktionell_granskning."
   }
 ]
