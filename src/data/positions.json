@@ -1770,5 +1770,44 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-25"
+  },
+  {
+    "id": "c-vard-omsorg",
+    "partyId": "c",
+    "topicId": "vard-omsorg",
+    "summary": "Centerpartiet vill investera i AI i välfärden, bland annat för att hjälpa läkare att ställa snabbare diagnoser.",
+    "detailedPosition": "Centerpartiets officiella AI-sida anger att partiet vill använda AI för en smartare och effektivare välfärd och investera i AI för att hjälpa läkare att ställa snabbare diagnoser. Sidan ger även vård som exempel på ett område där AI kan göra vardagen bättre. Källan anger inte hur systemen ska prövas, upphandlas eller användas med patientdata.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Klassningen bygger på Centerpartiets officiella AI-sida, öppnad 2026-07-26. Sidan uttrycker en egen AI-inriktning för vården och snabbare diagnoser, men anger inte ett avgränsat lag- eller budgetförslag för vårdområdet.",
+    "sourceIds": ["c-webb-ai"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-26"
+  },
+  {
+    "id": "c-reglering",
+    "partyId": "c",
+    "topicId": "reglering",
+    "summary": "Centerpartiet vill se över hur GDPR har genomförts i svensk lag för att främja AI-utveckling. Partiet vill samtidigt att AI-utveckling ska ske med respekt för individens frihet, rättssäkerhet och integritet.",
+    "detailedPosition": "I kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar Centerpartiet på en översyn av GDPR-implementeringen i svensk lag i syfte att främja AI-utvecklingen. Motionen beskriver datatillgång som central för AI och menar att dataskyddsförordningen ibland hindrar datadelning och företags möjlighet att använda AI. Partiets officiella AI-sida anger samtidigt att etik och integritet ska komma först och att utvecklingen ska ske med respekt för individens frihet och rättssäkerhet. Tolkning: källorna dokumenterar både ett konkret reformyrkande om dataskyddsreglernas tillämpning och en generell integritetsprincip, men inte en fullständig position om tillsyn eller EU:s AI-förordning.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion", "regelgivning"],
+    "confidenceExplanation": "Kommittémotion 2025/26:2832 är en partinivåmotion med ett uttryckligt yrkande om översyn av GDPR-implementeringen för AI-utveckling. Den officiella AI-sidan, öppnad på nytt 2026-07-26, kompletterar med principer om etik, integritet och rättssäkerhet.",
+    "sourceIds": ["c-mot-2025-2832", "c-webb-ai"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-26"
+  },
+  {
+    "id": "c-forsvar",
+    "partyId": "c",
+    "topicId": "forsvar",
+    "summary": "Ingen dokumenterad C-position om AI i försvar eller cybersäkerhet hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Centerpartiets officiella sidor om AI och cybersäkerhet samt Riksdagens öppna data för C-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, deepfake, datacenter och ansiktsigenkänning. Partiets cybersäkerhetssida innehåller förslag om digitalt försvar, kritisk infrastruktur, cybervärn och etiska hackare, men ingen uttrycklig AI-koppling. De öppnade partinivåmotionerna om AI berörde andra ämnen. Ingen dokumenterad partinivåposition om militär AI, autonoma vapensystem eller AI-specifikt cyberförsvar hittades. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Centerpartiets officiella AI- och cybersäkerhetssidor samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, deepfake, datacenter och ansiktsigenkänning. Relevanta partinivåmotioner öppnades; ingen uttrycklig ståndpunkt om AI i försvar eller cybersäkerhet hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-26"
   }
 ]

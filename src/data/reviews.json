@@ -438,6 +438,19 @@
     "notes": "Manifestofärskhetsgranskning av Moderaternas officiella sida 'Vallöften 2026'. Sidan öppnades och lästes i sin helhet; den kontrollerades för AI, artificiell intelligens, algoritm, digitalisering, datacenter, språkmodell och automatisering. Inga träffar hittades. De nio redan dokumenterade AI-ämnena kontrollerades därför utan att någon ny eller ändrad AI-ståndpunkt kunde beläggas."
   },
   {
+    "id": "granskning-c-vard-reglering-forsvar-2026-07-26",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-26",
+    "topicsReviewed": ["vard-omsorg", "reglering", "forsvar"],
+    "unresolvedQuestions": [
+      "Centerpartiets AI-sida innehåller en vårdinriktning om snabbare diagnoser, men inte detaljer om patientdata, ansvar, upphandling eller klinisk validering.",
+      "GDPR-yrkandet i kommittémotion 2025/26:2832 anger en översyn för att främja AI-utveckling, men preciserar inte en komplett modell för AI-tillsyn eller genomförandet av EU:s AI-förordning.",
+      "Centerpartiets cybersäkerhetssida innehåller digitala försvarsförslag utan uttrycklig AI-koppling; den används därför inte som belägg för en AI-position i försvarsämnet."
+    ],
+    "notes": "Fokuserad komplettering av Centerpartiets AI-profil. Den officiella AI-sidan och cybersäkerhetssidan öppnades. Riksdagens öppna data för parti=C, riksmöte 2025/26 söktes med AI, artificiell intelligens, deepfake, datacenter och ansiktsigenkänning; relevanta kommitté- och partimotioner öppnades i fulltext. Tre ämnesposter skrevs för redaktionell granskning: vård och omsorg, reglering samt en uttrycklig luckpost för försvar/cybersäkerhet."
+  },
+  {
     "id": "granskning-m-deepfakes-2026-07-26",
     "partyId": "m",
     "reviewer": "Hermes Agent (AI-assisterad research)",

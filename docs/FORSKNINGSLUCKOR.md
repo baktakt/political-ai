@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 101 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 104 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -37,8 +37,8 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   SD/integritet, SD/försvar, SD/barn-unga och SD/jämlikhet utifrån
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
-  SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades).
-- **Ej granskade:** 51. Dessa visas som "Ännu ej granskat" på webbplatsen,
+  SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar där ingen dokumenterad partinivåposition hittades).
+- **Ej granskade:** 48. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -60,6 +60,14 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   kommittémotion om digitaliserad planering; AI-positionen är begränsad till
   möjlig effektivisering och behov av utvärderade regeländringar, inte
   byggproduktion eller materialoptimering.
+- **C / vård och omsorg:** AI-sidan nämner snabbare diagnoser, men inte
+  patientdata, upphandling, ansvar eller klinisk validering.
+- **C / reglering:** kommittémotionen om digitalisering innehåller ett
+  GDPR-yrkande för att främja AI-utveckling, men ingen heltäckande modell för
+  AI-tillsyn eller AI-förordningens genomförande.
+- **C / försvar:** ingen dokumenterad partinivåposition om militär AI,
+  autonoma vapensystem eller AI-specifikt cyberförsvar hittades. Partiets
+  cybersäkerhetssida har digitala försvarsförslag utan uttrycklig AI-koppling.
 - **KD / arbetsmarknad:** ingen egen partiposition hittades; endast
   regeringens gemensamma AI-strategi (där KD:s civilminister är ansvarigt
   statsråd) är dokumenterad.
