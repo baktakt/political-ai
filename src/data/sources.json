@@ -1048,5 +1048,35 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "mp-mot-2025-3407",
+    "title": "Motion 2025/26:3407 Exportkontroll, försvarsindustrins förutsättningar och reglering av autonoma vapen (kommittémotion, Emma Berginger m.fl., MP)",
+    "publisher": "Sveriges riksdag",
+    "author": "Emma Berginger m.fl. (MP)",
+    "publicationDate": "2025-10-06",
+    "url": "https://data.riksdagen.se/dokument/HD023407",
+    "accessedAt": "2026-07-26",
+    "sourceType": "motion",
+    "excerpt": "Riksdagen ställer sig bakom det som anförs i motionen om striktare regleringar av artificiell intelligens i vapensystem.",
+    "supportExplanation": "Kommittémotion på partinivå. MP yrkar på striktare reglering av AI i vapensystem, internationellt förbud mot helautonoma vapen och ökad forskning om skydd mot autonoma vapensystem. Yrkandena avslogs enligt Riksdagens dokumentstatus.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "mp-mot-2025-3282",
+    "title": "Motion 2025/26:3282 Ett grönt och konkurrenskraftigt näringsliv under omställning (kommittémotion, Katarina Luhr m.fl., MP)",
+    "publisher": "Sveriges riksdag",
+    "author": "Katarina Luhr m.fl. (MP)",
+    "publicationDate": "2025-10-06",
+    "url": "https://data.riksdagen.se/dokument/HD023282",
+    "accessedAt": "2026-07-26",
+    "sourceType": "motion",
+    "excerpt": "Klimatomställning, automatisering, den fortsatta digitaliseringen och utvecklingen av artificiell intelligens är utmaningar som staten måste hjälpa såväl företag som arbetstagare genom.",
+    "supportExplanation": "Kommittémotion på partinivå om näringslivets omställning. Den kopplar AI och automatisering till en rättvis omställning för företag och arbetstagare och yrkar på stöd till digitalisering samt grön och social omställning för småföretag. Yrkandena avslogs enligt Riksdagens dokumentstatus.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

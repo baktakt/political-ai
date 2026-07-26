@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 104 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 107 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -21,7 +21,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   MP/hållbarhetsverktyg efter breddad granskning av partiets
   AI-material, samt MP/demokrati, MP/kultur-upphovsrätt, MP/reglering och
   MP/suveränitet efter fortsatt granskning av AI-sidan och motionerna
-  2025/26:3425 och 2025/26:3775, samt V/strategi, V/offentlig sektor, V/vård, V/integritet,
+  2025/26:3425 och 2025/26:3775, samt MP/försvar, MP/näringsliv och
+  MP/social hållbarhet efter granskning av kommittémotionerna 2025/26:3407
+  och 2025/26:3282, samt V/strategi, V/offentlig sektor, V/vård, V/integritet,
   V/försvar, V/kultur-upphovsrätt, V/jämlikhet och V/social hållbarhet
   efter breddad granskning av partiets AI-sida och riksdagsmotioner, samt
   V/utbildning, V/näringsliv, V/hållbarhetsverktyg och V/byggd miljö där
@@ -38,7 +40,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
   SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar där ingen dokumenterad partinivåposition hittades).
-- **Ej granskade:** 48. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 45. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 

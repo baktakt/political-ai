@@ -1809,5 +1809,44 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-26"
+  },
+  {
+    "id": "mp-forsvar",
+    "partyId": "mp",
+    "topicId": "forsvar",
+    "summary": "Miljöpartiet vill ha striktare reglering av AI i vapensystem, verka för ett internationellt förbud mot helautonoma vapen och öka forskningen om skydd mot autonoma vapensystem.",
+    "detailedPosition": "I kommittémotionen Exportkontroll, försvarsindustrins förutsättningar och reglering av autonoma vapen (2025/26:3407) yrkar Miljöpartiet på striktare reglering av artificiell intelligens i vapensystem, ett internationellt förbud mot helautonoma vapen och ökad forskning om skydd mot autonoma vapensystem. Motionen anger också att säkerhetsläget motiverar utbyggnad av det svenska försvaret, men behandlar inte AI:s användning i cyberförsvar eller särskilda säkerhetskrav för civil kritisk infrastruktur.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion", "regelgivning"],
+    "confidenceExplanation": "Klassningen bygger på den öppnade kommittémotionen 2025/26:3407. Motionen är på partinivå och innehåller tre uttryckliga yrkanden om AI i vapensystem och autonoma vapen. Den täcker inte hela försvars- och cybersäkerhetsämnet.",
+    "sourceIds": ["mp-mot-2025-3407"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-26"
+  },
+  {
+    "id": "mp-naringsliv",
+    "partyId": "mp",
+    "topicId": "naringsliv",
+    "summary": "Miljöpartiet beskriver AI och automatisering som en omställningsfråga för både företag och arbetstagare. Partiet vill att staten ska stödja digitalisering samt grön och social omställning för småföretag och att företag ska få bättre AI-kompetens.",
+    "detailedPosition": "I kommittémotionen Ett grönt och konkurrenskraftigt näringsliv under omställning (2025/26:3282) skriver Miljöpartiet att staten måste hjälpa företag och arbetstagare genom klimat- och AI-relaterad omställning och att omställningen ska vara rättvis och solidarisk. Motionen yrkar på stöd till digitalisering och grön och social omställning för småföretag. På partiets AI-sida anges att företag behöver bättre kompetens för att använda AI ansvarsfullt. Källorna innehåller inte ett särskilt förslag om AI-startups, beräkningskraft, riskkapital för AI eller regulatoriska sandlådor.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion"],
+    "confidenceExplanation": "Kommittémotion 2025/26:3282 är en öppnad partinivåkälla med ett konkret yrkande om digitalisering och grön och social omställning för småföretag samt en uttrycklig koppling mellan AI, företag och arbetstagare. Partiets AI-sida kompletterar med kompetensbehov hos företag.",
+    "sourceIds": ["mp-mot-2025-3282", "mp-webb-ai"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-26"
+  },
+  {
+    "id": "mp-social-hallbarhet",
+    "partyId": "mp",
+    "topicId": "social-hallbarhet",
+    "summary": "Miljöpartiet vill att AI-relaterad omställning ska vara rättvis och att effektiviseringar ska komma människor till del, exempelvis genom mer tid i välfärden eller kortare arbetstid. Partiet vill också stödja småföretags digitala, gröna och sociala omställning.",
+    "detailedPosition": "I kommittémotionen Ett grönt och konkurrenskraftigt näringsliv under omställning (2025/26:3282) skriver Miljöpartiet att staten måste hjälpa företag och arbetstagare genom bland annat AI-utveckling och att omställningen ska vara rättvis och solidarisk. Motionen yrkar på stöd till digitalisering och grön och social omställning för småföretag. På partiets AI-sida står att AI kan avlasta monotona uppgifter och att effektiviseringar ska komma människor till del, till exempel genom mer tid för möten i vård, omsorg och skola eller genom förkortad arbetstid. Källorna preciserar inte hur produktivitetsvinster ska fördelas mellan olika grupper eller hur regionala skillnader ska hanteras.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion", "partiprogram"],
+    "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion med ett konkret yrkande om digitalisering och grön och social omställning för småföretag samt på den officiella AI-sidans uttryckliga princip om att AI-effektiviseringar ska komma människor till del. Detaljer om finansiering och regional genomförande saknas.",
+    "sourceIds": ["mp-mot-2025-3282", "mp-webb-ai"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-26"
   }
 ]

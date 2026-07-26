@@ -701,5 +701,31 @@
       "v-mot-2025-2370"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "mp-akt-mot-2526-3407",
+    "partyId": "mp",
+    "actionType": "motion",
+    "title": "Exportkontroll, försvarsindustrins förutsättningar och reglering av autonoma vapen (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3407",
+    "result": "Yrkandena avslagna (bet. 2025/26:UU9, 2025/26:UU6 och 2025/26:FöU10)",
+    "partyLevel": true,
+    "topicIds": ["forsvar"],
+    "sourceIds": ["mp-mot-2025-3407"],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "mp-akt-mot-2526-3282",
+    "partyId": "mp",
+    "actionType": "motion",
+    "title": "Ett grönt och konkurrenskraftigt näringsliv under omställning (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3282",
+    "result": "Yrkandena avslagna (bl.a. bet. 2025/26:NU14 och 2025/26:TU8)",
+    "partyLevel": true,
+    "topicIds": ["naringsliv", "social-hallbarhet"],
+    "sourceIds": ["mp-mot-2025-3282"],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

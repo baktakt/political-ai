@@ -187,5 +187,12 @@
     "title": "Moderaternas förslag om kränkande AI-genererade förfalskningar granskat",
     "description": "Moderaternas nationella webbplats har granskats för en ny AI-relaterad lagstiftningsposition. Granskningen dokumenterar förslag om kriminalisering av kränkande deepfakes och utredning om rätt till ansikte och röst, för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-26-mp-forsvar-naringsliv-social",
+    "date": "2026-07-26",
+    "title": "Miljöpartiets AI-material granskat för försvar, näringsliv och social hållbarhet",
+    "description": "Miljöpartiets partinivåmotioner och officiella AI-sida har granskats vidare. Granskningen lägger till ståndpunkter om reglering av AI i vapensystem, AI-relaterad omställning för företag och arbetstagare samt hur AI-effektiviseringar ska komma människor till del, för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

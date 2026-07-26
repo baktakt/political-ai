@@ -600,5 +600,29 @@
       "m-webb-krankande-ai-bilder-2026"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "mp-forslag-reglera-ai-vapen-2025",
+    "partyId": "mp",
+    "topicIds": ["forsvar"],
+    "title": "Striktare reglering av AI i vapensystem och förbud mot helautonoma vapen",
+    "description": "Kommittémotion 2025/26:3407 yrkar på striktare reglering av AI i vapensystem, att Sverige verkar för ett internationellt förbud mot helautonoma vapen samt ökad forskning om skydd mot autonoma vapensystem.",
+    "date": "2025-10-06",
+    "status": "avslaget",
+    "implementationStatus": null,
+    "sourceIds": ["mp-mot-2025-3407"],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "mp-forslag-digital-social-omstallning-smabolag-2025",
+    "partyId": "mp",
+    "topicIds": ["naringsliv", "social-hallbarhet"],
+    "title": "Stöd till digitalisering samt grön och social omställning för småföretag",
+    "description": "Kommittémotion 2025/26:3282 yrkar på stöd till digitalisering och en grön och social omställning för småföretag. Motionen behandlar AI och automatisering som en omställningsfråga för företag och arbetstagare.",
+    "date": "2025-10-06",
+    "status": "avslaget",
+    "implementationStatus": null,
+    "sourceIds": ["mp-mot-2025-3282"],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

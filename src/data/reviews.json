@@ -461,5 +461,18 @@
       "Texten gäller kränkande deepfakes generellt och innehåller inte en särskild position om AI-genererat kampanjmaterial, valpåverkan eller plattformars ansvar."
     ],
     "notes": "Fokuserad färskhetsgranskning av Moderaternas nationella webbmaterial efter kontroll av partiets sitemap och den öppnade nyheten 'Vi vill göra kränkande AI-bilder olagliga'. Sidans publiceringsdatum verifierades i sidans metadata som 2026-06-29. Texten dokumenterar förslag om kriminalisering av skapande och spridning av kränkande deepfakes i de allvarligaste fallen och om utredning av rätt till ansikte och röst. En positionspost och en förslagspost skrevs med workflowStatus behover_redaktionell_granskning."
+  },
+  {
+    "id": "granskning-mp-forsvar-naringsliv-social-2026-07-26",
+    "partyId": "mp",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-26",
+    "topicsReviewed": ["forsvar", "naringsliv", "social-hallbarhet"],
+    "unresolvedQuestions": [
+      "Miljöpartiets valmanifest inför valet 2026-09-13 hittades inte i denna kontroll; de nya posterna behöver färskhetsgranskas mot ett kommande manifest.",
+      "Försvarsmotionen preciserar AI i vapensystem och autonoma vapen, men inte AI i cyberförsvar eller civil kritisk infrastruktur.",
+      "Näringslivsmotionen anger stöd till småföretags digitala, gröna och sociala omställning, men inte särskilda villkor för AI-startups, beräkningskraft eller riskkapital."
+    ],
+    "notes": "Fokuserad luckgranskning av Miljöpartiet för försvar, näringsliv och social hållbarhet. Riksdagens öppna data söktes för MP under 2025/26 med artificiell intelligens och relevanta kommittémotioner öppnades i fulltext. Motion 2025/26:3407 dokumenterar förslag om AI i vapensystem och autonoma vapen. Motion 2025/26:3282 och den officiella AI-sidan dokumenterar AI- och digitaliseringsrelaterad omställning för företag, arbetstagare och småföretag. Tre nya positionsposter, två förslag och två riksdagsaktiviteter skrevs med workflowStatus behover_redaktionell_granskning."
   }
 ]
