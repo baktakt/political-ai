@@ -478,8 +478,8 @@
     "title": "Nationellt kunskapslyft om användningen av artificiell intelligens",
     "description": "Riksdagsyrkande i kommittémotion 2025/26:2832 om ett nationellt kunskapslyft om användningen av artificiell intelligens, som kompletterar partiets AI-sida om AI-kunskap i grundskola, gymnasium, universitet, bibliotek och civilsamhälle.",
     "date": "2025-10-06",
-    "status": "framlagt",
-    "implementationStatus": null,
+     "status": "avslaget",
+     "implementationStatus": "Yrkandet avslogs av riksdagen enligt motionens dokumentstatus.",
     "sourceIds": [
       "c-mot-2025-2832",
       "c-webb-ai"
@@ -495,8 +495,8 @@
     "title": "Avslag på propositionen om polisens realtidsansiktsigenkänning",
     "description": "Kommittémotion 2025/26:3956 yrkar att riksdagen avslår regeringens förslag om polisens användning av AI-system för ansiktsigenkänning i realtid.",
     "date": "2026-03-18",
-    "status": "framlagt",
-    "implementationStatus": null,
+     "status": "avslaget",
+     "implementationStatus": "Yrkandet avslogs av riksdagen enligt motionens dokumentstatus.",
     "sourceIds": [
       "c-mot-2026-3956"
     ],
@@ -511,8 +511,8 @@
     "title": "Transparens i träningsdata och licensmodeller för AI-tjänster",
     "description": "Kommittémotion 2025/26:4037 föreslår modern upphovsrättslagstiftning för AI-åldern, med transparens i träningsdata och fungerande licensmodeller som garanterar att kreatörer får betalt när deras verk används för kommersiella AI-tjänster.",
     "date": "2026-04-01",
-    "status": "framlagt",
-    "implementationStatus": null,
+     "status": "avslaget",
+     "implementationStatus": "Yrkandet avslogs av riksdagen enligt motionens dokumentstatus.",
     "sourceIds": [
       "c-mot-2026-4037"
     ],
@@ -528,8 +528,8 @@
     "title": "Nationell strategi för High-Performance Computing i Sverige",
     "description": "Riksdagsyrkande i kommittémotion 2025/26:2832 om att inrätta en nationell strategi för High-Performance Computing i Sverige.",
     "date": "2025-10-06",
-    "status": "framlagt",
-    "implementationStatus": null,
+     "status": "avslaget",
+     "implementationStatus": "Yrkandet avslogs av riksdagen enligt motionens dokumentstatus.",
     "sourceIds": [
       "c-mot-2025-2832"
     ],
@@ -545,8 +545,8 @@
     "title": "Nordiskt AI-samarbete och språkmodeller för nordiska språk",
     "description": "Kommittémotion 2025/26:3729 föreslår vidare nordiskt samarbete om AI och att regeringen bevakar och bidrar till att det finns AI-språkmodeller som kan hantera de nordiska språken.",
     "date": "2025-10-07",
-    "status": "framlagt",
-    "implementationStatus": null,
+     "status": "avslaget",
+     "implementationStatus": "Yrkandet avslogs av riksdagen enligt motionens dokumentstatus.",
     "sourceIds": [
       "c-mot-2025-3729"
     ],

@@ -486,5 +486,17 @@
       "Sidan bekräftar befintliga ståndpunkter men preciserar inte finansiering, genomförande eller en särskild modell för tillsyn av AI-förordningen."
     ],
     "notes": "Socialdemokraternas officiella A–Ö-sida om AI öppnades och lästes i sin helhet efter att den identifierats i partiets sitemap. Den verifierar befintliga S-poster om AI-investeringar och samverkan, global reglering och etik, deepfakes och demokrati, militär användning samt upphovsrätt. En ny källa lades till och kopplades till sex redan dokumenterade positioner; inga nya sakpåståenden, förslag eller riksdagsaktiviteter lades till. Moderaternas, Kristdemokraternas, Miljöpartiets och Vänsterpartiets sitemaps kontrollerades också för nationella valmanifest; inget nytt sådant dokument kunde verifieras."
+  },
+  {
+    "id": "granskning-c-riksdagsutfall-2026-07-27",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-27",
+    "topicsReviewed": ["strategi", "utbildning", "integritet", "kultur-upphovsratt", "suveranitet", "byggd-miljo"],
+    "unresolvedQuestions": [
+      "Granskningen avser endast utfallen för sex redan dokumenterade C-motioner; utfallen för andra tidigare registrerade motioner behöver verifieras separat.",
+      "Dokumentstatusen visar avslag på de kontrollerade AI-relaterade yrkandena, men denna körning bedömer inte om senare lagstiftning eller andra beslut har genomfört närliggande åtgärder."
+    ],
+    "notes": "Färskhetsgranskning av riksdagsutfall för Centerpartiets redan registrerade kommittémotioner 2025/26:2832, 2025/26:3184, 2025/26:3189, 2025/26:3729, 2025/26:3956 och 2025/26:4037. Varje motions fulltext öppnades via Riksdagens öppna data och kontrollerades för strukturerad dokumentstatus. De berörda AI-relaterade yrkandena har utskotts- och kammarstatus Avslag. Fem förslag och sex riksdagsaktiviteter uppdaterades; inga nya partipolitiska påståenden lades till."
   }
 ]
