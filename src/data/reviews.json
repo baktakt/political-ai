@@ -498,5 +498,17 @@
       "Dokumentstatusen visar avslag på de kontrollerade AI-relaterade yrkandena, men denna körning bedömer inte om senare lagstiftning eller andra beslut har genomfört närliggande åtgärder."
     ],
     "notes": "Färskhetsgranskning av riksdagsutfall för Centerpartiets redan registrerade kommittémotioner 2025/26:2832, 2025/26:3184, 2025/26:3189, 2025/26:3729, 2025/26:3956 och 2025/26:4037. Varje motions fulltext öppnades via Riksdagens öppna data och kontrollerades för strukturerad dokumentstatus. De berörda AI-relaterade yrkandena har utskotts- och kammarstatus Avslag. Fem förslag och sex riksdagsaktiviteter uppdaterades; inga nya partipolitiska påståenden lades till."
+  },
+  {
+    "id": "granskning-mp-barn-byggd-rekyl-2026-07-27",
+    "partyId": "mp",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-27",
+    "topicsReviewed": ["barn-unga", "byggd-miljo", "rekyleffekter"],
+    "unresolvedQuestions": [
+      "Kommittémotion 2025/26:3425 nämner utbildning för barn och unga om AI, men innehåller inte ett särskilt förslag om AI-kompisar, chattbottar, barns data eller åldersverifiering.",
+      "Miljöpartiets valmanifest inför valet 2026-09-13 hittades inte i denna kontroll. De tre ämnena behöver därför färskhetsgranskas när ett nationellt valmanifest publiceras."
+    ],
+    "notes": "Fokuserad luckgranskning av Miljöpartiet för barn och unga, byggd miljö samt rekyleffekter. Partiets officiella AI- och digitaliseringssida öppnades och lästes i sin helhet. Riksdagens öppna data för MP under 2025/26 söktes med AI, artificiell intelligens, barn AI, bygg AI och rekyleffekter AI; relevanta motioner 2025/26:3425, 2025/26:3320, 2025/26:4054, 2025/26:3364 och 2025/26:3422 öppnades i fulltext. En indirekt berörd position om AI-utbildning för barn och unga lades till. Ingen dokumenterad partinivåposition om AI i byggd miljö eller AI-relaterade rekyleffekter hittades."
   }
 ]

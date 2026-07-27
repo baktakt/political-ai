@@ -1854,5 +1854,44 @@
     "sourceIds": ["mp-mot-2025-3282", "mp-webb-ai"],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-26"
+  },
+  {
+    "id": "mp-barn-unga",
+    "partyId": "mp",
+    "topicId": "barn-unga",
+    "summary": "Miljöpartiet vill att barn och unga får utbildning om hur AI ska utvecklas och användas på ett etiskt och jämlikt sätt.",
+    "detailedPosition": "I kommittémotionen En grön AI-politik (2025/26:3425) skriver Miljöpartiet att det behövs kvalitativ utbildning för barn och unga om hur AI ska utvecklas och användas på ett etiskt och jämlikt sätt. Motionen yrkar samtidigt på en bred AI-utbildningssatsning, inklusive fort- och vidareutbildning för yrkesverksamma. Källan behandlar inte särskilt AI-kompisar, chattbottar, barns data, åldersverifiering eller plattformsansvar.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": ["motion"],
+    "confidenceExplanation": "Kommittémotion 2025/26:3425 är en öppnad partinivåkälla. Den nämner uttryckligen utbildning för barn och unga om AI, men har inget avgränsat yrkande om de barnspecifika AI-risker som ämnet också omfattar. Därför klassas frågan som indirekt berörd.",
+    "sourceIds": ["mp-mot-2025-3425"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-27"
+  },
+  {
+    "id": "mp-byggd-miljo",
+    "partyId": "mp",
+    "topicId": "byggd-miljo",
+    "summary": "Ingen dokumenterad MP-position om AI i byggande och den byggda miljön hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Miljöpartiets officiella AI- och digitaliseringssida samt partiets motioner i Riksdagens öppna data för riksmötet 2025/26, med sökningar på AI, artificiell intelligens, bygg, bygglov och planering. AI-sidan nämner trafikplanering som ett exempel på offentlig AI-användning. Den öppnade kommittémotionen En grön AI-politik (2025/26:3425) och relevanta träffar om skola, klimat och näringsliv innehåller inte en position om AI i arkitektur, byggande, bygglov, fastighetsförvaltning eller samhällsplanering. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade mp.se:s officiella AI- och digitaliseringssida samt Riksdagens öppna data för parti=MP och riksmöte 2025/26 med AI, artificiell intelligens, bygg, bygglov och planering. Relevanta partinivåmotioner öppnades; ingen uttrycklig MP-position om AI i byggd miljö hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-27"
+  },
+  {
+    "id": "mp-rekyleffekter",
+    "partyId": "mp",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen dokumenterad MP-position om AI-relaterade rekyleffekter eller total resursanvändning hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Miljöpartiets officiella AI- och digitaliseringssida samt partiets motioner i Riksdagens öppna data för riksmötet 2025/26, med sökningar på AI, artificiell intelligens, rekyleffekter, resursanvändning och konsumtion. Partiets AI-sida och motioner behandlar AI:s energianvändning, klimatpåverkan, förnybar el, vattenhantering och elektronikåtervinning. Ingen källa uttrycker däremot en ståndpunkt om att AI-effektivisering kan öka den totala resursanvändningen eller föreslår styrmedel mot sådana rekyleffekter. Frånvaron ska inte tolkas som att partiet avvisar frågan.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade mp.se:s officiella AI- och digitaliseringssida och Riksdagens öppna data för parti=MP och riksmöte 2025/26 med AI, artificiell intelligens, rekyleffekter, resursanvändning och konsumtion. Kommittémotion 2025/26:3425 och enskild motion 2025/26:3320 öppnades; ingen partinivåposition om rekyleffekter hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-27"
   }
 ]

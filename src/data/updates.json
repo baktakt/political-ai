@@ -208,5 +208,12 @@
     "title": "Riksdagsutfall för Centerpartiets AI-relaterade motioner verifierade",
     "description": "Dokumentstatusen har kontrollerats för sex redan registrerade C-motioner. Berörda AI-relaterade yrkanden har uppdaterats från framlagda eller ej verifierade till avslagna; inga nya partipolitiska påståenden har lagts till.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-27-mp-barn-byggd-rekyl",
+    "date": "2026-07-27",
+    "title": "Miljöpartiets AI-material granskat för barn, byggd miljö och rekyleffekter",
+    "description": "Miljöpartiets AI-sida och riksdagsmotioner har granskats för tre ytterligare AI-ämnen. Granskningen dokumenterar en indirekt berörd position om AI-utbildning för barn och unga samt att inga dokumenterade partinivåpositioner om AI i byggd miljö eller rekyleffekter hittades, för redaktionell granskning.",
+    "type": "innehall"
   }
 ]
