@@ -185,10 +185,11 @@
       "s-kalla-mot-2526-3551",
       "s-kalla-kongress-b-2025",
       "s-kalla-riktlinjer-2025",
-      "s-kalla-regeringen-ai-2018"
+      "s-kalla-regeringen-ai-2018",
+      "s-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-07-27"
   },
   {
     "id": "s-utbildning",
@@ -230,10 +231,11 @@
       "s-kalla-mot-2526-3551",
       "s-kalla-mot-2526-3593",
       "s-kalla-mot-2425-3309",
-      "s-mot-2025-3652"
+      "s-mot-2025-3652",
+      "s-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-07-27"
   },
   {
     "id": "s-offentlig-sektor",
@@ -319,10 +321,11 @@
       "s-kalla-riktlinjer-2025",
       "s-mot-2025-3652",
       "s-kalla-mot-2526-3551",
-      "s-kalla-mot-2526-1815"
+      "s-kalla-mot-2526-1815",
+      "s-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-07-27"
   },
   {
     "id": "s-forsvar",
@@ -339,10 +342,11 @@
     "sourceIds": [
       "s-kalla-mot-2526-3556",
       "s-kalla-riktlinjer-2025",
-      "s-mot-2025-3652"
+      "s-mot-2025-3652",
+      "s-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-07-27"
   },
   {
     "id": "s-kultur-upphovsratt",
@@ -361,10 +365,11 @@
       "s-kalla-mot-2526-3593",
       "s-kalla-mot-2526-3721",
       "s-kalla-partiprogram-2025",
-      "s-kalla-mot-2526-3551"
+      "s-kalla-mot-2526-3551",
+      "s-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-07-27"
   },
   {
     "id": "s-reglering",
@@ -381,10 +386,11 @@
     "sourceIds": [
       "s-mot-2025-3652",
       "s-kalla-kongress-b-2025",
-      "s-kalla-partiprogram-2025"
+      "s-kalla-partiprogram-2025",
+      "s-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-07-27"
   },
   {
     "id": "s-suveranitet",

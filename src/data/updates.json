@@ -194,5 +194,12 @@
     "title": "Miljöpartiets AI-material granskat för försvar, näringsliv och social hållbarhet",
     "description": "Miljöpartiets partinivåmotioner och officiella AI-sida har granskats vidare. Granskningen lägger till ståndpunkter om reglering av AI i vapensystem, AI-relaterad omställning för företag och arbetstagare samt hur AI-effektiviseringar ska komma människor till del, för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-27-s-ai-sida-farskhet",
+    "date": "2026-07-27",
+    "title": "Socialdemokraternas AI-sida tillagd som färskhetskälla",
+    "description": "Socialdemokraternas officiella AI-sida, senast uppdaterad i april 2026, har granskats och lagts till som källa för sex redan dokumenterade AI-ämnen. Sidan bekräftar befintliga uppgifter om strategi, näringsliv, demokrati, försvar, upphovsrätt och reglering; inga nya partipolitiska påståenden har lagts till.",
+    "type": "innehall"
   }
 ]

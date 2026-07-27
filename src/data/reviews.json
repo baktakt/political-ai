@@ -474,5 +474,17 @@
       "Näringslivsmotionen anger stöd till småföretags digitala, gröna och sociala omställning, men inte särskilda villkor för AI-startups, beräkningskraft eller riskkapital."
     ],
     "notes": "Fokuserad luckgranskning av Miljöpartiet för försvar, näringsliv och social hållbarhet. Riksdagens öppna data söktes för MP under 2025/26 med artificiell intelligens och relevanta kommittémotioner öppnades i fulltext. Motion 2025/26:3407 dokumenterar förslag om AI i vapensystem och autonoma vapen. Motion 2025/26:3282 och den officiella AI-sidan dokumenterar AI- och digitaliseringsrelaterad omställning för företag, arbetstagare och småföretag. Tre nya positionsposter, två förslag och två riksdagsaktiviteter skrevs med workflowStatus behover_redaktionell_granskning."
+  },
+  {
+    "id": "granskning-s-ai-sida-farskhet-2026-07-27",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-27",
+    "topicsReviewed": ["strategi", "naringsliv", "demokrati", "forsvar", "kultur-upphovsratt", "reglering"],
+    "unresolvedQuestions": [
+      "AI-sidan är senast uppdaterad 27 april 2026 men anger inte ett ursprungligt publiceringsdatum; datumet registreras därför som sidans angivna senaste uppdatering.",
+      "Sidan bekräftar befintliga ståndpunkter men preciserar inte finansiering, genomförande eller en särskild modell för tillsyn av AI-förordningen."
+    ],
+    "notes": "Socialdemokraternas officiella A–Ö-sida om AI öppnades och lästes i sin helhet efter att den identifierats i partiets sitemap. Den verifierar befintliga S-poster om AI-investeringar och samverkan, global reglering och etik, deepfakes och demokrati, militär användning samt upphovsrätt. En ny källa lades till och kopplades till sex redan dokumenterade positioner; inga nya sakpåståenden, förslag eller riksdagsaktiviteter lades till. Moderaternas, Kristdemokraternas, Miljöpartiets och Vänsterpartiets sitemaps kontrollerades också för nationella valmanifest; inget nytt sådant dokument kunde verifieras."
   }
 ]
