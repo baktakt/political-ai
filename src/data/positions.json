@@ -1786,7 +1786,9 @@
     "evidenceStatus": "generell_dokumenterad",
     "evidenceTypes": [],
     "confidenceExplanation": "Klassningen bygger på Centerpartiets officiella AI-sida, öppnad 2026-07-26. Sidan uttrycker en egen AI-inriktning för vården och snabbare diagnoser, men anger inte ett avgränsat lag- eller budgetförslag för vårdområdet.",
-    "sourceIds": ["c-webb-ai"],
+    "sourceIds": [
+      "c-webb-ai"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-26"
   },
@@ -1797,9 +1799,15 @@
     "summary": "Centerpartiet vill se över hur GDPR har genomförts i svensk lag för att främja AI-utveckling. Partiet vill samtidigt att AI-utveckling ska ske med respekt för individens frihet, rättssäkerhet och integritet.",
     "detailedPosition": "I kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar Centerpartiet på en översyn av GDPR-implementeringen i svensk lag i syfte att främja AI-utvecklingen. Motionen beskriver datatillgång som central för AI och menar att dataskyddsförordningen ibland hindrar datadelning och företags möjlighet att använda AI. Partiets officiella AI-sida anger samtidigt att etik och integritet ska komma först och att utvecklingen ska ske med respekt för individens frihet och rättssäkerhet. Tolkning: källorna dokumenterar både ett konkret reformyrkande om dataskyddsreglernas tillämpning och en generell integritetsprincip, men inte en fullständig position om tillsyn eller EU:s AI-förordning.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion", "regelgivning"],
+    "evidenceTypes": [
+      "motion",
+      "regelgivning"
+    ],
     "confidenceExplanation": "Kommittémotion 2025/26:2832 är en partinivåmotion med ett uttryckligt yrkande om översyn av GDPR-implementeringen för AI-utveckling. Den officiella AI-sidan, öppnad på nytt 2026-07-26, kompletterar med principer om etik, integritet och rättssäkerhet.",
-    "sourceIds": ["c-mot-2025-2832", "c-webb-ai"],
+    "sourceIds": [
+      "c-mot-2025-2832",
+      "c-webb-ai"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-26"
   },
@@ -1823,9 +1831,14 @@
     "summary": "Miljöpartiet vill ha striktare reglering av AI i vapensystem, verka för ett internationellt förbud mot helautonoma vapen och öka forskningen om skydd mot autonoma vapensystem.",
     "detailedPosition": "I kommittémotionen Exportkontroll, försvarsindustrins förutsättningar och reglering av autonoma vapen (2025/26:3407) yrkar Miljöpartiet på striktare reglering av artificiell intelligens i vapensystem, ett internationellt förbud mot helautonoma vapen och ökad forskning om skydd mot autonoma vapensystem. Motionen anger också att säkerhetsläget motiverar utbyggnad av det svenska försvaret, men behandlar inte AI:s användning i cyberförsvar eller särskilda säkerhetskrav för civil kritisk infrastruktur.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion", "regelgivning"],
+    "evidenceTypes": [
+      "motion",
+      "regelgivning"
+    ],
     "confidenceExplanation": "Klassningen bygger på den öppnade kommittémotionen 2025/26:3407. Motionen är på partinivå och innehåller tre uttryckliga yrkanden om AI i vapensystem och autonoma vapen. Den täcker inte hela försvars- och cybersäkerhetsämnet.",
-    "sourceIds": ["mp-mot-2025-3407"],
+    "sourceIds": [
+      "mp-mot-2025-3407"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-26"
   },
@@ -1836,9 +1849,14 @@
     "summary": "Miljöpartiet beskriver AI och automatisering som en omställningsfråga för både företag och arbetstagare. Partiet vill att staten ska stödja digitalisering samt grön och social omställning för småföretag och att företag ska få bättre AI-kompetens.",
     "detailedPosition": "I kommittémotionen Ett grönt och konkurrenskraftigt näringsliv under omställning (2025/26:3282) skriver Miljöpartiet att staten måste hjälpa företag och arbetstagare genom klimat- och AI-relaterad omställning och att omställningen ska vara rättvis och solidarisk. Motionen yrkar på stöd till digitalisering och grön och social omställning för småföretag. På partiets AI-sida anges att företag behöver bättre kompetens för att använda AI ansvarsfullt. Källorna innehåller inte ett särskilt förslag om AI-startups, beräkningskraft, riskkapital för AI eller regulatoriska sandlådor.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion"],
+    "evidenceTypes": [
+      "motion"
+    ],
     "confidenceExplanation": "Kommittémotion 2025/26:3282 är en öppnad partinivåkälla med ett konkret yrkande om digitalisering och grön och social omställning för småföretag samt en uttrycklig koppling mellan AI, företag och arbetstagare. Partiets AI-sida kompletterar med kompetensbehov hos företag.",
-    "sourceIds": ["mp-mot-2025-3282", "mp-webb-ai"],
+    "sourceIds": [
+      "mp-mot-2025-3282",
+      "mp-webb-ai"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-26"
   },
@@ -1849,9 +1867,15 @@
     "summary": "Miljöpartiet vill att AI-relaterad omställning ska vara rättvis och att effektiviseringar ska komma människor till del, exempelvis genom mer tid i välfärden eller kortare arbetstid. Partiet vill också stödja småföretags digitala, gröna och sociala omställning.",
     "detailedPosition": "I kommittémotionen Ett grönt och konkurrenskraftigt näringsliv under omställning (2025/26:3282) skriver Miljöpartiet att staten måste hjälpa företag och arbetstagare genom bland annat AI-utveckling och att omställningen ska vara rättvis och solidarisk. Motionen yrkar på stöd till digitalisering och grön och social omställning för småföretag. På partiets AI-sida står att AI kan avlasta monotona uppgifter och att effektiviseringar ska komma människor till del, till exempel genom mer tid för möten i vård, omsorg och skola eller genom förkortad arbetstid. Källorna preciserar inte hur produktivitetsvinster ska fördelas mellan olika grupper eller hur regionala skillnader ska hanteras.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion", "partiprogram"],
+    "evidenceTypes": [
+      "motion",
+      "partiprogram"
+    ],
     "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion med ett konkret yrkande om digitalisering och grön och social omställning för småföretag samt på den officiella AI-sidans uttryckliga princip om att AI-effektiviseringar ska komma människor till del. Detaljer om finansiering och regional genomförande saknas.",
-    "sourceIds": ["mp-mot-2025-3282", "mp-webb-ai"],
+    "sourceIds": [
+      "mp-mot-2025-3282",
+      "mp-webb-ai"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-26"
   },
@@ -1862,9 +1886,13 @@
     "summary": "Miljöpartiet vill att barn och unga får utbildning om hur AI ska utvecklas och användas på ett etiskt och jämlikt sätt.",
     "detailedPosition": "I kommittémotionen En grön AI-politik (2025/26:3425) skriver Miljöpartiet att det behövs kvalitativ utbildning för barn och unga om hur AI ska utvecklas och användas på ett etiskt och jämlikt sätt. Motionen yrkar samtidigt på en bred AI-utbildningssatsning, inklusive fort- och vidareutbildning för yrkesverksamma. Källan behandlar inte särskilt AI-kompisar, chattbottar, barns data, åldersverifiering eller plattformsansvar.",
     "evidenceStatus": "indirekt_berord",
-    "evidenceTypes": ["motion"],
+    "evidenceTypes": [
+      "motion"
+    ],
     "confidenceExplanation": "Kommittémotion 2025/26:3425 är en öppnad partinivåkälla. Den nämner uttryckligen utbildning för barn och unga om AI, men har inget avgränsat yrkande om de barnspecifika AI-risker som ämnet också omfattar. Därför klassas frågan som indirekt berörd.",
-    "sourceIds": ["mp-mot-2025-3425"],
+    "sourceIds": [
+      "mp-mot-2025-3425"
+    ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-27"
   },
@@ -1890,6 +1918,66 @@
     "evidenceStatus": "ingen_dokumenterad",
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade mp.se:s officiella AI- och digitaliseringssida och Riksdagens öppna data för parti=MP och riksmöte 2025/26 med AI, artificiell intelligens, rekyleffekter, resursanvändning och konsumtion. Kommittémotion 2025/26:3425 och enskild motion 2025/26:3320 öppnades; ingen partinivåposition om rekyleffekter hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-27"
+  },
+  {
+    "id": "m-integritet",
+    "partyId": "m",
+    "topicId": "integritet",
+    "summary": "I Moderaternas stämmohandlingar redovisas regeringens kommande lag om AI-baserad ansiktsigenkänning i realtid som ett verktyg för polisen. Texten anger samtidigt att översynen av polisens dataskyddsreglering ska balansera effektivitet och integritet. Detta är regeringspolitik, inte ett separat M-programförslag om integritet.",
+    "detailedPosition": "I Moderaternas stämmohandlingar 2025 anges att samarbetspartierna har presenterat en digital polisoffensiv och att regeringen ser över polisens dataskyddsreglering för att balansera effektivitet med integritetshänsyn. Dokumentet beskriver den kommande lagen om användning av AI för ansiktsigenkänning i realtid som ett steg för att ge polisen efterfrågade verktyg. Eftersom formuleringarna redovisar regeringens och samarbetspartiernas arbete, inte ett fristående M-yrkande, klassas uppgiften som regeringspolitik. Dokumentet innehåller inte en detaljerad M-linje om villkor, tillsyn eller rättsmedel vid AI-baserad ansiktsigenkänning.",
+    "evidenceStatus": "regeringsatgard",
+    "evidenceTypes": [
+      "regeringspolitik"
+    ],
+    "confidenceExplanation": "Moderaternas officiella stämmohandlingar 2025 öppnades i fulltext. Avsnittet om cyberbrottsbekämpning beskriver uttryckligen regeringens översyn av polisens dataskyddsreglering och den kommande lagen om AI-ansiktsigenkänning i realtid. Den partipolitiska och statliga nivån hålls isär i texten.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-27"
+  },
+  {
+    "id": "m-byggd-miljo",
+    "partyId": "m",
+    "topicId": "byggd-miljo",
+    "summary": "Moderaternas stämmohandlingar 2025 pekar ut AI, industriellt byggande och energieffektivisering som områden med utvecklingspotential för hållbart byggande. Materialet preciserar inte AI-användning i bygglov, projektering, materialoptimering eller offentlig byggupphandling.",
+    "detailedPosition": "I propositionen om biologisk mångfald i Moderaternas stämmohandlingar 2025 står att det finns stor utvecklingspotential i industriellt byggande, AI och energieffektivisering för att skapa fler möjligheter att bygga hållbart. I samma avsnitt behandlas återanvändning av material i byggsektorn. Texten anger dock inga konkreta AI-relaterade åtgärder för bygglov, fysisk planering, projektering, byggproduktion, byggnadsdrift eller upphandling. Tolkning: AI nämns som en del av en bred inriktning för hållbart byggande, utan närmare genomförandeform.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas officiella stämmohandlingar 2025, öppnade och fulltextsökta på bland annat AI, byggande, bygglov, energi och resurser. AI kopplas uttryckligen till hållbart byggande, men utan detaljerade förslag; därför generell dokumenterad ståndpunkt.",
+    "sourceIds": [
+      "m-stammohandlingar-2025"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-27"
+  },
+  {
+    "id": "m-miljoavtryck",
+    "partyId": "m",
+    "topicId": "miljoavtryck",
+    "summary": "Ingen dokumenterad partinivåposition om AI:s eget miljöavtryck hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025 och Riksdagens öppna data för M under riksmötet 2025/26. I stämmohandlingarna finns skrivningar om AI för optimerad elförbrukning, resurshushållning och hållbart byggande, men inte om AI- eller datacenters el- och vattenförbrukning, hårdvarans livscykel, miljörapportering eller specifika miljökrav. Riksdagsträffarna på AI och artificiell intelligens var enskilda motioner och används inte som partilinje. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade i fulltext och sökta på AI, artificiell intelligens, datacenter, datahall, energi, elförbrukning, vatten, resurser, klimat och miljö; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. Inga partimotioner eller kommittémotioner med en AI-specifik miljöavtrycksposition hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-27"
+  },
+  {
+    "id": "m-rekyleffekter",
+    "partyId": "m",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter eller total resursanvändning hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025 och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna beskriver AI som ett möjligt verktyg för optimerad elförbrukning och resurshushållning, men behandlar inte om effektivisering kan öka den totala användningen av beräkning, energi, transporter eller andra resurser. Riksdagsträffarna på AI och artificiell intelligens var enskilda motioner och används inte som partilinje. Frånvaron ska inte tolkas som att partiet är emot styrmedel på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade i fulltext och sökta på AI, artificiell intelligens, rekyleffekt, resursanvändning, energi, elförbrukning, effektivisering, konsumtion och klimat; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. Inga partimotioner eller kommittémotioner med en AI-specifik position om rekyleffekter hittades.",
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-27"

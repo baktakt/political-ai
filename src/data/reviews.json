@@ -417,7 +417,27 @@
     "partyId": "s",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-25",
-    "topicsReviewed": ["strategi", "arbetsmarknad", "utbildning", "naringsliv", "offentlig-sektor", "vard-omsorg", "integritet", "demokrati", "forsvar", "kultur-upphovsratt", "reglering", "suveranitet", "jamlikhet", "barn-unga", "miljoavtryck", "hallbarhetsverktyg", "rekyleffekter", "social-hallbarhet", "byggd-miljo"],
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "rekyleffekter",
+      "social-hallbarhet",
+      "byggd-miljo"
+    ],
     "unresolvedQuestions": [
       "Valplattformen innehåller inga separata AI-skrivningar och ersätter därför inte de tidigare ämnesspecifika partiprogrammen, riktlinjerna och motionerna som bär S:s befintliga AI-positioner.",
       "PDF:ens publiceringsdatum anges inte på källsidan eller i dokumentet och är därför registrerat som okänt."
@@ -429,7 +449,17 @@
     "partyId": "m",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-25",
-    "topicsReviewed": ["strategi", "arbetsmarknad", "utbildning", "naringsliv", "offentlig-sektor", "vard-omsorg", "reglering", "forsvar", "hallbarhetsverktyg"],
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "reglering",
+      "forsvar",
+      "hallbarhetsverktyg"
+    ],
     "unresolvedQuestions": [
       "Sidan med vallöften är en löpande publicering och inte en verifierad heltäckande valplattform; den kan därför inte ersätta de ämnesspecifika stämmohandlingarna från 2025.",
       "Sidan saknar angivet publiceringsdatum och registreras därför med okänt publiceringsdatum.",
@@ -442,7 +472,11 @@
     "partyId": "c",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-26",
-    "topicsReviewed": ["vard-omsorg", "reglering", "forsvar"],
+    "topicsReviewed": [
+      "vard-omsorg",
+      "reglering",
+      "forsvar"
+    ],
     "unresolvedQuestions": [
       "Centerpartiets AI-sida innehåller en vårdinriktning om snabbare diagnoser, men inte detaljer om patientdata, ansvar, upphandling eller klinisk validering.",
       "GDPR-yrkandet i kommittémotion 2025/26:2832 anger en översyn för att främja AI-utveckling, men preciserar inte en komplett modell för AI-tillsyn eller genomförandet av EU:s AI-förordning.",
@@ -455,7 +489,9 @@
     "partyId": "m",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-26",
-    "topicsReviewed": ["demokrati"],
+    "topicsReviewed": [
+      "demokrati"
+    ],
     "unresolvedQuestions": [
       "Källan är Moderaternas egen nyhetstext och anger konkreta lagstiftningsinriktade förslag, men den är inte en riksdagsmotion eller ett regeringsbeslut. Fortsatt granskning behövs om förslagen läggs i riksdagen eller preciseras i ett valmanifest.",
       "Texten gäller kränkande deepfakes generellt och innehåller inte en särskild position om AI-genererat kampanjmaterial, valpåverkan eller plattformars ansvar."
@@ -467,7 +503,11 @@
     "partyId": "mp",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-26",
-    "topicsReviewed": ["forsvar", "naringsliv", "social-hallbarhet"],
+    "topicsReviewed": [
+      "forsvar",
+      "naringsliv",
+      "social-hallbarhet"
+    ],
     "unresolvedQuestions": [
       "Miljöpartiets valmanifest inför valet 2026-09-13 hittades inte i denna kontroll; de nya posterna behöver färskhetsgranskas mot ett kommande manifest.",
       "Försvarsmotionen preciserar AI i vapensystem och autonoma vapen, men inte AI i cyberförsvar eller civil kritisk infrastruktur.",
@@ -480,7 +520,14 @@
     "partyId": "s",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-27",
-    "topicsReviewed": ["strategi", "naringsliv", "demokrati", "forsvar", "kultur-upphovsratt", "reglering"],
+    "topicsReviewed": [
+      "strategi",
+      "naringsliv",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering"
+    ],
     "unresolvedQuestions": [
       "AI-sidan är senast uppdaterad 27 april 2026 men anger inte ett ursprungligt publiceringsdatum; datumet registreras därför som sidans angivna senaste uppdatering.",
       "Sidan bekräftar befintliga ståndpunkter men preciserar inte finansiering, genomförande eller en särskild modell för tillsyn av AI-förordningen."
@@ -492,7 +539,14 @@
     "partyId": "c",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-27",
-    "topicsReviewed": ["strategi", "utbildning", "integritet", "kultur-upphovsratt", "suveranitet", "byggd-miljo"],
+    "topicsReviewed": [
+      "strategi",
+      "utbildning",
+      "integritet",
+      "kultur-upphovsratt",
+      "suveranitet",
+      "byggd-miljo"
+    ],
     "unresolvedQuestions": [
       "Granskningen avser endast utfallen för sex redan dokumenterade C-motioner; utfallen för andra tidigare registrerade motioner behöver verifieras separat.",
       "Dokumentstatusen visar avslag på de kontrollerade AI-relaterade yrkandena, men denna körning bedömer inte om senare lagstiftning eller andra beslut har genomfört närliggande åtgärder."
@@ -504,11 +558,33 @@
     "partyId": "mp",
     "reviewer": "Hermes Agent (AI-assisterad research)",
     "reviewDate": "2026-07-27",
-    "topicsReviewed": ["barn-unga", "byggd-miljo", "rekyleffekter"],
+    "topicsReviewed": [
+      "barn-unga",
+      "byggd-miljo",
+      "rekyleffekter"
+    ],
     "unresolvedQuestions": [
       "Kommittémotion 2025/26:3425 nämner utbildning för barn och unga om AI, men innehåller inte ett särskilt förslag om AI-kompisar, chattbottar, barns data eller åldersverifiering.",
       "Miljöpartiets valmanifest inför valet 2026-09-13 hittades inte i denna kontroll. De tre ämnena behöver därför färskhetsgranskas när ett nationellt valmanifest publiceras."
     ],
     "notes": "Fokuserad luckgranskning av Miljöpartiet för barn och unga, byggd miljö samt rekyleffekter. Partiets officiella AI- och digitaliseringssida öppnades och lästes i sin helhet. Riksdagens öppna data för MP under 2025/26 söktes med AI, artificiell intelligens, barn AI, bygg AI och rekyleffekter AI; relevanta motioner 2025/26:3425, 2025/26:3320, 2025/26:4054, 2025/26:3364 och 2025/26:3422 öppnades i fulltext. En indirekt berörd position om AI-utbildning för barn och unga lades till. Ingen dokumenterad partinivåposition om AI i byggd miljö eller AI-relaterade rekyleffekter hittades."
+  },
+  {
+    "id": "granskning-m-integritet-byggd-miljo-hallbarhet-2026-07-27",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-27",
+    "topicsReviewed": [
+      "integritet",
+      "byggd-miljo",
+      "miljoavtryck",
+      "rekyleffekter"
+    ],
+    "unresolvedQuestions": [
+      "Stämmohandlingarna redovisar den kommande lagen om AI-ansiktsigenkänning som regeringens och samarbetspartiernas arbete; den är därför klassad som regeringspolitik och inte som ett fristående M-förslag.",
+      "Moderaternas slutliga handlingsprogram efter arbetsstämman 2025 har fortfarande inte verifierats mot en separat öppnad slutversion; den öppnade källan är stämmopropositionen daterad 6 oktober 2025.",
+      "Riksdagsträffarna för M under 2025/26 på AI och artificiell intelligens var enskilda motioner. De har inte använts som M:s partilinje."
+    ],
+    "notes": "Fokuserad luckgranskning av Moderaterna för integritet, byggd miljö, AI:s miljöavtryck och rekyleffekter. Moderaternas officiella stämmohandlingar 2025 öppnades och fulltextsöktes. Riksdagens öppna data för parti=M och riksmötet 2025/26 söktes med AI och artificiell intelligens; de relevanta träffarna var enskilda motioner. En regeringspolitisk position om AI-ansiktsigenkänning i realtid och en generell position om AI i hållbart byggande lades till. Två uttryckliga luckposter skrevs för AI:s miljöavtryck respektive rekyleffekter."
   }
 ]

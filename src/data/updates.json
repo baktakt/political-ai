@@ -215,5 +215,12 @@
     "title": "Miljöpartiets AI-material granskat för barn, byggd miljö och rekyleffekter",
     "description": "Miljöpartiets AI-sida och riksdagsmotioner har granskats för tre ytterligare AI-ämnen. Granskningen dokumenterar en indirekt berörd position om AI-utbildning för barn och unga samt att inga dokumenterade partinivåpositioner om AI i byggd miljö eller rekyleffekter hittades, för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-27-m-integritet-byggd-miljo-hallbarhet",
+    "date": "2026-07-27",
+    "title": "Moderaternas AI-material granskat för integritet, byggande och hållbarhet",
+    "description": "Moderaternas stämmohandlingar och riksdagsmaterial har granskats för fyra ytterligare AI-ämnen. Granskningen dokumenterar regeringens arbete om AI-baserad ansiktsigenkänning och Moderaternas generella skrivning om AI i hållbart byggande, samt att inga dokumenterade partinivåpositioner om AI:s miljöavtryck eller rekyleffekter hittades, för redaktionell granskning.",
+    "type": "innehall"
   }
 ]
