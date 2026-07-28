@@ -622,5 +622,17 @@
       "Liberalernas valmanifest öppnades på nytt. Dess skrivningar om algoritmer, desinformation, cybersäkerhet och data ger inte i sig en avgränsad AI-position för de ännu ogranskade ämnena integritet, demokrati eller försvar."
     ],
     "notes": "Färskhetsgranskning av Kristdemokraternas nya sökindex och den officiella PDF:en En sjukvård för 2030-talet, beslutad av rikstinget 2025. PDF:en öppnades och lästes i fulltext. Den ersätter den tidigare KD-luckposten för vård och omsorg med ett dokumenterat AI-relaterat förslag om EHDS, nationell digital infrastruktur, hälsodata för AI-modeller och AI i diagnostik. Liberalernas valmanifestkapitel 6, 7 och 8 öppnades och lästes i fulltext som manifestofärskhet; inga ytterligare avgränsade AI-poster skrevs. KD:s webbplats och Riksdagens öppna data för KD 2025/26 kontrollerades även; den enda direkta AI-motionsträffen var enskild motion 2025/26:3667 och användes inte som partilinje."
+  },
+  {
+    "id": "granskning-mp-v-riksdagsutfall-integritet-2026-07-28",
+    "partyId": null,
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-28",
+    "topicsReviewed": ["integritet"],
+    "unresolvedQuestions": [
+      "Kontrollen gäller behandlingsutfall för MP:s och V:s följdmotioner om polisens AI-baserade ansiktsigenkänning i realtid, inte genomförandet av den antagna regeringens lagstiftning.",
+      "Centerpartiets följdmotion 2025/26:4156 om etikprövning öppnades och lästes. AI nämns som en del av den forskningsetiska bakgrunden, men motionens yrkanden är inte avgränsade AI-förslag och användes därför inte för en ny AI-position."
+    ],
+    "notes": "Färskhetsgranskning av Riksdagens öppna data för Miljöpartiets kommittémotion 2025/26:3953 och Vänsterpartiets kommittémotion 2025/26:3947. Fulltexter och dokumentstatus öppnades. Samtliga fem MP-yrkanden och samtliga tre V-yrkanden om polisens användning av AI-system för ansiktsigenkänning i realtid anges som avslag i utskott och kammare; behandlande betänkande är 2025/26:JuU28. MP:s och V:s integritetsposter uppdaterades med utfallet och V:s förslag och riksdagsaktivitet ändrades från framlagt eller ej verifierat till avslag. M, KD, MP och S:s startsidor kontrollerades även; inget nytt nationellt valmanifest 2026 kunde verifieras i de åtkomliga sidorna."
   }
 ]

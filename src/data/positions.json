@@ -700,7 +700,7 @@
     "partyId": "mp",
     "topicId": "integritet",
     "summary": "Miljöpartiet vill begränsa AI-användning som kan kränka integritet och rättigheter. Partiet stödjer AI-förordningens huvudregel om förbud mot ansiktsigenkänning i realtid på allmänt tillgängliga platser och vill ha endast få, begränsade undantag.",
-    "detailedPosition": "I kommittémotionen med anledning av regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid (2025/26:3953) skriver Miljöpartiet att EU:s AI-förordning behövs som stark gemensam reglering som värnar säkerhet och grundläggande rättigheter. Partiet framhåller att huvudregeln är ett generellt förbud mot realtidsansiktsigenkänning på allmänt tillgängliga platser och att detta sätter en gräns mot normaliserad massövervakning. Motionen anger att det för Miljöpartiet var viktigt att AI-förordningen genomförs i sin helhet, liksom ett förbud med endast ett fåtal begränsade undantag, och föreslår skärpningar av regeringens proposition: färre brottskategorier, högre misstankegrad och större restriktivitet vid identifiering i realtid. Partiets AI-sida anger också att AI ska utvecklas med respekt för integritet och att risker som övervakning, diskriminering, maktkoncentration och integritetsintrång ska motverkas.",
+    "detailedPosition": "I kommittémotionen med anledning av regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid (2025/26:3953) skriver Miljöpartiet att EU:s AI-förordning behövs som stark gemensam reglering som värnar säkerhet och grundläggande rättigheter. Partiet framhåller att huvudregeln är ett generellt förbud mot realtidsansiktsigenkänning på allmänt tillgängliga platser och att detta sätter en gräns mot normaliserad massövervakning. Motionen anger att det för Miljöpartiet var viktigt att AI-förordningen genomförs i sin helhet, liksom ett förbud med endast ett fåtal begränsade undantag, och föreslår skärpningar av regeringens proposition: färre brottskategorier, högre misstankegrad och större restriktivitet vid identifiering i realtid. Motionens fem yrkanden avslogs i riksdagsbehandlingen enligt dokumentstatus; behandlande betänkande är 2025/26:JuU28. Partiets AI-sida anger också att AI ska utvecklas med respekt för integritet och att risker som övervakning, diskriminering, maktkoncentration och integritetsintrång ska motverkas.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "motion",
@@ -712,7 +712,7 @@
       "mp-webb-ai"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-20"
+    "lastUpdatedAt": "2026-07-28"
   },
   {
     "id": "mp-miljoavtryck",
@@ -789,7 +789,7 @@
     "partyId": "v",
     "topicId": "integritet",
     "summary": "Vänsterpartiet vill begränsa riskerna med AI-system för ansiktsigenkänning i realtid. Partiet välkomnar tydligare reglering men kräver säkrare tillståndsprövning, starkare skydd för integritet, information och rättigheter samt tidsbegränsning och utvärdering av lagen.",
-    "detailedPosition": "I kommittémotionen med anledning av regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid (2025/26:3947) skriver Vänsterpartiet att AI-förordningen är nödvändig reglering och att förbudet mot ansiktsigenkänning i realtid är viktigt eftersom det motverkar massövervakning. Partiet tycker att det är positivt att ansiktsigenkänning i realtid får tydlig reglering, men lyfter risker för diskriminering, rasprofilering, massövervakning och inskränkningar av mötes- och yttrandefriheten. Motionen kräver säkrare tillståndsprövning, stärkt skydd för integritet, information och rättigheter, att data från systemen ägs av och stannar hos polisen, obligatoriska återkommande riskanalyser samt att lagen tidsbegränsas och utvärderas. Partiets AI-sida anger mer generellt att AI inte ska användas integritetskränkande eller repressivt.",
+    "detailedPosition": "I kommittémotionen med anledning av regeringens proposition om polisens användning av AI för ansiktsigenkänning i realtid (2025/26:3947) skriver Vänsterpartiet att AI-förordningen är nödvändig reglering och att förbudet mot ansiktsigenkänning i realtid är viktigt eftersom det motverkar massövervakning. Partiet tycker att det är positivt att ansiktsigenkänning i realtid får tydlig reglering, men lyfter risker för diskriminering, rasprofilering, massövervakning och inskränkningar av mötes- och yttrandefriheten. Motionen kräver säkrare tillståndsprövning, stärkt skydd för integritet, information och rättigheter, att data från systemen ägs av och stannar hos polisen, obligatoriska återkommande riskanalyser samt att lagen tidsbegränsas och utvärderas. Motionens tre yrkanden avslogs i riksdagsbehandlingen enligt dokumentstatus; behandlande betänkande är 2025/26:JuU28. Partiets AI-sida anger mer generellt att AI inte ska användas integritetskränkande eller repressivt.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "motion",
@@ -801,7 +801,7 @@
       "v-webb-ai"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-21"
+    "lastUpdatedAt": "2026-07-28"
   },
   {
     "id": "v-forsvar",

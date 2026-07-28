@@ -243,5 +243,12 @@
     "title": "Kristdemokraternas sjukvårdsprogram granskat för AI-frågor",
     "description": "Kristdemokraternas sjukvårdspolitiska program, beslutat av rikstinget 2025, har lagts till som källa. Granskningen ersätter en tidigare luckpost med en ståndpunkt om hälsodata, nationell digital infrastruktur och AI i diagnostik, för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-28-mp-v-ansiktsigenkanning-riksdagsutfall",
+    "date": "2026-07-28",
+    "title": "Riksdagsutfall för MP:s och V:s AI-motioner om ansiktsigenkänning verifierade",
+    "description": "Dokumentstatusen för Miljöpartiets och Vänsterpartiets följdmotioner om polisens AI-baserade ansiktsigenkänning i realtid har kontrollerats. Samtliga berörda yrkanden anges som avslagna; inga nya partipolitiska påståenden har lagts till.",
+    "type": "innehall"
   }
 ]
