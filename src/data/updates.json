@@ -222,5 +222,12 @@
     "title": "Moderaternas AI-material granskat för integritet, byggande och hållbarhet",
     "description": "Moderaternas stämmohandlingar och riksdagsmaterial har granskats för fyra ytterligare AI-ämnen. Granskningen dokumenterar regeringens arbete om AI-baserad ansiktsigenkänning och Moderaternas generella skrivning om AI i hållbart byggande, samt att inga dokumenterade partinivåpositioner om AI:s miljöavtryck eller rekyleffekter hittades, för redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-28-mp-handlingsprogram-farskhet",
+    "date": "2026-07-28",
+    "title": "Miljöpartiets politiska handlingsprogram tillagt som färskhetskälla",
+    "description": "Miljöpartiets politiska handlingsprogram 2026–2030 har öppnats och lästs i fulltext. Programmet har lagts till som kompletterande källa för tre redan dokumenterade AI-ämnen och bekräftar befintliga uppgifter; inga nya partipolitiska påståenden har lagts till.",
+    "type": "innehall"
   }
 ]

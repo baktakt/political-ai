@@ -133,14 +133,15 @@
       "partiprogram",
       "motion"
     ],
-    "confidenceExplanation": "Tre samstämmiga partikällor: AI-sidan på mp.se (öppnad), programfördjupningen En grön AI-politik 2023 (PDF öppnad i fulltext) och kommittémotion 2025/26:3425 (öppnad i fulltext). Positionen är uttrycklig om både fördelning av effektivitetsvinster och omställning/vidareutbildning.",
+    "confidenceExplanation": "Fyra samstämmiga partikällor: AI-sidan på mp.se, programfördjupningen En grön AI-politik 2023, Politiskt handlingsprogram 2026–2030 (PDF öppnad i fulltext) och kommittémotion 2025/26:3425. Positionen är uttrycklig om både fördelning av effektivitetsvinster och omställning/vidareutbildning.",
     "sourceIds": [
       "mp-webb-ai",
       "mp-programfordjupning-ai-2023",
-      "mp-mot-2025-3425"
+      "mp-mot-2025-3425",
+      "mp-politiskt-handlingsprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-07-28"
   },
   {
     "id": "l-arbetsmarknad",
@@ -646,13 +647,14 @@
       "partiprogram",
       "motion"
     ],
-    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida och kommittémotion 2025/26:3425, båda öppnade vid granskningen. Källorna är samstämmiga om demokratisk kontroll, transparens, tillsyn, europeisk digital suveränitet och ett brett kunskapslyft; någon 2026-valmanifesttext från MP hittades inte vid manifestobevakningen.",
+    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida, Politiskt handlingsprogram 2026–2030 (PDF öppnad i fulltext) och kommittémotion 2025/26:3425. Källorna är samstämmiga om demokratisk kontroll, transparens, tillsyn och ett brett kunskapslyft; programmet anger internationellt samarbete om AI-regelverk men inte en detaljerad svensk genomförandeplan.",
     "sourceIds": [
       "mp-webb-ai",
-      "mp-mot-2025-3425"
+      "mp-mot-2025-3425",
+      "mp-politiskt-handlingsprogram-2026"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-20"
+    "lastUpdatedAt": "2026-07-28"
   },
   {
     "id": "mp-utbildning",
@@ -1852,13 +1854,14 @@
     "evidenceTypes": [
       "motion"
     ],
-    "confidenceExplanation": "Kommittémotion 2025/26:3282 är en öppnad partinivåkälla med ett konkret yrkande om digitalisering och grön och social omställning för småföretag samt en uttrycklig koppling mellan AI, företag och arbetstagare. Partiets AI-sida kompletterar med kompetensbehov hos företag.",
+    "confidenceExplanation": "Kommittémotion 2025/26:3282 är en öppnad partinivåkälla med ett konkret yrkande om digitalisering och grön och social omställning för småföretag. Politiskt handlingsprogram 2026–2030 (PDF öppnad i fulltext) beskriver AI, digital infrastruktur, kompetens, beräkningskraft och datatillgång som förutsättningar för svenska digitala innovationer och konkurrenskraft. Partiets AI-sida kompletterar med kompetensbehov hos företag.",
     "sourceIds": [
       "mp-mot-2025-3282",
-      "mp-webb-ai"
+      "mp-webb-ai",
+      "mp-politiskt-handlingsprogram-2026"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-26"
+    "lastUpdatedAt": "2026-07-28"
   },
   {
     "id": "mp-social-hallbarhet",

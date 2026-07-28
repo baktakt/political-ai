@@ -586,5 +586,17 @@
       "Riksdagsträffarna för M under 2025/26 på AI och artificiell intelligens var enskilda motioner. De har inte använts som M:s partilinje."
     ],
     "notes": "Fokuserad luckgranskning av Moderaterna för integritet, byggd miljö, AI:s miljöavtryck och rekyleffekter. Moderaternas officiella stämmohandlingar 2025 öppnades och fulltextsöktes. Riksdagens öppna data för parti=M och riksmötet 2025/26 söktes med AI och artificiell intelligens; de relevanta träffarna var enskilda motioner. En regeringspolitisk position om AI-ansiktsigenkänning i realtid och en generell position om AI i hållbart byggande lades till. Två uttryckliga luckposter skrevs för AI:s miljöavtryck respektive rekyleffekter."
+  },
+  {
+    "id": "granskning-mp-handlingsprogram-2026-07-28",
+    "partyId": "mp",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-28",
+    "topicsReviewed": ["strategi", "arbetsmarknad", "naringsliv"],
+    "unresolvedQuestions": [
+      "Programmet anger inte uttryckligen att det ersätter tidigare AI-skrivningar; tidigare källor behålls därför.",
+      "Programmet anger inte detaljerade modeller för AI-tillsyn, ersättningsnivåer för upphovsrätt eller finansiering av beräkningskraft."
+    ],
+    "notes": "Färskhetsgranskning av Miljöpartiets Politiskt handlingsprogram 2026–2030. Programsidan och den länkade PDF-filen öppnades; PDF:en lästes i fulltext och AI-avsnittet kontrollerades. Programmet bekräftar befintliga uppgifter om demokratisk kontroll, kunskapslyft, offentlig användning, integritet, upphovsrätt och digital innovation. En källa lades till och tre befintliga positionsposter fick kompletterande belägg; inga nya ståndpunkter, förslag eller riksdagsaktiviteter lades till."
   }
 ]

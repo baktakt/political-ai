@@ -1093,5 +1093,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "mp-politiskt-handlingsprogram-2026",
+    "title": "Politiskt handlingsprogram 2026–2030",
+    "publisher": "Miljöpartiet (mp.se)",
+    "author": null,
+    "publicationDate": "2026-04-22",
+    "url": "https://www.mp.se/wp-content/uploads/2026/04/politiskt-handlingsprogram-2026-2030.pdf",
+    "accessedAt": "2026-07-28",
+    "sourceType": "partiprogram",
+    "excerpt": "AI kan ta över monotona uppgifter, ge bättre beslutsstöd och frigöra tid för människor att skapa, vårda och samarbeta.",
+    "supportExplanation": "Miljöpartiets politiska handlingsprogram för 2026–2030 anger bland annat AI-relaterade mål om etisk och säker utveckling, demokratiskt ansvar, kunskapslyft, offentlig användning, integritet och upphovsrätt.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
