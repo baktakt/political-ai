@@ -1108,5 +1108,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "kd-sjukvard-2030-talet-2025",
+    "title": "En sjukvård för 2030-talet",
+    "publisher": "Kristdemokraterna (kristdemokraterna.se)",
+    "author": null,
+    "publicationDate": "2025",
+    "url": "https://kristdemokraterna.se/download/18.7932b3db19c9887db6c2212/1773136011429/Proposition%20sjukva%CC%8Ard%20hemsida.pdf",
+    "accessedAt": "2026-07-28",
+    "sourceType": "partiprogram",
+    "excerpt": "Vi vill därför att Sverige ligger i framkant i implementeringen av det europeiska hälsodataområdet (EHDS) och den nationella digitala infrastrukturen.",
+    "supportExplanation": "Kristdemokraternas sjukvårdspolitiska program, beslutat av rikstinget 2025. Dokumentet kopplar hälsodata till utveckling av AI-modeller, föreslår snabbare genomförande av EHDS och nationell digital infrastruktur samt nämner AI-lösningar inom diagnostik.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

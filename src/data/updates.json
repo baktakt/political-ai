@@ -236,5 +236,12 @@
     "title": "Miljöpartiets politiska handlingsprogram tillagt som färskhetskälla",
     "description": "Miljöpartiets politiska handlingsprogram 2026–2030 har öppnats och lästs i fulltext. Programmet har lagts till som kompletterande källa för tre redan dokumenterade AI-ämnen och bekräftar befintliga uppgifter; inga nya partipolitiska påståenden har lagts till.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-28-kd-sjukvard-ai",
+    "date": "2026-07-28",
+    "title": "Kristdemokraternas sjukvårdsprogram granskat för AI-frågor",
+    "description": "Kristdemokraternas sjukvårdspolitiska program, beslutat av rikstinget 2025, har lagts till som källa. Granskningen ersätter en tidigare luckpost med en ståndpunkt om hälsodata, nationell digital infrastruktur och AI i diagnostik, för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

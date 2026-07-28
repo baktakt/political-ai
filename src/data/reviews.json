@@ -610,5 +610,17 @@
       "Programmet anger inte detaljerade modeller för AI-tillsyn, ersättningsnivåer för upphovsrätt eller finansiering av beräkningskraft."
     ],
     "notes": "Färskhetsgranskning av Miljöpartiets Politiskt handlingsprogram 2026–2030. Programsidan och den länkade PDF-filen öppnades; PDF:en lästes i fulltext och AI-avsnittet kontrollerades. Programmet bekräftar befintliga uppgifter om demokratisk kontroll, kunskapslyft, offentlig användning, integritet, upphovsrätt och digital innovation. En källa lades till och tre befintliga positionsposter fick kompletterande belägg; inga nya ståndpunkter, förslag eller riksdagsaktiviteter lades till."
+  },
+  {
+    "id": "granskning-kd-vard-och-l-manifestofarskhet-2026-07-28",
+    "partyId": null,
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-28",
+    "topicsReviewed": ["vard-omsorg", "integritet", "demokrati", "forsvar"],
+    "unresolvedQuestions": [
+      "Kristdemokraternas sjukvårdsprogram beskriver inte modeller för klinisk validering, patienters samtycke eller ansvar vid AI-stödda bedömningar.",
+      "Liberalernas valmanifest öppnades på nytt. Dess skrivningar om algoritmer, desinformation, cybersäkerhet och data ger inte i sig en avgränsad AI-position för de ännu ogranskade ämnena integritet, demokrati eller försvar."
+    ],
+    "notes": "Färskhetsgranskning av Kristdemokraternas nya sökindex och den officiella PDF:en En sjukvård för 2030-talet, beslutad av rikstinget 2025. PDF:en öppnades och lästes i fulltext. Den ersätter den tidigare KD-luckposten för vård och omsorg med ett dokumenterat AI-relaterat förslag om EHDS, nationell digital infrastruktur, hälsodata för AI-modeller och AI i diagnostik. Liberalernas valmanifestkapitel 6, 7 och 8 öppnades och lästes i fulltext som manifestofärskhet; inga ytterligare avgränsade AI-poster skrevs. KD:s webbplats och Riksdagens öppna data för KD 2025/26 kontrollerades även; den enda direkta AI-motionsträffen var enskild motion 2025/26:3667 och användes inte som partilinje."
   }
 ]

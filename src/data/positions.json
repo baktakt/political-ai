@@ -1460,14 +1460,14 @@
     "id": "kd-vard-omsorg",
     "partyId": "kd",
     "topicId": "vard-omsorg",
-    "summary": "Ingen egen dokumenterad KD-ståndpunkt om AI i vård och omsorg hittades i de granskade partikällorna.",
-    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Sjukvård, E-hälsa, Äldre och Digitalisering, samt Riksdagens öppna data för KD-motioner under riksmötet 2025/26 med söktermer som AI, artificiell intelligens, välfärdsteknik, e-hälsa, digital vård och patientdata. En enskild KD-motion om moderniserad patientdatalag och digital vårdinfrastruktur hittades, men den är inte partinivå och innehåller inte en AI-position. Ingen partimotion, kommittémotion eller officiell partikälla om medicinsk AI, AI-beslutsstöd, patientdata för AI-utveckling eller AI i äldreomsorgen påträffades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Sjukvård, E-hälsa, Äldre och Digitalisering; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'välfärdsteknik', 'e-hälsa', 'digital vård' och 'patientdata'. Motion 2025/26:3110 var enskild motion av Larry Söder (KD), inte partinivåbelägg, och hittade AI-träffar saknades i vårdämnet.",
-    "sourceIds": [],
+    "summary": "Kristdemokraterna vill att Sverige ligger i framkant i genomförandet av det europeiska hälsodataområdet och den nationella digitala infrastrukturen, så att hälsodata kan användas för AI-modeller, forskning och uppföljning av läkemedel. Partiet pekar också ut diagnostik som ett område för nationell samordning med AI och andra tekniska lösningar.",
+    "detailedPosition": "I det sjukvårdspolitiska program som beslutades av rikstinget 2025 beskriver Kristdemokraterna patientdata som en grund för AI-modeller med potential att förbättra hälso- och sjukvården. Programmet föreslår snabbare genomförande av det europeiska hälsodataområdet och nationell digital infrastruktur för hälsodata, samt en samordnad insats om AI och andra tekniska lösningar inom diagnostik. Programmet preciserar inte modeller för klinisk validering, patienters samtycke eller ansvar vid AI-stödda bedömningar.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["partiprogram"],
+    "confidenceExplanation": "Klassningen bygger på Kristdemokraternas sjukvårdspolitiska program, beslutat av rikstinget 2025. Dokumentet innehåller ett uttryckligt förslag om hälsodata för utveckling av AI-modeller och beskriver AI i diagnostik. Det är en nyare officiell källa än den tidigare luckgranskningen.",
+    "sourceIds": ["kd-sjukvard-2030-talet-2025"],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-23"
+    "lastUpdatedAt": "2026-07-28"
   },
   {
     "id": "kd-demokrati",

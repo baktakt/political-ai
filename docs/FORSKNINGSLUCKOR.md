@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-27**. Detta dokument räknas som en del av
+Statusen är **2026-07-28**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -79,9 +79,13 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   regeringens gemensamma AI-strategi (där KD:s civilminister är ansvarigt
   statsråd) är dokumenterad.
 - **KD / strategi, utbildning, näringsliv, integritet, offentlig sektor,
-  vård, demokrati och försvar:** inga egna partinivåpositioner hittades i
+  demokrati och försvar:** inga egna partinivåpositioner hittades i
   granskade partikanaler och Riksdagens öppna data. Relevanta träffar var
   regeringspolitik eller enskilda motioner, inte KD-partilinje.
+- **KD / vård och omsorg:** Kristdemokraternas sjukvårdspolitiska program,
+  beslutat av rikstinget 2025, har en dokumenterad AI-koppling till hälsodata,
+  EHDS och diagnostik. Programmet anger inte modeller för klinisk validering,
+  samtycke eller ansvar vid AI-stödda bedömningar.
 - **SD / arbetsmarknad:** berörs endast indirekt (via skolans värde för
   "framtidens arbetsmarknad"); SD:s egen valplattform 2026 innehåller
   överhuvudtaget inga AI-relaterade skrivningar (verifierat genom
