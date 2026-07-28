@@ -588,6 +588,18 @@
     "notes": "Fokuserad luckgranskning av Moderaterna för integritet, byggd miljö, AI:s miljöavtryck och rekyleffekter. Moderaternas officiella stämmohandlingar 2025 öppnades och fulltextsöktes. Riksdagens öppna data för parti=M och riksmötet 2025/26 söktes med AI och artificiell intelligens; de relevanta träffarna var enskilda motioner. En regeringspolitisk position om AI-ansiktsigenkänning i realtid och en generell position om AI i hållbart byggande lades till. Två uttryckliga luckposter skrevs för AI:s miljöavtryck respektive rekyleffekter."
   },
   {
+    "id": "granskning-riksdagsutfall-s-c-varmotion-2026-07-28",
+    "partyId": null,
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-28",
+    "topicsReviewed": ["arbetsmarknad"],
+    "unresolvedQuestions": [
+      "Kontrollen avser endast de två partimotionerna med anledning av 2026 års ekonomiska vårproposition; andra registrerade motionsutfall har inte granskats i denna körning.",
+      "Partiernas politiska ståndpunkter har inte omvärderats: kontrollen gäller enbart riksdagens dokumenterade behandlingsutfall."
+    ],
+    "notes": "Färskhetsgranskning av Riksdagens öppna data för Socialdemokraternas partimotion 2025/26:4101 och Centerpartiets partimotion 2025/26:4110. Båda fulltexterna öppnades och deras strukturerade förslagsstatus kontrollerades. I båda dokumenten anges utskottet Avslag och kammaren Avslag för yrkandet om riktlinjer för den ekonomiska politiken; behandlande betänkande är 2025/26:FiU20. En Centerparti-proposal och tre riksdagsaktiviteter uppdaterades."
+  },
+  {
     "id": "granskning-mp-handlingsprogram-2026-07-28",
     "partyId": "mp",
     "reviewer": "Hermes Agent (AI-assisterad research)",
