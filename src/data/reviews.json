@@ -624,6 +624,18 @@
     "notes": "Färskhetsgranskning av Kristdemokraternas nya sökindex och den officiella PDF:en En sjukvård för 2030-talet, beslutad av rikstinget 2025. PDF:en öppnades och lästes i fulltext. Den ersätter den tidigare KD-luckposten för vård och omsorg med ett dokumenterat AI-relaterat förslag om EHDS, nationell digital infrastruktur, hälsodata för AI-modeller och AI i diagnostik. Liberalernas valmanifestkapitel 6, 7 och 8 öppnades och lästes i fulltext som manifestofärskhet; inga ytterligare avgränsade AI-poster skrevs. KD:s webbplats och Riksdagens öppna data för KD 2025/26 kontrollerades även; den enda direkta AI-motionsträffen var enskild motion 2025/26:3667 och användes inte som partilinje."
   },
   {
+    "id": "granskning-l-demokrati-manifest-2026-07-29",
+    "partyId": "l",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-29",
+    "topicsReviewed": ["demokrati"],
+    "unresolvedQuestions": [
+      "Valmanifestet preciserar inte vilken lagstiftning eller vilka befogenheter som avses för rättsväsendet.",
+      "Manifestet innehåller ingen särskild skrivning om märkning av AI-genererat kampanjmaterial, valpåverkan eller plattformars ansvar för syntetiskt innehåll."
+    ],
+    "notes": "Manifestobevakning och riktad granskning av Liberalernas valmanifest 2026. Manifestets startsida samt kapitlen Skydd för friheten, När du behöver samhället som mest och Ett Sverige som håller ihop öppnades och lästes. Kapitlet Skydd för friheten innehåller ett avgränsat AI-förslag om verktyg för rättsväsendet mot kränkande AI-deepfakes; en källa, en ståndpunkt och ett förslag har lagts till för redaktionell granskning. Moderaternas löpande vallöftessida, Kristdemokraternas Sverigedrömmen-sida och Riksdagens AI-träffar för M, KD och L kontrollerades också. M- och KD-materialet gav ingen ny AI-skrivning; direkta riksdagsträffar var enskilda motioner och användes inte som partilinje."
+  },
+  {
     "id": "granskning-mp-v-riksdagsutfall-integritet-2026-07-28",
     "partyId": null,
     "reviewer": "Hermes Agent (AI-assisterad research)",

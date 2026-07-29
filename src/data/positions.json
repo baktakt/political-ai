@@ -1973,6 +1973,19 @@
     "lastUpdatedAt": "2026-07-27"
   },
   {
+    "id": "l-demokrati",
+    "partyId": "l",
+    "topicId": "demokrati",
+    "summary": "Liberalerna vill ge rättsväsendet verktyg att stoppa personer som skickar sexuella bilder eller kränkande AI-deepfakes. Valmanifestet kopplar också algoritmstyrda nyhetsflöden och desinformation till ökad polarisering.",
+    "detailedPosition": "I Liberalernas valmanifest 2026, kapitlet Skydd för friheten, föreslår partiet att rättsväsendet ska få verktyg att stoppa den som skickar sexuella bilder eller kränkande AI-deepfakes. I samma kapitel beskriver partiet hur algoritmstyrda nyhetsflöden och desinformation kan öka polariseringen. Källan anger inte vilken lagstiftning eller vilka befogenheter som avses, och behandlar inte särskilt märkning av AI-genererat kampanjmaterial, valpåverkan eller plattformars ansvar för syntetiskt innehåll.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["valmanifest"],
+    "confidenceExplanation": "Klassningen bygger på en öppnad sida i Liberalernas officiella valmanifest 2026. Manifestet innehåller ett uttryckligt förslag om rättsväsendets verktyg mot kränkande AI-deepfakes, men preciserar inte den rättsliga utformningen eller en bredare AI-politik för val och desinformation.",
+    "sourceIds": ["l-valmanifest-2026-deepfakes"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-07-29"
+  },
+  {
     "id": "m-rekyleffekter",
     "partyId": "m",
     "topicId": "rekyleffekter",

@@ -614,6 +614,18 @@
     "workflowStatus": "behover_redaktionell_granskning"
   },
   {
+    "id": "l-forslag-verktyg-mot-ai-deepfakes-2026",
+    "partyId": "l",
+    "topicIds": ["demokrati"],
+    "title": "Verktyg för rättsväsendet mot kränkande AI-deepfakes",
+    "description": "I valmanifestet 2026 föreslår Liberalerna att rättsväsendet ska få verktyg att stoppa den som skickar sexuella bilder eller kränkande AI-deepfakes. Källan preciserar inte lagstiftningens eller befogenheternas utformning.",
+    "date": "2026",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": ["l-valmanifest-2026-deepfakes"],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
     "id": "mp-forslag-digital-social-omstallning-smabolag-2025",
     "partyId": "mp",
     "topicIds": ["naringsliv", "social-hallbarhet"],

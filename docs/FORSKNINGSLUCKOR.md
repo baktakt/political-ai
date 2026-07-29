@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-28**. Detta dokument räknas som en del av
+Statusen är **2026-07-29**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 114 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 115 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -41,7 +41,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
   SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar där ingen dokumenterad partinivåposition hittades).
-- **Ej granskade:** 38. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 37. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -57,6 +57,9 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 `mp` (Miljöpartiet) — 17 dokumenterade eller indirekt berörda ståndpunkter +
 2 uttryckliga "ingen dokumenterad ståndpunkt" (`byggd-miljo`,
 `rekyleffekter`).
+
+`l` (Liberalerna) — demokratifrågan har kompletterats 2026-07-29 med ett
+manifestförslag om rättsväsendets verktyg mot kränkande AI-deepfakes.
 
 ## Kända enskilda luckor inom det granskade materialet
 
