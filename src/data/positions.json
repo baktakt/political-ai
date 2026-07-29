@@ -1997,5 +1997,70 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-27"
-  }
+  },
+{
+  "id": "m-kultur-upphovsratt",
+  "partyId": "m",
+  "topicId": "kultur-upphovsratt",
+  "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex med kultur som ämnesområde samt Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller kulturpolitiska avsnitt men ingen träff på upphovsrätt i AI-sammanhang. Sökning i Riksdagens öppna data på upphovsrätt för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-29"
+},
+{
+  "id": "m-suveranitet",
+  "partyId": "m",
+  "topicId": "suveranitet",
+  "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar AI-kompetens, forskning och internationell teknikdiplomati, men inte svenska språkmodeller, superdatorer, molnberoende eller statlig AI-infrastruktur. Riksdagsträffarna på artificiell intelligens var enskilda motioner och används inte som partilinje. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, språkmodell, infrastruktur, superdator, moln och data; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. De direkta AI-träffarna i Riksdagens data var enskilda motioner, inte partimotioner eller kommittémotioner.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-29"
+},
+{
+  "id": "m-jamlikhet",
+  "partyId": "m",
+  "topicId": "jamlikhet",
+  "summary": "Ingen dokumenterad partinivåposition om AI och algoritmisk diskriminering, digitalt utanförskap eller AI-specifik tillgänglighet hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller generella skrivningar om diskriminering och tillgänglighet, men ingen AI-specifik koppling till dessa frågor. Riksdagssökning på algoritmisk diskriminering för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot skydd mot diskriminering eller åtgärder för digital delaktighet.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, diskriminering, tillgänglighet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen algoritmisk diskriminering. Inga partimotioner eller kommittémotioner med en AI-specifik jämlikhetsposition hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-29"
+},
+{
+  "id": "m-barn-unga",
+  "partyId": "m",
+  "topicId": "barn-unga",
+  "summary": "Ingen dokumenterad partinivåposition om AI riktad till barn och unga hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar barn, unga och AI i skilda avsnitt, men inte AI-kompisar, chattbottar, barns data, åldersverifiering eller AI-relaterade deepfake-övergrepp mot barn. Sökning i Riksdagens öppna data på barn AI för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder för barn och unga.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, barn, unga och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen barn AI. Inga partimotioner eller kommittémotioner med en AI-specifik position för barn och unga hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-29"
+},
+{
+  "id": "m-social-hallbarhet",
+  "partyId": "m",
+  "topicId": "social-hallbarhet",
+  "summary": "Ingen dokumenterad partinivåposition om hur AI:s vinster och omställningskostnader ska fördelas som en fråga om social hållbarhet hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar AI:s arbetsmarknadseffekter, kompetens och nya arbetstillfällen, men inte fördelning av AI:s produktivitetsvinster, regionala skillnader eller särskilda trygghets- och omställningsinsatser som social hållbarhet i AI-politiken. Sökning i Riksdagens öppna data på social hållbarhet AI för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, automatisering, social hållbarhet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen social hållbarhet AI. Inga partimotioner eller kommittémotioner med en AI-specifik position om rättvis omställning hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-29"
+}
 ]

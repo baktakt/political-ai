@@ -257,5 +257,12 @@
     "title": "Riksdagsutfall för MP:s och V:s AI-motioner om ansiktsigenkänning verifierade",
     "description": "Dokumentstatusen för Miljöpartiets och Vänsterpartiets följdmotioner om polisens AI-baserade ansiktsigenkänning i realtid har kontrollerats. Samtliga berörda yrkanden anges som avslagna; inga nya partipolitiska påståenden har lagts till.",
     "type": "innehall"
-  }
+  },
+{
+  "id": "2026-07-29-m-ai-luckor-kultur-suveranitet-jamlikhet-barn-social",
+  "date": "2026-07-29",
+  "title": "Moderaternas återstående AI-ämnen har granskats",
+  "description": "Moderaternas stämmohandlingar, politikindex och riksdagsmaterial har granskats för fem återstående AI-ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI och kultur/upphovsrätt, AI-suveränitet, AI-specifik jämlikhet, barn och unga eller social hållbarhet; luckposterna väntar på redaktionell granskning.",
+  "type": "innehall"
+}
 ]
