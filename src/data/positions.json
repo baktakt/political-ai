@@ -2114,5 +2114,18 @@
   "sourceIds": [],
   "workflowStatus": "behover_redaktionell_granskning",
   "lastUpdatedAt": "2026-07-30"
+  },
+  {
+  "id": "kd-barn-unga",
+  "partyId": "kd",
+  "topicId": "barn-unga",
+  "summary": "Kristdemokraterna skriver att barn ska skyddas från teknikföretags skadliga algoritmer. Källan nämner inte AI, AI-kompisar, barns data eller konkreta åtgärder.",
+  "detailedPosition": "I Kristdemokraternas officiella nyhet om Sverigedrömmen och på den länkade kampanjsidan anges att barn ska skyddas från teknikföretags skadliga algoritmer. Materialet anger inte vilken teknik som omfattas, hur algoritmerna bedöms som skadliga eller vilka styrmedel som avses. Det nämner inte uttryckligen artificiell intelligens, AI-kompisar eller chattbottar, barns personuppgifter, deepfake-övergrepp eller åldersverifiering. Tolkning: skrivningen berör ämnet genom algoritmer på digitala plattformar, men är inte en avgränsad AI-politisk position.",
+  "evidenceStatus": "indirekt_berord",
+  "evidenceTypes": ["partiprogram"],
+  "confidenceExplanation": "Kristdemokraternas officiella nyhet från 28 juli 2026 och den länkade kampanjsidan öppnades och lästes. Formuleringen om barns skydd från teknikföretags algoritmer är uttrycklig, men källan saknar AI-terminologi och konkreta policyåtgärder. Därför klassas den som indirekt berörd. Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26 söktes även med AI, artificiell intelligens, algoritm, deepfake och digitalisering; träffarna var enskilda motioner eller saknade AI-koppling på partinivå.",
+  "sourceIds": ["kd-sverigedrommen-algoritmer-2026"],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-30"
   }
   ]

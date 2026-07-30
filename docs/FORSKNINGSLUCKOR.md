@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 124 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 125 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -43,7 +43,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
   SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar där ingen dokumenterad partinivåposition hittades).
-- **Ej granskade:** 28. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 27. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 
@@ -96,6 +96,10 @@ manifestförslag om rättsväsendets verktyg mot kränkande AI-deepfakes.
   beslutat av rikstinget 2025, har en dokumenterad AI-koppling till hälsodata,
   EHDS och diagnostik. Programmet anger inte modeller för klinisk validering,
   samtycke eller ansvar vid AI-stödda bedömningar.
+- **KD / barn och unga:** Kristdemokraternas Sverigedrömmen-sida från 28 juli
+  2026 skriver att barn ska skyddas från teknikföretags skadliga algoritmer.
+  Skrivningen nämner inte AI eller konkreta åtgärder och är därför endast
+  indirekt belagd för detta AI-ämne.
 - **SD / arbetsmarknad:** berörs endast indirekt (via skolans värde för
   "framtidens arbetsmarknad"); SD:s egen valplattform 2026 innehåller
   överhuvudtaget inga AI-relaterade skrivningar (verifierat genom

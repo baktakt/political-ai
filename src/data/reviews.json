@@ -681,5 +681,17 @@
     "KD:s relevanta riksdagsträff på upphovsrätt under 2025/26 var en enskild motion och har inte använts som belägg för partilinje."
   ],
   "notes": "Fokuserad luckgranskning av Kristdemokraterna för kultur och upphovsrätt, AI-suveränitet, AI:s miljöavtryck och rekyleffekter. Partiets officiella sidor om kultur och media, digitalisering, forskning, energi och energieffektivisering öppnades och lästes. Riksdagens öppna data för KD under 2024/25 och 2025/26 söktes med artificiell intelligens, AI, upphovsrätt, deepfake och datacenter. Ingen partimotion eller kommittémotion med en avgränsad AI-specifik position för de fyra ämnena hittades. Fyra uttryckliga luckposter lades till för redaktionell granskning."
+  },
+  {
+  "id": "granskning-kd-barn-algoritmer-2026-07-30",
+  "partyId": "kd",
+  "reviewer": "Hermes Agent (AI-assisterad research)",
+  "reviewDate": "2026-07-30",
+  "topicsReviewed": ["barn-unga"],
+  "unresolvedQuestions": [
+    "Kristdemokraternas skrivning om teknikföretags algoritmer nämner inte AI, AI-kompisar, barns data eller konkreta styrmedel; den är därför endast indirekt belagd för AI-ämnet.",
+    "Kristdemokraternas nationella valmanifest inför valet 2026-09-13 har inte verifierats. Sverigedrömmen är ett aktuellt kampanjmaterial, men inte verifierat som ett heltäckande valmanifest."
+  ],
+  "notes": "Färskhets- och manifestobevakning av Kristdemokraterna. Partiets startsida, den officiella nyheten Sverigedrömmen från 28 juli 2026 och den länkade kampanjsidan öppnades och lästes. Skrivningen om att skydda barn från teknikföretags skadliga algoritmer lades till som indirekt berörd position för redaktionell granskning. Kristdemokraternas digitaliserings- och forskningssidor öppnades också. Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26 söktes med AI, artificiell intelligens, algoritm, deepfake och digitalisering; direkta träffar var enskilda motioner eller saknade AI-koppling på partinivå."
   }
   ]

@@ -271,5 +271,12 @@
   "title": "Kristdemokraternas AI-material granskat för fyra återstående ämnen",
   "description": "Kristdemokraternas officiella politikmaterial och riksdagsmaterial har granskats för kultur och upphovsrätt, AI-suveränitet, AI:s miljöavtryck och rekyleffekter. Inga dokumenterade partinivåpositioner hittades; luckposterna väntar på redaktionell granskning.",
   "type": "innehall"
+  },
+  {
+  "id": "2026-07-30-kd-barn-algoritmer",
+  "date": "2026-07-30",
+  "title": "Kristdemokraternas kampanjmaterial granskat för barn och algoritmer",
+  "description": "Kristdemokraternas Sverigedrömmen-material från 28 juli 2026 har lagts till som källa. Det innehåller en skrivning om att skydda barn från teknikföretags skadliga algoritmer; eftersom AI och konkreta åtgärder inte nämns är posten indirekt berörd och väntar på redaktionell granskning.",
+  "type": "innehall"
   }
   ]

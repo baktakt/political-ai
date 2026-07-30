@@ -1138,5 +1138,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "kd-sverigedrommen-algoritmer-2026",
+    "title": "Sverigedrömmen – fyra hörnstenar för ett starkare Sverige",
+    "publisher": "Kristdemokraterna (kristdemokraterna.se)",
+    "author": null,
+    "publicationDate": "2026-07-28",
+    "url": "https://kristdemokraterna.se/arkiv/nyheter/2026/2026-07-28-sverigedrommen---4-hornstenar-for-ett-starkare-sverige",
+    "accessedAt": "2026-07-30",
+    "sourceType": "partiwebb",
+    "excerpt": "Barnen ska skyddas från techjättarnas skadliga algoritmer.",
+    "supportExplanation": "Kristdemokraternas officiella nyhet om Sverigedrömmen, publicerad 28 juli 2026 och med länk till kampanjsidan. Den uttrycker en avgränsad partipolitisk skrivning om skydd för barn mot teknikföretags algoritmer, men nämner inte AI, konkreta styrmedel eller AI-kompisar.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
