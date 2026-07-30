@@ -2062,5 +2062,57 @@
   "sourceIds": [],
   "workflowStatus": "behover_redaktionell_granskning",
   "lastUpdatedAt": "2026-07-29"
-}
-]
+  },
+  {
+  "id": "kd-kultur-upphovsratt",
+  "partyId": "kd",
+  "topicId": "kultur-upphovsratt",
+  "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om kultur och media samt digitalisering, och Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. De öppnade partisidorna innehåller kultur- respektive digitaliseringspolitik, men ingen AI-specifik skrivning om upphovsrätt, ersättning, träning av AI-modeller eller deepfakes. Riksdagssökning på upphovsrätt gav endast enskild motion och ingen partimotion eller kommittémotion med en AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om kultur och media samt digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI, upphovsrätt och deepfake. Ingen partimotion eller kommittémotion med en AI-specifik position om kultur eller upphovsrätt hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-30"
+  },
+  {
+  "id": "kd-suveranitet",
+  "partyId": "kd",
+  "topicId": "suveranitet",
+  "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om digitalisering och forskning, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. De öppnade sidorna behandlar bland annat digitalisering, akademisk autonomi och forskning, men inte svenska språkmodeller, superdatorer, molnberoende, statlig AI-infrastruktur eller leverantörsberoende. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om digitalisering och forskning; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för språkmodell, superdator, moln och data. Ingen partimotion eller kommittémotion med en AI-specifik suveränitetsposition hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-30"
+  },
+  {
+  "id": "kd-miljoavtryck",
+  "partyId": "kd",
+  "topicId": "miljoavtryck",
+  "summary": "Ingen dokumenterad partinivåposition om AI:s eget miljöavtryck hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om energi, energieffektivisering och digitalisering, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. Sidorna behandlar energisystem och energieffektivisering, men inte AI- eller datacenters el- och vattenförbrukning, hårdvarans livscykel, miljörapportering eller AI-specifika miljökrav. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI och datacenter. Partisidorna kontrollerades också för datahall, energi, elförbrukning, vatten, resurser och klimat. Ingen partimotion eller kommittémotion med en AI-specifik miljöavtrycksposition hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-30"
+  },
+  {
+  "id": "kd-rekyleffekter",
+  "partyId": "kd",
+  "topicId": "rekyleffekter",
+  "summary": "Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter eller total resursanvändning hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om energi, energieffektivisering och digitalisering, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. Sidorna behandlar energieffektivisering, men inte om AI-driven effektivisering kan öka den totala användningen av beräkning, energi, transporter eller andra resurser. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot styrmedel på området.",
+  "evidenceStatus": "ingen_dokumenterad",
+  "evidenceTypes": [],
+  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för rekyleffekt, resursanvändning, energi, elförbrukning, effektivisering, konsumtion och klimat. Ingen partimotion eller kommittémotion med en AI-specifik position om rekyleffekter hittades.",
+  "sourceIds": [],
+  "workflowStatus": "behover_redaktionell_granskning",
+  "lastUpdatedAt": "2026-07-30"
+  }
+  ]

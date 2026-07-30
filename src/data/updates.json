@@ -264,5 +264,12 @@
   "title": "Moderaternas återstående AI-ämnen har granskats",
   "description": "Moderaternas stämmohandlingar, politikindex och riksdagsmaterial har granskats för fem återstående AI-ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI och kultur/upphovsrätt, AI-suveränitet, AI-specifik jämlikhet, barn och unga eller social hållbarhet; luckposterna väntar på redaktionell granskning.",
   "type": "innehall"
-}
-]
+  },
+  {
+  "id": "2026-07-30-kd-ai-luckor-kultur-suveranitet-miljo-rekyl",
+  "date": "2026-07-30",
+  "title": "Kristdemokraternas AI-material granskat för fyra återstående ämnen",
+  "description": "Kristdemokraternas officiella politikmaterial och riksdagsmaterial har granskats för kultur och upphovsrätt, AI-suveränitet, AI:s miljöavtryck och rekyleffekter. Inga dokumenterade partinivåpositioner hittades; luckposterna väntar på redaktionell granskning.",
+  "type": "innehall"
+  }
+  ]
