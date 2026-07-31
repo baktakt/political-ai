@@ -1798,20 +1798,21 @@
     "id": "c-reglering",
     "partyId": "c",
     "topicId": "reglering",
-    "summary": "Centerpartiet vill se över hur GDPR har genomförts i svensk lag för att främja AI-utveckling. Partiet vill samtidigt att AI-utveckling ska ske med respekt för individens frihet, rättssäkerhet och integritet.",
-    "detailedPosition": "I kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar Centerpartiet på en översyn av GDPR-implementeringen i svensk lag i syfte att främja AI-utvecklingen. Motionen beskriver datatillgång som central för AI och menar att dataskyddsförordningen ibland hindrar datadelning och företags möjlighet att använda AI. Partiets officiella AI-sida anger samtidigt att etik och integritet ska komma först och att utvecklingen ska ske med respekt för individens frihet och rättssäkerhet. Tolkning: källorna dokumenterar både ett konkret reformyrkande om dataskyddsreglernas tillämpning och en generell integritetsprincip, men inte en fullständig position om tillsyn eller EU:s AI-förordning.",
+    "summary": "Centerpartiet vill se över hur GDPR har genomförts i svensk lag för att främja AI-utveckling och vill att framtida forskningsetisk reglering även behandlar etiska frågor kring AI. Partiet vill samtidigt att AI-utveckling ska ske med respekt för individens frihet, rättssäkerhet och integritet.",
+    "detailedPosition": "I kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar Centerpartiet på en översyn av GDPR-implementeringen i svensk lag i syfte att främja AI-utvecklingen. Motionen beskriver datatillgång som central för AI och menar att dataskyddsförordningen ibland hindrar datadelning och företags möjlighet att använda AI. I följdmotionen om etikprövning (2025/26:4156) föreslår partiet en ny utredning om ett sammanhållet, förutsägbart och rättssäkert forskningsetiskt system. Motionen anger att en framtida reglering ska behandla etiska frågor kring bland annat AI och stora datamängder. Partiets officiella AI-sida anger samtidigt att etik och integritet ska komma först och att utvecklingen ska ske med respekt för individens frihet och rättssäkerhet. Tolkning: källorna dokumenterar konkreta reformyrkanden om dataskyddsreglernas tillämpning och forskningsetisk reglering, men inte en fullständig position om tillsyn eller EU:s AI-förordning.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "motion",
       "regelgivning"
     ],
-    "confidenceExplanation": "Kommittémotion 2025/26:2832 är en partinivåmotion med ett uttryckligt yrkande om översyn av GDPR-implementeringen för AI-utveckling. Den officiella AI-sidan, öppnad på nytt 2026-07-26, kompletterar med principer om etik, integritet och rättssäkerhet.",
+    "confidenceExplanation": "Kommittémotion 2025/26:2832 är en partinivåmotion med ett uttryckligt yrkande om översyn av GDPR-implementeringen för AI-utveckling. Kommittémotion 2025/26:4156 är en partinivåmotion som föreslår en utredning om forskningsetisk reglering och uttryckligen nämner AI som ett område för framtida reglering. Den officiella AI-sidan kompletterar med principer om etik, integritet och rättssäkerhet.",
     "sourceIds": [
       "c-mot-2025-2832",
+      "c-mot-2026-4156",
       "c-webb-ai"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-26"
+    "lastUpdatedAt": "2026-07-31"
   },
   {
     "id": "c-forsvar",

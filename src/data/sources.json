@@ -1153,5 +1153,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-mot-2026-4156",
+    "title": "Motion 2025/26:4156 med anledning av prop. 2025/26:260 En mer ändamålsenlig reglering av etikprövning av forskning som avser människor (kommittémotion, Anders Ådahl m.fl., C)",
+    "publisher": "Sveriges riksdag",
+    "author": "Anders Ådahl m.fl. (C)",
+    "publicationDate": "2026-05-13",
+    "url": "https://data.riksdagen.se/dokument/HD024156",
+    "accessedAt": "2026-07-31",
+    "sourceType": "motion",
+    "excerpt": "En framtida reglering [måste] adressera de snabbt växande etiska frågorna kring exempelvis artificiell intelligens (AI), djurförsök och hantering av stora datamängder.",
+    "supportExplanation": "Kommittémotion på partinivå. Centerpartiet föreslår en ny utredning om ett sammanhållet och rättssäkert forskningsetiskt system och anger att en framtida reglering ska behandla etiska frågor kring bland annat AI.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

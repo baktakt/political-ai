@@ -727,5 +727,18 @@
     "topicIds": ["naringsliv", "social-hallbarhet"],
     "sourceIds": ["mp-mot-2025-3282"],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-4156",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "En mer ändamålsenlig reglering av etikprövning av forskning som avser människor (kommittémotion)",
+    "date": "2026-05-13",
+    "documentNumber": "2025/26:4156",
+    "result": "Motionens två yrkanden avslogs i riksdagsbehandlingen (bet. 2025/26:UbU31).",
+    "partyLevel": true,
+    "topicIds": ["reglering"],
+    "sourceIds": ["c-mot-2026-4156"],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

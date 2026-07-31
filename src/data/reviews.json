@@ -693,5 +693,17 @@
     "Kristdemokraternas nationella valmanifest inför valet 2026-09-13 har inte verifierats. Sverigedrömmen är ett aktuellt kampanjmaterial, men inte verifierat som ett heltäckande valmanifest."
   ],
   "notes": "Färskhets- och manifestobevakning av Kristdemokraterna. Partiets startsida, den officiella nyheten Sverigedrömmen från 28 juli 2026 och den länkade kampanjsidan öppnades och lästes. Skrivningen om att skydda barn från teknikföretags skadliga algoritmer lades till som indirekt berörd position för redaktionell granskning. Kristdemokraternas digitaliserings- och forskningssidor öppnades också. Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26 söktes med AI, artificiell intelligens, algoritm, deepfake och digitalisering; direkta träffar var enskilda motioner eller saknade AI-koppling på partinivå."
+  },
+  {
+    "id": "granskning-c-reglering-forskningsetik-2026-07-31",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-31",
+    "topicsReviewed": ["reglering"],
+    "unresolvedQuestions": [
+      "Motionens konkreta yrkanden gäller överklagande av granskningsbeslut och en ny utredning om forskningsetik; AI nämns i motiveringen som ett område som framtida reglering ska omfatta, utan ett avgränsat AI-yrkande.",
+      "Moderaternas, Kristdemokraternas och Miljöpartiets åtkomliga val- och programsidor kontrollerades för nya AI-skrivningar. Ingen ny, heltäckande 2026-valplattform från M eller KD verifierades; MP:s handlingsprogram 2026–2030 fanns redan i datan och återanvändes inte som ny källa."
+    ],
+    "notes": "Fokuserad färskhetsgranskning av Centerpartiets regleringsposition. Riksdagens öppna data för C och riksmötet 2025/26 söktes med AI, artificiell intelligens och deepfake; kommittémotion 2025/26:4156 öppnades och lästes i fulltext. Motionen är en kommittémotion av Anders Ådahl m.fl. (C), föreslår en ny utredning om forskningsetisk reglering och anger uttryckligen AI som ett etiskt område för framtida reglering. Källan lades till och C:s redan befintliga regleringsposition och en riksdagsaktivitet uppdaterades för redaktionell granskning."
   }
   ]
