@@ -292,5 +292,12 @@
     "title": "Liberalernas AI-sida har granskats för fem ämnen",
     "description": "Liberalernas officiella AI-sida har granskats för offentlig sektor, vård och omsorg, integritet, försvar och reglering. Fem avgränsade positioner har lagts till för redaktionell granskning; sidan saknar detaljer om bland annat vårdansvar, automatiserade beslut och svensk AI-tillsyn.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-31-kd-aterstaende-ai-luckor",
+    "date": "2026-07-31",
+    "title": "Kristdemokraternas återstående AI-ämnen har granskats",
+    "description": "Kristdemokraternas officiella digitaliseringsmaterial och riksdagsmaterial har granskats för fem återstående AI-ämnen. Inga dokumenterade partinivåpositioner hittades om AI-reglering, AI-specifik jämlikhet, AI som hållbarhetsverktyg, byggd miljö eller social hållbarhet; luckposterna väntar på redaktionell granskning.",
+    "type": "innehall"
   }
   ]

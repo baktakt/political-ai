@@ -714,5 +714,14 @@
     "topicsReviewed": ["offentlig-sektor", "vard-omsorg", "integritet", "forsvar", "reglering"],
     "unresolvedQuestions": ["Liberalernas AI-sida anger inte detaljer om automatiserade myndighetsbeslut, vårdens kliniska AI-användning, ansiktsigenkänning eller hur en europeisk AI-säkerhetsstrategi ska utformas.", "Riksdagens öppna data för L under 2025/26 söktes med artificiell intelligens, AI, deepfake, algoritm, ansiktsigenkänning och datacenter. AI-träffarna var enskilda motioner och har inte använts som belägg för partilinje."],
     "notes": "Fokuserad luckgranskning av Liberalerna för AI i offentlig sektor, vård och omsorg, integritet, försvar/cybersäkerhet och reglering. Liberalernas officiella AI-sida öppnades och lästes i sin helhet. Valmanifestets kapitel Frihet som håller för framtiden öppnades och kontrollerades som färskhetskontroll. Fem positioner från AI-sidan lades till för redaktionell granskning; ingen ny källa, proposal eller riksdagsaktivitet lades till."
+  },
+  {
+    "id": "granskning-kd-aterstaende-ai-luckor-2026-07-31",
+    "partyId": "kd",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-31",
+    "topicsReviewed": ["reglering", "jamlikhet", "hallbarhetsverktyg", "byggd-miljo", "social-hallbarhet"],
+    "unresolvedQuestions": ["Kristdemokraternas nationella valmanifest inför valet 2026-09-13 har inte verifierats. Ett publicerat manifest kan ge ny eller mer detaljerad AI-politik.", "Den enda direkta KD-träffen på AI under riksmötet 2025/26 var en enskild motion och har inte använts som belägg för partilinje."],
+    "notes": "Fokuserad granskning av Kristdemokraternas fem återstående AI-ämnen. Partiets startsida och officiella sida om Digitalisering öppnades och lästes. Riksdagens öppna data söktes för KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, algoritm, deepfake och datacenter. Inga partimotioner eller kommittémotioner och inga officiella partisidor med avgränsade AI-positioner för reglering, jämlikhet, AI som hållbarhetsverktyg, byggd miljö eller social hållbarhet hittades. Fem luckposter lades till för redaktionell granskning."
   }
   ]

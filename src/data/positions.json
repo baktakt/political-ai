@@ -2168,5 +2168,45 @@
   "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den uttrycker en tydlig, men övergripande, inriktning om innovationsfrämjande regler utan konkreta förslag om AI-förordningen eller nationell tillsyn.",
   "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "kd-reglering", "partyId": "kd", "topicId": "reglering",
+  "summary": "Ingen dokumenterad partinivåposition om AI-reglering hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, algoritm, deepfake och datacenter. Den direkta AI-träffen under 2025/26 var en enskild motion, inte en parti- eller kommittémotion. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om EU:s AI-förordning, nationell tillsyn, säkerhetskrav eller ansvar hittades. Frånvaron ska inte tolkas som att partiet är emot reglering på området.",
+  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
+  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, algoritm, deepfake och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik regleringsposition hittades.",
+  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "kd-jamlikhet", "partyId": "kd", "topicId": "jamlikhet",
+  "summary": "Ingen dokumenterad partinivåposition om AI och jämlikhet eller diskriminering hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om diskriminering, tillgång till AI-verktyg eller snedvridna automatiserade beslut hittades. Frånvaron ska inte tolkas som att partiet saknar politik om jämlikhet eller diskriminering i övrigt.",
+  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
+  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik jämlikhetsposition hittades.",
+  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "kd-hallbarhetsverktyg", "partyId": "kd", "topicId": "hallbarhetsverktyg",
+  "summary": "Ingen dokumenterad partinivåposition om AI som verktyg för miljö- eller klimatarbete hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om exempelvis klimatberäkningar, energisystem, naturvård eller miljöuppföljning hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
+  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om AI som hållbarhetsverktyg hittades.",
+  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "kd-byggd-miljo", "partyId": "kd", "topicId": "byggd-miljo",
+  "summary": "Ingen dokumenterad partinivåposition om AI i byggande eller samhällsbyggnad hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om byggande, bygglov, planering, fastighetsförvaltning eller annan byggd miljö hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
+  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om byggd miljö hittades.",
+  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "kd-social-hallbarhet", "partyId": "kd", "topicId": "social-hallbarhet",
+  "summary": "Ingen dokumenterad partinivåposition om AI och social hållbarhet hittades i de granskade källorna.",
+  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om social sammanhållning, välfärdens tillgänglighet eller andra sociala konsekvenser av AI hittades. Frånvaron ska inte tolkas som att partiet saknar socialpolitik i övrigt.",
+  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
+  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik position om social hållbarhet hittades.",
+  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
   }
   ]
