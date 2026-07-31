@@ -723,5 +723,17 @@
     "topicsReviewed": ["reglering", "jamlikhet", "hallbarhetsverktyg", "byggd-miljo", "social-hallbarhet"],
     "unresolvedQuestions": ["Kristdemokraternas nationella valmanifest inför valet 2026-09-13 har inte verifierats. Ett publicerat manifest kan ge ny eller mer detaljerad AI-politik.", "Den enda direkta KD-träffen på AI under riksmötet 2025/26 var en enskild motion och har inte använts som belägg för partilinje."],
     "notes": "Fokuserad granskning av Kristdemokraternas fem återstående AI-ämnen. Partiets startsida och officiella sida om Digitalisering öppnades och lästes. Riksdagens öppna data söktes för KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, algoritm, deepfake och datacenter. Inga partimotioner eller kommittémotioner och inga officiella partisidor med avgränsade AI-positioner för reglering, jämlikhet, AI som hållbarhetsverktyg, byggd miljö eller social hållbarhet hittades. Fem luckposter lades till för redaktionell granskning."
+  },
+  {
+    "id": "granskning-c-naringsliv-demokrati-2026-07-31",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-31",
+    "topicsReviewed": ["naringsliv", "demokrati"],
+    "unresolvedQuestions": [
+      "Nyheten om AI-centret anger inte centrets organisationsform, mottagare eller fördelning av de tre miljarderna.",
+      "Centerpartiets AI-sida identifierar demokratin som en risk men anger inga konkreta åtgärder om deepfakes, valpåverkan eller syntetiskt innehåll."
+    ],
+    "notes": "Fokuserad granskning av Centerpartiet för företagande/innovation och demokrati. Centerpartiets officiella AI-sida och nyheten om ett nationellt AI-center från 9 december 2025 öppnades och lästes. Riksdagens öppna data kontrollerades för C-motioner om AI och artificiell intelligens under riksmötena 2022/23–2025/26. Nyheten dokumenterar en satsning på tre miljarder kronor för ett nationellt AI-center med forsknings-, tillämpnings- och kommersialiseringsinriktning. AI-sidan nämner demokratin som en AI-risk men utan ämnesspecifika åtgärder. Två positioner och en befintlig förslagspost har lagts till eller uppdaterats för redaktionell granskning."
   }
   ]

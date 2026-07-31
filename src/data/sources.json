@@ -1168,5 +1168,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-nyhet-ai-center-2025",
+    "title": "Centerpartiet satsar tre miljarder kronor för att Sverige ska vinna AI-racet",
+    "publisher": "Centerpartiet (centerpartiet.se)",
+    "author": null,
+    "publicationDate": "2025-12-09",
+    "url": "https://www.centerpartiet.se/nyheter/2025/2025-12-09-centerpartiet-satsar-tre-miljarder-kronor-for-att-sverige-ska-vinna-ai-racet",
+    "accessedAt": "2026-07-31",
+    "sourceType": "partiwebb",
+    "excerpt": "Centerpartiet vill satsa tre miljarder för att inrätta ett nationellt AI-center som ska locka internationella toppforskare.",
+    "supportExplanation": "Centerpartiets officiella nyhet anger en satsning på tre miljarder kronor för ett nationellt AI-center. Texten kopplar centret till AI-forskning, praktisk testning, utvärdering, tillämpning, kommersialisering och samarbete mellan universitet och företag.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

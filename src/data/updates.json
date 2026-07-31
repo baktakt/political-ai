@@ -299,5 +299,12 @@
     "title": "Kristdemokraternas återstående AI-ämnen har granskats",
     "description": "Kristdemokraternas officiella digitaliseringsmaterial och riksdagsmaterial har granskats för fem återstående AI-ämnen. Inga dokumenterade partinivåpositioner hittades om AI-reglering, AI-specifik jämlikhet, AI som hållbarhetsverktyg, byggd miljö eller social hållbarhet; luckposterna väntar på redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-07-31-c-ai-center-naringsliv-demokrati",
+    "date": "2026-07-31",
+    "title": "Centerpartiets AI-center och demokratiska riskbedömning har granskats",
+    "description": "En officiell Centerparti-nyhet anger en satsning på tre miljarder kronor för ett nationellt AI-center med inriktning på forskning, tillämpning och kommersialisering. En näringslivsposition och en indirekt dokumenterad demokratipost har lagts till för redaktionell granskning; AI-sidan saknar konkreta förslag om exempelvis deepfakes och valpåverkan.",
+    "type": "innehall"
   }
   ]

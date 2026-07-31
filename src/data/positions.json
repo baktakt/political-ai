@@ -2170,6 +2170,22 @@
   "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
   },
   {
+  "id": "c-naringsliv", "partyId": "c", "topicId": "naringsliv",
+  "summary": "Centerpartiet vill satsa tre miljarder kronor på ett nationellt AI-center för att locka internationella AI-forskare. Partiet kopplar satsningen till forskning, praktisk tillämpning, kommersialisering och AI-relaterad tillväxt.",
+  "detailedPosition": "Centerpartiets officiella nyhet från den 9 december 2025 anger att partiet vill satsa tre miljarder kronor för att inrätta ett nationellt AI-center. Enligt texten ska centret locka internationella toppforskare och ha fokus på praktisk testning, utvärdering och tillämpning av AI i europeisk kontext. Partiet beskriver också ett nära samarbete mellan universitet och företag och att satsningen ska främja kommersialisering och tillväxt inom en framtidsbransch. Partiets AI-sida och valmanifest 2026 innehåller sedan tidigare förslag om ett nationellt AI-center och bättre förutsättningar för svenska företag och forskare. Tolkning: den aktuella nyheten preciserar finansieringsnivån och näringslivskopplingen, men inte centrets organisationsform eller fördelning av medlen.",
+  "evidenceStatus": "konkret_forslag", "evidenceTypes": ["valmanifest"],
+  "confidenceExplanation": "Klassningen bygger på en öppnad officiell Centerparti-nyhet med ett konkret belopp och ett avgränsat förslag om nationellt AI-center, kompletterad av partiets AI-sida och valmanifest 2026. Källorna anger forskning, företagssamverkan och kommersialisering men inte en fullständig genomförandeplan.",
+  "sourceIds": ["c-nyhet-ai-center-2025", "c-webb-ai", "c-valmanifest-2026"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "c-demokrati", "partyId": "c", "topicId": "demokrati",
+  "summary": "Centerpartiet skriver att AI medför risker för demokratin. Den öppnade AI-sidan anger inga konkreta förslag om deepfakes, valpåverkan, plattformsansvar eller märkning av AI-genererat innehåll.",
+  "detailedPosition": "På Centerpartiets officiella AI-sida anges att oron växer för AI:s risker för bland annat demokratin. Sidan beskriver samtidigt behovet av en ansvarsfull AI-utveckling med respekt för individens frihet och rättssäkerhet. Den innehåller dock inga avgränsade förslag om AI-genererat kampanjmaterial, deepfakes, bottar, desinformation, valens säkerhet eller plattformars ansvar. Tolkning: demokratifrågan är uttryckligen identifierad som en AI-risk, men den öppnade källan dokumenterar ingen särskild demokratipolitisk åtgärd.",
+  "evidenceStatus": "indirekt_berord", "evidenceTypes": ["partiprogram"],
+  "confidenceExplanation": "Centerpartiets officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen demokratin bland AI-riskerna men saknar konkreta förslag inom ämnets avgränsning; därför klassas posten som indirekt berörd.",
+  "sourceIds": ["c-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
   "id": "kd-reglering", "partyId": "kd", "topicId": "reglering",
   "summary": "Ingen dokumenterad partinivåposition om AI-reglering hittades i de granskade källorna.",
   "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, algoritm, deepfake och datacenter. Den direkta AI-träffen under 2025/26 var en enskild motion, inte en parti- eller kommittémotion. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om EU:s AI-förordning, nationell tillsyn, säkerhetskrav eller ansvar hittades. Frånvaron ska inte tolkas som att partiet är emot reglering på området.",

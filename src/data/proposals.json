@@ -409,13 +409,14 @@
       "naringsliv"
     ],
     "title": "Nationellt AI-center i världsklass",
-    "description": "Förslag i valmanifestet 2026 och på partiets AI-sida om ett nationellt AI-center; valmanifestet kopplar detta till Sveriges möjligheter att leda AI-utveckling, forskning, entreprenörskap och ny tillväxt.",
+    "description": "Förslag i valmanifestet 2026 och på partiets AI-sida om ett nationellt AI-center. En officiell partinyhet från december 2025 anger en satsning på tre miljarder kronor; partiet kopplar centret till AI-forskning, praktisk tillämpning, kommersialisering, entreprenörskap och tillväxt.",
     "date": "2026-06",
     "status": "framlagt",
     "implementationStatus": null,
     "sourceIds": [
       "c-valmanifest-2026",
-      "c-webb-ai"
+      "c-webb-ai",
+      "c-nyhet-ai-center-2025"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
   },
