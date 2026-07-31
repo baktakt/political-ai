@@ -705,5 +705,14 @@
       "Moderaternas, Kristdemokraternas och Miljöpartiets åtkomliga val- och programsidor kontrollerades för nya AI-skrivningar. Ingen ny, heltäckande 2026-valplattform från M eller KD verifierades; MP:s handlingsprogram 2026–2030 fanns redan i datan och återanvändes inte som ny källa."
     ],
     "notes": "Fokuserad färskhetsgranskning av Centerpartiets regleringsposition. Riksdagens öppna data för C och riksmötet 2025/26 söktes med AI, artificiell intelligens och deepfake; kommittémotion 2025/26:4156 öppnades och lästes i fulltext. Motionen är en kommittémotion av Anders Ådahl m.fl. (C), föreslår en ny utredning om forskningsetisk reglering och anger uttryckligen AI som ett etiskt område för framtida reglering. Källan lades till och C:s redan befintliga regleringsposition och en riksdagsaktivitet uppdaterades för redaktionell granskning."
+  },
+  {
+    "id": "granskning-l-offentlig-vard-integritet-forsvar-reglering-2026-07-31",
+    "partyId": "l",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-07-31",
+    "topicsReviewed": ["offentlig-sektor", "vard-omsorg", "integritet", "forsvar", "reglering"],
+    "unresolvedQuestions": ["Liberalernas AI-sida anger inte detaljer om automatiserade myndighetsbeslut, vårdens kliniska AI-användning, ansiktsigenkänning eller hur en europeisk AI-säkerhetsstrategi ska utformas.", "Riksdagens öppna data för L under 2025/26 söktes med artificiell intelligens, AI, deepfake, algoritm, ansiktsigenkänning och datacenter. AI-träffarna var enskilda motioner och har inte använts som belägg för partilinje."],
+    "notes": "Fokuserad luckgranskning av Liberalerna för AI i offentlig sektor, vård och omsorg, integritet, försvar/cybersäkerhet och reglering. Liberalernas officiella AI-sida öppnades och lästes i sin helhet. Valmanifestets kapitel Frihet som håller för framtiden öppnades och kontrollerades som färskhetskontroll. Fem positioner från AI-sidan lades till för redaktionell granskning; ingen ny källa, proposal eller riksdagsaktivitet lades till."
   }
   ]

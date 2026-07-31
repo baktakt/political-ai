@@ -2128,5 +2128,45 @@
   "sourceIds": ["kd-sverigedrommen-algoritmer-2026"],
   "workflowStatus": "behover_redaktionell_granskning",
   "lastUpdatedAt": "2026-07-30"
+  },
+  {
+  "id": "l-offentlig-sektor", "partyId": "l", "topicId": "offentlig-sektor",
+  "summary": "Liberalerna skriver att AI kan bidra till en effektivare offentlig sektor. AI-sidan anger inte vilka verksamheter eller beslutsprocesser som ska använda AI, eller vilka krav på insyn, mänsklig kontroll och upphandling som ska gälla.",
+  "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till en effektivare offentlig sektor. Sidan beskriver samtidigt att individens frihet, integritet och rättigheter ska skyddas när AI används i både offentlig och privat verksamhet. Den preciserar inte användning i automatiserade myndighetsbeslut, ansvarsfördelning, insyn, överklagande eller upphandling. Tolkning: partiet beskriver AI som en möjlig effektivisering i offentlig sektor, men sidan innehåller inte en närmare modell för offentlig AI-användning.",
+  "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
+  "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Sidan kopplar uttryckligen AI till en effektivare offentlig sektor men saknar avgränsade åtgärder för myndigheter, kommuner eller regioner.",
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "l-vard-omsorg", "partyId": "l", "topicId": "vard-omsorg",
+  "summary": "Liberalerna skriver att AI kan bidra till bättre sjukvård. Den öppnade AI-sidan anger inte konkreta förslag om diagnostik, patientdata, klinisk validering, ansvar eller AI i omsorgen.",
+  "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till bättre sjukvård. Sidan förklarar inte vilka vårdtillämpningar som avses och innehåller inte särskilda skrivningar om patientdata, kliniska beslutsstöd, patientsäkerhet, ansvar vid fel eller äldreomsorg. Tolkning: AI beskrivs som en möjlig utveckling för sjukvården, utan närmare vårdpolitisk utformning.",
+  "evidenceStatus": "indirekt_berord", "evidenceTypes": ["partiprogram"],
+  "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen bättre sjukvård som ett möjligt AI-bidrag, men utan vårdspecifika åtgärder eller avgränsningar. Därför klassas den som indirekt berörd.",
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "l-integritet", "partyId": "l", "topicId": "integritet",
+  "summary": "Liberalerna vill skydda individers integritet och rättigheter när AI används. Partiets AI-sida preciserar inte regler för ansiktsigenkänning, polisens AI-användning eller automatiserad profilering.",
+  "detailedPosition": "Liberalernas officiella AI-sida anger att en nationell AI-strategi ska skydda individers integritet och rättigheter, och att människors integritet och grundläggande rättigheter ska försvaras när AI används inom offentlig och privat verksamhet. Sidan tar inte ställning till ansiktsigenkänning på allmän plats, polisens AI-verktyg, datadelning eller andra konkreta övervakningsåtgärder. Tolkning: integritet och rättigheter anges som övergripande villkor för AI-användning, utan en särskild modell för AI-baserad övervakning.",
+  "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
+  "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Partiet uttrycker ett direkt krav på integritets- och rättighetsskydd vid AI-användning, men preciserar inte enskilda övervakningsverktyg eller rättsliga skydd.",
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "l-forsvar", "partyId": "l", "topicId": "forsvar",
+  "summary": "Liberalerna vill att EU antar en europeisk AI-säkerhetsstrategi för att skydda demokratiska samhällen och kritisk infrastruktur från bland annat cyberattacker. Sidan behandlar inte militär AI eller autonoma vapensystem.",
+  "detailedPosition": "Liberalernas officiella AI-sida beskriver att AI kan användas för cyberattacker och att demokratier behöver stärka skyddet mot digitala hot. Partiet vill därför att EU antar en europeisk AI-säkerhetsstrategi för att skydda demokratiska samhällen och kritisk infrastruktur. Sidan anger inte hur strategin ska utformas och tar inte upp svensk militär AI, autonoma vapensystem eller särskilda regler för försvarsupphandling. Tolkning: partiets dokumenterade AI-säkerhetspolitik är inriktad på EU-samarbete, cyberhot och kritisk infrastruktur.",
+  "evidenceStatus": "konkret_forslag", "evidenceTypes": ["partiprogram"],
+  "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den innehåller ett uttryckligt förslag om en europeisk AI-säkerhetsstrategi och kopplar det till cyberattacker och skydd av kritisk infrastruktur.",
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+  "id": "l-reglering", "partyId": "l", "topicId": "reglering",
+  "summary": "Liberalerna vill skapa regler som uppmuntrar innovation och teknikutveckling och skriver att företag ska möta regler i stället för onödig byråkrati. Sidan tar inte ställning till AI-förordningens genomförande, svensk tillsyn eller ansvaret när AI-system orsakar skada.",
+  "detailedPosition": "På Liberalernas officiella AI-sida står att partiet vill skapa regler som uppmuntrar innovation och teknikutveckling. Sidan anger också att företag och entreprenörer ska möta regler som uppmuntrar innovation i stället för onödig byråkrati. Den behandlar inte EU:s AI-förordning, ansvar, säkerhetstestning, öppen källkod eller svenska tillsynsmyndigheter. Tolkning: partiet har en generell innovationsinriktning för AI-reglering, men sidan anger inte en heltäckande regelmodell.",
+  "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
+  "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den uttrycker en tydlig, men övergripande, inriktning om innovationsfrämjande regler utan konkreta förslag om AI-förordningen eller nationell tillsyn.",
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
   }
   ]
