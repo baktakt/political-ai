@@ -637,5 +637,29 @@
     "implementationStatus": null,
     "sourceIds": ["mp-mot-2025-3282"],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-forslag-ai-kompetens-elever-2025",
+    "partyId": "c",
+    "topicIds": ["barn-unga"],
+    "title": "Stärk elevers digitala kompetens inom AI",
+    "description": "Riksdagsyrkande i partimotion 2025/26:3186 om att elever stärker sin digitala kompetens i skolan, bland annat inom AI. Motionen yrkar även på återkommande AI-kompetensutveckling för lärare och skolledare.",
+    "date": "2025-10-06",
+    "status": "avslaget",
+    "implementationStatus": "Yrkandena avslogs av riksdagen enligt motionens dokumentstatus.",
+    "sourceIds": ["c-mot-2025-3186"],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-forslag-ai-sfi-integration-2025",
+    "partyId": "c",
+    "topicIds": ["jamlikhet", "social-hallbarhet"],
+    "title": "Utred AI-understödda läromedel i sfi och integrationsarbete",
+    "description": "Riksdagsyrkande i kommittémotion 2025/26:3190 om att utreda hur nätbaserade kurser, appbaserade och AI-understödda läromedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning.",
+    "date": "2025-10-06",
+    "status": "avslaget",
+    "implementationStatus": "Yrkandet avslogs av riksdagen enligt motionens dokumentstatus.",
+    "sourceIds": ["c-mot-2025-3190"],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

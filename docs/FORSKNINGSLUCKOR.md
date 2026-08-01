@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-07-31**. Detta dokument räknas som en del av
+Statusen är **2026-08-01**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 137 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 140 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -43,7 +43,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
   SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar där ingen dokumenterad partinivåposition hittades, samt C/näringsliv och C/demokrati).
-- **Ej granskade:** 15. Dessa visas som "Ännu ej granskat" på webbplatsen,
+- **Ej granskade:** 12. Dessa visas som "Ännu ej granskat" på webbplatsen,
   inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
   skillnaden i `metod`-sidans princip.
 

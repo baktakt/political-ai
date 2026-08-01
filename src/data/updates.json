@@ -306,5 +306,12 @@
     "title": "Centerpartiets AI-center och demokratiska riskbedömning har granskats",
     "description": "En officiell Centerparti-nyhet anger en satsning på tre miljarder kronor för ett nationellt AI-center med inriktning på forskning, tillämpning och kommersialisering. En näringslivsposition och en indirekt dokumenterad demokratipost har lagts till för redaktionell granskning; AI-sidan saknar konkreta förslag om exempelvis deepfakes och valpåverkan.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-08-01-c-ai-skola-integration",
+    "date": "2026-08-01",
+    "title": "Centerpartiets AI-förslag om skola och integration har granskats",
+    "description": "Två partinivåmotioner från Centerpartiet har granskats i fulltext. Granskningen lägger till avgränsade positioner om AI-kompetens för elever och skolpersonal samt AI-understödda läromedel i sfi och integrationsarbete; posterna väntar på redaktionell granskning.",
+    "type": "innehall"
   }
   ]

@@ -740,5 +740,31 @@
     "topicIds": ["reglering"],
     "sourceIds": ["c-mot-2026-4156"],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-3186",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "En skola för kunskap och livsresor (partimotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3186",
+    "result": "Motionens AI-relaterade yrkanden avslogs av riksdagen enligt dokumentstatus.",
+    "partyLevel": true,
+    "topicIds": ["barn-unga"],
+    "sourceIds": ["c-mot-2025-3186"],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-akt-mot-2526-3190",
+    "partyId": "c",
+    "actionType": "motion",
+    "title": "Migration och integration (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3190",
+    "result": "Motionens AI-relaterade yrkande avslogs av riksdagen enligt dokumentstatus.",
+    "partyLevel": true,
+    "topicIds": ["jamlikhet", "social-hallbarhet"],
+    "sourceIds": ["c-mot-2025-3190"],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

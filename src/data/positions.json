@@ -2224,5 +2224,44 @@
   "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
   "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik position om social hållbarhet hittades.",
   "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  },
+  {
+    "id": "c-barn-unga",
+    "partyId": "c",
+    "topicId": "barn-unga",
+    "summary": "Centerpartiet vill att elever stärker sin digitala kompetens, bland annat inom AI, och att lärare och skolledare återkommande får kompetensutveckling för att använda och undervisa med digitala verktyg och AI.",
+    "detailedPosition": "I partimotionen En skola för kunskap och livsresor (2025/26:3186) yrkar Centerpartiet på återkommande kompetensutveckling för lärare och skolledare i att använda och undervisa med digitala verktyg och AI. Motionen yrkar också på att elever stärker sin digitala kompetens i skolan, bland annat inom AI. Motiveringen behandlar hur barn och unga kan använda AI-verktyg säkert, kritiskt och etiskt med stöd av kunniga vuxna. Motionen innehåller inte förslag om AI-kompisar, barns data, åldersverifiering eller deepfake-övergrepp.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion"],
+    "confidenceExplanation": "Klassningen bygger på en öppnad partimotion från Centerpartiet. Motionen innehåller uttryckliga riksdagsyrkanden om AI-kompetens för elever och skolpersonal, men saknar ställningstaganden i flera andra frågor inom ämnesavgränsningen.",
+    "sourceIds": ["c-mot-2025-3186"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-01"
+  },
+  {
+    "id": "c-jamlikhet",
+    "partyId": "c",
+    "topicId": "jamlikhet",
+    "summary": "Centerpartiet vill utreda hur AI-understödda läromedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning.",
+    "detailedPosition": "I kommittémotionen Migration och integration (2025/26:3190) yrkar Centerpartiet på en utredning om hur nätbaserade kurser, appbaserade och AI-understödda läromedel samt andra digitala hjälpmedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning. Motionen behandlar inte algoritmisk diskriminering, tillgänglighetskrav eller hur AI-system ska utformas för personer med funktionsnedsättning.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion"],
+    "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion från Centerpartiet med ett uttryckligt yrkande om att utreda AI-understödda läromedel i integrationsarbetet. Belägget är avgränsat till sfi och integrationsinsatser.",
+    "sourceIds": ["c-mot-2025-3190"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-01"
+  },
+  {
+    "id": "c-social-hallbarhet",
+    "partyId": "c",
+    "topicId": "social-hallbarhet",
+    "summary": "Centerpartiet vill utreda AI-understödda läromedel som del av en förstärkt sfi-undervisning och integrationsarbete.",
+    "detailedPosition": "I kommittémotionen Migration och integration (2025/26:3190) föreslår Centerpartiet en utredning om hur nätbaserade kurser, appbaserade och AI-understödda läromedel samt andra digitala hjälpmedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning. Motionen anger inte hur AI:s produktivitetsvinster ska fördelas, stöd vid automatisering eller bredare åtgärder för social sammanhållning.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": ["motion"],
+    "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion från Centerpartiet med ett konkret yrkande om AI-understödda läromedel i integrationsarbetet. Källan ger endast ett avgränsat belägg för ämnet social hållbarhet.",
+    "sourceIds": ["c-mot-2025-3190"],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-01"
   }
   ]

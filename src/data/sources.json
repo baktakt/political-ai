@@ -1183,5 +1183,35 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-mot-2025-3186",
+    "title": "Motion 2025/26:3186 En skola för kunskap och livsresor (partimotion, Elisabeth Thand Ringqvist m.fl., C)",
+    "publisher": "Sveriges riksdag",
+    "author": "Elisabeth Thand Ringqvist m.fl. (C)",
+    "publicationDate": "2025-10-06",
+    "url": "https://data.riksdagen.se/dokument/HD023186",
+    "accessedAt": "2026-08-01",
+    "sourceType": "motion",
+    "excerpt": "Riksdagen ställer sig bakom det som anförs i motionen om behovet av att elever stärker sin digitala kompetens i skolan såsom inom AI.",
+    "supportExplanation": "Partimotion på partinivå. Centerpartiet yrkar på återkommande AI-kompetensutveckling för lärare och skolledare och på att elever stärker sin digitala kompetens, bland annat inom AI.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "c-mot-2025-3190",
+    "title": "Motion 2025/26:3190 Migration och integration (kommittémotion, Jonny Cato m.fl., C)",
+    "publisher": "Sveriges riksdag",
+    "author": "Jonny Cato m.fl. (C)",
+    "publicationDate": "2025-10-06",
+    "url": "https://data.riksdagen.se/dokument/HD023190",
+    "accessedAt": "2026-08-01",
+    "sourceType": "motion",
+    "excerpt": "Riksdagen ställer sig bakom det som anförs i motionen om att utreda hur nätbaserade kurser, appbaserade och AI-understödda läromedel ska bli en större del av integrationsarbetet.",
+    "supportExplanation": "Kommittémotion på partinivå. Centerpartiet yrkar på en utredning om hur bland annat AI-understödda läromedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

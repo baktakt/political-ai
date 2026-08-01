@@ -735,5 +735,18 @@
       "Centerpartiets AI-sida identifierar demokratin som en risk men anger inga konkreta åtgärder om deepfakes, valpåverkan eller syntetiskt innehåll."
     ],
     "notes": "Fokuserad granskning av Centerpartiet för företagande/innovation och demokrati. Centerpartiets officiella AI-sida och nyheten om ett nationellt AI-center från 9 december 2025 öppnades och lästes. Riksdagens öppna data kontrollerades för C-motioner om AI och artificiell intelligens under riksmötena 2022/23–2025/26. Nyheten dokumenterar en satsning på tre miljarder kronor för ett nationellt AI-center med forsknings-, tillämpnings- och kommersialiseringsinriktning. AI-sidan nämner demokratin som en AI-risk men utan ämnesspecifika åtgärder. Två positioner och en befintlig förslagspost har lagts till eller uppdaterats för redaktionell granskning."
+  },
+  {
+    "id": "granskning-c-barn-jamlikhet-social-2026-08-01",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-08-01",
+    "topicsReviewed": ["barn-unga", "jamlikhet", "social-hallbarhet"],
+    "unresolvedQuestions": [
+      "Partimotionen om skolan behandlar AI-kompetens för elever och skolpersonal, men inte AI-kompisar, barns data, åldersverifiering eller deepfake-övergrepp.",
+      "Kommittémotionen om migration och integration avgränsas till AI-understödda läromedel i sfi och integrationsarbete; den behandlar inte algoritmisk diskriminering, tillgänglighetskrav eller fördelningen av AI:s produktivitetsvinster.",
+      "M, KD, MP, S och V kontrollerades i manifestobevakning via webb- och söktjänster, men inga nya öppningsbara heltäckande 2026-manifest kunde verifieras i denna körning."
+    ],
+    "notes": "Fokuserad granskning av Centerpartiets återstående ämnen barn och unga, jämlikhet samt social hållbarhet. Riksdagens öppna data för C under 2025/26 söktes med AI och artificiell intelligens. Partimotion 2025/26:3186 och kommittémotion 2025/26:3190 öppnades och lästes i fulltext. Den första innehåller AI-relaterade yrkanden om elev- och lärarkompetens; den andra yrkar på utredning av AI-understödda läromedel i sfi och integrationsarbete. Tre positioner, två förslag och två riksdagsaktiviteter lades till för redaktionell granskning."
   }
   ]
