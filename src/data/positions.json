@@ -2226,6 +2226,45 @@
   "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
   },
   {
+    "id": "l-kultur-upphovsratt",
+    "partyId": "l",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, uppdaterad 26 maj 2026, och Riksdagens öppna data för L under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, deepfake, algoritm och datacenter. AI-sidan behandlar inte upphovsrätt, ersättning vid AI-träning, journalisters villkor eller kulturella verksamheter. Riksdagsträffarna var enskilda motioner, bland annat Fotografi som konstform (2025/26:3483), och används inte som belägg för partilinje. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-08-01. Riksdagens öppna data söktes för parti=L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades; relevanta träffar var enskilda motioner.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-01"
+  },
+  {
+    "id": "l-jamlikhet",
+    "partyId": "l",
+    "topicId": "jamlikhet",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI-specifik jämlikhet, diskriminering eller tillgänglighet hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, uppdaterad 26 maj 2026, och Riksdagens öppna data för L under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, deepfake, algoritm och datacenter. AI-sidan anger att integritet och grundläggande rättigheter ska försvaras när AI används, men innehåller ingen avgränsad position om algoritmisk diskriminering, tillgänglighet, funktionsnedsättning eller fördelning av AI:s produktivitetsvinster. Riksdagsträffarna var enskilda motioner och används inte som belägg för partilinje. Frånvaron ska inte tolkas som att partiet saknar jämlikhetspolitik i övrigt.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-08-01. Riksdagens öppna data söktes för parti=L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Inga partimotioner eller kommittémotioner med en AI-specifik jämlikhetsposition hittades; relevanta träffar var enskilda motioner.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-01"
+  },
+  {
+    "id": "l-miljoavtryck",
+    "partyId": "l",
+    "topicId": "miljoavtryck",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI:s eget miljöavtryck hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, uppdaterad 26 maj 2026, och Riksdagens öppna data för L under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, deepfake, algoritm och datacenter. AI-sidan behandlar forskning, innovation, europeiskt tekniskt oberoende, cyberhot och rättigheter, men inte AI- eller datacenters el- och vattenanvändning, hårdvarans livscykel, utsläpp eller miljörapportering. Riksdagsträffarna var enskilda motioner och används inte som belägg för partilinje. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-08-01. Riksdagens öppna data söktes för parti=L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Inga partimotioner eller kommittémotioner med en AI-specifik position om miljöavtryck hittades; relevanta träffar var enskilda motioner.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-01"
+  },
+  {
     "id": "c-barn-unga",
     "partyId": "c",
     "topicId": "barn-unga",

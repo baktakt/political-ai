@@ -748,5 +748,14 @@
       "M, KD, MP, S och V kontrollerades i manifestobevakning via webb- och söktjänster, men inga nya öppningsbara heltäckande 2026-manifest kunde verifieras i denna körning."
     ],
     "notes": "Fokuserad granskning av Centerpartiets återstående ämnen barn och unga, jämlikhet samt social hållbarhet. Riksdagens öppna data för C under 2025/26 söktes med AI och artificiell intelligens. Partimotion 2025/26:3186 och kommittémotion 2025/26:3190 öppnades och lästes i fulltext. Den första innehåller AI-relaterade yrkanden om elev- och lärarkompetens; den andra yrkar på utredning av AI-understödda läromedel i sfi och integrationsarbete. Tre positioner, två förslag och två riksdagsaktiviteter lades till för redaktionell granskning."
+  },
+  {
+    "id": "granskning-l-kultur-jamlikhet-miljoavtryck-2026-08-01",
+    "partyId": "l",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-08-01",
+    "topicsReviewed": ["kultur-upphovsratt", "jamlikhet", "miljoavtryck"],
+    "unresolvedQuestions": ["Liberalernas valmanifest 2026 har tidigare dokumenterats i datan, men en åtkomlig manifestöversikt kunde inte hämtas i denna körning; de tre luckposterna bör färskhetsgranskas mot en eventuell samlad slutversion.", "Den öppnade enskilda L-motionen Fotografi som konstform (2025/26:3483) kan inte användas som belägg för partilinje."],
+    "notes": "Fokuserad luckgranskning av Liberalerna för kultur och upphovsrätt, jämlikhet samt AI:s miljöavtryck. Liberalernas officiella AI-sida öppnades och lästes i sin helhet; sidan är senast uppdaterad 26 maj 2026. Riksdagens öppna data söktes för L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Samtliga identifierade AI-relaterade träffar var enskilda motioner. Tre luckposter lades till för redaktionell granskning; inga källor, förslag eller riksdagsaktiviteter lades till."
   }
   ]
