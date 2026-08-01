@@ -755,6 +755,19 @@
     "workflowStatus": "behover_redaktionell_granskning"
   },
   {
+    "id": "mp-akt-mot-2526-3365",
+    "partyId": "mp",
+    "actionType": "motion",
+    "title": "Livslångt lärande och forskning för ett hållbart samhälle (kommittémotion)",
+    "date": "2025-10-06",
+    "documentNumber": "2025/26:3365",
+    "result": "Motionens 33 yrkanden avslogs enligt Riksdagens dokumentstatus.",
+    "partyLevel": true,
+    "topicIds": ["arbetsmarknad", "utbildning", "miljoavtryck"],
+    "sourceIds": ["mp-mot-2025-3365"],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
     "id": "c-akt-mot-2526-3190",
     "partyId": "c",
     "actionType": "motion",

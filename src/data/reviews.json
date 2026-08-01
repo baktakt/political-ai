@@ -757,5 +757,14 @@
     "topicsReviewed": ["kultur-upphovsratt", "jamlikhet", "miljoavtryck"],
     "unresolvedQuestions": ["Liberalernas valmanifest 2026 har tidigare dokumenterats i datan, men en åtkomlig manifestöversikt kunde inte hämtas i denna körning; de tre luckposterna bör färskhetsgranskas mot en eventuell samlad slutversion.", "Den öppnade enskilda L-motionen Fotografi som konstform (2025/26:3483) kan inte användas som belägg för partilinje."],
     "notes": "Fokuserad luckgranskning av Liberalerna för kultur och upphovsrätt, jämlikhet samt AI:s miljöavtryck. Liberalernas officiella AI-sida öppnades och lästes i sin helhet; sidan är senast uppdaterad 26 maj 2026. Riksdagens öppna data söktes för L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Samtliga identifierade AI-relaterade träffar var enskilda motioner. Tre luckposter lades till för redaktionell granskning; inga källor, förslag eller riksdagsaktiviteter lades till."
+  },
+  {
+    "id": "granskning-mp-forskning-utbildning-miljo-2026-08-01",
+    "partyId": "mp",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-08-01",
+    "topicsReviewed": ["arbetsmarknad", "utbildning", "miljoavtryck"],
+    "unresolvedQuestions": ["Miljöpartiets nationella valmanifest inför valet 2026-09-13 har inte verifierats i denna körning; en publicerad slutversion behöver jämföras med de befintliga AI-positionerna.", "Kommittémotion 2025/26:3365 behandlar AI i utbildning, forskning och följdverkningar, men ger inte detaljerade förslag om vattenanvändning, hårdvarulivscykel eller obligatorisk miljöredovisning för AI-leverantörer."],
+    "notes": "Färskhetsgranskning av Miljöpartiets arbetsmarknads-, utbildnings- och miljöavtryckspositioner. Riksdagens öppna data för MP under 2025/26 söktes med artificiell intelligens och motion 2025/26:3365 öppnades och lästes i fulltext. Den är en kommittémotion av Camilla Hansén m.fl. (MP) och dess 33 yrkanden har avslagits enligt dokumentstatus. En källa och en riksdagsaktivitet lades till, och tre befintliga positioner fick kompletterande källhänvisning; ändringarna väntar på redaktionell granskning."
   }
   ]

@@ -138,10 +138,11 @@
       "mp-webb-ai",
       "mp-programfordjupning-ai-2023",
       "mp-mot-2025-3425",
-      "mp-politiskt-handlingsprogram-2026"
+      "mp-politiskt-handlingsprogram-2026",
+      "mp-mot-2025-3365"
     ],
-    "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-28"
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-01"
   },
   {
     "id": "l-arbetsmarknad",
@@ -671,10 +672,11 @@
     "sourceIds": [
       "mp-webb-ai",
       "mp-mot-2025-3425",
-      "mp-mot-2026-4054"
+      "mp-mot-2026-4054",
+      "mp-mot-2025-3365"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-20"
+    "lastUpdatedAt": "2026-08-01"
   },
   {
     "id": "mp-offentlig-sektor",
@@ -719,17 +721,19 @@
     "partyId": "mp",
     "topicId": "miljoavtryck",
     "summary": "Miljöpartiet beskriver AI:s energianvändning och klimatpåverkan som risker som behöver förebyggas nationellt och internationellt. Partiet vill att elen kommer från förnybara källor, att varje AI-sökning blir mindre energikrävande och att elnätskapacitet styrs efter klimat- och samhällsnytta.",
-    "detailedPosition": "På partiets AI- och digitaliseringssida skriver Miljöpartiet att AI kräver mycket energi och ökar de globala klimatutsläppen, och att AI:s miljö- och klimatkonsekvenser behöver förebyggas nationellt och internationellt. Partiet anger att elen behöver komma från förnybar el och att varje sökning behöver bli mindre energikrävande. I fråga om lokalisering och elnät skriver partiet att det är viktigt med rätt geografisk placering där det finns tillgång till stora mängder el, krav på viss andel egenproducerad el och förmåga att balansera tillgången på el, samt att tilldelningen av kapacitet i elnätet ska styras utifrån klimat- och samhällsnytta. Tolkning: partiet behandlar AI:s miljöavtryck främst genom energi- och elnätsstyrning, inte genom detaljerade rapporteringskrav för vatten, hårdvara eller utsläpp per modell.",
+    "detailedPosition": "På partiets AI- och digitaliseringssida skriver Miljöpartiet att AI kräver mycket energi och ökar de globala klimatutsläppen, och att AI:s miljö- och klimatkonsekvenser behöver förebyggas nationellt och internationellt. Partiet anger att elen behöver komma från förnybar el och att varje sökning behöver bli mindre energikrävande. I fråga om lokalisering och elnät skriver partiet att det är viktigt med rätt geografisk placering där det finns tillgång till stora mängder el, krav på viss andel egenproducerad el och förmåga att balansera tillgången på el, samt att tilldelningen av kapacitet i elnätet ska styras utifrån klimat- och samhällsnytta. Kommittémotion 2025/26:3365 beskriver AI-utvecklingens klimatpåfrestningar genom energi- och materialförbrukning och anger att uppdrag om samordning av AI-forskning också bör omfatta sådana perspektiv. Tolkning: partiet behandlar AI:s miljöavtryck främst genom energi- och elnätsstyrning samt forskning om följdverkningar, inte genom detaljerade rapporteringskrav för vatten, hårdvara eller utsläpp per modell.",
     "evidenceStatus": "generell_dokumenterad",
     "evidenceTypes": [
-      "partiprogram"
+      "partiprogram",
+      "motion"
     ],
-    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida, som uttryckligen tar upp AI:s energianvändning, klimatutsläpp, förnybar el och elnätsprioritering. Källan innehåller däremot inte detaljerade krav på vattenrapportering, hårdvarulivscykel eller obligatorisk miljöredovisning från AI-leverantörer.",
+    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida och kommittémotion 2025/26:3365, som uttryckligen tar upp AI:s energianvändning, klimatutsläpp, förnybar el, elnätsprioritering samt energi- och materialförbrukning. Källorna innehåller däremot inte detaljerade krav på vattenrapportering, hårdvarulivscykel eller obligatorisk miljöredovisning från AI-leverantörer.",
     "sourceIds": [
-      "mp-webb-ai"
+      "mp-webb-ai",
+      "mp-mot-2025-3365"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-20"
+    "lastUpdatedAt": "2026-08-01"
   },
   {
     "id": "v-strategi",
