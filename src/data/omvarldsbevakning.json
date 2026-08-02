@@ -57,5 +57,45 @@
     ],
     "workflowStatus": "publicerad",
     "addedAt": "2026-07-23"
+  },
+  {
+    "id": "regeringen-ai-cybersakerhet-fra-2026",
+    "title": "Uppdrag till Försvarets radioanstalt att samordna och stärka samhällets arbete med cybersäkerhet kopplat till artificiell intelligens",
+    "publisher": "Regeringen",
+    "publisherType": "regering",
+    "publicationDate": "2026-07-20",
+    "url": "https://www.regeringen.se/regeringsuppdrag/2026/07/uppdrag-till-forsvarets-radioanstalt-att-samordna-och-starka-samhallets-arbete-med-cybersakerhet-kopplat-till-artificiell-intelligens/",
+    "accessedAt": "2026-08-02",
+    "language": "sv",
+    "summary": "Regeringsuppdraget ger Försvarets radioanstalt genom Nationellt cybersäkerhetscenter ansvar att nationellt samordna arbete mot AI-drivna cyberhot och att fungera som nationell kontaktpunkt för företag som utvecklar avancerade AI-modeller.",
+    "keyTakeaways": [
+      "Nationellt cybersäkerhetscenter ska samordna arbetet med att förebygga, upptäcka och hantera AI-drivna cyberhot.",
+      "Uppdraget omfattar analys av risker, sårbarheter och beroenden vid användning av avancerade AI-modeller inom cybersäkerhet samt identifiering av åtgärdsbehov.",
+      "Nationellt cybersäkerhetscenter ska samordna relevanta internationella och europeiska forum om AI ur ett cybersäkerhetsperspektiv och samverka med berörda myndigheter.",
+      "Uppdraget ska redovisas muntligt till Regeringskansliet senast den 13 november 2026."
+    ],
+    "relatedTopicIds": ["forsvar", "reglering", "suveranitet"],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-08-02"
+  },
+  {
+    "id": "regeringen-ai-gigafabriker-2026",
+    "title": "Sverige och EU tar första steg mot AI-gigafabriker",
+    "publisher": "Regeringen",
+    "publisherType": "regering",
+    "publicationDate": "2026-07-30",
+    "url": "https://www.regeringen.se/pressmeddelanden/2026/07/sverige-och-eu-tar-forsta-steg-mot-ai-gigafabriker/",
+    "accessedAt": "2026-08-02",
+    "language": "sv",
+    "summary": "Regeringen har gett Skatteverket i uppdrag att ingå ett gemensamt upphandlingsavtal med EuroHPC Joint Undertaking. Uppdraget ska möjliggöra svensk tillgång till avancerad beräkningskraft genom medfinansiering av en AI-gigafabrik i Finland.",
+    "keyTakeaways": [
+      "Uppdraget till Skatteverket gäller ett gemensamt upphandlingsavtal med EuroHPC Joint Undertaking för avancerad beräkningskraft.",
+      "Satsningen medfinansierar en AI-gigafabrik i Finland och ska ge svensk offentlig sektor tillgång till beräkningskraft.",
+      "Regeringen beskriver EU:s AI-gigafabriker som ett sätt att stärka europeisk konkurrenskraft och suveränitet genom storskalig beräkningskapacitet i Europa.",
+      "Pressmeddelandet kopplar tillgång till beräkningskapacitet till forskning, innovation och användning av AI i offentlig verksamhet."
+    ],
+    "relatedTopicIds": ["suveranitet", "naringsliv", "offentlig-sektor", "utbildning"],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-08-02"
   }
 ]

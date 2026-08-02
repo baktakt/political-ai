@@ -341,5 +341,12 @@
     "title": "Återstående AI-ämnen för Liberalerna och Sverigedemokraterna har granskats",
     "description": "Liberalernas fem återstående AI-ämnen och Sverigedemokraternas ämne social hållbarhet har granskats mot parti- och riksdagsmaterial. Inga dokumenterade partinivåpositioner hittades; sex luckposter väntar på redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-08-02-regeringen-ai-cyber-berakningskraft",
+    "date": "2026-08-02",
+    "title": "Två regeringsåtgärder om AI har lagts till i omvärldsbevakningen",
+    "description": "Regeringens uppdrag om AI-drivna cyberhot och satsningen på EuroHPC:s AI-gigafabrik i Finland har dokumenterats som omvärldsbevakning. Materialet beskriver regeringspolitik och används inte som belägg för enskilda partiers ståndpunkter.",
+    "type": "innehall"
   }
-  ]
+]
