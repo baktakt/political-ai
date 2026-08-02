@@ -766,5 +766,17 @@
     "topicsReviewed": ["arbetsmarknad", "utbildning", "miljoavtryck"],
     "unresolvedQuestions": ["Miljöpartiets nationella valmanifest inför valet 2026-09-13 har inte verifierats i denna körning; en publicerad slutversion behöver jämföras med de befintliga AI-positionerna.", "Kommittémotion 2025/26:3365 behandlar AI i utbildning, forskning och följdverkningar, men ger inte detaljerade förslag om vattenanvändning, hårdvarulivscykel eller obligatorisk miljöredovisning för AI-leverantörer."],
     "notes": "Färskhetsgranskning av Miljöpartiets arbetsmarknads-, utbildnings- och miljöavtryckspositioner. Riksdagens öppna data för MP under 2025/26 söktes med artificiell intelligens och motion 2025/26:3365 öppnades och lästes i fulltext. Den är en kommittémotion av Camilla Hansén m.fl. (MP) och dess 33 yrkanden har avslagits enligt dokumentstatus. En källa och en riksdagsaktivitet lades till, och tre befintliga positioner fick kompletterande källhänvisning; ändringarna väntar på redaktionell granskning."
+  },
+  {
+    "id": "granskning-c-ai-hallbarhetsluckor-2026-08-02",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-08-02",
+    "topicsReviewed": ["miljoavtryck", "hallbarhetsverktyg", "rekyleffekter"],
+    "unresolvedQuestions": [
+      "Centerpartiets valmanifest 2026 öppnades som PDF, men en lokal fulltextextraktion kunde inte genomföras eftersom pdftotext saknas i körmiljön. Det tidigare dokumenterade AI-avsnittet och den officiella AI-sidan kontrollerades därför tillsammans med Riksdagens öppna data.",
+      "Granskningen utesluter inte att framtida kampanjmaterial eller lokala dokument kan innehålla AI-specifika skrivningar om datacenter, miljörapportering eller rekyleffekter."
+    ],
+    "notes": "Fokuserad luckgranskning av Centerpartiets tre återstående AI- och hållbarhetsämnen. Centerpartiets officiella sidor om AI och hållbar digitalisering öppnades och lästes. Riksdagens öppna data söktes för C och riksmötet 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI; relevanta partimotioner och kommittémotioner öppnades i fulltext. Ingen avgränsad partinivåposition om AI:s miljöavtryck, AI som hållbarhetsverktyg eller AI-relaterade rekyleffekter hittades. Tre luckposter lades till för redaktionell granskning."
   }
   ]

@@ -2306,5 +2306,44 @@
     "sourceIds": ["c-mot-2025-3190"],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-08-01"
+  },
+  {
+    "id": "c-miljoavtryck",
+    "partyId": "c",
+    "topicId": "miljoavtryck",
+    "summary": "Ingen dokumenterad partinivåposition om AI:s miljöavtryck hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för C-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Den öppnade sidan om hållbar digitalisering behandlar digital inkludering och e-legitimationer, men inte AI:s el- eller vattenanvändning, datacenter, hårdvarans livscykel eller miljörapportering. De öppnade partinivåmotionerna med AI-träffar innehöll inga avgränsade förslag om AI:s miljöavtryck. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Relevanta partimotioner och kommittémotioner öppnades; ingen avgränsad partinivåposition om AI:s miljöavtryck hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "c-hallbarhetsverktyg",
+    "partyId": "c",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Ingen dokumenterad partinivåposition om AI som verktyg för hållbar utveckling hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för C-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Valmanifestet och AI-sidan innehåller en övergripande AI-inriktning, men de öppnade AI-avsnitten anger inga avgränsade förslag om AI för exempelvis energisystem, transporter, jordbruk, miljöövervakning eller klimatanpassning. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Relevanta partimotioner och kommittémotioner öppnades; ingen avgränsad partinivåposition om AI som hållbarhetsverktyg hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "c-rekyleffekter",
+    "partyId": "c",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för C-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Inget av de öppnade materialen behandlar om effektivisering med AI kan öka den totala energi-, beräknings- eller resursanvändningen, eller föreslår styrmedel mot sådana rekyleffekter. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Relevanta partimotioner och kommittémotioner öppnades; ingen avgränsad partinivåposition om AI-relaterade rekyleffekter hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
   }
   ]
