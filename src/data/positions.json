@@ -2345,5 +2345,83 @@
     "sourceIds": [],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "l-barn-unga",
+    "partyId": "l",
+    "topicId": "barn-unga",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI och barn eller unga hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, valmanifestets kapitel om skola, framtid och sammanhållning samt Riksdagens öppna data för L-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, deepfake, datacenter, hållbar AI, social hållbarhet och barn. Manifestet berör barns källkritik när AI är vardag, men anger ingen avgränsad AI-politik om barns data, AI-kompisar, åldersgränser eller skydd mot AI-relaterade kränkningar. De öppnade AI-träffarna i riksdagsmaterialet var enskilda motioner. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, deepfake, datacenter, hållbar AI, social hållbarhet och barn. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "l-hallbarhetsverktyg",
+    "partyId": "l",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI som verktyg för hållbar utveckling hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, valmanifestets kapitel om framtid samt Riksdagens öppna data för L-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, deepfake, datacenter, hållbar AI och social hållbarhet. Valmanifestet behandlar teknikdriven klimatpolitik och AI-kunskapslyft, men anger inga avgränsade förslag om AI för exempelvis energi, transporter, jordbruk, miljöövervakning eller klimatanpassning. De öppnade AI-träffarna i riksdagsmaterialet var enskilda motioner. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, deepfake, datacenter, hållbar AI och social hållbarhet. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "l-byggd-miljo",
+    "partyId": "l",
+    "topicId": "byggd-miljo",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI i byggande och samhällsbyggnad hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, valmanifestets kapitel om framtid samt Riksdagens öppna data för L-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, datacenter och hållbar AI. Det öppnade materialet innehåller ingen avgränsad skrivning om AI i arkitektur, byggande, bygglov, fastighetsförvaltning eller samhällsplanering. De öppnade AI-träffarna i riksdagsmaterialet var enskilda motioner. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, datacenter och hållbar AI. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "l-rekyleffekter",
+    "partyId": "l",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI-relaterade rekyleffekter hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, valmanifestets kapitel om framtid samt Riksdagens öppna data för L-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, datacenter och hållbar AI. Inget av de öppnade materialen behandlar om effektivisering med AI kan öka den totala energi-, beräknings- eller resursanvändningen, eller föreslår styrmedel mot sådana rekyleffekter. De öppnade AI-träffarna i riksdagsmaterialet var enskilda motioner. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, datacenter och hållbar AI. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "l-social-hallbarhet",
+    "partyId": "l",
+    "topicId": "social-hallbarhet",
+    "summary": "Ingen dokumenterad partinivåposition från Liberalerna om AI och social hållbarhet hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Liberalernas officiella AI-sida, valmanifestets kapitel om framtid och sammanhållning samt Riksdagens öppna data för L-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens och social hållbarhet. Det öppnade materialet behandlar AI-kunskapslyft och risker med algoritmstyrda nyhetsflöden, men anger inte någon avgränsad AI-politik om fördelning av produktivitetsvinster, stöd vid automatisering eller AI:s betydelse för social sammanhållning. De öppnade AI-träffarna i riksdagsmaterialet var enskilda motioner. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens och social hållbarhet. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
+  },
+  {
+    "id": "sd-social-hallbarhet",
+    "partyId": "sd",
+    "topicId": "social-hallbarhet",
+    "summary": "Ingen dokumenterad partinivåposition från Sverigedemokraterna om AI och social hållbarhet hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Sverigedemokraternas valplattform 2026 samt Riksdagens öppna data för SD-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens och social hållbarhet. Valplattformen innehåller inga AI-skrivningar. Den öppnade kommittémotionen 2024/25:1424 täcker inte AI och social hållbarhet. Den nya AI-träffen 2025/26:311 är en enskild motion av Rashid Farivar (SD) och kan därför inte användas som belägg för partilinje. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade Sverigedemokraternas valplattform 2026 och Riksdagens öppna data för parti=SD och riksmöte 2025/26 med AI, artificiell intelligens och social hållbarhet. Kommittémotion 2024/25:1424 och den enskilda motionen 2025/26:311 öppnades; ingen avgränsad partinivåposition om AI och social hållbarhet hittades.",
+    "sourceIds": [],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-08-02"
   }
   ]

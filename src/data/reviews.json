@@ -778,5 +778,14 @@
       "Granskningen utesluter inte att framtida kampanjmaterial eller lokala dokument kan innehålla AI-specifika skrivningar om datacenter, miljörapportering eller rekyleffekter."
     ],
     "notes": "Fokuserad luckgranskning av Centerpartiets tre återstående AI- och hållbarhetsämnen. Centerpartiets officiella sidor om AI och hållbar digitalisering öppnades och lästes. Riksdagens öppna data söktes för C och riksmötet 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI; relevanta partimotioner och kommittémotioner öppnades i fulltext. Ingen avgränsad partinivåposition om AI:s miljöavtryck, AI som hållbarhetsverktyg eller AI-relaterade rekyleffekter hittades. Tre luckposter lades till för redaktionell granskning."
+  },
+  {
+    "id": "granskning-l-sd-aterstaende-ai-luckor-2026-08-02",
+    "partyId": null,
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-08-02",
+    "topicsReviewed": ["barn-unga", "hallbarhetsverktyg", "byggd-miljo", "rekyleffekter", "social-hallbarhet"],
+    "unresolvedQuestions": ["Liberalernas valmanifest 2026 har granskats per kapitel; en eventuellt publicerad samlad slutversion bör kontrolleras vid nästa manifestobevakning.", "Sverigedemokraternas AI-motion 2025/26:311 är en enskild motion av Rashid Farivar (SD), inte ett partinivåbelägg. Den kan därför inte användas för Sverigedemokraternas position om social hållbarhet."],
+    "notes": "Slutlig luckgranskning för Liberalernas fem återstående AI-ämnen och Sverigedemokraternas återstående ämne social hållbarhet. Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 öppnades och lästes. Riksdagens öppna data söktes för L och SD under 2025/26 med AI, artificiell intelligens, deepfake, datacenter, hållbar AI, social hållbarhet och barn. Identifierade relevanta motioner öppnades i fulltext; AI-träffarna i denna avgränsning var enskilda motioner. Sverigedemokraternas valplattform 2026 och den tidigare öppnade kommittémotionen 2024/25:1424 kontrollerades också. Inga avgränsade partinivåpositioner hittades; sex luckposter lades till för redaktionell granskning."
   }
   ]

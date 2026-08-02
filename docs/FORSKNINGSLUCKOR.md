@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-08-01**. Detta dokument räknas som en del av
+Statusen är **2026-08-02**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -10,7 +10,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 
 152 möjliga kombinationer (8 partier × 19 ämnen).
 
-- **Granskade i piloten:** 146 (18 för S över alla ämnen utom arbetsmarknad
+- **Granskade i piloten:** 152 (18 för S över alla ämnen utom arbetsmarknad
   som ägs av det andra spåret, plus 8 för arbetsmarknad över alla partier —
   S räknas en gång — samt C/strategi, C/utbildning, C/offentlig sektor,
   C/integritet, C/kultur-upphovsrätt, C/suveränitet och C/byggd miljö efter
@@ -42,10 +42,8 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   SD/integritet, SD/försvar, SD/barn-unga och SD/jämlikhet utifrån
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
-  SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar, C/miljöavtryck, C/hållbarhetsverktyg och C/rekyleffekter där ingen dokumenterad partinivåposition hittades, samt C/näringsliv och C/demokrati).
-- **Ej granskade:** 6. Dessa visas som "Ännu ej granskat" på webbplatsen,
-  inte som "ingen dokumenterad ståndpunkt" (en granskad slutsats) — se
-  skillnaden i `metod`-sidans princip.
+  SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar, C/miljöavtryck, C/hållbarhetsverktyg och C/rekyleffekter där ingen dokumenterad partinivåposition hittades, samt C/näringsliv och C/demokrati, samt L/barn-unga, L/hållbarhetsverktyg, L/byggd-miljö, L/rekyleffekter och L/social-hållbarhet samt SD/social-hållbarhet där inga dokumenterade partinivåpositioner hittades).
+- **Ej granskade:** 0.
 
 ## Ämnen med full pilottäckning (alla 8 partier)
 
@@ -68,7 +66,13 @@ fullständigt granskade partiprofilen.
 `l` (Liberalerna) — demokratifrågan har kompletterats 2026-07-29 med ett
 manifestförslag om rättsväsendets verktyg mot kränkande AI-deepfakes.
 Kultur/upphovsrätt, jämlikhet och AI:s miljöavtryck granskades 2026-08-01
-utan dokumenterade partinivåpositioner.
+utan dokumenterade partinivåpositioner. De återstående ämnena barn och unga,
+AI som hållbarhetsverktyg, byggd miljö, rekyleffekter och social hållbarhet
+granskades 2026-08-02 utan dokumenterade partinivåpositioner.
+
+`sd` (Sverigedemokraterna) — samtliga 19 ämnen är granskade. Social hållbarhet
+granskades 2026-08-02 utan dokumenterad partinivåposition; den nya AI-träffen
+2025/26:311 är en enskild motion och används inte som belägg för partilinje.
 
 ## Kända enskilda luckor inom det granskade materialet
 
