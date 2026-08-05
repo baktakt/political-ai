@@ -5,9 +5,8 @@ import type { CollectionEntry } from "astro:content";
 interface Props {
   topic: CollectionEntry<"topics">;
   positionCount: number;
-  partyCount: number;
 }
-const { topic, positionCount, partyCount } = Astro.props;
+const { topic, positionCount } = Astro.props;
 const t = topic.data;
 ---
 
@@ -23,7 +22,9 @@ const t = topic.data;
       {t.group === "hallbarhet" ? "AI & hållbarhet" : "AI i samhället"}
     </span>
     <span class="bi-mono !text-[10px]">
-      {positionCount} av {partyCount} partier granskade
+      {positionCount === 0
+        ? "Ingen publicerad fördjupning"
+        : `${positionCount} ${positionCount === 1 ? "publicerad partifördjupning" : "publicerade partifördjupningar"}`}
     </span>
   </div>
   <h3 class="mt-3 text-lg leading-snug">{t.title}</h3>

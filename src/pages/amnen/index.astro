@@ -3,12 +3,10 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import TopicCard from "@/components/TopicCard.astro";
 import SectionLabel from "@/components/SectionLabel.astro";
 import {
-  getPartiesSorted,
   getTopicGroups,
   getPublishedPositions,
 } from "@/lib/content";
 
-const parties = await getPartiesSorted();
 const { samhalle, hallbarhet } = await getTopicGroups();
 const positions = await getPublishedPositions();
 
@@ -43,7 +41,6 @@ const countFor = (topicId: string) =>
             <TopicCard
               topic={topic}
               positionCount={countFor(topic.id)}
-              partyCount={parties.length}
             />
           ))
         }
@@ -62,7 +59,6 @@ const countFor = (topicId: string) =>
             <TopicCard
               topic={topic}
               positionCount={countFor(topic.id)}
-              partyCount={parties.length}
             />
           ))
         }

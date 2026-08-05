@@ -17,19 +17,18 @@ export type NavItem = { href: string; label: string };
 
 export const NAV_ITEMS: NavItem[] = [
   { href: "/partier/", label: "Partierna" },
-  { href: "/amnen/", label: "Ämnen" },
-  { href: "/jamfor/", label: "Jämför" },
   { href: "/fragor/", label: "Frågor" },
+  { href: "/jamfor/", label: "Jämför" },
+  { href: "/amnen/", label: "Ämnen" },
   { href: "/omvarldsbevakning/", label: "Omvärld" },
-  { href: "/metod/", label: "Metod" },
   { href: "/sok/", label: "Sök" },
 ];
 
 export const FOOTER_BROWSE_LINKS: NavItem[] = [
   { href: "/partier/", label: "Partierna" },
-  { href: "/amnen/", label: "Ämnen" },
-  { href: "/jamfor/", label: "Jämför partier" },
   { href: "/fragor/", label: "Vanliga frågor" },
+  { href: "/jamfor/", label: "Jämför partier" },
+  { href: "/amnen/", label: "Ämnen" },
   { href: "/omvarldsbevakning/", label: "Omvärldsbevakning" },
   { href: "/sok/", label: "Sök" },
 ];
