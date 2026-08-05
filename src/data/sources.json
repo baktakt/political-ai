@@ -319,12 +319,12 @@
     "title": "AI och teknikutveckling - Liberalerna",
     "publisher": "Liberalerna (liberalerna.se)",
     "author": null,
-    "publicationDate": null,
+    "publicationDate": "2026-05-26",
     "url": "https://www.liberalerna.se/politik/ai",
-    "accessedAt": "2026-07-20",
+    "accessedAt": "2026-08-05",
     "sourceType": "partiwebb",
     "excerpt": "Sverige behöver utbilda fler människor inom teknik, matematik och naturvetenskap för att stärka konkurrenskraften.",
-    "supportExplanation": "Partiets officiella AI-sida: nationell AI-strategi, innovationsvänliga regler, forskning och utveckling inom AI, europeiskt tekniskt oberoende, skydd för integritet och rättigheter samt kompetens-/utbildningsbehov. Sidan innehåller ingen detaljerad politik om AI:s effekter på jobb, omställning eller arbetstagares villkor. Läst 2026-07-20.",
+    "supportExplanation": "Partiets officiella AI-sida: nationell AI-strategi, innovationsvänliga regler, forskning och utveckling inom AI, europeiskt tekniskt oberoende, skydd för integritet och rättigheter samt kompetens-/utbildningsbehov. Sidan innehåller ingen detaljerad politik om AI:s effekter på jobb, omställning eller arbetstagares villkor. Läst 2026-08-05.",
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
@@ -1228,5 +1228,38 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "v-sjukvardspolitiskt-program-2026",
+    "title": "Vänsterpartiets hälso- och sjukvårdspolitiska program",
+    "publisher": "Vänsterpartiet (vansterpartiet.se)",
+    "author": null,
+    "publicationDate": "2026-03-13",
+    "url": "https://www.vansterpartiet.se/wp-content/uploads/2026/03/HalsoochSjukvardspolitiskt_program_WEBB.pdf",
+    "accessedAt": "2026-08-05",
+    "sourceType": "partiprogram",
+    "excerpt": "Det är rimligt att investeringar i patientjournalsystem och annan digital infrastruktur, såsom AI-modeller för diagnostik och screening, hanteras av staten.",
+    "supportExplanation": "Vänsterpartiets nationella hälso- och sjukvårdspolitiska program beskriver AI för diagnostik och screening som del av gemensam digital vårdinfrastruktur och säger att den bör hanteras av staten. Programmet anger också att digitala lösningar inte kan ersätta personliga möten eller omvårdnad.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "c-mot-2025-3181", "title": "Motion 2025/26:3181 Konsumentpolitik (kommittémotion, Alireza Akhondi m.fl., C)", "publisher": "Sveriges riksdag", "author": "Alireza Akhondi m.fl. (C)", "publicationDate": "2025-10-06", "url": "https://data.riksdagen.se/dokument/HD023181", "accessedAt": "2026-08-05", "sourceType": "motion", "excerpt": "Riksdagen ställer sig bakom det som anförs i motionen om ett fullgott skydd för konsumenters integritet, med hänsyn till exempelvis AI-teknikens utveckling.", "supportExplanation": "Kommittémotion på partinivå. C vill stärka konsumenters integritetsskydd med hänsyn till AI-teknikens utveckling.", "officialPolicy": true, "archivedUrl": null, "isCurrent": true
+  },
+  {
+    "id": "c-mot-2025-3581", "title": "Motion 2025/26:3581 Rättspolitik (kommittémotion, Ulrika Liljeberg m.fl., C)", "publisher": "Sveriges riksdag", "author": "Ulrika Liljeberg m.fl. (C)", "publicationDate": "2025-10-07", "url": "https://data.riksdagen.se/dokument/HD023581", "accessedAt": "2026-08-05", "sourceType": "motion", "excerpt": "Polisen bör skyndsamt ges ökade möjligheter att nyttja AI vid utredning av sexuella övergrepp mot barn på nätet.", "supportExplanation": "Kommittémotion på partinivå om AI-stöd i polisens utredning av sexuella övergrepp mot barn på nätet.", "officialPolicy": true, "archivedUrl": null, "isCurrent": true
+  },
+  {
+    "id": "c-mot-2025-3736", "title": "Motion 2025/26:3736 Utgiftsområde 24 Näringsliv (kommittémotion, Elisabeth Thand Ringqvist m.fl., C)", "publisher": "Sveriges riksdag", "author": "Elisabeth Thand Ringqvist m.fl. (C)", "publicationDate": "2025-10-07", "url": "https://data.riksdagen.se/dokument/HD023736", "accessedAt": "2026-08-05", "sourceType": "motion", "excerpt": "Centerpartiet lyfter AI-forskare, ett nationellt AI-center och regulatoriska sandlådor för AI.", "supportExplanation": "Kommittémotion på partinivå som kompletterar C:s nationella AI-strategi med AI-center, AI-forskning och regulatoriska sandlådor.", "officialPolicy": true, "archivedUrl": null, "isCurrent": true
+  },
+  {
+    "id": "s-mot-2025-3588", "title": "Motion 2025/26:3588 Utgiftsområde 10 Ekonomisk trygghet vid sjukdom och funktionsnedsättning (kommittémotion, Ida Karkiainen m.fl., S)", "publisher": "Sveriges riksdag", "author": "Ida Karkiainen m.fl. (S)", "publicationDate": "2025-10-07", "url": "https://data.riksdagen.se/dokument/HD023588", "accessedAt": "2026-08-05", "sourceType": "motion", "excerpt": "Påskynda arbetet med att använda artificiell intelligens vid handläggningen av socialförsäkringsärenden.", "supportExplanation": "Kommittémotion på partinivå. S föreslår snabbare AI-användning vid handläggning av socialförsäkringsärenden.", "officialPolicy": true, "archivedUrl": null, "isCurrent": true
+  },
+  {
+    "id": "s-mot-2025-3560", "title": "Motion 2025/26:3560 Utgiftsområde 25 Allmänna bidrag till kommuner (kommittémotion, Mikael Damberg m.fl., S)", "publisher": "Sveriges riksdag", "author": "Mikael Damberg m.fl. (S)", "publicationDate": "2025-10-07", "url": "https://data.riksdagen.se/dokument/HD023560", "accessedAt": "2026-08-05", "sourceType": "motion", "excerpt": "Användningen av AI i offentlig sektors kontrollarbete måste utvecklas för att bekämpa brotten och stoppa felaktiga utbetalningar.", "supportExplanation": "Kommittémotion på partinivå om AI i offentlig sektors kontrollarbete mot brott och felaktiga utbetalningar.", "officialPolicy": true, "archivedUrl": null, "isCurrent": true
+  },
+  {
+    "id": "v-mot-2025-321", "title": "Motion 2025/26:321 Konsumenternas ställning på de finansiella marknaderna (kommittémotion, Ida Gabrielsson m.fl., V)", "publisher": "Sveriges riksdag", "author": "Ida Gabrielsson m.fl. (V)", "publicationDate": "2025-09-25", "url": "https://data.riksdagen.se/dokument/HD02321", "accessedAt": "2026-08-05", "sourceType": "motion", "excerpt": "Regeringen bör tillsätta en utredning för att se över regleringen av algoritm- och högfrekvenshandeln på de finansiella marknaderna.", "supportExplanation": "Kommittémotion på partinivå. V föreslår en utredning om reglering av algoritm- och högfrekvenshandel på finansiella marknader.", "officialPolicy": true, "archivedUrl": null, "isCurrent": true
   }
 ]

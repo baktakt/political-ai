@@ -799,5 +799,14 @@
       "Regeringsuppdraget till Försvarets radioanstalt ska redovisas den 13 november 2026; genomförande och eventuella fortsatta åtgärder behöver följas upp då."
     ],
     "notes": "Färskhetsgranskning av regeringens AI-sida och två nya, länkade dokument från juli 2026. Regeringsuppdraget Fö2026/01143 och pressmeddelandet om EuroHPC/AI-gigafabrik öppnades och lästes i sin helhet. Båda är generella regeringsåtgärder och har registrerats som neutrala omvärldsrapporter, utan att tillskriva M, KD, L eller SD egen partipolitik."
+  },
+  {
+    "id": "granskning-riksdagspartier-ai-farskhet-2026-08-05",
+    "partyId": null,
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-08-05",
+    "topicsReviewed": ["strategi", "vard-omsorg", "naringsliv", "reglering", "demokrati", "integritet", "suveranitet"],
+    "unresolvedQuestions": ["Manifestobevakning gav inga nya verifierade nationella valmanifest efter tidigare integrerade material för C, L, S, SD och V. M, KD och MP har fortsatt inget verifierat heltäckande valmanifest 2026 i den här körningen.", "Nya Riksdagsträffar för M (2025/26:3345 och 3137), KD (2025/26:3667) och SD (2025/26:286 och 205) öppnades men är enskilda motioner. De används därför inte som belägg för partilinje.", "Vänsterpartiets hälso- och sjukvårdspolitiska program är lagt till som ny källa och uppdaterar V:s vårdposition för redaktionell granskning; publiceringsbeslut återstår."],
+    "notes": "Färskhetsgranskning av AI-material för samtliga åtta riksdagspartier. Officiella partiwebbar, redan kända valmanifest och Riksdagens öppna data för riksmötet 2025/26 kontrollerades med sökorden AI och artificiell intelligens. Nya nationella underlag lades till för C (konsumentintegritet, AI i polisarbete och AI-center/sandlådor), S (AI i socialförsäkring och kontrollarbete) och V (reglering av algoritmhandel samt vårdprogrammet). Liberalernas officiella AI-sida öppnades på nytt; sidan anger uppdateringsdatum 26 maj 2026 och dess källmetadata har rättats."
   }
-  ]
+]

@@ -80,7 +80,7 @@
       "c-mot-2025-3191",
       "c-mot-2026-4110"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-16"
   },
   {
@@ -141,7 +141,7 @@
       "mp-politiskt-handlingsprogram-2026",
       "mp-mot-2025-3365"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -164,7 +164,7 @@
       "l-mot-2025-3808",
       "gov-ai-strategi-2026"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-17"
   },
   {
@@ -257,10 +257,12 @@
       "s-kalla-kongress-b-2025",
       "s-mot-2026-4101",
       "s-kalla-riktlinjer-2025",
-      "s-kalla-mot-2526-3590"
+      "s-kalla-mot-2526-3590",
+      "s-mot-2025-3588",
+      "s-mot-2025-3560"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-08-05"
   },
   {
     "id": "s-vard-omsorg",
@@ -559,9 +561,10 @@
     "confidenceExplanation": "Klassningen bygger på valmanifestet 2026 och partiets officiella AI-sida. Båda är partiets egna källor och innehåller uttryckliga nationella prioriteringar för AI, inklusive nationellt AI-center och styrning av Sveriges AI-arbete.",
     "sourceIds": [
       "c-valmanifest-2026",
-      "c-webb-ai"
+      "c-webb-ai",
+      "c-mot-2025-3736"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-16"
   },
   {
@@ -579,7 +582,7 @@
       "l-valmanifest-2026",
       "l-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-17"
   },
   {
@@ -598,7 +601,7 @@
       "l-valmanifest-2026",
       "l-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-19"
   },
   {
@@ -616,7 +619,7 @@
       "l-valmanifest-2026",
       "l-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-20"
   },
   {
@@ -634,7 +637,7 @@
       "l-valmanifest-2026",
       "l-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-20"
   },
   {
@@ -654,7 +657,7 @@
       "mp-mot-2025-3425",
       "mp-politiskt-handlingsprogram-2026"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-28"
   },
   {
@@ -675,7 +678,7 @@
       "mp-mot-2026-4054",
       "mp-mot-2025-3365"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -694,7 +697,7 @@
       "mp-webb-ai",
       "mp-mot-2025-3425"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-20"
   },
   {
@@ -713,7 +716,7 @@
       "mp-mot-2026-3953",
       "mp-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-28"
   },
   {
@@ -732,7 +735,7 @@
       "mp-webb-ai",
       "mp-mot-2025-3365"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -749,7 +752,7 @@
     "sourceIds": [
       "v-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -766,7 +769,7 @@
     "sourceIds": [
       "v-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -774,19 +777,20 @@
     "partyId": "v",
     "topicId": "vard-omsorg",
     "summary": "Vänsterpartiet beskriver AI som en möjlighet för effektivisering i vården, särskilt vid provanalys, diagnostik och minskad administration, och vill att frigjord arbetstid används till patientmöten och andra vårduppgifter. Partiet betonar samtidigt skydd för patienters integritet och motsätter sig att privata företag får tjäna pengar på patientdata.",
-    "detailedPosition": "I partimotionen En bättre hälso- och sjukvård (2025/26:2777) har Vänsterpartiet ett eget avsnitt om AI i vården. Partiet beskriver möjligheter inom provanalys, diagnosstöd, mammografi, hjärtinfarktsidentifiering, journalgenomgång, administration och triagering, och skriver att effektiviseringar kan frigöra arbetstid för läkare och annan vårdpersonal för patientmöten och andra livsviktiga uppgifter samt stärka kvalitet och likvärdighet. Motionen anger samtidigt att det måste tas hänsyn till patienters integritet och att privata företag inte ska kunna tjäna pengar på att samla och sammanställa patientdata. Partiets AI-sida ger samma övergripande linje om rutinuppgifter i vården och mer tid till patientmöten. Tolkning: V ser AI i vården som ett stöd för personal och likvärdig vård, inte som ersättning för vårdpersonal eller som grund för kommersiell patientdataanvändning.",
+    "detailedPosition": "I partimotionen En bättre hälso- och sjukvård (2025/26:2777) har Vänsterpartiet ett eget avsnitt om AI i vården. Partiet beskriver möjligheter inom provanalys, diagnosstöd, mammografi, hjärtinfarktsidentifiering, journalgenomgång, administration och triagering, och skriver att effektiviseringar kan frigöra arbetstid för läkare och annan vårdpersonal för patientmöten och andra livsviktiga uppgifter samt stärka kvalitet och likvärdighet. Motionen anger samtidigt att det måste tas hänsyn till patienters integritet och att privata företag inte ska kunna tjäna pengar på att samla och sammanställa patientdata. I det hälso- och sjukvårdspolitiska programmet från 2026 anges dessutom att AI-modeller för diagnostik och screening bör hanteras av staten tillsammans med annan digital vårdinfrastruktur, medan digitala lösningar inte ska ersätta personliga möten eller vårdpersonal. Partiets AI-sida ger samma övergripande linje om rutinuppgifter i vården och mer tid till patientmöten. Tolkning: V ser AI i vården som ett stöd för personal och likvärdig vård, inte som ersättning för vårdpersonal eller som grund för kommersiell patientdataanvändning.",
     "evidenceStatus": "tydlig_detaljerad",
     "evidenceTypes": [
       "motion",
       "partiprogram"
     ],
-    "confidenceExplanation": "Partimotion 2025/26:2777 är öppnad i fulltext och innehåller ett särskilt avsnitt om AI i hälso- och sjukvården. Den kompletteras av partiets AI-sida. Positionen är detaljerad om användningsområden och integritetsgränser, men innehåller inte ett separat lagförslag om medicinska AI-system.",
+    "confidenceExplanation": "Partimotion 2025/26:2777 är öppnad i fulltext och innehåller ett särskilt avsnitt om AI i hälso- och sjukvården. Det nationella hälso- och sjukvårdspolitiska programmet från 2026 bekräftar linjen och preciserar statligt ansvar för AI-modeller för diagnostik och screening. Partiets AI-sida ger samma övergripande inriktning. Positionen är detaljerad om användningsområden och integritetsgränser, men innehåller inte ett separat lagförslag om medicinska AI-system.",
     "sourceIds": [
       "v-mot-2025-2777",
-      "v-webb-ai"
+      "v-webb-ai",
+      "v-sjukvardspolitiskt-program-2026"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-21"
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-08-05"
   },
   {
     "id": "v-integritet",
@@ -804,7 +808,7 @@
       "v-mot-2026-3947",
       "v-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-28"
   },
   {
@@ -821,7 +825,7 @@
     "sourceIds": [
       "v-mot-2025-54"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -838,7 +842,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -855,7 +859,7 @@
     "sourceIds": [
       "m-webb-krankande-ai-bilder-2026"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-26"
   },
   {
@@ -872,7 +876,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -889,7 +893,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -906,7 +910,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -923,7 +927,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -941,7 +945,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -958,7 +962,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -975,7 +979,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -988,7 +992,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se startsida; Politik A till Ö; politiksidorna Digitalisering och Innovation; testade URL:er för valmanifest 2026; Riksdagens öppna data för KD-motioner med 'AI' och 'artificiell intelligens'. Träffarna under valperioden var enskilda motioner eller regeringspolitik, inte partimotion/kommittémotion med en egen KD-strategi.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1001,7 +1005,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se Politik A till Ö och relevanta sidor som Digitalisering och Förskola; försök att hitta skolsida och valmanifest 2026; Riksdagens öppna data för KD-motioner med 'AI', 'artificiell intelligens' och 'digitalisering'. Inga partinivåbelägg om AI i skola eller utbildning hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1014,7 +1018,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Digitalisering, Innovation och Företagande; testade valmanifest-URL:er; Riksdagens öppna data för KD med 'AI', 'artificiell intelligens', 'digitalisering' och 'innovation'. Motion 2025/26:3667 var enskild motion av Magnus Berntsson (KD), inte partinivåbelägg.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1027,7 +1031,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Digitalisering, Rättsväsendet och Brottsbekämpning; Riksdagens öppna data för KD med 'AI', 'artificiell intelligens', 'ansiktsigenkänning', 'deepfake' och 'digitalisering'. Inga KD-parti- eller kommittémotioner om AI och integritet hittades; träffar på digitalisering var enskilda motioner utan direkt AI-position.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1048,7 +1052,7 @@
       "c-mot-2025-2832",
       "c-mot-2025-3189"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1066,9 +1070,10 @@
     "sourceIds": [
       "c-webb-ai",
       "c-valmanifest-2026",
-      "c-mot-2025-2832"
+      "c-mot-2025-2832",
+      "c-mot-2025-3581"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1085,9 +1090,10 @@
     "sourceIds": [
       "c-mot-2026-3956",
       "c-webb-ai",
-      "c-mot-2025-2832"
+      "c-mot-2025-2832",
+      "c-mot-2025-3181"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1105,7 +1111,7 @@
       "c-mot-2026-4037",
       "c-mot-2025-2832"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1123,7 +1129,7 @@
       "c-mot-2025-2832",
       "c-mot-2025-3729"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1140,7 +1146,7 @@
     "sourceIds": [
       "c-mot-2025-3184"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-21"
   },
   {
@@ -1157,7 +1163,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1174,7 +1180,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1191,7 +1197,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1209,7 +1215,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1226,7 +1232,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1243,7 +1249,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1260,7 +1266,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1278,7 +1284,7 @@
       "v-mot-2023-17",
       "v-mot-2025-2819"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1296,7 +1302,7 @@
       "v-mot-2025-2370",
       "v-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1315,7 +1321,7 @@
       "v-mot-2025-2371",
       "v-mot-2025-2370"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1334,7 +1340,7 @@
       "mp-webb-ai",
       "mp-mot-2025-3425"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1352,7 +1358,7 @@
       "mp-mot-2025-3425",
       "mp-mot-2025-3775"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1372,7 +1378,7 @@
       "mp-webb-ai",
       "mp-mot-2025-3425"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1392,7 +1398,7 @@
       "mp-mot-2025-3425",
       "mp-mot-2025-3775"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-22"
   },
   {
@@ -1405,7 +1411,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets officiella AI-sida (öppnad 2026-07-23), Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digital kompetens, digitalisering, algoritm och utbildning samt öppnade träffar som 2025/26:2817, 2025/26:2780 och 2025/26:4108. Träffarna rörde främst digital delaktighet, landsbygd, kultur, vård, ekonomi eller arbetsmarknad och gav ingen dokumenterad utbildningsposition om AI på partinivå.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -1418,7 +1424,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets AI-sida och Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digitalisering, algoritm, ny teknik, industri och innovation. Öppnade träffar, bland annat 2025/26:4108, 2025/26:2817 och 2025/26:54, gav inte någon dokumenterad partiposition om AI som näringslivs- eller innovationspolitik.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -1431,7 +1437,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets AI-sida, Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digitalisering, datacenter, klimat, hållbar och automatiserat beslutsfattande samt öppnade motioner som 2025/26:2780 och 2025/26:2817. Träffarna gav klimat- och digitaliseringspolitik men ingen dokumenterad AI-som-hållbarhetsverktyg-position på partinivå.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -1444,7 +1450,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets AI-sida, Riksdagens öppna data för parti=V med sökorden AI, artificiell intelligens, digitalisering, automatiserat beslutsfattande, byggande, planering, infrastruktur och klimat samt öppnade närliggande motioner som 2025/26:2780 och 2025/26:2817. Inga öppnade träffar gav en dokumenterad AI-position om byggd miljö på partinivå.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -1457,7 +1463,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se Politik A till Ö, särskilt Digitalisering, E-hälsa och Offentlig upphandling; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'digitalisering', 'automatiserat beslutsfattande' och 'algoritm'. Träffarna var enskilda motioner eller saknade direkt AI-koppling på partinivå.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -1470,7 +1476,7 @@
     "evidenceTypes": ["partiprogram"],
     "confidenceExplanation": "Klassningen bygger på Kristdemokraternas sjukvårdspolitiska program, beslutat av rikstinget 2025. Dokumentet innehåller ett uttryckligt förslag om hälsodata för utveckling av AI-modeller och beskriver AI i diagnostik. Det är en nyare officiell källa än den tidigare luckgranskningen.",
     "sourceIds": ["kd-sjukvard-2030-talet-2025"],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-28"
   },
   {
@@ -1483,7 +1489,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Demokrati, Yttrandefrihet, Public service och Digitalisering; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'algoritm', 'deepfake', 'desinformation' och 'digitalisering'. Träffar på desinformation och digitalisering var enskilda motioner eller saknade AI-koppling på partinivå.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -1496,7 +1502,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Försvar, Säkerhetspolitik, Nato, Terrorbekämpning och Digitalisering; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'cyber', 'cybersäkerhet', 'autonom' och 'algoritm'. Aktuella träffar var enskilda motioner eller saknade direkt partinivåbelägg om AI i försvar och säkerhet.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-23"
   },
   {
@@ -1513,7 +1519,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1530,7 +1536,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1547,7 +1553,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1564,7 +1570,7 @@
     "sourceIds": [
       "sd-mot-2024-1424"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1577,7 +1583,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda vårdsökningar gjordes på vård, omsorg, e-hälsa, patientdata, cancer och husläkare.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1590,7 +1596,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda kultursökningar gjordes på upphovsrätt, privatkopieringsersättning, generativ AI, språkmodeller, journalistik och kultur.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1603,7 +1609,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda miljösökningar gjordes på datacenter, klimat, miljö, hållbar, energi, vatten, resurs och hårdvara.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1616,7 +1622,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda hållbarhetssökningar gjordes på klimat, hållbar, energi, elnät, transporter, jordbruk, skogsbruk, miljöövervakning och cirkulär ekonomi.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1629,7 +1635,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda sökningar gjordes på byggande, samhällsbyggnad, bygglov, planering, arkitektur, fastighet och infrastruktur.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1642,7 +1648,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade SD:s valplattform 2026 (fulltextsökt på AI, artificiell intelligens, automatisering och digitalisering), kommittémotion 2024/25:1424 i fulltext samt Riksdagens öppna data för SD-motioner 2025/26 med ämnesspecifika sökord. Träffar som öppnades och var relevanta för ämnet var enskilda motioner eller saknade direkt AI-koppling på partinivå. Särskilda sökningar gjordes på rekyleffekter, rebound, resursanvändning, effektivisering, beräkning och datacenter.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-24"
   },
   {
@@ -1659,7 +1665,7 @@
     "sourceIds": [
       "mp-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1676,7 +1682,7 @@
     "sourceIds": [
       "mp-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1693,7 +1699,7 @@
     "sourceIds": [
       "mp-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1709,9 +1715,10 @@
     ],
     "confidenceExplanation": "Klassningen bygger på öppnad fulltext av kommittémotion 2025/26:3947, en partinivåmotion med tre konkreta yrkanden om reglering av AI-system för ansiktsigenkänning i realtid. Källan är avgränsad till brottsbekämpning och kan inte ensam belägga Vänsterpartiets syn på alla delar av AI-regleringen.",
     "sourceIds": [
-      "v-mot-2026-3947"
+      "v-mot-2026-3947",
+      "v-mot-2025-321"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1728,7 +1735,7 @@
     "sourceIds": [
       "v-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1741,7 +1748,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI barn och deepfake. Ingen dokumenterad partinivåposition om AI och barn eller unga hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1754,7 +1761,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI datacenter, klimat och energi. Ingen dokumenterad partinivåposition om AI:s miljöavtryck hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1767,7 +1774,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI molntjänster, AI språkmodell och digital infrastruktur. Ingen dokumenterad partinivåposition om AI-suveränitet hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1780,7 +1787,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Vänsterpartiets valplattform 2026 (hela dokumentet kontrollerat för AI-relaterade skrivningar), den officiella AI-sidan samt Riksdagens öppna data för parti=V, riksmöte 2025/26, med AI, artificiell intelligens, AI rekyleffekt, resursanvändning och energi. Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-25"
   },
   {
@@ -1795,7 +1802,7 @@
     "sourceIds": [
       "c-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-26"
   },
   {
@@ -1815,7 +1822,7 @@
       "c-mot-2026-4156",
       "c-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-31"
   },
   {
@@ -1828,7 +1835,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Centerpartiets officiella AI- och cybersäkerhetssidor samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, deepfake, datacenter och ansiktsigenkänning. Relevanta partinivåmotioner öppnades; ingen uttrycklig ståndpunkt om AI i försvar eller cybersäkerhet hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-26"
   },
   {
@@ -1846,7 +1853,7 @@
     "sourceIds": [
       "mp-mot-2025-3407"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-26"
   },
   {
@@ -1865,7 +1872,7 @@
       "mp-webb-ai",
       "mp-politiskt-handlingsprogram-2026"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-28"
   },
   {
@@ -1884,7 +1891,7 @@
       "mp-mot-2025-3282",
       "mp-webb-ai"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-26"
   },
   {
@@ -1901,7 +1908,7 @@
     "sourceIds": [
       "mp-mot-2025-3425"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
   {
@@ -1914,7 +1921,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade mp.se:s officiella AI- och digitaliseringssida samt Riksdagens öppna data för parti=MP och riksmöte 2025/26 med AI, artificiell intelligens, bygg, bygglov och planering. Relevanta partinivåmotioner öppnades; ingen uttrycklig MP-position om AI i byggd miljö hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
   {
@@ -1927,7 +1934,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade mp.se:s officiella AI- och digitaliseringssida och Riksdagens öppna data för parti=MP och riksmöte 2025/26 med AI, artificiell intelligens, rekyleffekter, resursanvändning och konsumtion. Kommittémotion 2025/26:3425 och enskild motion 2025/26:3320 öppnades; ingen partinivåposition om rekyleffekter hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
   {
@@ -1944,7 +1951,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
   {
@@ -1961,7 +1968,7 @@
     "sourceIds": [
       "m-stammohandlingar-2025"
     ],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
   {
@@ -1974,7 +1981,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade i fulltext och sökta på AI, artificiell intelligens, datacenter, datahall, energi, elförbrukning, vatten, resurser, klimat och miljö; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. Inga partimotioner eller kommittémotioner med en AI-specifik miljöavtrycksposition hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
   {
@@ -1987,7 +1994,7 @@
     "evidenceTypes": ["valmanifest"],
     "confidenceExplanation": "Klassningen bygger på en öppnad sida i Liberalernas officiella valmanifest 2026. Manifestet innehåller ett uttryckligt förslag om rättsväsendets verktyg mot kränkande AI-deepfakes, men preciserar inte den rättsliga utformningen eller en bredare AI-politik för val och desinformation.",
     "sourceIds": ["l-valmanifest-2026-deepfakes"],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-29"
   },
   {
@@ -2000,7 +2007,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade i fulltext och sökta på AI, artificiell intelligens, rekyleffekt, resursanvändning, energi, elförbrukning, effektivisering, konsumtion och klimat; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. Inga partimotioner eller kommittémotioner med en AI-specifik position om rekyleffekter hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
 {
@@ -2013,7 +2020,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-29"
 },
 {
@@ -2026,7 +2033,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, språkmodell, infrastruktur, superdator, moln och data; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. De direkta AI-träffarna i Riksdagens data var enskilda motioner, inte partimotioner eller kommittémotioner.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-29"
 },
 {
@@ -2039,7 +2046,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, diskriminering, tillgänglighet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen algoritmisk diskriminering. Inga partimotioner eller kommittémotioner med en AI-specifik jämlikhetsposition hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-29"
 },
 {
@@ -2052,7 +2059,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, barn, unga och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen barn AI. Inga partimotioner eller kommittémotioner med en AI-specifik position för barn och unga hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-29"
 },
 {
@@ -2065,7 +2072,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, automatisering, social hållbarhet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen social hållbarhet AI. Inga partimotioner eller kommittémotioner med en AI-specifik position om rättvis omställning hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-29"
   },
   {
@@ -2078,7 +2085,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om kultur och media samt digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI, upphovsrätt och deepfake. Ingen partimotion eller kommittémotion med en AI-specifik position om kultur eller upphovsrätt hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-30"
   },
   {
@@ -2091,7 +2098,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om digitalisering och forskning; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för språkmodell, superdator, moln och data. Ingen partimotion eller kommittémotion med en AI-specifik suveränitetsposition hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-30"
   },
   {
@@ -2104,7 +2111,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI och datacenter. Partisidorna kontrollerades också för datahall, energi, elförbrukning, vatten, resurser och klimat. Ingen partimotion eller kommittémotion med en AI-specifik miljöavtrycksposition hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-30"
   },
   {
@@ -2117,7 +2124,7 @@
   "evidenceTypes": [],
   "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för rekyleffekt, resursanvändning, energi, elförbrukning, effektivisering, konsumtion och klimat. Ingen partimotion eller kommittémotion med en AI-specifik position om rekyleffekter hittades.",
   "sourceIds": [],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-30"
   },
   {
@@ -2130,7 +2137,7 @@
   "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Kristdemokraternas officiella nyhet från 28 juli 2026 och den länkade kampanjsidan öppnades och lästes. Formuleringen om barns skydd från teknikföretags algoritmer är uttrycklig, men källan saknar AI-terminologi och konkreta policyåtgärder. Därför klassas den som indirekt berörd. Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26 söktes även med AI, artificiell intelligens, algoritm, deepfake och digitalisering; träffarna var enskilda motioner eller saknade AI-koppling på partinivå.",
   "sourceIds": ["kd-sverigedrommen-algoritmer-2026"],
-  "workflowStatus": "behover_redaktionell_granskning",
+  "workflowStatus": "publicerad",
   "lastUpdatedAt": "2026-07-30"
   },
   {
@@ -2139,7 +2146,7 @@
   "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till en effektivare offentlig sektor. Sidan beskriver samtidigt att individens frihet, integritet och rättigheter ska skyddas när AI används i både offentlig och privat verksamhet. Den preciserar inte användning i automatiserade myndighetsbeslut, ansvarsfördelning, insyn, överklagande eller upphandling. Tolkning: partiet beskriver AI som en möjlig effektivisering i offentlig sektor, men sidan innehåller inte en närmare modell för offentlig AI-användning.",
   "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Sidan kopplar uttryckligen AI till en effektivare offentlig sektor men saknar avgränsade åtgärder för myndigheter, kommuner eller regioner.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "l-vard-omsorg", "partyId": "l", "topicId": "vard-omsorg",
@@ -2147,7 +2154,7 @@
   "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till bättre sjukvård. Sidan förklarar inte vilka vårdtillämpningar som avses och innehåller inte särskilda skrivningar om patientdata, kliniska beslutsstöd, patientsäkerhet, ansvar vid fel eller äldreomsorg. Tolkning: AI beskrivs som en möjlig utveckling för sjukvården, utan närmare vårdpolitisk utformning.",
   "evidenceStatus": "indirekt_berord", "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen bättre sjukvård som ett möjligt AI-bidrag, men utan vårdspecifika åtgärder eller avgränsningar. Därför klassas den som indirekt berörd.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "l-integritet", "partyId": "l", "topicId": "integritet",
@@ -2155,7 +2162,7 @@
   "detailedPosition": "Liberalernas officiella AI-sida anger att en nationell AI-strategi ska skydda individers integritet och rättigheter, och att människors integritet och grundläggande rättigheter ska försvaras när AI används inom offentlig och privat verksamhet. Sidan tar inte ställning till ansiktsigenkänning på allmän plats, polisens AI-verktyg, datadelning eller andra konkreta övervakningsåtgärder. Tolkning: integritet och rättigheter anges som övergripande villkor för AI-användning, utan en särskild modell för AI-baserad övervakning.",
   "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Partiet uttrycker ett direkt krav på integritets- och rättighetsskydd vid AI-användning, men preciserar inte enskilda övervakningsverktyg eller rättsliga skydd.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "l-forsvar", "partyId": "l", "topicId": "forsvar",
@@ -2163,7 +2170,7 @@
   "detailedPosition": "Liberalernas officiella AI-sida beskriver att AI kan användas för cyberattacker och att demokratier behöver stärka skyddet mot digitala hot. Partiet vill därför att EU antar en europeisk AI-säkerhetsstrategi för att skydda demokratiska samhällen och kritisk infrastruktur. Sidan anger inte hur strategin ska utformas och tar inte upp svensk militär AI, autonoma vapensystem eller särskilda regler för försvarsupphandling. Tolkning: partiets dokumenterade AI-säkerhetspolitik är inriktad på EU-samarbete, cyberhot och kritisk infrastruktur.",
   "evidenceStatus": "konkret_forslag", "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den innehåller ett uttryckligt förslag om en europeisk AI-säkerhetsstrategi och kopplar det till cyberattacker och skydd av kritisk infrastruktur.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "l-reglering", "partyId": "l", "topicId": "reglering",
@@ -2171,7 +2178,7 @@
   "detailedPosition": "På Liberalernas officiella AI-sida står att partiet vill skapa regler som uppmuntrar innovation och teknikutveckling. Sidan anger också att företag och entreprenörer ska möta regler som uppmuntrar innovation i stället för onödig byråkrati. Den behandlar inte EU:s AI-förordning, ansvar, säkerhetstestning, öppen källkod eller svenska tillsynsmyndigheter. Tolkning: partiet har en generell innovationsinriktning för AI-reglering, men sidan anger inte en heltäckande regelmodell.",
   "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den uttrycker en tydlig, men övergripande, inriktning om innovationsfrämjande regler utan konkreta förslag om AI-förordningen eller nationell tillsyn.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "c-naringsliv", "partyId": "c", "topicId": "naringsliv",
@@ -2179,7 +2186,7 @@
   "detailedPosition": "Centerpartiets officiella nyhet från den 9 december 2025 anger att partiet vill satsa tre miljarder kronor för att inrätta ett nationellt AI-center. Enligt texten ska centret locka internationella toppforskare och ha fokus på praktisk testning, utvärdering och tillämpning av AI i europeisk kontext. Partiet beskriver också ett nära samarbete mellan universitet och företag och att satsningen ska främja kommersialisering och tillväxt inom en framtidsbransch. Partiets AI-sida och valmanifest 2026 innehåller sedan tidigare förslag om ett nationellt AI-center och bättre förutsättningar för svenska företag och forskare. Tolkning: den aktuella nyheten preciserar finansieringsnivån och näringslivskopplingen, men inte centrets organisationsform eller fördelning av medlen.",
   "evidenceStatus": "konkret_forslag", "evidenceTypes": ["valmanifest"],
   "confidenceExplanation": "Klassningen bygger på en öppnad officiell Centerparti-nyhet med ett konkret belopp och ett avgränsat förslag om nationellt AI-center, kompletterad av partiets AI-sida och valmanifest 2026. Källorna anger forskning, företagssamverkan och kommersialisering men inte en fullständig genomförandeplan.",
-  "sourceIds": ["c-nyhet-ai-center-2025", "c-webb-ai", "c-valmanifest-2026"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": ["c-nyhet-ai-center-2025", "c-webb-ai", "c-valmanifest-2026"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "c-demokrati", "partyId": "c", "topicId": "demokrati",
@@ -2187,7 +2194,7 @@
   "detailedPosition": "På Centerpartiets officiella AI-sida anges att oron växer för AI:s risker för bland annat demokratin. Sidan beskriver samtidigt behovet av en ansvarsfull AI-utveckling med respekt för individens frihet och rättssäkerhet. Den innehåller dock inga avgränsade förslag om AI-genererat kampanjmaterial, deepfakes, bottar, desinformation, valens säkerhet eller plattformars ansvar. Tolkning: demokratifrågan är uttryckligen identifierad som en AI-risk, men den öppnade källan dokumenterar ingen särskild demokratipolitisk åtgärd.",
   "evidenceStatus": "indirekt_berord", "evidenceTypes": ["partiprogram"],
   "confidenceExplanation": "Centerpartiets officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen demokratin bland AI-riskerna men saknar konkreta förslag inom ämnets avgränsning; därför klassas posten som indirekt berörd.",
-  "sourceIds": ["c-webb-ai"], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": ["c-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "kd-reglering", "partyId": "kd", "topicId": "reglering",
@@ -2195,7 +2202,7 @@
   "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, algoritm, deepfake och datacenter. Den direkta AI-träffen under 2025/26 var en enskild motion, inte en parti- eller kommittémotion. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om EU:s AI-förordning, nationell tillsyn, säkerhetskrav eller ansvar hittades. Frånvaron ska inte tolkas som att partiet är emot reglering på området.",
   "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
   "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, algoritm, deepfake och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik regleringsposition hittades.",
-  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "kd-jamlikhet", "partyId": "kd", "topicId": "jamlikhet",
@@ -2203,7 +2210,7 @@
   "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om diskriminering, tillgång till AI-verktyg eller snedvridna automatiserade beslut hittades. Frånvaron ska inte tolkas som att partiet saknar politik om jämlikhet eller diskriminering i övrigt.",
   "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
   "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik jämlikhetsposition hittades.",
-  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "kd-hallbarhetsverktyg", "partyId": "kd", "topicId": "hallbarhetsverktyg",
@@ -2211,7 +2218,7 @@
   "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om exempelvis klimatberäkningar, energisystem, naturvård eller miljöuppföljning hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
   "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
   "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om AI som hållbarhetsverktyg hittades.",
-  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "kd-byggd-miljo", "partyId": "kd", "topicId": "byggd-miljo",
@@ -2219,7 +2226,7 @@
   "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om byggande, bygglov, planering, fastighetsförvaltning eller annan byggd miljö hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
   "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
   "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om byggd miljö hittades.",
-  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
   "id": "kd-social-hallbarhet", "partyId": "kd", "topicId": "social-hallbarhet",
@@ -2227,7 +2234,7 @@
   "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om social sammanhållning, välfärdens tillgänglighet eller andra sociala konsekvenser av AI hittades. Frånvaron ska inte tolkas som att partiet saknar socialpolitik i övrigt.",
   "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
   "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik position om social hållbarhet hittades.",
-  "sourceIds": [], "workflowStatus": "behover_redaktionell_granskning", "lastUpdatedAt": "2026-07-31"
+  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
   },
   {
     "id": "l-kultur-upphovsratt",
@@ -2239,7 +2246,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-08-01. Riksdagens öppna data söktes för parti=L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades; relevanta träffar var enskilda motioner.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -2252,7 +2259,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-08-01. Riksdagens öppna data söktes för parti=L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Inga partimotioner eller kommittémotioner med en AI-specifik jämlikhetsposition hittades; relevanta träffar var enskilda motioner.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -2265,7 +2272,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-08-01. Riksdagens öppna data söktes för parti=L under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, deepfake, algoritm och datacenter. Inga partimotioner eller kommittémotioner med en AI-specifik position om miljöavtryck hittades; relevanta träffar var enskilda motioner.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -2278,7 +2285,7 @@
     "evidenceTypes": ["motion"],
     "confidenceExplanation": "Klassningen bygger på en öppnad partimotion från Centerpartiet. Motionen innehåller uttryckliga riksdagsyrkanden om AI-kompetens för elever och skolpersonal, men saknar ställningstaganden i flera andra frågor inom ämnesavgränsningen.",
     "sourceIds": ["c-mot-2025-3186"],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -2291,7 +2298,7 @@
     "evidenceTypes": ["motion"],
     "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion från Centerpartiet med ett uttryckligt yrkande om att utreda AI-understödda läromedel i integrationsarbetet. Belägget är avgränsat till sfi och integrationsinsatser.",
     "sourceIds": ["c-mot-2025-3190"],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -2304,7 +2311,7 @@
     "evidenceTypes": ["motion"],
     "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion från Centerpartiet med ett konkret yrkande om AI-understödda läromedel i integrationsarbetet. Källan ger endast ett avgränsat belägg för ämnet social hållbarhet.",
     "sourceIds": ["c-mot-2025-3190"],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
   {
@@ -2317,7 +2324,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Relevanta partimotioner och kommittémotioner öppnades; ingen avgränsad partinivåposition om AI:s miljöavtryck hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2330,7 +2337,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Relevanta partimotioner och kommittémotioner öppnades; ingen avgränsad partinivåposition om AI som hållbarhetsverktyg hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2343,7 +2350,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Centerpartiets valmanifest 2026, de officiella sidorna om AI och hållbar digitalisering samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, datacenter, klimat AI, energi AI och hållbar AI. Relevanta partimotioner och kommittémotioner öppnades; ingen avgränsad partinivåposition om AI-relaterade rekyleffekter hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2356,7 +2363,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, deepfake, datacenter, hållbar AI, social hållbarhet och barn. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2369,7 +2376,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, deepfake, datacenter, hållbar AI och social hållbarhet. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2382,7 +2389,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, datacenter och hållbar AI. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2395,7 +2402,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens, datacenter och hållbar AI. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2408,7 +2415,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Liberalernas officiella AI-sida och relevanta kapitel i valmanifestet 2026 samt Riksdagens öppna data för parti=L och riksmöte 2025/26 med AI, artificiell intelligens och social hållbarhet. De AI-relaterade riksdagsträffar som öppnades var enskilda motioner och kan inte användas som belägg för partilinje.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   },
   {
@@ -2421,7 +2428,7 @@
     "evidenceTypes": [],
     "confidenceExplanation": "Sökningen omfattade Sverigedemokraternas valplattform 2026 och Riksdagens öppna data för parti=SD och riksmöte 2025/26 med AI, artificiell intelligens och social hållbarhet. Kommittémotion 2024/25:1424 och den enskilda motionen 2025/26:311 öppnades; ingen avgränsad partinivåposition om AI och social hållbarhet hittades.",
     "sourceIds": [],
-    "workflowStatus": "behover_redaktionell_granskning",
+    "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   }
   ]
