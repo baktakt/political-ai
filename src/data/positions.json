@@ -559,7 +559,8 @@
     "confidenceExplanation": "Klassningen bygger på valmanifestet 2026 och partiets officiella AI-sida. Båda är partiets egna källor och innehåller uttryckliga nationella prioriteringar för AI, inklusive nationellt AI-center och styrning av Sveriges AI-arbete.",
     "sourceIds": [
       "c-valmanifest-2026",
-      "c-webb-ai"
+      "c-webb-ai",
+      "c-mot-2025-3736"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-16"
@@ -774,19 +775,20 @@
     "partyId": "v",
     "topicId": "vard-omsorg",
     "summary": "Vänsterpartiet beskriver AI som en möjlighet för effektivisering i vården, särskilt vid provanalys, diagnostik och minskad administration, och vill att frigjord arbetstid används till patientmöten och andra vårduppgifter. Partiet betonar samtidigt skydd för patienters integritet och motsätter sig att privata företag får tjäna pengar på patientdata.",
-    "detailedPosition": "I partimotionen En bättre hälso- och sjukvård (2025/26:2777) har Vänsterpartiet ett eget avsnitt om AI i vården. Partiet beskriver möjligheter inom provanalys, diagnosstöd, mammografi, hjärtinfarktsidentifiering, journalgenomgång, administration och triagering, och skriver att effektiviseringar kan frigöra arbetstid för läkare och annan vårdpersonal för patientmöten och andra livsviktiga uppgifter samt stärka kvalitet och likvärdighet. Motionen anger samtidigt att det måste tas hänsyn till patienters integritet och att privata företag inte ska kunna tjäna pengar på att samla och sammanställa patientdata. Partiets AI-sida ger samma övergripande linje om rutinuppgifter i vården och mer tid till patientmöten. Tolkning: V ser AI i vården som ett stöd för personal och likvärdig vård, inte som ersättning för vårdpersonal eller som grund för kommersiell patientdataanvändning.",
+    "detailedPosition": "I partimotionen En bättre hälso- och sjukvård (2025/26:2777) har Vänsterpartiet ett eget avsnitt om AI i vården. Partiet beskriver möjligheter inom provanalys, diagnosstöd, mammografi, hjärtinfarktsidentifiering, journalgenomgång, administration och triagering, och skriver att effektiviseringar kan frigöra arbetstid för läkare och annan vårdpersonal för patientmöten och andra livsviktiga uppgifter samt stärka kvalitet och likvärdighet. Motionen anger samtidigt att det måste tas hänsyn till patienters integritet och att privata företag inte ska kunna tjäna pengar på att samla och sammanställa patientdata. I det hälso- och sjukvårdspolitiska programmet från 2026 anges dessutom att AI-modeller för diagnostik och screening bör hanteras av staten tillsammans med annan digital vårdinfrastruktur, medan digitala lösningar inte ska ersätta personliga möten eller vårdpersonal. Partiets AI-sida ger samma övergripande linje om rutinuppgifter i vården och mer tid till patientmöten. Tolkning: V ser AI i vården som ett stöd för personal och likvärdig vård, inte som ersättning för vårdpersonal eller som grund för kommersiell patientdataanvändning.",
     "evidenceStatus": "tydlig_detaljerad",
     "evidenceTypes": [
       "motion",
       "partiprogram"
     ],
-    "confidenceExplanation": "Partimotion 2025/26:2777 är öppnad i fulltext och innehåller ett särskilt avsnitt om AI i hälso- och sjukvården. Den kompletteras av partiets AI-sida. Positionen är detaljerad om användningsområden och integritetsgränser, men innehåller inte ett separat lagförslag om medicinska AI-system.",
+    "confidenceExplanation": "Partimotion 2025/26:2777 är öppnad i fulltext och innehåller ett särskilt avsnitt om AI i hälso- och sjukvården. Det nationella hälso- och sjukvårdspolitiska programmet från 2026 bekräftar linjen och preciserar statligt ansvar för AI-modeller för diagnostik och screening. Partiets AI-sida ger samma övergripande inriktning. Positionen är detaljerad om användningsområden och integritetsgränser, men innehåller inte ett separat lagförslag om medicinska AI-system.",
     "sourceIds": [
       "v-mot-2025-2777",
-      "v-webb-ai"
+      "v-webb-ai",
+      "v-sjukvardspolitiskt-program-2026"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
-    "lastUpdatedAt": "2026-07-21"
+    "lastUpdatedAt": "2026-08-05"
   },
   {
     "id": "v-integritet",
@@ -1066,7 +1068,8 @@
     "sourceIds": [
       "c-webb-ai",
       "c-valmanifest-2026",
-      "c-mot-2025-2832"
+      "c-mot-2025-2832",
+      "c-mot-2025-3581"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-21"
@@ -1085,7 +1088,8 @@
     "sourceIds": [
       "c-mot-2026-3956",
       "c-webb-ai",
-      "c-mot-2025-2832"
+      "c-mot-2025-2832",
+      "c-mot-2025-3181"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-21"
@@ -1709,7 +1713,8 @@
     ],
     "confidenceExplanation": "Klassningen bygger på öppnad fulltext av kommittémotion 2025/26:3947, en partinivåmotion med tre konkreta yrkanden om reglering av AI-system för ansiktsigenkänning i realtid. Källan är avgränsad till brottsbekämpning och kan inte ensam belägga Vänsterpartiets syn på alla delar av AI-regleringen.",
     "sourceIds": [
-      "v-mot-2026-3947"
+      "v-mot-2026-3947",
+      "v-mot-2025-321"
     ],
     "workflowStatus": "behover_redaktionell_granskning",
     "lastUpdatedAt": "2026-07-25"

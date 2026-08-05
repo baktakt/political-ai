@@ -348,5 +348,12 @@
     "title": "Två regeringsåtgärder om AI har lagts till i omvärldsbevakningen",
     "description": "Regeringens uppdrag om AI-drivna cyberhot och satsningen på EuroHPC:s AI-gigafabrik i Finland har dokumenterats som omvärldsbevakning. Materialet beskriver regeringspolitik och används inte som belägg för enskilda partiers ståndpunkter.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-08-05-riksdagspartier-ai-farskhet",
+    "date": "2026-08-05",
+    "title": "Färskhetsgranskning av riksdagspartiernas AI-material",
+    "description": "Samtliga riksdagspartiers nationella AI-material och aktuella Riksdagsträffar har kontrollerats. Nya partinivåkällor från C, S och V har lagts till: AI i konsumentintegritet, polisarbete, AI-center, socialförsäkring, offentlig kontroll och algoritmhandel. Uppdaterade positionsunderlag väntar på redaktionell granskning.",
+    "type": "innehall"
   }
 ]
