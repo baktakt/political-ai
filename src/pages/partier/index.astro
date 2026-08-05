@@ -5,15 +5,34 @@ import NeutralityNote from "@/components/NeutralityNote.astro";
 import {
   getPartiesSorted,
   getTopicsSorted,
-  getPublishedPositions,
   getSourcesMap,
 } from "@/lib/content";
+import { getPartyPresentation } from "@/lib/party-presentation";
 import { formatDate } from "@/lib/format";
 
 const parties = await getPartiesSorted();
 const topics = await getTopicsSorted();
-const positions = await getPublishedPositions();
 const sourcesMap = await getSourcesMap();
+const allPositionRecords = (await import("@/data/positions.json")).default;
+const presentations = new Map(
+  parties.map((party) => [
+    party.id,
+    getPartyPresentation(party.data, allPositionRecords),
+  ]),
+);
+const documentedParties = parties.filter(
+  (party) => presentations.get(party.id)?.informationLevel === "dokumenterad_inriktning",
+);
+const limitedParties = parties.filter(
+  (party) => presentations.get(party.id)?.informationLevel === "begransat_underlag",
+);
+const fullyPublishedParties = parties.filter(
+  (party) => presentations.get(party.id)?.publishedTopicCount === topics.length,
+);
+const listFormatter = new Intl.ListFormat("sv", { style: "long", type: "conjunction" });
+const documentedPartyNames = listFormatter.format(documentedParties.map((party) => party.data.name));
+const limitedPartyNames = listFormatter.format(limitedParties.map((party) => party.data.name));
+const fullyPublishedPartyNames = listFormatter.format(fullyPublishedParties.map((party) => party.data.name));
 const verifiedAt = parties[0]?.data.verifiedAt;
 const verificationSources = [
   ...new Set(parties.flatMap((p) => p.data.verificationSourceIds)),
@@ -23,44 +42,80 @@ const verificationSources = [
 ---
 
 <BaseLayout
-  title="Partierna"
-  description="Riksdagens åtta partier och deras dokumenterade AI- och hållbarhetspolitik — samma granskning för alla, i bokstavsordning."
+  title="Partiernas syn på AI"
+  description="En enkel, källbaserad överblick över hur riksdagspartierna närmar sig AI — och vad vi ännu inte vet."
 >
   <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
-    <header class="border-b border-border py-10">
-      <div class="bi-mono">Riksdagens partier · valperioden 2022–2026</div>
-      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Partierna</h1>
-      <p class="mt-3 max-w-2xl text-base text-muted-foreground">
-        Alla åtta riksdagspartier granskas med samma metod och visas med samma
-        layout, alltid i bokstavsordning. Att ett parti har fler granskade ämnen
-        betyder bara att dokumentationsläget är mer komplett — inte att partiets
-        politik är bättre eller sämre.
+    <header class="border-b border-border py-10 md:py-14">
+      <div class="bi-mono">Inför riksdagsvalet 2026</div>
+      <h1 class="mt-3 max-w-3xl text-3xl leading-tight md:text-5xl">
+        Hur närmar sig partierna AI?
+      </h1>
+      <p class="mt-4 max-w-3xl text-base leading-relaxed text-muted-foreground md:text-lg">
+        Här får du en överblick över vad partierna faktiskt har sagt och föreslagit.
+        Vi visar också tydligt när underlaget är för tunt för en rättvisande slutsats.
+        Sidan jämför inte vem som är ”bäst” på AI.
       </p>
     </header>
 
-    <div class="mt-8 grid gap-4 md:grid-cols-2" data-pagefind-ignore>
-      {
-        parties.map((party) => {
-          const partyPositions = positions.filter((p) => p.data.partyId === party.id);
-          return (
-            <PartyCard
-              party={party}
-              reviewedCount={partyPositions.length}
-              totalTopics={topics.length}
-              noPositionCount={
-                partyPositions.filter((p) => p.data.evidenceStatus === "ingen_dokumenterad").length
-              }
-            />
-          );
-        })
-      }
-    </div>
+    <section class="grid gap-5 border-b border-border py-8 lg:grid-cols-[1.25fr_1fr]">
+      <div class="border border-border bg-card p-6">
+        <div class="bi-mono !text-[10px]">Det korta svaret</div>
+        <h2 class="mt-2 text-2xl leading-snug">Fler än ett parti har en dokumenterad AI-inriktning</h2>
+        <p class="mt-3 text-sm leading-relaxed text-muted-foreground">
+          I det granskade materialet går det att beskriva en övergripande AI-inriktning för
+          {" "}<strong class="font-medium text-foreground">{documentedPartyNames}</strong>.
+          Det betyder inte att de har publicerat en egen, heltäckande AI-strategi eller svarat
+          på alla frågor.
+        </p>
+        {
+          fullyPublishedParties.length > 0 && (
+            <p class="mt-3 text-sm leading-relaxed text-muted-foreground">
+              <strong class="font-medium text-foreground">{fullyPublishedPartyNames}</strong>{" "}
+              {fullyPublishedParties.length === 1 ? "är det parti som" : "är de partier som"} hittills har en publicerad
+              ämnesvis genomgång av alla våra {topics.length} AI-frågor. Det beskriver vår
+              researchtäckning — inte kvaliteten på partiets politik.
+            </p>
+          )
+        }
+      </div>
 
-    <div class="mt-8 max-w-3xl">
+      <aside class="border border-dashed border-border p-6">
+        <div class="bi-mono !text-[10px]">Där vi vet mindre</div>
+        <h2 class="mt-2 text-xl leading-snug">Begränsat underlag för {limitedParties.length} partier</h2>
+        <p class="mt-3 text-sm leading-relaxed text-muted-foreground">
+          För <strong class="font-medium text-foreground">{limitedPartyNames}</strong>{" "}
+          har vi ännu inte tillräckligt publicerat partimaterial för en helhetsbild. Enstaka
+          uppgifter kan finnas, men regeringspolitik eller en ledamots uttalande räknas inte
+          automatiskt som partiets egen linje.
+        </p>
+      </aside>
+    </section>
+
+    <section class="py-8" aria-labelledby="alla-partier">
+      <div class="max-w-3xl">
+        <div class="bi-mono !text-[10px]">Alla riksdagspartier</div>
+        <h2 id="alla-partier" class="mt-2 text-2xl md:text-3xl">Parti för parti</h2>
+        <p class="mt-2 text-sm leading-relaxed text-muted-foreground">
+          Partierna står i bokstavsordning. Varje kort skiljer mellan partiets dokumenterade
+          inriktning och hur mycket ämnesvis fördjupning som är publicerad.
+        </p>
+      </div>
+
+      <div class="mt-6 grid gap-4 md:grid-cols-2" data-pagefind-ignore>
+        {
+          parties.map((party) => (
+            <PartyCard party={party} presentation={presentations.get(party.id)!} />
+          ))
+        }
+      </div>
+    </section>
+
+    <div class="max-w-3xl pb-2">
       <NeutralityNote />
     </div>
 
-    <section class="mt-10 mb-16 border-t border-border pt-6">
+    <section class="mt-8 mb-16 border-t border-border pt-6">
       <h2 class="bi-mono !text-[11px]">Verifiering av partiuppgifter</h2>
       <p class="mt-2 max-w-3xl text-sm text-muted-foreground">
         Listan över riksdagspartier, mandat och regeringsställning verifierades

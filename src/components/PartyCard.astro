@@ -1,63 +1,94 @@
 ---
 /**
- * Partikort för partiöversikten. Samma layout för alla partier.
- * "Granskade ämnen" beskriver dokumentationsläget — inte politikens kvalitet.
+ * Väljarnära partikort. Visar först vad underlaget faktiskt medger att vi
+ * säger, därefter partiets dokumenterade inriktning — utan poäng eller ranking.
  */
 import type { CollectionEntry } from "astro:content";
 import PartyMark from "./PartyMark.astro";
 import { GOVERNMENT_STATUS_LABELS } from "@/lib/evidence";
 import { formatDate } from "@/lib/format";
+import type { PartyPresentation } from "@/lib/party-presentation";
 
 interface Props {
   party: CollectionEntry<"parties">;
-  reviewedCount: number;
-  totalTopics: number;
-  noPositionCount: number;
+  presentation: PartyPresentation;
 }
-const { party, reviewedCount, totalTopics, noPositionCount } = Astro.props;
+const { party, presentation } = Astro.props;
 const p = party.data;
+const conciseSummary = p.aiSummary
+  ?.split(/(?<=[.!?])\s+/)
+  .slice(0, 1)
+  .join(" ");
+const hasPublishedDetail = presentation.publishedTopicCount > 0;
 ---
 
 <a
   href={`/partier/${party.id}/`}
-  class="group block border border-border bg-card p-6 transition-colors hover:border-foreground"
+  class="group flex h-full flex-col border border-border bg-card p-6 transition-colors hover:border-foreground"
 >
   <div class="flex items-start justify-between gap-4">
     <PartyMark abbreviation={p.abbreviation} color={p.color} size="md" />
     <span class="bi-mono">{GOVERNMENT_STATUS_LABELS[p.governmentStatus]}</span>
   </div>
+
   <h2 class="mt-4 text-xl leading-snug">{p.name}</h2>
-  <p class="mt-2 text-sm text-muted-foreground">
-    {p.aiSummary ?? "Partiets AI-hållning är ännu inte granskad i researcharbetet."}
-  </p>
+
+  <div
+    class:list={[
+      "mt-4 border-l-2 pl-3",
+      presentation.informationLevel === "dokumenterad_inriktning"
+        ? "border-[var(--steel)]"
+        : "border-border",
+    ]}
+  >
+    <div class="bi-mono !text-[10px]">Underlaget just nu</div>
+    <p class="mt-1 text-sm font-medium">{presentation.basisLabel}</p>
+  </div>
+
+  {
+    conciseSummary ? (
+      <>
+        <div class="bi-mono !text-[10px] mt-5 mb-1.5">Så närmar sig partiet AI</div>
+        <p class="text-sm leading-relaxed text-muted-foreground">{conciseSummary}</p>
+      </>
+    ) : (
+      <p class="mt-5 text-sm leading-relaxed text-muted-foreground">
+        Vi kan ännu inte ge en rättvisande sammanfattning av partiets egen AI-politik.
+        Det betyder inte att partiet saknar åsikter, utan att det publicerade underlaget
+        ännu är för begränsat.
+      </p>
+    )
+  }
+
   {
     p.aiPriorities.length > 0 && (
-      <div class="mt-4">
-        <div class="bi-mono !text-[10px] mb-1.5">Dokumenterade prioriteringar</div>
-        <ul class="space-y-1 text-sm text-muted-foreground">
-          {p.aiPriorities.slice(0, 3).map((priority) => (
+      <div class="mt-5">
+        <div class="bi-mono !text-[10px] mb-1.5">Två återkommande prioriteringar</div>
+        <ul class="space-y-1.5 text-sm text-muted-foreground">
+          {p.aiPriorities.slice(0, 2).map((priority) => (
             <li class="flex gap-2">
               <span aria-hidden="true">·</span>
-              {priority}
+              <span>{priority}</span>
             </li>
           ))}
         </ul>
       </div>
     )
   }
-  <div class="mt-4 border-t border-border pt-3 flex flex-wrap items-center gap-x-4 gap-y-1">
-    <span class="bi-mono !text-[10px]">
-      Dokumentationsläge: {reviewedCount} av {totalTopics} ämnen granskade
-    </span>
-    {
-      noPositionCount > 0 && (
-        <span class="bi-mono !text-[10px]">
-          {noPositionCount} utan dokumenterad ståndpunkt
-        </span>
-      )
-    }
-  </div>
-  <div class="mt-2 bi-mono !text-[10px]">
-    {p.lastReviewedAt ? `Senast granskad ${formatDate(p.lastReviewedAt)}` : "Ännu ej granskad"}
+
+  <div class="mt-auto pt-5">
+    <div class="border-t border-border pt-3 text-xs text-muted-foreground">
+      {
+        hasPublishedDetail
+          ? `Fördjupning publicerad för ${presentation.publishedTopicCount} ${presentation.publishedTopicCount === 1 ? "AI-fråga" : "AI-frågor"}.`
+          : "Ingen ämnesvis fördjupning är publicerad ännu."
+      }
+    </div>
+    <div class="mt-2 flex items-center justify-between gap-3">
+      <span class="bi-mono !text-[10px]">
+        {p.lastReviewedAt ? `Granskad ${formatDate(p.lastReviewedAt)}` : "Ännu ej granskad"}
+      </span>
+      <span class="text-sm font-medium group-hover:underline underline-offset-4">Läs mer →</span>
+    </div>
   </div>
 </a>
