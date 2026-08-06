@@ -38,6 +38,6 @@ describe("väljarnära presentation av partiernas AI-underlag", () => {
     const centerpartiet = parties.find((party) => party.id === "c")!;
 
     expect(getPartyPresentation(socialdemokraterna, positions).publishedTopicCount).toBe(19);
-    expect(getPartyPresentation(centerpartiet, positions).publishedTopicCount).toBe(0);
+    expect(getPartyPresentation(centerpartiet, positions).publishedTopicCount).toBe(19);
   });
 });
