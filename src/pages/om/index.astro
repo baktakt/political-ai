@@ -15,7 +15,7 @@ const meta = await getMeta();
   <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
     <header class="border-b border-border py-10">
       <div class="bi-mono">Om webbplatsen</div>
-      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Vad det här är — och inte är</h1>
+      <h1 class="mt-3 text-3xl md:text-4xl leading-tight">Vad webbplatsen är och inte är</h1>
     </header>
 
     <div class="pol-prose py-10">
@@ -45,8 +45,8 @@ const meta = await getMeta();
       <h2>Så görs researchen</h2>
       <p>
         Researchen bygger på primära källor: partiernas egna dokument, riksdagens
-        handlingar och regeringens beslut. Metoden — källhierarki,
-        evidensklassning och redaktionellt arbetsflöde — beskrivs i detalj på
+        handlingar och regeringens beslut. Källhierarki, evidensklassning och
+        redaktionellt arbetsflöde beskrivs i detalj på
         <a href="/metod/">metodsidan</a>. Researchen genomförs med stöd av
         AI-verktyg under redaktionell styrning och granskning; varje påstående
         länkar till sin källa så att du kan kontrollera den själv.
@@ -72,8 +72,8 @@ const meta = await getMeta();
 
       <h2>Teknik och öppenhet</h2>
       <p>
-        Hela webbplatsen — kod, datamodell och den strukturerade
-        forskningsdatamängden med alla källor — är öppen och kan granskas i{" "}
+        Hela webbplatsen är öppen: kod, datamodell och den strukturerade
+        forskningsdatamängden med alla källor kan granskas i{" "}
         <a href={SITE.repoUrl} target="_blank" rel="noopener noreferrer">källkodsarkivet på GitHub</a>.
         Research uppdaterades senast {formatDate(meta.researchLastUpdated)}
         {meta.pilot && " (pilotversion)"}.

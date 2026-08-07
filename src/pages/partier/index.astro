@@ -43,7 +43,7 @@ const verificationSources = [
 
 <BaseLayout
   title="Partiernas syn på AI"
-  description="En enkel, källbaserad överblick över hur riksdagspartierna närmar sig AI — och vad vi ännu inte vet."
+  description="En enkel, källbaserad överblick över riksdagspartiernas syn på AI och de frågor där vi ännu vet för lite."
 >
   <div class="mx-auto max-w-7xl px-6" data-pagefind-body>
     <header class="border-b border-border py-10 md:py-14">
@@ -52,29 +52,28 @@ const verificationSources = [
         Hur närmar sig partierna AI?
       </h1>
       <p class="mt-4 max-w-3xl text-base leading-relaxed text-muted-foreground md:text-lg">
-        Här får du en överblick över vad partierna faktiskt har sagt och föreslagit.
-        Vi visar också tydligt när underlaget är för tunt för en rättvisande slutsats.
-        Sidan jämför inte vem som är ”bäst” på AI.
+        Överblicken utgår från vad partierna har sagt och föreslagit. Den
+        markerar när vi vet för lite för en rättvisande slutsats, och
+        rankar inte partiernas AI-politik.
       </p>
     </header>
 
     <section class="grid gap-5 border-b border-border py-8 lg:grid-cols-[1.25fr_1fr]">
       <div class="border border-border bg-card p-6">
         <div class="bi-mono !text-[10px]">Det korta svaret</div>
-        <h2 class="mt-2 text-2xl leading-snug">Fler än ett parti har en dokumenterad AI-inriktning</h2>
+        <h2 class="mt-2 text-2xl leading-snug">För flera partier går det att beskriva synen på AI</h2>
         <p class="mt-3 text-sm leading-relaxed text-muted-foreground">
-          I det granskade materialet går det att beskriva en övergripande AI-inriktning för
+          Vi har tillräckligt med material för att beskriva hur
           {" "}<strong class="font-medium text-foreground">{documentedPartyNames}</strong>.
-          Det betyder inte att de har publicerat en egen, heltäckande AI-strategi eller svarat
-          på alla frågor.
+          ser på AI. Det betyder inte att de har en egen, heltäckande AI-strategi eller svar på alla frågor.
         </p>
         {
           fullyPublishedParties.length > 0 && (
             <p class="mt-3 text-sm leading-relaxed text-muted-foreground">
               <strong class="font-medium text-foreground">{fullyPublishedPartyNames}</strong>{" "}
-              {fullyPublishedParties.length === 1 ? "är det parti som" : "är de partier som"} hittills har en publicerad
-              ämnesvis genomgång av alla våra {topics.length} AI-frågor. Det beskriver vår
-              researchtäckning — inte kvaliteten på partiets politik.
+              {fullyPublishedParties.length === 1 ? "är det parti vi" : "är de partier vi"} hittills har gått igenom
+              i alla våra {topics.length} AI-frågor. Det visar hur mycket
+              material vi har hunnit gå igenom, inte kvaliteten på partiets politik.
             </p>
           )
         }
@@ -82,10 +81,10 @@ const verificationSources = [
 
       <aside class="border border-dashed border-border p-6">
         <div class="bi-mono !text-[10px]">Där vi vet mindre</div>
-        <h2 class="mt-2 text-xl leading-snug">Begränsat underlag för {limitedParties.length} partier</h2>
+        <h2 class="mt-2 text-xl leading-snug">För lite underlag ännu för {limitedParties.length} partier</h2>
         <p class="mt-3 text-sm leading-relaxed text-muted-foreground">
           För <strong class="font-medium text-foreground">{limitedPartyNames}</strong>{" "}
-          har vi ännu inte tillräckligt publicerat partimaterial för en helhetsbild. Enstaka
+          har vi ännu inte tillräckligt med publicerat material för en rättvis bild. Enstaka
           uppgifter kan finnas, men regeringspolitik eller en ledamots uttalande räknas inte
           automatiskt som partiets egen linje.
         </p>
@@ -97,8 +96,8 @@ const verificationSources = [
         <div class="bi-mono !text-[10px]">Alla riksdagspartier</div>
         <h2 id="alla-partier" class="mt-2 text-2xl md:text-3xl">Parti för parti</h2>
         <p class="mt-2 text-sm leading-relaxed text-muted-foreground">
-          Partierna står i bokstavsordning. Varje kort skiljer mellan partiets dokumenterade
-          inriktning och hur mycket ämnesvis fördjupning som är publicerad.
+          Partierna står i bokstavsordning. Varje kort visar både hur partiet ser på AI och
+          hur många frågor vi har hunnit gå igenom.
         </p>
       </div>
 
@@ -116,11 +115,10 @@ const verificationSources = [
     </div>
 
     <section class="mt-8 mb-16 border-t border-border pt-6">
-      <h2 class="bi-mono !text-[11px]">Verifiering av partiuppgifter</h2>
+      <h2 class="bi-mono !text-[11px]">Så kollade vi partiuppgifterna</h2>
       <p class="mt-2 max-w-3xl text-sm text-muted-foreground">
-        Listan över riksdagspartier, mandat och regeringsställning verifierades
-        {verifiedAt && ` ${formatDate(verifiedAt)}`} mot officiella källor — inte
-        utifrån tidigare kunskap. Nio ledamöter sitter under valperioden utan
+        Vi har jämfört listan över riksdagspartier, mandat och regeringsställning
+        {verifiedAt && ` ${formatDate(verifiedAt)}`} med officiella källor. Nio ledamöter sitter under valperioden utan
         partibeteckning; de redovisas inte som parti.
       </p>
       <ul class="mt-3 space-y-1 text-sm">

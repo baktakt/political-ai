@@ -6,39 +6,39 @@
 import type { EvidenceStatus, EvidenceType, SourceType } from "./schema";
 
 export const EVIDENCE_STATUS_LABELS: Record<EvidenceStatus, string> = {
-  tydlig_detaljerad: "Tydlig och detaljerad ståndpunkt",
-  generell_dokumenterad: "Generell dokumenterad ståndpunkt",
-  konkret_forslag: "Konkret förslag",
-  riksdagsaktivitet: "Riksdagsaktivitet",
-  regeringsatgard: "Regeringsåtgärd",
-  uttalande_foretradare: "Uttalande av företrädare",
-  indirekt_berord: "Indirekt berörd",
-  motstridiga: "Motstridiga ståndpunkter",
-  andrad_standpunkt: "Ståndpunkten förefaller ha ändrats",
-  ingen_dokumenterad: "Ingen dokumenterad ståndpunkt hittades",
+  tydlig_detaljerad: "Partiet är tydligt i frågan",
+  generell_dokumenterad: "Partiet har en hållning i frågan",
+  konkret_forslag: "Partiet har lagt ett förslag",
+  riksdagsaktivitet: "Partiet har agerat i riksdagen",
+  regeringsatgard: "Det här har regeringen gjort",
+  uttalande_foretradare: "Uttalande från en företrädare",
+  indirekt_berord: "Frågan berörs, men utan tydligt besked",
+  motstridiga: "Partiet säger olika saker",
+  andrad_standpunkt: "Partiet verkar ha bytt linje",
+  ingen_dokumenterad: "Vi hittade inget tydligt besked",
 };
 
 export const EVIDENCE_STATUS_DESCRIPTIONS: Record<EvidenceStatus, string> = {
   tydlig_detaljerad:
-    "Partiet har en utförlig, dokumenterad ståndpunkt i officiellt material.",
+    "Partiet har beskrivit sin syn tydligt i officiellt material.",
   generell_dokumenterad:
-    "Partiet har uttryckt en övergripande hållning i officiellt material, men utan detaljer.",
+    "Partiet har sagt något om frågan i officiellt material, men utan närmare detaljer.",
   konkret_forslag:
-    "Partiet har lagt ett konkret förslag, till exempel i motion, budget eller program.",
+    "Partiet har lagt ett förslag, till exempel i en motion, budget eller ett program.",
   riksdagsaktivitet:
-    "Belagt genom partiets agerande i riksdagen: motioner, frågor, debatter eller voteringar.",
+    "Det här syns i partiets arbete i riksdagen: motioner, frågor, debatter eller voteringar.",
   regeringsatgard:
-    "Belagt genom regeringsbeslut eller regeringsinitiativ. Skiljs från partiets egen politik.",
+    "Det här bygger på regeringsbeslut eller initiativ från regeringen, inte på ett enskilt partis egen politik.",
   uttalande_foretradare:
-    "Belagt genom uttalande av behörig företrädare, men inte (ännu) i partiets officiella dokument.",
+    "En behörig företrädare har sagt detta, men det finns ännu inte i partiets officiella dokument.",
   indirekt_berord:
-    "Frågan berörs indirekt i partiets material, utan uttalad ståndpunkt i sakfrågan.",
+    "Partiets material rör frågan, men ger inget tydligt besked i sak.",
   motstridiga:
-    "Olika källor från partiet pekar åt olika håll. Båda redovisas med datum.",
+    "Olika källor från partiet pekar åt olika håll. Båda visas med datum.",
   andrad_standpunkt:
-    "Partiets ståndpunkt förefaller ha ändrats över tid. Både äldre och nyare läge redovisas.",
+    "Partiet verkar ha ändrat sig över tid. Vi visar både det äldre och det nyare läget.",
   ingen_dokumenterad:
-    "Ingen dokumenterad ståndpunkt hittades i de granskade källorna. Detta ska inte tolkas som att partiet är emot.",
+    "Vi hittade inget tydligt besked i de källor vi gick igenom. Det betyder inte att partiet är emot.",
 };
 
 export const EVIDENCE_TYPE_LABELS: Record<EvidenceType, string> = {

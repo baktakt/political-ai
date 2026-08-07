@@ -2,70 +2,70 @@
   {
     "id": "ai-och-jobben",
     "question": "Vad säger partierna om AI och jobben?",
-    "intro": "Automatisering förändrar arbetsuppgifter i de flesta yrken. Här är vad partierna har sagt och gjort om AI på arbetsmarknaden.",
+    "intro": "Automatisering förändrar arbetsuppgifter i de flesta yrken. Sidan samlar partiernas uttalanden och förslag om AI på arbetsmarknaden.",
     "topicIds": ["arbetsmarknad"],
     "displayOrder": 1
   },
   {
     "id": "ai-i-skolan",
     "question": "Vad säger partierna om AI i skolan?",
-    "intro": "Elever och lärare använder redan AI-verktyg. Här är partiernas dokumenterade ståndpunkter om AI i undervisning, prov och lärarutbildning.",
+    "intro": "Elever och lärare använder redan AI-verktyg. Läs vad partierna har dokumenterat om undervisning, prov och lärarutbildning.",
     "topicIds": ["utbildning"],
     "displayOrder": 2
   },
   {
     "id": "deepfakes",
     "question": "Vad säger partierna om deepfakes?",
-    "intro": "AI kan skapa övertygande falska bilder, röster och videor. Här är partiernas ståndpunkter om syntetiskt innehåll, märkning och valpåverkan.",
+    "intro": "AI kan skapa övertygande falska bilder, röster och videor. Partiernas dokumenterade ståndpunkter gäller syntetiskt innehåll, märkning och valpåverkan.",
     "topicIds": ["demokrati"],
     "displayOrder": 3
   },
   {
     "id": "ai-i-varden",
     "question": "Vad säger partierna om AI i vården?",
-    "intro": "AI används alltmer i diagnostik och administration. Här är partiernas ståndpunkter om patientsäkerhet, hälsodata och den mänskliga kontakten i vården.",
+    "intro": "AI används alltmer i diagnostik och administration. Sidan visar vad partierna har sagt om patientsäkerhet, hälsodata och mänsklig kontakt i vården.",
     "topicIds": ["vard-omsorg"],
     "displayOrder": 4
   },
   {
     "id": "ai-och-overvakning",
     "question": "Vad säger partierna om AI och övervakning?",
-    "intro": "AI gör övervakning billigare och mer träffsäker. Här är partiernas ståndpunkter om ansiktsigenkänning, polisens AI-verktyg och personlig integritet.",
+    "intro": "AI gör övervakning billigare och mer träffsäker. Läs vad partierna har dokumenterat om ansiktsigenkänning, polisens AI-verktyg och personlig integritet.",
     "topicIds": ["integritet"],
     "displayOrder": 5
   },
   {
     "id": "datacenter",
     "question": "Vad säger partierna om datacenter?",
-    "intro": "Datacenter byggs ut snabbt och konkurrerar om el, vatten och mark. Här är partiernas ståndpunkter om utbyggnad, miljökrav och infrastruktur.",
+    "intro": "Datacenter byggs ut snabbt och konkurrerar om el, vatten och mark. Här redovisas partiernas ståndpunkter om utbyggnad, miljökrav och infrastruktur.",
     "topicIds": ["miljoavtryck", "suveranitet"],
     "displayOrder": 6
   },
   {
     "id": "ai-elforbrukning",
     "question": "Vad säger partierna om AI:s elförbrukning?",
-    "intro": "AI kräver stora mängder el, och elnätets kapacitet är begränsad. Här är partiernas ståndpunkter om energi, elnät och rapporteringskrav.",
+    "intro": "AI kräver stora mängder el, och elnätets kapacitet är begränsad. Sidan samlar partiernas ståndpunkter om energi, elnät och rapporteringskrav.",
     "topicIds": ["miljoavtryck"],
     "displayOrder": 7
   },
   {
     "id": "ai-och-klimatet",
     "question": "Vad säger partierna om AI och klimatet?",
-    "intro": "AI kan användas som verktyg i klimatarbetet — samtidigt som tekniken själv förbrukar resurser. Här är partiernas ståndpunkter om båda sidorna.",
+    "intro": "AI kan användas i klimatarbetet, men tekniken förbrukar också resurser. Här redovisas partiernas ståndpunkter om båda sidorna.",
     "topicIds": ["hallbarhetsverktyg", "miljoavtryck", "rekyleffekter"],
     "displayOrder": 8
   },
   {
     "id": "upphovsratt",
     "question": "Vad säger partierna om AI och upphovsrätt?",
-    "intro": "AI-modeller tränas på verk skapade av människor som ofta varken tillfrågats eller ersatts. Här är partiernas ståndpunkter om upphovsrätt och kreatörers villkor.",
+    "intro": "AI-modeller tränas på verk skapade av människor som ofta varken tillfrågats eller ersatts. Läs vad partierna har dokumenterat om upphovsrätt och kreatörers villkor.",
     "topicIds": ["kultur-upphovsratt"],
     "displayOrder": 9
   },
   {
     "id": "svensk-ai-suveranitet",
     "question": "Vad säger partierna om svensk AI-suveränitet?",
-    "intro": "Sverige är beroende av utländska molntjänster, modeller och beräkningskraft. Här är partiernas ståndpunkter om svensk och europeisk AI-infrastruktur.",
+    "intro": "Sverige är beroende av utländska molntjänster, modeller och beräkningskraft. Sidan visar partiernas ståndpunkter om svensk och europeisk AI-infrastruktur.",
     "topicIds": ["suveranitet"],
     "displayOrder": 10
   }

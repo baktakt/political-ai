@@ -301,7 +301,7 @@ export default function CompareTool({ parties, topics, positions, researchLastUp
                                     : undefined
                                 }
                               >
-                                Ingen dokumenterad ståndpunkt hittades i de granskade källorna.
+                                Vi hittade inget tydligt besked i de källor vi gick igenom.
                               </div>
                             )}
                             {cell.kind === "filtrerad" && (
@@ -313,7 +313,7 @@ export default function CompareTool({ parties, topics, positions, researchLastUp
                               <div>
                                 <span
                                   className="inline-flex items-center gap-1.5 border border-border bg-card px-1.5 py-0.5 text-[10px] leading-tight"
-                                  title="Evidensstatus — se metodsidan"
+                                  title="Så läser vi källorna"
                                 >
                                   <span
                                     className="inline-block h-2 w-2"
@@ -341,9 +341,9 @@ export default function CompareTool({ parties, topics, positions, researchLastUp
             </section>
           ))}
           <p className="border-t border-border pt-4 text-xs text-muted-foreground">
-            Jämförelsen visar dokumentationsläget i de granskade källorna — den utser ingen
-            vinnare och rangordnar inte partierna. Att en ståndpunkt saknas betyder inte att
-            partiet är emot. Klassningen förklaras på{" "}
+            Jämförelsen visar vad vi har hittat i de källor vi gått igenom. Den utser ingen
+            vinnare och rangordnar inte partierna. Om ett besked saknas betyder det inte att
+            partiet är emot. Läs om hur vi gör bedömningen på{" "}
             <a href="/metod/" className="border-b border-border pb-px hover:text-foreground">
               metodsidan
             </a>

@@ -36,13 +36,18 @@ Mörkt läge speglar samma struktur med omvänd ljushet (se `:root.dark` i
 
 ## Typografi
 
-- **Rubriker:** Fraunces (variabel), samma seriff som nyhetsbrevet —
-  "editorial", inte "tech". Self-hosted via `@fontsource-variable/fraunces`
-  (ingen Google Fonts-request vid sidladdning, jfr integritetskravet).
-- **Brödtext:** Inter (variabel).
-- **Mono/kicker:** JetBrains Mono, versaler, liten storlek, brett
-  bokstavsavstånd — signalerar "metadata", används för datum, evidenstyper,
-  käll-etiketter.
+- **Rubriker:** Alegreya (variabel). Den har en varm, lätt lekfull
+  tryckkänsla som passar en publik upplysningstjänst utan att bli kampanjig
+  eller få sidan att kännas som en AI-produkt.
+- **Brödtext:** Nunito Sans (variabel). Öppna former och mjuka avslut gör
+  långa texter, jämförelser och källor mer lättillgängliga än den vanliga
+  Inter/Geist-estetiken.
+- **Mono/kicker:** IBM Plex Mono, versaler, liten storlek, brett
+  bokstavsavstånd — signalerar metadata och används för datum, evidenstyper
+  och källetiketter.
+
+Alla tre typsnitt är self-hostade via Fontsource, så sidladdningar gör inga
+förfrågningar till externa font-CDN:er.
 
 ## Komponenter (nya, utöver ärvda BI-komponenter)
 

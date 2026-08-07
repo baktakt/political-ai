@@ -310,7 +310,7 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/amnen/${topic
       />
       <div class="mt-6 grid gap-6 md:grid-cols-2">
         <div class="border border-border bg-card p-5">
-          <h3 class="bi-mono mb-3">Granskade — ingen dokumenterad ståndpunkt</h3>
+          <h3 class="bi-mono mb-3">Granskade — inget tydligt besked hittat</h3>
           {
             missingParties.length > 0 ? (
               <ul class="space-y-1.5 text-sm">
@@ -328,7 +328,7 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/amnen/${topic
               </ul>
             ) : (
               <p class="text-sm text-muted-foreground">
-                Alla granskade partier har någon form av dokumenterad ståndpunkt.
+                För alla granskade partier har vi hittat något om frågan.
               </p>
             )
           }

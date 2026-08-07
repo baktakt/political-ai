@@ -38,8 +38,8 @@ const metrics = getSiteOverviewMetrics({
         Så vill partierna forma AI i Sverige
       </h1>
       <p class="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-        Börja med ett parti. Se vad det har sagt, föreslagit och gjort — och var
-        underlaget ännu är för tunt för en rättvisande slutsats. Varje uppgift går
+        Börja med ett parti. Se vad det har sagt, föreslagit och gjort. Du ser också
+        var vi ännu vet för lite för att kunna dra en rättvis slutsats. Varje uppgift går
         att följa tillbaka till källan.
       </p>
       <div class="mt-7 flex flex-wrap gap-3">
@@ -57,7 +57,7 @@ const metrics = getSiteOverviewMetrics({
         </a>
       </div>
       <div class="mt-5 bi-mono">
-        Underlaget uppdaterat {formatDate(meta.researchLastUpdated)}
+        Senast genomgånget {formatDate(meta.researchLastUpdated)}
         {meta.pilot && " · pilotversion"}
       </div>
     </section>
@@ -97,8 +97,8 @@ const metrics = getSiteOverviewMetrics({
                   <span class="mt-2 text-xs leading-relaxed text-muted-foreground">
                     {
                       informationLevel === "dokumenterad_inriktning"
-                        ? "Övergripande AI-inriktning dokumenterad"
-                        : "Begränsat underlag för en helhetsbild"
+                        ? "Vi kan beskriva partiets syn på AI"
+                        : "För lite underlag ännu"
                     }
                   </span>
                 </a>
@@ -112,18 +112,18 @@ const metrics = getSiteOverviewMetrics({
     <!-- Enkla nyckeltal -->
     <section class="border-y border-border py-12">
       <SectionLabel
-        eyebrow="Det publicerade underlaget"
-        title="Läget just nu"
-        description="Siffrorna beskriver vad som finns på sajten — inte vilket parti som har bäst eller mest ambitiös politik."
+        eyebrow="Det vi har gått igenom"
+        title="Så mycket vet vi just nu"
+        description="Siffrorna handlar om innehållet på sajten, inte om vilket parti som har bäst eller mest ambitiös politik."
       />
 
       <div class="mt-6 grid gap-5 lg:grid-cols-[1.25fr_1fr]">
         <div class="border border-border bg-card p-6">
-          <h3 class="text-xl">Hur många partier kan sammanfattas?</h3>
+          <h3 class="text-xl">Hur mycket kan vi säga om partierna?</h3>
           <div
             class="mt-5 grid grid-cols-8 gap-1.5"
             role="img"
-            aria-label={`${metrics.documentedOverviewCount} partier har en dokumenterad övergripande AI-inriktning och ${metrics.limitedOverviewCount} har begränsat underlag`}
+            aria-label={`För ${metrics.documentedOverviewCount} partier går det att beskriva synen på AI. För ${metrics.limitedOverviewCount} partier är underlaget ännu för tunt.`}
           >
             {
               Array.from({ length: metrics.partyCount }, (_, index) => (
@@ -142,17 +142,17 @@ const metrics = getSiteOverviewMetrics({
           <div class="mt-4 grid gap-3 text-sm sm:grid-cols-2">
             <div>
               <strong class="text-2xl font-display">{metrics.documentedOverviewCount}</strong>
-              <span class="ml-2 text-muted-foreground">med dokumenterad inriktning</span>
+              <span class="ml-2 text-muted-foreground">där vi kan beskriva synen på AI</span>
             </div>
             <div>
               <strong class="text-2xl font-display">{metrics.limitedOverviewCount}</strong>
-              <span class="ml-2 text-muted-foreground">med begränsat underlag</span>
+              <span class="ml-2 text-muted-foreground">där vi vet för lite ännu</span>
             </div>
           </div>
           <p class="mt-4 text-xs leading-relaxed text-muted-foreground">
-            En dokumenterad inriktning betyder att materialet räcker för en helhetsbild.
-            Det betyder inte att alla AI-frågor är besvarade eller att partiet har en egen
-            formell AI-strategi.
+            När vi kan beskriva ett partis syn på AI har vi gått igenom tillräckligt med
+            material för en rättvis bild. Det betyder inte att alla frågor är besvarade eller
+            att partiet har en egen formell AI-strategi.
           </p>
         </div>
 
@@ -172,8 +172,8 @@ const metrics = getSiteOverviewMetrics({
             </div>
           </dl>
           <p class="border-t border-border p-4 text-xs leading-relaxed text-muted-foreground sm:p-5">
-            Vi visar ingen graf per parti eftersom researchtäckningen fortfarande är ojämn.
-            En sådan jämförelse skulle kunna se ut som en aktivitetsrankning.
+            Vi visar ingen graf per parti, eftersom vi inte har gått igenom lika mycket för alla.
+            En sådan jämförelse skulle lätt se ut som en aktivitetsrankning.
           </p>
         </div>
       </div>
@@ -184,7 +184,7 @@ const metrics = getSiteOverviewMetrics({
       <SectionLabel
         eyebrow="Eller börja i en sakfråga"
         title="Vad undrar du om AI?"
-        description="Fyra vanliga väljarfrågor. Svaren bygger på samma granskade underlag som partisidorna."
+        description="Fyra vanliga väljarfrågor. Svaren bygger på samma källor som partisidorna."
       >
         <a slot="right" href="/fragor/" class="border-b border-foreground pb-0.5 text-sm hover:opacity-70">
           Alla frågor

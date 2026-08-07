@@ -41,7 +41,7 @@ const hasPublishedDetail = presentation.publishedTopicCount > 0;
         : "border-border",
     ]}
   >
-    <div class="bi-mono !text-[10px]">Underlaget just nu</div>
+    <div class="bi-mono !text-[10px]">Det vi vet just nu</div>
     <p class="mt-1 text-sm font-medium">{presentation.basisLabel}</p>
   </div>
 
@@ -53,9 +53,9 @@ const hasPublishedDetail = presentation.publishedTopicCount > 0;
       </>
     ) : (
       <p class="mt-5 text-sm leading-relaxed text-muted-foreground">
-        Vi kan ännu inte ge en rättvisande sammanfattning av partiets egen AI-politik.
-        Det betyder inte att partiet saknar åsikter, utan att det publicerade underlaget
-        ännu är för begränsat.
+        Vi vet ännu för lite för att kunna beskriva partiets syn på AI på ett rättvist sätt.
+        Det betyder inte att partiet saknar åsikter, bara att vi inte har tillräckligt med
+        publicerat material.
       </p>
     )
   }
@@ -80,13 +80,13 @@ const hasPublishedDetail = presentation.publishedTopicCount > 0;
     <div class="border-t border-border pt-3 text-xs text-muted-foreground">
       {
         hasPublishedDetail
-          ? `Fördjupning publicerad för ${presentation.publishedTopicCount} ${presentation.publishedTopicCount === 1 ? "AI-fråga" : "AI-frågor"}.`
-          : "Ingen ämnesvis fördjupning är publicerad ännu."
+          ? `Vi har gått igenom ${presentation.publishedTopicCount} ${presentation.publishedTopicCount === 1 ? "AI-fråga" : "AI-frågor"}.`
+          : "Vi har inte gått igenom någon AI-fråga ännu."
       }
     </div>
     <div class="mt-2 flex items-center justify-between gap-3">
       <span class="bi-mono !text-[10px]">
-        {p.lastReviewedAt ? `Granskad ${formatDate(p.lastReviewedAt)}` : "Ännu ej granskad"}
+        {p.lastReviewedAt ? `Genomgången ${formatDate(p.lastReviewedAt)}` : "Inte genomgången ännu"}
       </span>
       <span class="text-sm font-medium group-hover:underline underline-offset-4">Läs mer →</span>
     </div>

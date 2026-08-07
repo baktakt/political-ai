@@ -45,9 +45,9 @@ export function getPartyPresentation(
   if (informationLevel === "dokumenterad_inriktning") {
     return {
       informationLevel,
-      basisLabel: "Övergripande inriktning dokumenterad",
+      basisLabel: "Vi kan beskriva partiets syn på AI",
       basisExplanation:
-        "Det finns tillräckligt med granskat partimaterial för att beskriva partiets övergripande syn på AI. Alla sakfrågor behöver däremot inte vara besvarade.",
+        "Vi har gått igenom tillräckligt med partimaterial för att ge en rättvis bild av hur partiet ser på AI. I vissa sakfrågor kan det fortfarande saknas svar.",
       publishedTopicCount: publishedPositions.length,
       noDocumentedPositionCount: publishedPositions.filter(
         (position) => position.evidenceStatus === "ingen_dokumenterad",
@@ -57,9 +57,9 @@ export function getPartyPresentation(
 
   return {
     informationLevel,
-    basisLabel: "Begränsat underlag",
+    basisLabel: "För lite underlag ännu",
     basisExplanation:
-      "Vi har ännu inte tillräckligt med publicerat partimaterial för en rättvisande helhetsbild. Enstaka uppgifter kan finnas och redovisas separat.",
+      "Vi har ännu för lite publicerat partimaterial för att beskriva partiets syn på AI på ett rättvist sätt. Enstaka uppgifter kan ändå finnas och redovisas separat.",
     publishedTopicCount: publishedPositions.length,
     noDocumentedPositionCount: publishedPositions.filter(
       (position) => position.evidenceStatus === "ingen_dokumenterad",

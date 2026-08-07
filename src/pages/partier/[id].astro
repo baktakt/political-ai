@@ -122,73 +122,30 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
       <div class="mt-6 bi-mono">
         {
           p.lastReviewedAt
-            ? `Research senast granskad ${formatDate(p.lastReviewedAt)}`
-            : "Partiets research är ännu inte granskad — endast verifierade grunduppgifter visas"
+            ? `Senast genomgången ${formatDate(p.lastReviewedAt)}`
+            : "Vi har ännu inte gått igenom partiets AI-politik. Här visas bara grunduppgifter."
         }
       </div>
     </header>
 
-    <!-- Väljarnära sammanfattning -->
-    <section class="py-10">
-      <SectionLabel
-        eyebrow="Partiets inriktning"
-        title={`Så närmar sig ${p.name} AI`}
-        description="En sammanfattning av granskat partimaterial. Vi fyller inte i luckor utifrån ideologi eller regeringssamarbeten."
-      />
-
-      <div class="mt-6 grid gap-5 lg:grid-cols-[1.4fr_0.8fr]">
-        <div class="border border-border bg-card p-6">
-          <div class="bi-mono mb-2">Vad vi kan säga</div>
-          {
-            p.aiSummary ? (
-              <p class="text-base leading-relaxed">{p.aiSummary}</p>
-            ) : (
-              <p class="text-sm leading-relaxed text-muted-foreground">
-                Vi har ännu inte tillräckligt med publicerat partimaterial för att ge en
-                rättvisande helhetsbild av partiets egen AI-politik.
-              </p>
-            )
-          }
-          {
-            p.aiPriorities.length > 0 && (
-              <div class="mt-5 border-t border-border pt-4">
-                <h3 class="text-sm font-medium">Återkommande prioriteringar i materialet</h3>
-                <ul class="mt-2 space-y-2 text-sm text-muted-foreground">
-                  {p.aiPriorities.map((priority) => (
-                    <li class="flex gap-2">
-                      <span aria-hidden="true">·</span>
-                      <span>{priority}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )
-          }
-        </div>
-
-        <aside class="border border-dashed border-border p-6">
-          <div class="bi-mono mb-2">Underlaget just nu</div>
-          <p class="text-base font-medium">{presentation.basisLabel}</p>
-          <p class="mt-2 text-sm leading-relaxed text-muted-foreground">
-            {presentation.basisExplanation}
-          </p>
-          <p class="mt-4 text-xs text-muted-foreground">
-            {
-              presentation.publishedTopicCount > 0
-                ? `Ämnesvis fördjupning är publicerad för ${presentation.publishedTopicCount} ${presentation.publishedTopicCount === 1 ? "fråga" : "frågor"}.`
-                : "Ingen ämnesvis fördjupning är publicerad ännu."
-            }
-          </p>
-        </aside>
-      </div>
+    <!-- Short, plain-language overview. Details live in the sections below. -->
+    <section class="max-w-3xl py-8 md:py-10">
+      {
+        p.aiSummary ? (
+          <p class="text-base leading-8 md:text-lg md:leading-8">{p.aiSummary}</p>
+        ) : (
+          <div class="border border-dashed border-border p-5 text-sm leading-relaxed text-muted-foreground">
+            <p class="font-medium text-foreground">{presentation.basisLabel}</p>
+            <p class="mt-2">{presentation.basisExplanation}</p>
+          </div>
+        )
+      }
 
       {
         p.sustainabilityPriorities.length > 0 && (
-          <details class="mt-5 border border-border bg-card p-5">
-            <summary class="cursor-pointer text-sm font-medium">
-              AI, klimat och social hållbarhet
-            </summary>
-            <ul class="mt-3 space-y-2 text-sm text-muted-foreground">
+          <details class="mt-6 border-t border-border pt-4">
+            <summary class="cursor-pointer text-sm font-medium">AI, klimat och hållbarhet</summary>
+            <ul class="mt-3 space-y-2 text-sm leading-relaxed text-muted-foreground">
               {p.sustainabilityPriorities.map((priority) => (
                 <li class="flex gap-2">
                   <span aria-hidden="true">·</span>
@@ -206,9 +163,8 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
       documentedTopics.length > 0 ? (
         <section class="py-10">
           <SectionLabel
-            eyebrow="Sakfrågor"
-            title="Vad partiet säger i olika AI-frågor"
-            description="Här visas bara färdiggranskade och publicerade fördjupningar. Öppna en fråga för resonemang och källor."
+            title="Fråga för fråga"
+            description="Öppna en fråga för att se vad partiet har sagt och vilka källor vi har använt."
           />
           <div class="mt-6 space-y-4">
             {documentedTopics.map((topic) => {
@@ -243,9 +199,8 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
       proposals.length > 0 && (
         <section class="py-10">
           <SectionLabel
-            eyebrow="Förslag"
-            title="Konkreta förslag"
-            description="Dokumenterade förslag med status i behandlingen."
+            title="Förslag"
+            description="Här finns de förslag från partiet som vi har hittat."
           />
           <div class="mt-6 space-y-4">
             {proposals.map((proposal) => (
@@ -286,9 +241,8 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
       actions.length > 0 && (
         <section class="py-10">
           <SectionLabel
-            eyebrow="Riksdagen"
-            title="Aktivitet i riksdagen"
-            description="Motioner, frågor och voteringar. Partinivå = parti- eller kommittémotion; enskild = enskilda ledamöter, inte automatiskt partilinje."
+            title="I riksdagen"
+            description="Motioner, frågor och voteringar. En partimotion kommer från partiet eller riksdagsgruppen. En enskild motion visar en ledamots eget initiativ."
           />
           <div class="mt-6 overflow-x-auto">
             <table class="w-full min-w-[42rem] border-collapse text-sm">
@@ -330,14 +284,13 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
     {
       isGovernmentSide && (
         <section class="py-10">
-          <SectionLabel eyebrow="Viktig distinktion" title="Parti, regering och Tidöavtalet" />
+          <SectionLabel title="Parti, regering och Tidöavtalet" />
           <p class="mt-4 max-w-3xl text-sm leading-relaxed text-muted-foreground">
             {p.name} {p.governmentStatus === "regering" ? "ingår i regeringen" : "är samarbetsparti till regeringen"}
             under valperioden 2022–2026. Regeringsbeslut kan bygga på kompromisser
             mellan flera partier och redovisas därför separat från partiets egen
-            politik, med evidensstatusen ”Regeringsåtgärd”. Att regeringen gjort
-            något betyder inte automatiskt att det är {p.abbreviation}:s egen linje —
-            och tvärtom. Läs mer på <a href="/metod/" class="border-b border-border pb-px hover:text-foreground">metodsidan</a>.
+            politik och märks därför som sådant. Att regeringen gjort något betyder inte
+            automatiskt att det är {p.abbreviation}:s egen linje. Läs mer på <a href="/metod/" class="border-b border-border pb-px hover:text-foreground">metodsidan</a>.
           </p>
         </section>
       )
@@ -347,7 +300,7 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
     {
       timeline.length > 0 && (
         <section class="py-10">
-          <SectionLabel eyebrow="Kronologi" title="Tidslinje" />
+          <SectionLabel title="Tidslinje" />
           <div class="mt-6 max-w-3xl">
             <Timeline events={timeline} />
           </div>
@@ -358,38 +311,36 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
     <!-- Vad vi ännu inte vet -->
     <section class="py-10">
       <SectionLabel
-        eyebrow="Öppet redovisade luckor"
-        title="Vad vi ännu inte kan säga"
-        description="Frånvaro av en publicerad ståndpunkt betyder inte att partiet är för eller emot."
+        title="Frågor där vi ännu saknar svar"
+        description="När vi inte visar något besked betyder det inte att partiet är för eller emot."
       />
       <div class="mt-6 border border-dashed border-border p-6">
         {
           notPublishedTopics.length > 0 ? (
             <p class="max-w-3xl text-sm leading-relaxed text-muted-foreground">
-              För {notPublishedTopics.length} av våra {topics.length} frågor finns ännu ingen
-              publicerad ämnesvis slutsats för {p.name}. Material kan saknas, vara under
-              granskning eller vara för otydligt för publicering.
+              För {notPublishedTopics.length} av våra {topics.length} frågor har vi ännu inget
+              svar för {p.name}. Material kan saknas, vara under genomgång eller vara för otydligt
+              för att vi ska kunna säga något säkert.
             </p>
           ) : (
             <p class="max-w-3xl text-sm leading-relaxed text-muted-foreground">
-              Alla våra {topics.length} frågor har en publicerad granskning för {p.name}.
-              Det innebär inte att partiet har en dokumenterad ståndpunkt i varje fråga.
+              Vi har gått igenom alla våra {topics.length} frågor för {p.name}. Det betyder inte
+              att partiet har gett ett tydligt besked i varje fråga.
             </p>
           )
         }
         {
           noPositionTopics.length > 0 && (
             <p class="mt-3 max-w-3xl text-sm leading-relaxed text-muted-foreground">
-              I {noPositionTopics.length} färdiggranskad {noPositionTopics.length === 1 ? "fråga" : "frågor"}
-              hittade vi ingen dokumenterad ståndpunkt. Det redovisas uttryckligen i respektive
-              fördjupning.
+              I {noPositionTopics.length} {noPositionTopics.length === 1 ? "fråga" : "frågor"}
+              hittade vi inget tydligt besked. Det står i respektive fördjupning.
             </p>
           )
         }
         {
           notPublishedTopics.length > 0 && (
             <details class="mt-4">
-              <summary class="cursor-pointer text-sm font-medium">Visa frågor utan publicerad fördjupning</summary>
+              <summary class="cursor-pointer text-sm font-medium">Visa frågor vi inte har gått igenom ännu</summary>
               <p class="mt-3 text-sm leading-relaxed text-muted-foreground">
                 {notPublishedTopics.map((topic) => topic.data.shortTitle).join(" · ")}
               </p>
@@ -402,9 +353,8 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
     <!-- Källförteckning -->
     <section class="py-10">
       <SectionLabel
-        eyebrow="Transparens"
-        title={`Källförteckning (${referencedSources.length})`}
-        description="Alla källor som ligger till grund för innehållet på den här sidan."
+        title={`Källor (${referencedSources.length})`}
+        description="Alla källor vi har använt på den här sidan."
       />
       {
         referencedSources.length > 0 ? (
@@ -431,8 +381,8 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
       <span class="bi-mono">
         {
           p.lastReviewedAt
-            ? `Senast granskad ${formatDate(p.lastReviewedAt)}`
-            : "Ännu ej granskad"
+            ? `Senast genomgången ${formatDate(p.lastReviewedAt)}`
+            : "Inte genomgången ännu"
         }
       </span>
       <a
