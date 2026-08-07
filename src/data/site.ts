@@ -1,9 +1,9 @@
 /** Webbplatsens grundkonfiguration. */
 
 export const SITE = {
-  name: "Partierna om AI",
+  name: "Sveriges AI-politik",
   tagline: "Riksdagspartierna om AI och hållbarhet — granskat och källbelagt",
-  brandSubtitle: "AI · hållbarhet · politik",
+  brandSubtitle: "Detta vill partierna",
   description:
     "Neutral, källbaserad väljarinformation om hur riksdagspartierna förhåller sig till artificiell intelligens och hållbarhet: vad de säger, vad de föreslagit och vad de gjort.",
   neutralityStatement:
