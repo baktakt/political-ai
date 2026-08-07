@@ -57,7 +57,7 @@ export function getPartyPresentation(
 
   return {
     informationLevel,
-    basisLabel: "För lite underlag ännu",
+    basisLabel: "Partiets material",
     basisExplanation:
       "Vi har ännu för lite publicerat partimaterial för att beskriva partiets syn på AI på ett rättvist sätt. Enstaka uppgifter kan ändå finnas och redovisas separat.",
     publishedTopicCount: publishedPositions.length,

@@ -5,7 +5,7 @@ import PartyMark from "@/components/PartyMark.astro";
 import QuestionTeaser from "@/components/QuestionTeaser.astro";
 import SectionLabel from "@/components/SectionLabel.astro";
 import { getPartiesSorted, getMeta } from "@/lib/content";
-import { getPartyInformationLevel } from "@/lib/party-presentation";
+
 import { getSiteOverviewMetrics } from "@/lib/site-overview";
 import { getCollection } from "astro:content";
 import { formatDate } from "@/lib/format";
@@ -38,8 +38,7 @@ const metrics = getSiteOverviewMetrics({
         Så vill partierna forma AI i Sverige
       </h1>
       <p class="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-        Börja med ett parti. Se vad det har sagt, föreslagit och gjort. Du ser också
-        var vi ännu vet för lite för att kunna dra en rättvis slutsats. Varje uppgift går
+        Börja med ett parti. Se vad det har sagt, föreslagit och gjort. Varje uppgift går
         att följa tillbaka till källan.
       </p>
       <div class="mt-7 flex flex-wrap gap-3">
@@ -67,7 +66,7 @@ const metrics = getSiteOverviewMetrics({
       <SectionLabel
         eyebrow="Börja här"
         title="Välj ett parti"
-        description="Partierna visas i bokstavsordning. Underlagsläget är ingen bedömning av politikens kvalitet."
+        description="Partierna visas i bokstavsordning."
       >
         <a slot="right" href="/partier/" class="border-b border-foreground pb-0.5 text-sm hover:opacity-70">
           Se hela översikten
@@ -77,30 +76,27 @@ const metrics = getSiteOverviewMetrics({
       <ul class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         {
           parties.map((party) => {
-            const informationLevel = getPartyInformationLevel(party.data);
+            const teaser = party.data.aiSummary?.split(/(?<=[.!?])\s+/)[0];
             return (
               <li>
                 <a
                   href={`/partier/${party.id}/`}
-                  class="group flex h-full flex-col border border-border bg-card p-4 transition-colors hover:border-foreground"
+                  class="group relative flex h-full min-h-36 flex-col overflow-hidden border border-border bg-card p-5 transition-all hover:-translate-y-0.5 hover:border-foreground hover:shadow-md"
+                  style={`--party-color:${party.data.color}`}
                 >
+                  <span class="absolute inset-x-0 top-0 h-1" style="background:var(--party-color)" aria-hidden="true"></span>
                   <div class="flex items-center justify-between gap-3">
                     <PartyMark
                       abbreviation={party.data.abbreviation}
                       color={party.data.color}
+                      size="logo"
                     />
-                    <span class="bi-mono !text-[9px]">Läs om partiet →</span>
+                    <span class="bi-mono !text-[9px] transition-transform group-hover:translate-x-0.5">Läs om partiet →</span>
                   </div>
                   <h2 class="mt-3 text-lg leading-snug group-hover:underline underline-offset-4">
                     {party.data.name}
                   </h2>
-                  <span class="mt-2 text-xs leading-relaxed text-muted-foreground">
-                    {
-                      informationLevel === "dokumenterad_inriktning"
-                        ? "Vi kan beskriva partiets syn på AI"
-                        : "För lite underlag ännu"
-                    }
-                  </span>
+                  {teaser && <span class="mt-2 text-xs leading-relaxed text-muted-foreground">{teaser}</span>}
                 </a>
               </li>
             );
@@ -113,46 +109,34 @@ const metrics = getSiteOverviewMetrics({
     <section class="border-y border-border py-12">
       <SectionLabel
         eyebrow="Det vi har gått igenom"
-        title="Så mycket vet vi just nu"
+        title="Det här har vi gått igenom"
         description="Siffrorna handlar om innehållet på sajten, inte om vilket parti som har bäst eller mest ambitiös politik."
       />
 
       <div class="mt-6 grid gap-5 lg:grid-cols-[1.25fr_1fr]">
         <div class="border border-border bg-card p-6">
-          <h3 class="text-xl">Hur mycket kan vi säga om partierna?</h3>
+          <h3 class="text-xl">Partier med en sammanfattning</h3>
           <div
             class="mt-5 grid grid-cols-8 gap-1.5"
             role="img"
-            aria-label={`För ${metrics.documentedOverviewCount} partier går det att beskriva synen på AI. För ${metrics.limitedOverviewCount} partier är underlaget ännu för tunt.`}
+            aria-label={`${metrics.documentedOverviewCount} partier har en sammanfattning av sin syn på AI.`}
           >
             {
-              Array.from({ length: metrics.partyCount }, (_, index) => (
+              Array.from({ length: metrics.documentedOverviewCount }, () => (
                 <span
                   aria-hidden="true"
-                  class:list={[
-                    "h-9 border",
-                    index < metrics.documentedOverviewCount
-                      ? "border-[var(--steel)] bg-[var(--steel)]"
-                      : "border-dashed border-border bg-transparent",
-                  ]}
+                  class="h-9 border border-[var(--steel)] bg-[var(--steel)]"
                 />
               ))
             }
           </div>
-          <div class="mt-4 grid gap-3 text-sm sm:grid-cols-2">
-            <div>
-              <strong class="text-2xl font-display">{metrics.documentedOverviewCount}</strong>
-              <span class="ml-2 text-muted-foreground">där vi kan beskriva synen på AI</span>
-            </div>
-            <div>
-              <strong class="text-2xl font-display">{metrics.limitedOverviewCount}</strong>
-              <span class="ml-2 text-muted-foreground">där vi vet för lite ännu</span>
-            </div>
+          <div class="mt-4 text-sm">
+            <strong class="text-2xl font-display">{metrics.documentedOverviewCount}</strong>
+            <span class="ml-2 text-muted-foreground">partier med en sammanfattning av sin syn på AI</span>
           </div>
           <p class="mt-4 text-xs leading-relaxed text-muted-foreground">
-            När vi kan beskriva ett partis syn på AI har vi gått igenom tillräckligt med
-            material för en rättvis bild. Det betyder inte att alla frågor är besvarade eller
-            att partiet har en egen formell AI-strategi.
+            En sammanfattning visar huvuddragen i det material vi har gått igenom. Läs partisidan
+            för förslag, källor och svar fråga för fråga.
           </p>
         </div>
 

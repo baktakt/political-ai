@@ -20,7 +20,7 @@ import {
   PROPOSAL_STATUS_LABELS,
 } from "@/lib/evidence";
 import { formatDate } from "@/lib/format";
-import { getPartyPresentation } from "@/lib/party-presentation";
+
 import allPositionRecords from "@/data/positions.json";
 
 export async function getStaticPaths() {
@@ -44,7 +44,7 @@ const sourcesMap = await getSourcesMap();
 
 const positionByTopic = new Map(positions.map((pos) => [pos.data.topicId, pos]));
 const documentedTopics = topics.filter((topic) => positionByTopic.has(topic.id));
-const presentation = getPartyPresentation(p, allPositionRecords);
+
 
 const noPositionTopics = topics.filter(
   (t) => positionByTopic.get(t.id)?.data.evidenceStatus === "ingen_dokumenterad",
@@ -133,27 +133,19 @@ const correctionUrl = `/korrigeringar/?sida=${encodeURIComponent(`/partier/${par
       {
         p.aiSummary ? (
           <p class="text-base leading-8 md:text-lg md:leading-8">{p.aiSummary}</p>
-        ) : (
-          <div class="border border-dashed border-border p-5 text-sm leading-relaxed text-muted-foreground">
-            <p class="font-medium text-foreground">{presentation.basisLabel}</p>
-            <p class="mt-2">{presentation.basisExplanation}</p>
-          </div>
-        )
+        ) : <p class="text-base leading-8 text-muted-foreground md:text-lg md:leading-8">Här samlar vi material om partiets AI-politik, förslag och källor.</p>
       }
 
       {
         p.sustainabilityPriorities.length > 0 && (
-          <details class="mt-6 border-t border-border pt-4">
-            <summary class="cursor-pointer text-sm font-medium">AI, klimat och hållbarhet</summary>
-            <ul class="mt-3 space-y-2 text-sm leading-relaxed text-muted-foreground">
-              {p.sustainabilityPriorities.map((priority) => (
-                <li class="flex gap-2">
-                  <span aria-hidden="true">·</span>
-                  <span>{priority}</span>
-                </li>
-              ))}
-            </ul>
-          </details>
+          <ul class="mt-5 space-y-2 border-t border-border pt-4 text-sm leading-relaxed text-muted-foreground">
+            {p.sustainabilityPriorities.map((priority) => (
+              <li class="flex gap-2">
+                <span aria-hidden="true">·</span>
+                <span>{priority}</span>
+              </li>
+            ))}
+          </ul>
         )
       }
     </section>

@@ -1,94 +1,51 @@
 ---
 /**
- * Väljarnära partikort. Visar först vad underlaget faktiskt medger att vi
- * säger, därefter partiets dokumenterade inriktning — utan poäng eller ranking.
+ * Väljarnära partikort med partifärg och kort väg till partisidan.
  */
 import type { CollectionEntry } from "astro:content";
 import PartyMark from "./PartyMark.astro";
-import { GOVERNMENT_STATUS_LABELS } from "@/lib/evidence";
-import { formatDate } from "@/lib/format";
-import type { PartyPresentation } from "@/lib/party-presentation";
+
 
 interface Props {
   party: CollectionEntry<"parties">;
-  presentation: PartyPresentation;
 }
-const { party, presentation } = Astro.props;
+const { party } = Astro.props;
 const p = party.data;
 const conciseSummary = p.aiSummary
   ?.split(/(?<=[.!?])\s+/)
   .slice(0, 1)
   .join(" ");
-const hasPublishedDetail = presentation.publishedTopicCount > 0;
 ---
 
 <a
   href={`/partier/${party.id}/`}
-  class="group flex h-full flex-col border border-border bg-card p-6 transition-colors hover:border-foreground"
+  class:list={[
+    "group relative flex h-full flex-col overflow-hidden border border-border bg-card p-5 transition-all hover:-translate-y-0.5 hover:border-foreground hover:shadow-md",
+    conciseSummary ? "min-h-52" : "min-h-32",
+  ]}
+  style={`--party-color:${p.color}`}
 >
+  <span class="absolute inset-x-0 top-0 h-1" style="background:var(--party-color)" aria-hidden="true"></span>
   <div class="flex items-start justify-between gap-4">
-    <PartyMark abbreviation={p.abbreviation} color={p.color} size="md" />
-    <span class="bi-mono">{GOVERNMENT_STATUS_LABELS[p.governmentStatus]}</span>
+    <PartyMark abbreviation={p.abbreviation} color={p.color} size="logo" />
+    <span class="bi-mono !text-[10px] transition-transform group-hover:translate-x-0.5">Läs om partiet →</span>
   </div>
 
   <h2 class="mt-4 text-xl leading-snug">{p.name}</h2>
 
-  <div
-    class:list={[
-      "mt-4 border-l-2 pl-3",
-      presentation.informationLevel === "dokumenterad_inriktning"
-        ? "border-[var(--steel)]"
-        : "border-border",
-    ]}
-  >
-    <div class="bi-mono !text-[10px]">Det vi vet just nu</div>
-    <p class="mt-1 text-sm font-medium">{presentation.basisLabel}</p>
-  </div>
-
   {
     conciseSummary ? (
-      <>
-        <div class="bi-mono !text-[10px] mt-5 mb-1.5">Så närmar sig partiet AI</div>
-        <p class="text-sm leading-relaxed text-muted-foreground">{conciseSummary}</p>
-      </>
-    ) : (
-      <p class="mt-5 text-sm leading-relaxed text-muted-foreground">
-        Vi vet ännu för lite för att kunna beskriva partiets syn på AI på ett rättvist sätt.
-        Det betyder inte att partiet saknar åsikter, bara att vi inte har tillräckligt med
-        publicerat material.
-      </p>
-    )
+      <p class="mt-2 max-w-md text-sm leading-relaxed text-muted-foreground">{conciseSummary}</p>
+    ) : null
   }
 
   {
-    p.aiPriorities.length > 0 && (
-      <div class="mt-5">
-        <div class="bi-mono !text-[10px] mb-1.5">Två återkommande prioriteringar</div>
-        <ul class="space-y-1.5 text-sm text-muted-foreground">
-          {p.aiPriorities.slice(0, 2).map((priority) => (
-            <li class="flex gap-2">
-              <span aria-hidden="true">·</span>
-              <span>{priority}</span>
-            </li>
-          ))}
-        </ul>
+    conciseSummary && p.aiPriorities.length > 0 && (
+      <div class="mt-4 flex flex-wrap gap-1.5">
+        {p.aiPriorities.slice(0, 2).map((priority) => (
+          <span class="rounded-full bg-muted px-2.5 py-1 text-xs text-muted-foreground">{priority}</span>
+        ))}
       </div>
     )
   }
-
-  <div class="mt-auto pt-5">
-    <div class="border-t border-border pt-3 text-xs text-muted-foreground">
-      {
-        hasPublishedDetail
-          ? `Vi har gått igenom ${presentation.publishedTopicCount} ${presentation.publishedTopicCount === 1 ? "AI-fråga" : "AI-frågor"}.`
-          : "Vi har inte gått igenom någon AI-fråga ännu."
-      }
-    </div>
-    <div class="mt-2 flex items-center justify-between gap-3">
-      <span class="bi-mono !text-[10px]">
-        {p.lastReviewedAt ? `Genomgången ${formatDate(p.lastReviewedAt)}` : "Inte genomgången ännu"}
-      </span>
-      <span class="text-sm font-medium group-hover:underline underline-offset-4">Läs mer →</span>
-    </div>
-  </div>
 </a>

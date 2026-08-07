@@ -7,16 +7,28 @@
 interface Props {
   abbreviation: string;
   color: string;
-  size?: "sm" | "md";
+  size?: "sm" | "md" | "logo";
 }
 const { abbreviation, color, size = "sm" } = Astro.props;
 const box = size === "md" ? "h-3.5 w-3.5" : "h-2.5 w-2.5";
 ---
 
-<span class="inline-flex items-center gap-1.5 whitespace-nowrap">
-  <span
-    class={`${box} inline-block border border-border shrink-0`}
-    style={`background:${color}`}
-    aria-hidden="true"></span>
-  <span class="bi-mono !text-[11px] !text-foreground">{abbreviation}</span>
-</span>
+{
+  size === "logo" ? (
+    <span
+      class="inline-flex h-11 min-w-11 items-center justify-center rounded-full px-2 font-mono text-xs font-bold tracking-tight shadow-sm"
+      style={`background:${color};color:${color === "#83CF39" || color === "#52BDEC" ? "#102033" : "#fff"}`}
+      aria-label={`${abbreviation}:s partimärke`}
+    >
+      {abbreviation}
+    </span>
+  ) : (
+    <span class="inline-flex items-center gap-1.5 whitespace-nowrap">
+      <span
+        class={`${box} inline-block border border-border shrink-0`}
+        style={`background:${color}`}
+        aria-hidden="true"></span>
+      <span class="bi-mono !text-[11px] !text-foreground">{abbreviation}</span>
+    </span>
+  )
+}
