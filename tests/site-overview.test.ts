@@ -13,7 +13,7 @@ describe("enkla nyckeltal för startsidan", () => {
       limitedOverviewCount: 3,
       publishedProposalCount: 23,
       publishedActionCount: 27,
-      sourceCount: 89,
+      sourceCount: 90,
     });
   });
 
