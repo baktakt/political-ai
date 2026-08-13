@@ -39,9 +39,9 @@ git-åtkomst krävs alls vid `npm install`. Se `UNDERHALL.md` →
    `vercel.json` automatiskt — inga manuella inställningar för build/output
    krävs.
 2. **Miljövariabel:** sätt `SITE_URL` till den faktiska produktions-URL:en
-   (t.ex. `https://partierna-om-ai.vercel.app` eller en egen domän) —
-   `astro.config.mjs` läser denna för korrekta canonical-/OG-/sitemap-/
-   RSS-URL:er. Utan den faller den tillbaka till en placeholder-URL.
+   (för närvarande `https://ai-valet.vercel.app`) — `astro.config.mjs` läser
+   denna för korrekta canonical-/OG-/sitemap-/RSS-URL:er. Utan den faller den
+   tillbaka till produktionsadressen ovan.
 3. **Node-version:** `package.json` anger `"engines": {"node": ">=20"}`;
    sätt motsvarande i Vercels projektinställningar om den inte auto-
    detekteras.

@@ -6,7 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // Set SITE_URL in the deploy environment (e.g. Vercel) to get correct
 // canonical/OG/RSS/sitemap URLs.
-const SITE_URL = process.env.SITE_URL ?? "https://political-ai.vercel.app";
+const SITE_URL = process.env.SITE_URL ?? "https://ai-valet.vercel.app";
 
 export default defineConfig({
   site: SITE_URL,
