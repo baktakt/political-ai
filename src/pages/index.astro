@@ -112,59 +112,72 @@ const metrics = getSiteOverviewMetrics({
       </ul>
     </section>
 
-    <!-- Enkla nyckeltal -->
-    <section class="border-y border-border py-12">
+    <!-- Överblick över publicerat underlag -->
+    <section class="border-y border-border py-10 md:py-12">
       <SectionLabel
         eyebrow="Det vi har gått igenom"
-        title="Det här har vi gått igenom"
-        description="Siffrorna handlar om innehållet på sajten, inte om vilket parti som har bäst eller mest ambitiös politik."
+        title="Underlaget just nu"
+        description="En överblick över det som är publicerat och källbelagt på sajten. Siffrorna är inte en rankning av partierna."
       />
 
-      <div class="mt-6 grid gap-5 lg:grid-cols-[1.25fr_1fr]">
-        <div class="border border-border bg-card p-6">
-          <h3 class="text-xl">Partier med en sammanfattning</h3>
+      <div class="mt-6 grid gap-4 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]">
+        <div class="border border-border bg-muted/45 p-5 sm:p-6">
+          <div class="flex items-start justify-between gap-5">
+            <div>
+              <p class="bi-mono !text-[10px] text-[var(--steel)]">PARTISAMMANFATTNINGAR</p>
+              <h3 class="mt-2 font-display text-2xl leading-tight sm:text-3xl">
+                {metrics.documentedOverviewCount} av {metrics.partyCount} partier
+              </h3>
+              <p class="mt-2 max-w-md text-sm leading-relaxed text-muted-foreground">
+                har en publicerad sammanfattning av sin AI-politik.
+              </p>
+            </div>
+            <span class="shrink-0 border border-[var(--steel)] px-2.5 py-1 font-mono text-xs text-[var(--steel)]">
+              {metrics.documentedOverviewCount}/{metrics.partyCount}
+            </span>
+          </div>
           <div
-            class="mt-5 grid grid-cols-8 gap-1.5"
+            class="mt-5 flex gap-1.5"
             role="img"
-            aria-label={`${metrics.documentedOverviewCount} partier har en sammanfattning av sin syn på AI.`}
+            aria-label={`${metrics.documentedOverviewCount} av ${metrics.partyCount} partier har en sammanfattning av sin syn på AI.`}
           >
             {
-              Array.from({ length: metrics.documentedOverviewCount }, () => (
+              Array.from({ length: metrics.partyCount }, (_, index) => (
                 <span
                   aria-hidden="true"
-                  class="h-9 border border-[var(--steel)] bg-[var(--steel)]"
+                  class:list={[
+                    "h-2 flex-1 border border-[var(--steel)]",
+                    index < metrics.documentedOverviewCount ? "bg-[var(--steel)]" : "bg-transparent",
+                  ]}
                 />
               ))
             }
           </div>
-          <div class="mt-4 text-sm">
-            <strong class="text-2xl font-display">{metrics.documentedOverviewCount}</strong>
-            <span class="ml-2 text-muted-foreground">partier med en sammanfattning av sin syn på AI</span>
-          </div>
-          <p class="mt-4 text-xs leading-relaxed text-muted-foreground">
-            En sammanfattning visar huvuddragen i det material vi har gått igenom. Läs partisidan
-            för förslag, källor och svar fråga för fråga.
+          <p class="mt-5 border-t border-border pt-4 text-xs leading-relaxed text-muted-foreground">
+            Sammanfattningarna beskriver huvuddragen i materialet vi har gått igenom. Öppna en partisida för förslag, källor och svar fråga för fråga.
           </p>
         </div>
 
         <div class="border border-border bg-card">
-          <dl class="grid grid-cols-3">
-            <div class="border-r border-border p-4 sm:p-5">
-              <dt class="text-xs leading-snug text-muted-foreground">Publicerade förslag</dt>
-              <dd class="mt-2 font-display text-3xl">{metrics.publishedProposalCount}</dd>
-            </div>
-            <div class="border-r border-border p-4 sm:p-5">
-              <dt class="text-xs leading-snug text-muted-foreground">Riksdagsaktiviteter</dt>
-              <dd class="mt-2 font-display text-3xl">{metrics.publishedActionCount}</dd>
+          <dl class="grid grid-cols-3 divide-x divide-border">
+            <div class="p-4 sm:p-5">
+              <dt class="text-xs leading-snug text-muted-foreground">Förslag</dt>
+              <dd class="mt-2 font-display text-3xl tabular-nums">{metrics.publishedProposalCount}</dd>
+              <p class="mt-1 text-[11px] leading-snug text-muted-foreground">publicerade</p>
             </div>
             <div class="p-4 sm:p-5">
-              <dt class="text-xs leading-snug text-muted-foreground">Öppnade källor</dt>
-              <dd class="mt-2 font-display text-3xl">{metrics.sourceCount}</dd>
+              <dt class="text-xs leading-snug text-muted-foreground">Aktiviteter</dt>
+              <dd class="mt-2 font-display text-3xl tabular-nums">{metrics.publishedActionCount}</dd>
+              <p class="mt-1 text-[11px] leading-snug text-muted-foreground">i riksdagen</p>
+            </div>
+            <div class="p-4 sm:p-5">
+              <dt class="text-xs leading-snug text-muted-foreground">Källor</dt>
+              <dd class="mt-2 font-display text-3xl tabular-nums">{metrics.sourceCount}</dd>
+              <p class="mt-1 text-[11px] leading-snug text-muted-foreground">öppnade</p>
             </div>
           </dl>
-          <p class="border-t border-border p-4 text-xs leading-relaxed text-muted-foreground sm:p-5">
-            Vi visar ingen graf per parti, eftersom vi inte har gått igenom lika mycket för alla.
-            En sådan jämförelse skulle lätt se ut som en aktivitetsrankning.
+          <p class="border-t border-border px-4 py-4 text-xs leading-relaxed text-muted-foreground sm:px-5">
+            Omfattningen skiljer sig mellan partierna. Därför visar vi inte en jämförande graf som kan misstolkas som en aktivitetsrankning.
           </p>
         </div>
       </div>
