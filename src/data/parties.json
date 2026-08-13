@@ -45,10 +45,14 @@
     "governmentStatus": "regering",
     "governmentNote": "Regeringsparti sedan oktober 2022 (koalition med M och L, samarbete med SD genom Tidöavtalet).",
     "summary": "Riksdagsparti med 19 mandat under valperioden 2022–2026. Regeringsparti sedan oktober 2022.",
-    "aiSummary": null,
-    "aiPriorities": [],
+    "aiSummary": "Kristdemokraterna har dokumenterade AI-relaterade förslag främst inom vården: hälsodata ska kunna användas för AI-modeller, forskning och läkemedelsuppföljning, och diagnostik pekas ut för nationell samordning. Partiet har också skrivit att barn ska skyddas från skadliga algoritmer. Någon bred egen AI-politik för exempelvis reglering, arbetsmarknad eller offentlig förvaltning har inte hittats i de granskade partikällorna.",
+    "aiPriorities": [
+      "Hälsodata och nationell digital infrastruktur för AI, forskning och läkemedelsuppföljning",
+      "Nationell samordning av diagnostik med AI och annan teknik",
+      "Skydd för barn mot skadliga algoritmer"
+    ],
     "sustainabilityPriorities": [],
-    "lastReviewedAt": "2026-07-31",
+    "lastReviewedAt": "2026-08-13",
     "verifiedAt": "2026-07-15",
     "verificationSourceIds": [
       "riksdagen-ledamoter-partier-2026",
@@ -69,10 +73,14 @@
     "governmentStatus": "regering",
     "governmentNote": "Regeringsparti sedan oktober 2022 (koalition med M och KD, samarbete med SD genom Tidöavtalet).",
     "summary": "Riksdagsparti med 16 mandat under valperioden 2022–2026. Regeringsparti sedan oktober 2022.",
-    "aiSummary": null,
-    "aiPriorities": [],
+    "aiSummary": "Liberalerna vill att Sverige ska vara ledande inom AI genom en nationell AI-strategi, mer forskning, kompetens och innovationsvänliga regler. Partiet vill också stärka Europas tekniska oberoende och skydda integritet, rättigheter, demokrati och kritisk infrastruktur när AI används.",
+    "aiPriorities": [
+      "Nationell AI-strategi, forskning och AI-kunskapslyft",
+      "Innovationsvänliga regler och svensk konkurrenskraft",
+      "Europeiska AI-lösningar och tekniskt oberoende"
+    ],
     "sustainabilityPriorities": [],
-    "lastReviewedAt": "2026-08-02",
+    "lastReviewedAt": "2026-08-13",
     "verifiedAt": "2026-07-15",
     "verificationSourceIds": [
       "riksdagen-ledamoter-partier-2026",
@@ -195,10 +203,14 @@
     "governmentStatus": "samarbetsparti",
     "governmentNote": "Ingår inte i regeringen men samarbetar med regeringspartierna M, KD och L genom Tidöavtalet (oktober 2022). Tre ledamöter har lämnat partiet under valperioden och sitter kvar utan partibeteckning.",
     "summary": "Riksdagsparti med 73 mandat i valet 2022 (70 ledamöter med partibeteckning i juli 2026). Samarbetsparti till regeringen genom Tidöavtalet.",
-    "aiSummary": null,
-    "aiPriorities": [],
+    "aiSummary": "Sverigedemokraterna vill ha en nationell AI-plan och AI-nämnd samt en gemensam AI-infrastruktur för offentlig förvaltning. Partiet betonar konkurrenskraft, transparens, mänsklig kontroll och regler för automatiserade beslut, och vill stärka AI- och cybersäkerhetskunskaper i skolan.",
+    "aiPriorities": [
+      "Nationell AI-plan och AI-nämnd",
+      "Gemensam AI-infrastruktur för offentlig förvaltning",
+      "Transparens, mänsklig kontroll och regler för automatiserade beslut"
+    ],
     "sustainabilityPriorities": [],
-    "lastReviewedAt": "2026-08-02",
+    "lastReviewedAt": "2026-08-13",
     "verifiedAt": "2026-07-15",
     "verificationSourceIds": [
       "riksdagen-ledamoter-partier-2026",

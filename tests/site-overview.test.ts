@@ -9,8 +9,8 @@ describe("enkla nyckeltal för startsidan", () => {
   it("sammanfattar bara publikt och neutralt underlag", () => {
     expect(getSiteOverviewMetrics({ parties, proposals, actions, sources })).toEqual({
       partyCount: 8,
-      documentedOverviewCount: 5,
-      limitedOverviewCount: 3,
+      documentedOverviewCount: 8,
+      limitedOverviewCount: 0,
       publishedProposalCount: 23,
       publishedActionCount: 27,
       sourceCount: 90,

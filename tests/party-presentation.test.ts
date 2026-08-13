@@ -14,12 +14,12 @@ describe("väljarnära presentation av partiernas AI-underlag", () => {
 
     expect(levels).toEqual({
       c: "dokumenterad_inriktning",
-      kd: "begransat_underlag",
-      l: "begransat_underlag",
+      kd: "dokumenterad_inriktning",
+      l: "dokumenterad_inriktning",
       mp: "dokumenterad_inriktning",
       m: "dokumenterad_inriktning",
       s: "dokumenterad_inriktning",
-      sd: "begransat_underlag",
+      sd: "dokumenterad_inriktning",
       v: "dokumenterad_inriktning",
     });
   });

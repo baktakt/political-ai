@@ -15,14 +15,13 @@ const conciseSummary = p.aiSummary
   ?.split(/(?<=[.!?])\s+/)
   .slice(0, 1)
   .join(" ");
+const cardSummary = conciseSummary ?? "Vi har ännu inte hittat tillräckligt med partinivåunderlag för en sammanfattning. På partisidan redovisar vi vad som har granskats.";
+const hasDocumentedSummary = Boolean(conciseSummary);
 ---
 
 <a
   href={`/partier/${party.id}/`}
-  class:list={[
-    "group relative flex h-full flex-col overflow-hidden border border-border bg-card p-5 transition-all hover:-translate-y-0.5 hover:border-foreground hover:shadow-md",
-    conciseSummary ? "min-h-52" : "min-h-32",
-  ]}
+  class="group relative flex h-full min-h-52 flex-col overflow-hidden border border-border bg-card p-5 transition-all hover:-translate-y-0.5 hover:border-foreground hover:shadow-md",
   style={`--party-color:${p.color}`}
 >
   <span class="absolute inset-x-0 top-0 h-1" style="background:var(--party-color)" aria-hidden="true"></span>
@@ -33,11 +32,14 @@ const conciseSummary = p.aiSummary
 
   <h2 class="mt-4 text-xl leading-snug">{p.name}</h2>
 
-  {
-    conciseSummary ? (
-      <p class="mt-2 max-w-md text-sm leading-relaxed text-muted-foreground">{conciseSummary}</p>
-    ) : null
-  }
+  <p
+    class:list={[
+      "mt-2 max-w-md text-sm leading-relaxed",
+      hasDocumentedSummary ? "text-muted-foreground" : "text-muted-foreground italic",
+    ]}
+  >
+    {cardSummary}
+  </p>
 
   {
     conciseSummary && p.aiPriorities.length > 0 && (

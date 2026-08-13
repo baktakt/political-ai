@@ -913,5 +913,26 @@
       "Miljöpartiets valmanifest 2026 bör fortfarande fulltextgranskas separat. Pressmeddelandet om manifestet innehåller inga ytterligare specifika AI-förslag i den öppnade texten."
     ],
     "notes": "Miljöpartiets officiella nyhet från 5 augusti 2026 öppnades och verifierades. Den innehåller konkreta krav för nya datacenter. Redaktionen har instruerat att materialet kan godkännas direkt."
+  },
+  {
+    "id": "granskning-partisammanfattningar-kd-l-sd-2026-08-13",
+    "partyId": null,
+    "reviewer": "Redaktionen (AI-assisterad sammanställning)",
+    "reviewDate": "2026-08-13",
+    "topicsReviewed": [
+      "strategi",
+      "utbildning",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "reglering",
+      "suveranitet",
+      "forsvar",
+      "barn-unga"
+    ],
+    "unresolvedQuestions": [
+      "Sammanfattningarna återger endast redan publicerade ståndpunkter och är inte nya forskningsfynd. För Kristdemokraterna saknas fortsatt en bred egen AI-politik i de granskade partikällorna; regeringens AI-strategi hålls isär från partiets egna uppgifter."
+    ],
+    "notes": "Partikorten för Kristdemokraterna, Liberalerna och Sverigedemokraterna kompletterades med korta neutrala sammanfattningar. Texterna bygger endast på redan publicerade positionsposter och deras källor. Ingen ny källa, ståndpunkt, proposition eller riksdagsaktivitet har lagts till."
   }
 ]
