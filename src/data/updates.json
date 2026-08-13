@@ -258,26 +258,26 @@
     "description": "Dokumentstatusen för Miljöpartiets och Vänsterpartiets följdmotioner om polisens AI-baserade ansiktsigenkänning i realtid har kontrollerats. Samtliga berörda yrkanden anges som avslagna; inga nya partipolitiska påståenden har lagts till.",
     "type": "innehall"
   },
-{
-  "id": "2026-07-29-m-ai-luckor-kultur-suveranitet-jamlikhet-barn-social",
-  "date": "2026-07-29",
-  "title": "Moderaternas återstående AI-ämnen har granskats",
-  "description": "Moderaternas stämmohandlingar, politikindex och riksdagsmaterial har granskats för fem återstående AI-ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI och kultur/upphovsrätt, AI-suveränitet, AI-specifik jämlikhet, barn och unga eller social hållbarhet; luckposterna väntar på redaktionell granskning.",
-  "type": "innehall"
+  {
+    "id": "2026-07-29-m-ai-luckor-kultur-suveranitet-jamlikhet-barn-social",
+    "date": "2026-07-29",
+    "title": "Moderaternas återstående AI-ämnen har granskats",
+    "description": "Moderaternas stämmohandlingar, politikindex och riksdagsmaterial har granskats för fem återstående AI-ämnen. Granskningen hittade inga dokumenterade partinivåpositioner om AI och kultur/upphovsrätt, AI-suveränitet, AI-specifik jämlikhet, barn och unga eller social hållbarhet; luckposterna väntar på redaktionell granskning.",
+    "type": "innehall"
   },
   {
-  "id": "2026-07-30-kd-ai-luckor-kultur-suveranitet-miljo-rekyl",
-  "date": "2026-07-30",
-  "title": "Kristdemokraternas AI-material granskat för fyra återstående ämnen",
-  "description": "Kristdemokraternas officiella politikmaterial och riksdagsmaterial har granskats för kultur och upphovsrätt, AI-suveränitet, AI:s miljöavtryck och rekyleffekter. Inga dokumenterade partinivåpositioner hittades; luckposterna väntar på redaktionell granskning.",
-  "type": "innehall"
+    "id": "2026-07-30-kd-ai-luckor-kultur-suveranitet-miljo-rekyl",
+    "date": "2026-07-30",
+    "title": "Kristdemokraternas AI-material granskat för fyra återstående ämnen",
+    "description": "Kristdemokraternas officiella politikmaterial och riksdagsmaterial har granskats för kultur och upphovsrätt, AI-suveränitet, AI:s miljöavtryck och rekyleffekter. Inga dokumenterade partinivåpositioner hittades; luckposterna väntar på redaktionell granskning.",
+    "type": "innehall"
   },
   {
-  "id": "2026-07-30-kd-barn-algoritmer",
-  "date": "2026-07-30",
-  "title": "Kristdemokraternas kampanjmaterial granskat för barn och algoritmer",
-  "description": "Kristdemokraternas Sverigedrömmen-material från 28 juli 2026 har lagts till som källa. Det innehåller en skrivning om att skydda barn från teknikföretags skadliga algoritmer; eftersom AI och konkreta åtgärder inte nämns är posten indirekt berörd och väntar på redaktionell granskning.",
-  "type": "innehall"
+    "id": "2026-07-30-kd-barn-algoritmer",
+    "date": "2026-07-30",
+    "title": "Kristdemokraternas kampanjmaterial granskat för barn och algoritmer",
+    "description": "Kristdemokraternas Sverigedrömmen-material från 28 juli 2026 har lagts till som källa. Det innehåller en skrivning om att skydda barn från teknikföretags skadliga algoritmer; eftersom AI och konkreta åtgärder inte nämns är posten indirekt berörd och väntar på redaktionell granskning.",
+    "type": "innehall"
   },
   {
     "id": "2026-07-31-c-forskningsetik-ai-reglering",
@@ -354,6 +354,13 @@
     "date": "2026-08-05",
     "title": "Färskhetsgranskning av riksdagspartiernas AI-material",
     "description": "Samtliga riksdagspartiers nationella AI-material och aktuella Riksdagsträffar har kontrollerats. Nya partinivåkällor från C, S och V har lagts till: AI i konsumentintegritet, polisarbete, AI-center, socialförsäkring, offentlig kontroll och algoritmhandel. Uppdaterade positionsunderlag väntar på redaktionell granskning.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-08-13-mp-datacenter-krav",
+    "date": "2026-08-13",
+    "title": "Miljöpartiets datacenterkrav har lagts till",
+    "description": "Miljöpartiets officiella förslag om nationell planering och klimat- och samhällsnyttiga villkor för nya datacenter har lagts till. Underlaget omfattar krav på ny förnybar el, förnybar reservkraft och tillvaratagen spillvärme.",
     "type": "innehall"
   }
 ]

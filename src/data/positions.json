@@ -723,20 +723,21 @@
     "id": "mp-miljoavtryck",
     "partyId": "mp",
     "topicId": "miljoavtryck",
-    "summary": "Miljöpartiet beskriver AI:s energianvändning och klimatpåverkan som risker som behöver förebyggas nationellt och internationellt. Partiet vill att elen kommer från förnybara källor, att varje AI-sökning blir mindre energikrävande och att elnätskapacitet styrs efter klimat- och samhällsnytta.",
-    "detailedPosition": "På partiets AI- och digitaliseringssida skriver Miljöpartiet att AI kräver mycket energi och ökar de globala klimatutsläppen, och att AI:s miljö- och klimatkonsekvenser behöver förebyggas nationellt och internationellt. Partiet anger att elen behöver komma från förnybar el och att varje sökning behöver bli mindre energikrävande. I fråga om lokalisering och elnät skriver partiet att det är viktigt med rätt geografisk placering där det finns tillgång till stora mängder el, krav på viss andel egenproducerad el och förmåga att balansera tillgången på el, samt att tilldelningen av kapacitet i elnätet ska styras utifrån klimat- och samhällsnytta. Kommittémotion 2025/26:3365 beskriver AI-utvecklingens klimatpåfrestningar genom energi- och materialförbrukning och anger att uppdrag om samordning av AI-forskning också bör omfatta sådana perspektiv. Tolkning: partiet behandlar AI:s miljöavtryck främst genom energi- och elnätsstyrning samt forskning om följdverkningar, inte genom detaljerade rapporteringskrav för vatten, hårdvara eller utsläpp per modell.",
-    "evidenceStatus": "generell_dokumenterad",
+    "summary": "Miljöpartiet beskriver AI:s energianvändning och klimatpåverkan som risker som behöver förebyggas nationellt och internationellt. Partiet vill bland annat ha en nationell plan för nya datacenter, krav på ny förnybar el, förnybar reservkraft och tillvaratagen spillvärme.",
+    "detailedPosition": "På partiets AI- och digitaliseringssida skriver Miljöpartiet att AI kräver mycket energi och ökar de globala klimatutsläppen, och att AI:s miljö- och klimatkonsekvenser behöver förebyggas nationellt och internationellt. Partiet anger att elen behöver komma från förnybar el och att elnätskapacitet ska styras efter klimat- och samhällsnytta. I en partinyhet den 5 augusti 2026 föreslår Miljöpartiet dessutom en nationell plan för nya datacenter där etableringar bedöms utifrån klimat- och samhällsnytta, krav på investeringar i ny förnybar el motsvarande elanvändningen, förnybar reservkraft som kan bidra till elsystemet och krav på att spillvärme tas till vara. Kommittémotion 2025/26:3365 beskriver även AI-utvecklingens energi- och materialförbrukning. Tolkning: den nya källan konkretiserar partiets tidigare miljölinje för AI genom krav riktade mot nya datacenter, men anger inte rapporteringskrav för vatten, hårdvarulivscykel eller utsläpp per modell.",
+    "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "partiprogram",
       "motion"
     ],
-    "confidenceExplanation": "Klassningen bygger på partiets officiella AI-sida och kommittémotion 2025/26:3365, som uttryckligen tar upp AI:s energianvändning, klimatutsläpp, förnybar el, elnätsprioritering samt energi- och materialförbrukning. Källorna innehåller däremot inte detaljerade krav på vattenrapportering, hårdvarulivscykel eller obligatorisk miljöredovisning från AI-leverantörer.",
+    "confidenceExplanation": "Klassningen bygger på Miljöpartiets officiella AI-sida, kommittémotion 2025/26:3365 och den officiella partinyheten 5 augusti 2026. Den nya källan innehåller fyra specificerade krav för nya datacenter och är därför ett konkret förslag.",
     "sourceIds": [
       "mp-webb-ai",
-      "mp-mot-2025-3365"
+      "mp-mot-2025-3365",
+      "mp-datacenter-krav-2026"
     ],
-    "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-08-01"
+    "workflowStatus": "godkand",
+    "lastUpdatedAt": "2026-08-13"
   },
   {
     "id": "v-strategi",
@@ -1473,9 +1474,13 @@
     "summary": "Kristdemokraterna vill att Sverige ligger i framkant i genomförandet av det europeiska hälsodataområdet och den nationella digitala infrastrukturen, så att hälsodata kan användas för AI-modeller, forskning och uppföljning av läkemedel. Partiet pekar också ut diagnostik som ett område för nationell samordning med AI och andra tekniska lösningar.",
     "detailedPosition": "I det sjukvårdspolitiska program som beslutades av rikstinget 2025 beskriver Kristdemokraterna patientdata som en grund för AI-modeller med potential att förbättra hälso- och sjukvården. Programmet föreslår snabbare genomförande av det europeiska hälsodataområdet och nationell digital infrastruktur för hälsodata, samt en samordnad insats om AI och andra tekniska lösningar inom diagnostik. Programmet preciserar inte modeller för klinisk validering, patienters samtycke eller ansvar vid AI-stödda bedömningar.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["partiprogram"],
+    "evidenceTypes": [
+      "partiprogram"
+    ],
     "confidenceExplanation": "Klassningen bygger på Kristdemokraternas sjukvårdspolitiska program, beslutat av rikstinget 2025. Dokumentet innehåller ett uttryckligt förslag om hälsodata för utveckling av AI-modeller och beskriver AI i diagnostik. Det är en nyare officiell källa än den tidigare luckgranskningen.",
-    "sourceIds": ["kd-sjukvard-2030-talet-2025"],
+    "sourceIds": [
+      "kd-sjukvard-2030-talet-2025"
+    ],
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-28"
   },
@@ -1991,9 +1996,13 @@
     "summary": "Liberalerna vill ge rättsväsendet verktyg att stoppa personer som skickar sexuella bilder eller kränkande AI-deepfakes. Valmanifestet kopplar också algoritmstyrda nyhetsflöden och desinformation till ökad polarisering.",
     "detailedPosition": "I Liberalernas valmanifest 2026, kapitlet Skydd för friheten, föreslår partiet att rättsväsendet ska få verktyg att stoppa den som skickar sexuella bilder eller kränkande AI-deepfakes. I samma kapitel beskriver partiet hur algoritmstyrda nyhetsflöden och desinformation kan öka polariseringen. Källan anger inte vilken lagstiftning eller vilka befogenheter som avses, och behandlar inte särskilt märkning av AI-genererat kampanjmaterial, valpåverkan eller plattformars ansvar för syntetiskt innehåll.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["valmanifest"],
+    "evidenceTypes": [
+      "valmanifest"
+    ],
     "confidenceExplanation": "Klassningen bygger på en öppnad sida i Liberalernas officiella valmanifest 2026. Manifestet innehåller ett uttryckligt förslag om rättsväsendets verktyg mot kränkande AI-deepfakes, men preciserar inte den rättsliga utformningen eller en bredare AI-politik för val och desinformation.",
-    "sourceIds": ["l-valmanifest-2026-deepfakes"],
+    "sourceIds": [
+      "l-valmanifest-2026-deepfakes"
+    ],
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-29"
   },
@@ -2010,231 +2019,325 @@
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-07-27"
   },
-{
-  "id": "m-kultur-upphovsratt",
-  "partyId": "m",
-  "topicId": "kultur-upphovsratt",
-  "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex med kultur som ämnesområde samt Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller kulturpolitiska avsnitt men ingen träff på upphovsrätt i AI-sammanhang. Sökning i Riksdagens öppna data på upphovsrätt för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-29"
-},
-{
-  "id": "m-suveranitet",
-  "partyId": "m",
-  "topicId": "suveranitet",
-  "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar AI-kompetens, forskning och internationell teknikdiplomati, men inte svenska språkmodeller, superdatorer, molnberoende eller statlig AI-infrastruktur. Riksdagsträffarna på artificiell intelligens var enskilda motioner och används inte som partilinje. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, språkmodell, infrastruktur, superdator, moln och data; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. De direkta AI-träffarna i Riksdagens data var enskilda motioner, inte partimotioner eller kommittémotioner.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-29"
-},
-{
-  "id": "m-jamlikhet",
-  "partyId": "m",
-  "topicId": "jamlikhet",
-  "summary": "Ingen dokumenterad partinivåposition om AI och algoritmisk diskriminering, digitalt utanförskap eller AI-specifik tillgänglighet hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller generella skrivningar om diskriminering och tillgänglighet, men ingen AI-specifik koppling till dessa frågor. Riksdagssökning på algoritmisk diskriminering för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot skydd mot diskriminering eller åtgärder för digital delaktighet.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, diskriminering, tillgänglighet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen algoritmisk diskriminering. Inga partimotioner eller kommittémotioner med en AI-specifik jämlikhetsposition hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-29"
-},
-{
-  "id": "m-barn-unga",
-  "partyId": "m",
-  "topicId": "barn-unga",
-  "summary": "Ingen dokumenterad partinivåposition om AI riktad till barn och unga hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar barn, unga och AI i skilda avsnitt, men inte AI-kompisar, chattbottar, barns data, åldersverifiering eller AI-relaterade deepfake-övergrepp mot barn. Sökning i Riksdagens öppna data på barn AI för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder för barn och unga.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, barn, unga och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen barn AI. Inga partimotioner eller kommittémotioner med en AI-specifik position för barn och unga hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-29"
-},
-{
-  "id": "m-social-hallbarhet",
-  "partyId": "m",
-  "topicId": "social-hallbarhet",
-  "summary": "Ingen dokumenterad partinivåposition om hur AI:s vinster och omställningskostnader ska fördelas som en fråga om social hållbarhet hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar AI:s arbetsmarknadseffekter, kompetens och nya arbetstillfällen, men inte fördelning av AI:s produktivitetsvinster, regionala skillnader eller särskilda trygghets- och omställningsinsatser som social hållbarhet i AI-politiken. Sökning i Riksdagens öppna data på social hållbarhet AI för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, automatisering, social hållbarhet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen social hållbarhet AI. Inga partimotioner eller kommittémotioner med en AI-specifik position om rättvis omställning hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-29"
+  {
+    "id": "m-kultur-upphovsratt",
+    "partyId": "m",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex med kultur som ämnesområde samt Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller kulturpolitiska avsnitt men ingen träff på upphovsrätt i AI-sammanhang. Sökning i Riksdagens öppna data på upphovsrätt för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-29"
   },
   {
-  "id": "kd-kultur-upphovsratt",
-  "partyId": "kd",
-  "topicId": "kultur-upphovsratt",
-  "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om kultur och media samt digitalisering, och Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. De öppnade partisidorna innehåller kultur- respektive digitaliseringspolitik, men ingen AI-specifik skrivning om upphovsrätt, ersättning, träning av AI-modeller eller deepfakes. Riksdagssökning på upphovsrätt gav endast enskild motion och ingen partimotion eller kommittémotion med en AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om kultur och media samt digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI, upphovsrätt och deepfake. Ingen partimotion eller kommittémotion med en AI-specifik position om kultur eller upphovsrätt hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-30"
+    "id": "m-suveranitet",
+    "partyId": "m",
+    "topicId": "suveranitet",
+    "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar AI-kompetens, forskning och internationell teknikdiplomati, men inte svenska språkmodeller, superdatorer, molnberoende eller statlig AI-infrastruktur. Riksdagsträffarna på artificiell intelligens var enskilda motioner och används inte som partilinje. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, språkmodell, infrastruktur, superdator, moln och data; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. De direkta AI-träffarna i Riksdagens data var enskilda motioner, inte partimotioner eller kommittémotioner.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-29"
   },
   {
-  "id": "kd-suveranitet",
-  "partyId": "kd",
-  "topicId": "suveranitet",
-  "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om digitalisering och forskning, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. De öppnade sidorna behandlar bland annat digitalisering, akademisk autonomi och forskning, men inte svenska språkmodeller, superdatorer, molnberoende, statlig AI-infrastruktur eller leverantörsberoende. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om digitalisering och forskning; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för språkmodell, superdator, moln och data. Ingen partimotion eller kommittémotion med en AI-specifik suveränitetsposition hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-30"
+    "id": "m-jamlikhet",
+    "partyId": "m",
+    "topicId": "jamlikhet",
+    "summary": "Ingen dokumenterad partinivåposition om AI och algoritmisk diskriminering, digitalt utanförskap eller AI-specifik tillgänglighet hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller generella skrivningar om diskriminering och tillgänglighet, men ingen AI-specifik koppling till dessa frågor. Riksdagssökning på algoritmisk diskriminering för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot skydd mot diskriminering eller åtgärder för digital delaktighet.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, diskriminering, tillgänglighet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen algoritmisk diskriminering. Inga partimotioner eller kommittémotioner med en AI-specifik jämlikhetsposition hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-29"
   },
   {
-  "id": "kd-miljoavtryck",
-  "partyId": "kd",
-  "topicId": "miljoavtryck",
-  "summary": "Ingen dokumenterad partinivåposition om AI:s eget miljöavtryck hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om energi, energieffektivisering och digitalisering, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. Sidorna behandlar energisystem och energieffektivisering, men inte AI- eller datacenters el- och vattenförbrukning, hårdvarans livscykel, miljörapportering eller AI-specifika miljökrav. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI och datacenter. Partisidorna kontrollerades också för datahall, energi, elförbrukning, vatten, resurser och klimat. Ingen partimotion eller kommittémotion med en AI-specifik miljöavtrycksposition hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-30"
+    "id": "m-barn-unga",
+    "partyId": "m",
+    "topicId": "barn-unga",
+    "summary": "Ingen dokumenterad partinivåposition om AI riktad till barn och unga hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar barn, unga och AI i skilda avsnitt, men inte AI-kompisar, chattbottar, barns data, åldersverifiering eller AI-relaterade deepfake-övergrepp mot barn. Sökning i Riksdagens öppna data på barn AI för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder för barn och unga.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, barn, unga och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen barn AI. Inga partimotioner eller kommittémotioner med en AI-specifik position för barn och unga hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-29"
   },
   {
-  "id": "kd-rekyleffekter",
-  "partyId": "kd",
-  "topicId": "rekyleffekter",
-  "summary": "Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter eller total resursanvändning hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om energi, energieffektivisering och digitalisering, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. Sidorna behandlar energieffektivisering, men inte om AI-driven effektivisering kan öka den totala användningen av beräkning, energi, transporter eller andra resurser. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot styrmedel på området.",
-  "evidenceStatus": "ingen_dokumenterad",
-  "evidenceTypes": [],
-  "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för rekyleffekt, resursanvändning, energi, elförbrukning, effektivisering, konsumtion och klimat. Ingen partimotion eller kommittémotion med en AI-specifik position om rekyleffekter hittades.",
-  "sourceIds": [],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-30"
+    "id": "m-social-hallbarhet",
+    "partyId": "m",
+    "topicId": "social-hallbarhet",
+    "summary": "Ingen dokumenterad partinivåposition om hur AI:s vinster och omställningskostnader ska fördelas som en fråga om social hållbarhet hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar AI:s arbetsmarknadseffekter, kompetens och nya arbetstillfällen, men inte fördelning av AI:s produktivitetsvinster, regionala skillnader eller särskilda trygghets- och omställningsinsatser som social hållbarhet i AI-politiken. Sökning i Riksdagens öppna data på social hållbarhet AI för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, automatisering, social hållbarhet och digitalt utanförskap; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen social hållbarhet AI. Inga partimotioner eller kommittémotioner med en AI-specifik position om rättvis omställning hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-29"
   },
   {
-  "id": "kd-barn-unga",
-  "partyId": "kd",
-  "topicId": "barn-unga",
-  "summary": "Kristdemokraterna skriver att barn ska skyddas från teknikföretags skadliga algoritmer. Källan nämner inte AI, AI-kompisar, barns data eller konkreta åtgärder.",
-  "detailedPosition": "I Kristdemokraternas officiella nyhet om Sverigedrömmen och på den länkade kampanjsidan anges att barn ska skyddas från teknikföretags skadliga algoritmer. Materialet anger inte vilken teknik som omfattas, hur algoritmerna bedöms som skadliga eller vilka styrmedel som avses. Det nämner inte uttryckligen artificiell intelligens, AI-kompisar eller chattbottar, barns personuppgifter, deepfake-övergrepp eller åldersverifiering. Tolkning: skrivningen berör ämnet genom algoritmer på digitala plattformar, men är inte en avgränsad AI-politisk position.",
-  "evidenceStatus": "indirekt_berord",
-  "evidenceTypes": ["partiprogram"],
-  "confidenceExplanation": "Kristdemokraternas officiella nyhet från 28 juli 2026 och den länkade kampanjsidan öppnades och lästes. Formuleringen om barns skydd från teknikföretags algoritmer är uttrycklig, men källan saknar AI-terminologi och konkreta policyåtgärder. Därför klassas den som indirekt berörd. Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26 söktes även med AI, artificiell intelligens, algoritm, deepfake och digitalisering; träffarna var enskilda motioner eller saknade AI-koppling på partinivå.",
-  "sourceIds": ["kd-sverigedrommen-algoritmer-2026"],
-  "workflowStatus": "publicerad",
-  "lastUpdatedAt": "2026-07-30"
+    "id": "kd-kultur-upphovsratt",
+    "partyId": "kd",
+    "topicId": "kultur-upphovsratt",
+    "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om kultur och media samt digitalisering, och Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. De öppnade partisidorna innehåller kultur- respektive digitaliseringspolitik, men ingen AI-specifik skrivning om upphovsrätt, ersättning, träning av AI-modeller eller deepfakes. Riksdagssökning på upphovsrätt gav endast enskild motion och ingen partimotion eller kommittémotion med en AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om kultur och media samt digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI, upphovsrätt och deepfake. Ingen partimotion eller kommittémotion med en AI-specifik position om kultur eller upphovsrätt hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-30"
   },
   {
-  "id": "l-offentlig-sektor", "partyId": "l", "topicId": "offentlig-sektor",
-  "summary": "Liberalerna skriver att AI kan bidra till en effektivare offentlig sektor. AI-sidan anger inte vilka verksamheter eller beslutsprocesser som ska använda AI, eller vilka krav på insyn, mänsklig kontroll och upphandling som ska gälla.",
-  "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till en effektivare offentlig sektor. Sidan beskriver samtidigt att individens frihet, integritet och rättigheter ska skyddas när AI används i både offentlig och privat verksamhet. Den preciserar inte användning i automatiserade myndighetsbeslut, ansvarsfördelning, insyn, överklagande eller upphandling. Tolkning: partiet beskriver AI som en möjlig effektivisering i offentlig sektor, men sidan innehåller inte en närmare modell för offentlig AI-användning.",
-  "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
-  "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Sidan kopplar uttryckligen AI till en effektivare offentlig sektor men saknar avgränsade åtgärder för myndigheter, kommuner eller regioner.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "kd-suveranitet",
+    "partyId": "kd",
+    "topicId": "suveranitet",
+    "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om digitalisering och forskning, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. De öppnade sidorna behandlar bland annat digitalisering, akademisk autonomi och forskning, men inte svenska språkmodeller, superdatorer, molnberoende, statlig AI-infrastruktur eller leverantörsberoende. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om digitalisering och forskning; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för språkmodell, superdator, moln och data. Ingen partimotion eller kommittémotion med en AI-specifik suveränitetsposition hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-30"
   },
   {
-  "id": "l-vard-omsorg", "partyId": "l", "topicId": "vard-omsorg",
-  "summary": "Liberalerna skriver att AI kan bidra till bättre sjukvård. Den öppnade AI-sidan anger inte konkreta förslag om diagnostik, patientdata, klinisk validering, ansvar eller AI i omsorgen.",
-  "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till bättre sjukvård. Sidan förklarar inte vilka vårdtillämpningar som avses och innehåller inte särskilda skrivningar om patientdata, kliniska beslutsstöd, patientsäkerhet, ansvar vid fel eller äldreomsorg. Tolkning: AI beskrivs som en möjlig utveckling för sjukvården, utan närmare vårdpolitisk utformning.",
-  "evidenceStatus": "indirekt_berord", "evidenceTypes": ["partiprogram"],
-  "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen bättre sjukvård som ett möjligt AI-bidrag, men utan vårdspecifika åtgärder eller avgränsningar. Därför klassas den som indirekt berörd.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "kd-miljoavtryck",
+    "partyId": "kd",
+    "topicId": "miljoavtryck",
+    "summary": "Ingen dokumenterad partinivåposition om AI:s eget miljöavtryck hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om energi, energieffektivisering och digitalisering, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. Sidorna behandlar energisystem och energieffektivisering, men inte AI- eller datacenters el- och vattenförbrukning, hårdvarans livscykel, miljörapportering eller AI-specifika miljökrav. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens, AI och datacenter. Partisidorna kontrollerades också för datahall, energi, elförbrukning, vatten, resurser och klimat. Ingen partimotion eller kommittémotion med en AI-specifik miljöavtrycksposition hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-30"
   },
   {
-  "id": "l-integritet", "partyId": "l", "topicId": "integritet",
-  "summary": "Liberalerna vill skydda individers integritet och rättigheter när AI används. Partiets AI-sida preciserar inte regler för ansiktsigenkänning, polisens AI-användning eller automatiserad profilering.",
-  "detailedPosition": "Liberalernas officiella AI-sida anger att en nationell AI-strategi ska skydda individers integritet och rättigheter, och att människors integritet och grundläggande rättigheter ska försvaras när AI används inom offentlig och privat verksamhet. Sidan tar inte ställning till ansiktsigenkänning på allmän plats, polisens AI-verktyg, datadelning eller andra konkreta övervakningsåtgärder. Tolkning: integritet och rättigheter anges som övergripande villkor för AI-användning, utan en särskild modell för AI-baserad övervakning.",
-  "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
-  "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Partiet uttrycker ett direkt krav på integritets- och rättighetsskydd vid AI-användning, men preciserar inte enskilda övervakningsverktyg eller rättsliga skydd.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "kd-rekyleffekter",
+    "partyId": "kd",
+    "topicId": "rekyleffekter",
+    "summary": "Ingen dokumenterad partinivåposition om AI-relaterade rekyleffekter eller total resursanvändning hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om energi, energieffektivisering och digitalisering, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. Sidorna behandlar energieffektivisering, men inte om AI-driven effektivisering kan öka den totala användningen av beräkning, energi, transporter eller andra resurser. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot styrmedel på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om energi, energieffektivisering och digitalisering; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för rekyleffekt, resursanvändning, energi, elförbrukning, effektivisering, konsumtion och klimat. Ingen partimotion eller kommittémotion med en AI-specifik position om rekyleffekter hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-30"
   },
   {
-  "id": "l-forsvar", "partyId": "l", "topicId": "forsvar",
-  "summary": "Liberalerna vill att EU antar en europeisk AI-säkerhetsstrategi för att skydda demokratiska samhällen och kritisk infrastruktur från bland annat cyberattacker. Sidan behandlar inte militär AI eller autonoma vapensystem.",
-  "detailedPosition": "Liberalernas officiella AI-sida beskriver att AI kan användas för cyberattacker och att demokratier behöver stärka skyddet mot digitala hot. Partiet vill därför att EU antar en europeisk AI-säkerhetsstrategi för att skydda demokratiska samhällen och kritisk infrastruktur. Sidan anger inte hur strategin ska utformas och tar inte upp svensk militär AI, autonoma vapensystem eller särskilda regler för försvarsupphandling. Tolkning: partiets dokumenterade AI-säkerhetspolitik är inriktad på EU-samarbete, cyberhot och kritisk infrastruktur.",
-  "evidenceStatus": "konkret_forslag", "evidenceTypes": ["partiprogram"],
-  "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den innehåller ett uttryckligt förslag om en europeisk AI-säkerhetsstrategi och kopplar det till cyberattacker och skydd av kritisk infrastruktur.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "kd-barn-unga",
+    "partyId": "kd",
+    "topicId": "barn-unga",
+    "summary": "Kristdemokraterna skriver att barn ska skyddas från teknikföretags skadliga algoritmer. Källan nämner inte AI, AI-kompisar, barns data eller konkreta åtgärder.",
+    "detailedPosition": "I Kristdemokraternas officiella nyhet om Sverigedrömmen och på den länkade kampanjsidan anges att barn ska skyddas från teknikföretags skadliga algoritmer. Materialet anger inte vilken teknik som omfattas, hur algoritmerna bedöms som skadliga eller vilka styrmedel som avses. Det nämner inte uttryckligen artificiell intelligens, AI-kompisar eller chattbottar, barns personuppgifter, deepfake-övergrepp eller åldersverifiering. Tolkning: skrivningen berör ämnet genom algoritmer på digitala plattformar, men är inte en avgränsad AI-politisk position.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Kristdemokraternas officiella nyhet från 28 juli 2026 och den länkade kampanjsidan öppnades och lästes. Formuleringen om barns skydd från teknikföretags algoritmer är uttrycklig, men källan saknar AI-terminologi och konkreta policyåtgärder. Därför klassas den som indirekt berörd. Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26 söktes även med AI, artificiell intelligens, algoritm, deepfake och digitalisering; träffarna var enskilda motioner eller saknade AI-koppling på partinivå.",
+    "sourceIds": [
+      "kd-sverigedrommen-algoritmer-2026"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-30"
   },
   {
-  "id": "l-reglering", "partyId": "l", "topicId": "reglering",
-  "summary": "Liberalerna vill skapa regler som uppmuntrar innovation och teknikutveckling och skriver att företag ska möta regler i stället för onödig byråkrati. Sidan tar inte ställning till AI-förordningens genomförande, svensk tillsyn eller ansvaret när AI-system orsakar skada.",
-  "detailedPosition": "På Liberalernas officiella AI-sida står att partiet vill skapa regler som uppmuntrar innovation och teknikutveckling. Sidan anger också att företag och entreprenörer ska möta regler som uppmuntrar innovation i stället för onödig byråkrati. Den behandlar inte EU:s AI-förordning, ansvar, säkerhetstestning, öppen källkod eller svenska tillsynsmyndigheter. Tolkning: partiet har en generell innovationsinriktning för AI-reglering, men sidan anger inte en heltäckande regelmodell.",
-  "evidenceStatus": "generell_dokumenterad", "evidenceTypes": ["partiprogram"],
-  "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den uttrycker en tydlig, men övergripande, inriktning om innovationsfrämjande regler utan konkreta förslag om AI-förordningen eller nationell tillsyn.",
-  "sourceIds": ["l-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "l-offentlig-sektor",
+    "partyId": "l",
+    "topicId": "offentlig-sektor",
+    "summary": "Liberalerna skriver att AI kan bidra till en effektivare offentlig sektor. AI-sidan anger inte vilka verksamheter eller beslutsprocesser som ska använda AI, eller vilka krav på insyn, mänsklig kontroll och upphandling som ska gälla.",
+    "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till en effektivare offentlig sektor. Sidan beskriver samtidigt att individens frihet, integritet och rättigheter ska skyddas när AI används i både offentlig och privat verksamhet. Den preciserar inte användning i automatiserade myndighetsbeslut, ansvarsfördelning, insyn, överklagande eller upphandling. Tolkning: partiet beskriver AI som en möjlig effektivisering i offentlig sektor, men sidan innehåller inte en närmare modell för offentlig AI-användning.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Sidan kopplar uttryckligen AI till en effektivare offentlig sektor men saknar avgränsade åtgärder för myndigheter, kommuner eller regioner.",
+    "sourceIds": [
+      "l-webb-ai"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
-  "id": "c-naringsliv", "partyId": "c", "topicId": "naringsliv",
-  "summary": "Centerpartiet vill satsa tre miljarder kronor på ett nationellt AI-center för att locka internationella AI-forskare. Partiet kopplar satsningen till forskning, praktisk tillämpning, kommersialisering och AI-relaterad tillväxt.",
-  "detailedPosition": "Centerpartiets officiella nyhet från den 9 december 2025 anger att partiet vill satsa tre miljarder kronor för att inrätta ett nationellt AI-center. Enligt texten ska centret locka internationella toppforskare och ha fokus på praktisk testning, utvärdering och tillämpning av AI i europeisk kontext. Partiet beskriver också ett nära samarbete mellan universitet och företag och att satsningen ska främja kommersialisering och tillväxt inom en framtidsbransch. Partiets AI-sida och valmanifest 2026 innehåller sedan tidigare förslag om ett nationellt AI-center och bättre förutsättningar för svenska företag och forskare. Tolkning: den aktuella nyheten preciserar finansieringsnivån och näringslivskopplingen, men inte centrets organisationsform eller fördelning av medlen.",
-  "evidenceStatus": "konkret_forslag", "evidenceTypes": ["valmanifest"],
-  "confidenceExplanation": "Klassningen bygger på en öppnad officiell Centerparti-nyhet med ett konkret belopp och ett avgränsat förslag om nationellt AI-center, kompletterad av partiets AI-sida och valmanifest 2026. Källorna anger forskning, företagssamverkan och kommersialisering men inte en fullständig genomförandeplan.",
-  "sourceIds": ["c-nyhet-ai-center-2025", "c-webb-ai", "c-valmanifest-2026"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "l-vard-omsorg",
+    "partyId": "l",
+    "topicId": "vard-omsorg",
+    "summary": "Liberalerna skriver att AI kan bidra till bättre sjukvård. Den öppnade AI-sidan anger inte konkreta förslag om diagnostik, patientdata, klinisk validering, ansvar eller AI i omsorgen.",
+    "detailedPosition": "På Liberalernas officiella sida om AI och teknikutveckling anges att AI kan bidra till bättre sjukvård. Sidan förklarar inte vilka vårdtillämpningar som avses och innehåller inte särskilda skrivningar om patientdata, kliniska beslutsstöd, patientsäkerhet, ansvar vid fel eller äldreomsorg. Tolkning: AI beskrivs som en möjlig utveckling för sjukvården, utan närmare vårdpolitisk utformning.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen bättre sjukvård som ett möjligt AI-bidrag, men utan vårdspecifika åtgärder eller avgränsningar. Därför klassas den som indirekt berörd.",
+    "sourceIds": [
+      "l-webb-ai"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
-  "id": "c-demokrati", "partyId": "c", "topicId": "demokrati",
-  "summary": "Centerpartiet skriver att AI medför risker för demokratin. Den öppnade AI-sidan anger inga konkreta förslag om deepfakes, valpåverkan, plattformsansvar eller märkning av AI-genererat innehåll.",
-  "detailedPosition": "På Centerpartiets officiella AI-sida anges att oron växer för AI:s risker för bland annat demokratin. Sidan beskriver samtidigt behovet av en ansvarsfull AI-utveckling med respekt för individens frihet och rättssäkerhet. Den innehåller dock inga avgränsade förslag om AI-genererat kampanjmaterial, deepfakes, bottar, desinformation, valens säkerhet eller plattformars ansvar. Tolkning: demokratifrågan är uttryckligen identifierad som en AI-risk, men den öppnade källan dokumenterar ingen särskild demokratipolitisk åtgärd.",
-  "evidenceStatus": "indirekt_berord", "evidenceTypes": ["partiprogram"],
-  "confidenceExplanation": "Centerpartiets officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen demokratin bland AI-riskerna men saknar konkreta förslag inom ämnets avgränsning; därför klassas posten som indirekt berörd.",
-  "sourceIds": ["c-webb-ai"], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "l-integritet",
+    "partyId": "l",
+    "topicId": "integritet",
+    "summary": "Liberalerna vill skydda individers integritet och rättigheter när AI används. Partiets AI-sida preciserar inte regler för ansiktsigenkänning, polisens AI-användning eller automatiserad profilering.",
+    "detailedPosition": "Liberalernas officiella AI-sida anger att en nationell AI-strategi ska skydda individers integritet och rättigheter, och att människors integritet och grundläggande rättigheter ska försvaras när AI används inom offentlig och privat verksamhet. Sidan tar inte ställning till ansiktsigenkänning på allmän plats, polisens AI-verktyg, datadelning eller andra konkreta övervakningsåtgärder. Tolkning: integritet och rättigheter anges som övergripande villkor för AI-användning, utan en särskild modell för AI-baserad övervakning.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Liberalernas officiella AI-sida, öppnad och läst 2026-07-31. Partiet uttrycker ett direkt krav på integritets- och rättighetsskydd vid AI-användning, men preciserar inte enskilda övervakningsverktyg eller rättsliga skydd.",
+    "sourceIds": [
+      "l-webb-ai"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
-  "id": "kd-reglering", "partyId": "kd", "topicId": "reglering",
-  "summary": "Ingen dokumenterad partinivåposition om AI-reglering hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, algoritm, deepfake och datacenter. Den direkta AI-träffen under 2025/26 var en enskild motion, inte en parti- eller kommittémotion. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om EU:s AI-förordning, nationell tillsyn, säkerhetskrav eller ansvar hittades. Frånvaron ska inte tolkas som att partiet är emot reglering på området.",
-  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
-  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, algoritm, deepfake och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik regleringsposition hittades.",
-  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "l-forsvar",
+    "partyId": "l",
+    "topicId": "forsvar",
+    "summary": "Liberalerna vill att EU antar en europeisk AI-säkerhetsstrategi för att skydda demokratiska samhällen och kritisk infrastruktur från bland annat cyberattacker. Sidan behandlar inte militär AI eller autonoma vapensystem.",
+    "detailedPosition": "Liberalernas officiella AI-sida beskriver att AI kan användas för cyberattacker och att demokratier behöver stärka skyddet mot digitala hot. Partiet vill därför att EU antar en europeisk AI-säkerhetsstrategi för att skydda demokratiska samhällen och kritisk infrastruktur. Sidan anger inte hur strategin ska utformas och tar inte upp svensk militär AI, autonoma vapensystem eller särskilda regler för försvarsupphandling. Tolkning: partiets dokumenterade AI-säkerhetspolitik är inriktad på EU-samarbete, cyberhot och kritisk infrastruktur.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den innehåller ett uttryckligt förslag om en europeisk AI-säkerhetsstrategi och kopplar det till cyberattacker och skydd av kritisk infrastruktur.",
+    "sourceIds": [
+      "l-webb-ai"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
-  "id": "kd-jamlikhet", "partyId": "kd", "topicId": "jamlikhet",
-  "summary": "Ingen dokumenterad partinivåposition om AI och jämlikhet eller diskriminering hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om diskriminering, tillgång till AI-verktyg eller snedvridna automatiserade beslut hittades. Frånvaron ska inte tolkas som att partiet saknar politik om jämlikhet eller diskriminering i övrigt.",
-  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
-  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik jämlikhetsposition hittades.",
-  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "l-reglering",
+    "partyId": "l",
+    "topicId": "reglering",
+    "summary": "Liberalerna vill skapa regler som uppmuntrar innovation och teknikutveckling och skriver att företag ska möta regler i stället för onödig byråkrati. Sidan tar inte ställning till AI-förordningens genomförande, svensk tillsyn eller ansvaret när AI-system orsakar skada.",
+    "detailedPosition": "På Liberalernas officiella AI-sida står att partiet vill skapa regler som uppmuntrar innovation och teknikutveckling. Sidan anger också att företag och entreprenörer ska möta regler som uppmuntrar innovation i stället för onödig byråkrati. Den behandlar inte EU:s AI-förordning, ansvar, säkerhetstestning, öppen källkod eller svenska tillsynsmyndigheter. Tolkning: partiet har en generell innovationsinriktning för AI-reglering, men sidan anger inte en heltäckande regelmodell.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Liberalernas officiella AI-sida öppnades och lästes 2026-07-31. Den uttrycker en tydlig, men övergripande, inriktning om innovationsfrämjande regler utan konkreta förslag om AI-förordningen eller nationell tillsyn.",
+    "sourceIds": [
+      "l-webb-ai"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
-  "id": "kd-hallbarhetsverktyg", "partyId": "kd", "topicId": "hallbarhetsverktyg",
-  "summary": "Ingen dokumenterad partinivåposition om AI som verktyg för miljö- eller klimatarbete hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om exempelvis klimatberäkningar, energisystem, naturvård eller miljöuppföljning hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
-  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
-  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om AI som hållbarhetsverktyg hittades.",
-  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "c-naringsliv",
+    "partyId": "c",
+    "topicId": "naringsliv",
+    "summary": "Centerpartiet vill satsa tre miljarder kronor på ett nationellt AI-center för att locka internationella AI-forskare. Partiet kopplar satsningen till forskning, praktisk tillämpning, kommersialisering och AI-relaterad tillväxt.",
+    "detailedPosition": "Centerpartiets officiella nyhet från den 9 december 2025 anger att partiet vill satsa tre miljarder kronor för att inrätta ett nationellt AI-center. Enligt texten ska centret locka internationella toppforskare och ha fokus på praktisk testning, utvärdering och tillämpning av AI i europeisk kontext. Partiet beskriver också ett nära samarbete mellan universitet och företag och att satsningen ska främja kommersialisering och tillväxt inom en framtidsbransch. Partiets AI-sida och valmanifest 2026 innehåller sedan tidigare förslag om ett nationellt AI-center och bättre förutsättningar för svenska företag och forskare. Tolkning: den aktuella nyheten preciserar finansieringsnivån och näringslivskopplingen, men inte centrets organisationsform eller fördelning av medlen.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på en öppnad officiell Centerparti-nyhet med ett konkret belopp och ett avgränsat förslag om nationellt AI-center, kompletterad av partiets AI-sida och valmanifest 2026. Källorna anger forskning, företagssamverkan och kommersialisering men inte en fullständig genomförandeplan.",
+    "sourceIds": [
+      "c-nyhet-ai-center-2025",
+      "c-webb-ai",
+      "c-valmanifest-2026"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
-  "id": "kd-byggd-miljo", "partyId": "kd", "topicId": "byggd-miljo",
-  "summary": "Ingen dokumenterad partinivåposition om AI i byggande eller samhällsbyggnad hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om byggande, bygglov, planering, fastighetsförvaltning eller annan byggd miljö hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
-  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
-  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om byggd miljö hittades.",
-  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "c-demokrati",
+    "partyId": "c",
+    "topicId": "demokrati",
+    "summary": "Centerpartiet skriver att AI medför risker för demokratin. Den öppnade AI-sidan anger inga konkreta förslag om deepfakes, valpåverkan, plattformsansvar eller märkning av AI-genererat innehåll.",
+    "detailedPosition": "På Centerpartiets officiella AI-sida anges att oron växer för AI:s risker för bland annat demokratin. Sidan beskriver samtidigt behovet av en ansvarsfull AI-utveckling med respekt för individens frihet och rättssäkerhet. Den innehåller dock inga avgränsade förslag om AI-genererat kampanjmaterial, deepfakes, bottar, desinformation, valens säkerhet eller plattformars ansvar. Tolkning: demokratifrågan är uttryckligen identifierad som en AI-risk, men den öppnade källan dokumenterar ingen särskild demokratipolitisk åtgärd.",
+    "evidenceStatus": "indirekt_berord",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Centerpartiets officiella AI-sida öppnades och lästes 2026-07-31. Den nämner uttryckligen demokratin bland AI-riskerna men saknar konkreta förslag inom ämnets avgränsning; därför klassas posten som indirekt berörd.",
+    "sourceIds": [
+      "c-webb-ai"
+    ],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
-  "id": "kd-social-hallbarhet", "partyId": "kd", "topicId": "social-hallbarhet",
-  "summary": "Ingen dokumenterad partinivåposition om AI och social hållbarhet hittades i de granskade källorna.",
-  "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om social sammanhållning, välfärdens tillgänglighet eller andra sociala konsekvenser av AI hittades. Frånvaron ska inte tolkas som att partiet saknar socialpolitik i övrigt.",
-  "evidenceStatus": "ingen_dokumenterad", "evidenceTypes": [],
-  "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik position om social hållbarhet hittades.",
-  "sourceIds": [], "workflowStatus": "publicerad", "lastUpdatedAt": "2026-07-31"
+    "id": "kd-reglering",
+    "partyId": "kd",
+    "topicId": "reglering",
+    "summary": "Ingen dokumenterad partinivåposition om AI-reglering hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens, algoritm, deepfake och datacenter. Den direkta AI-träffen under 2025/26 var en enskild motion, inte en parti- eller kommittémotion. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om EU:s AI-förordning, nationell tillsyn, säkerhetskrav eller ansvar hittades. Frånvaron ska inte tolkas som att partiet är emot reglering på området.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens, algoritm, deepfake och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik regleringsposition hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
+  },
+  {
+    "id": "kd-jamlikhet",
+    "partyId": "kd",
+    "topicId": "jamlikhet",
+    "summary": "Ingen dokumenterad partinivåposition om AI och jämlikhet eller diskriminering hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om diskriminering, tillgång till AI-verktyg eller snedvridna automatiserade beslut hittades. Frånvaron ska inte tolkas som att partiet saknar politik om jämlikhet eller diskriminering i övrigt.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik jämlikhetsposition hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
+  },
+  {
+    "id": "kd-hallbarhetsverktyg",
+    "partyId": "kd",
+    "topicId": "hallbarhetsverktyg",
+    "summary": "Ingen dokumenterad partinivåposition om AI som verktyg för miljö- eller klimatarbete hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om exempelvis klimatberäkningar, energisystem, naturvård eller miljöuppföljning hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om AI som hållbarhetsverktyg hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
+  },
+  {
+    "id": "kd-byggd-miljo",
+    "partyId": "kd",
+    "topicId": "byggd-miljo",
+    "summary": "Ingen dokumenterad partinivåposition om AI i byggande eller samhällsbyggnad hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och datacenter. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om byggande, bygglov, planering, fastighetsförvaltning eller annan byggd miljö hittades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och datacenter. Ingen partimotion eller kommittémotion med en AI-specifik position om byggd miljö hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
+  },
+  {
+    "id": "kd-social-hallbarhet",
+    "partyId": "kd",
+    "topicId": "social-hallbarhet",
+    "summary": "Ingen dokumenterad partinivåposition om AI och social hållbarhet hittades i de granskade källorna.",
+    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella startsida och politikområdet Digitalisering samt Riksdagens öppna data för KD-motioner under riksmötena 2022/23–2025/26. Sökningar gjordes på AI, artificiell intelligens och algoritm. Ingen officiell KD-källa eller partinivåmotion med en AI-specifik position om social sammanhållning, välfärdens tillgänglighet eller andra sociala konsekvenser av AI hittades. Frånvaron ska inte tolkas som att partiet saknar socialpolitik i övrigt.",
+    "evidenceStatus": "ingen_dokumenterad",
+    "evidenceTypes": [],
+    "confidenceExplanation": "Kristdemokraternas startsida och sida om Digitalisering öppnades och lästes 2026-07-31. Riksdagens öppna data söktes för parti=KD under riksmötena 2022/23–2025/26 med AI, artificiell intelligens och algoritm. Ingen partimotion eller kommittémotion med en AI-specifik position om social hållbarhet hittades.",
+    "sourceIds": [],
+    "workflowStatus": "publicerad",
+    "lastUpdatedAt": "2026-07-31"
   },
   {
     "id": "l-kultur-upphovsratt",
@@ -2282,9 +2385,13 @@
     "summary": "Centerpartiet vill att elever stärker sin digitala kompetens, bland annat inom AI, och att lärare och skolledare återkommande får kompetensutveckling för att använda och undervisa med digitala verktyg och AI.",
     "detailedPosition": "I partimotionen En skola för kunskap och livsresor (2025/26:3186) yrkar Centerpartiet på återkommande kompetensutveckling för lärare och skolledare i att använda och undervisa med digitala verktyg och AI. Motionen yrkar också på att elever stärker sin digitala kompetens i skolan, bland annat inom AI. Motiveringen behandlar hur barn och unga kan använda AI-verktyg säkert, kritiskt och etiskt med stöd av kunniga vuxna. Motionen innehåller inte förslag om AI-kompisar, barns data, åldersverifiering eller deepfake-övergrepp.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion"],
+    "evidenceTypes": [
+      "motion"
+    ],
     "confidenceExplanation": "Klassningen bygger på en öppnad partimotion från Centerpartiet. Motionen innehåller uttryckliga riksdagsyrkanden om AI-kompetens för elever och skolpersonal, men saknar ställningstaganden i flera andra frågor inom ämnesavgränsningen.",
-    "sourceIds": ["c-mot-2025-3186"],
+    "sourceIds": [
+      "c-mot-2025-3186"
+    ],
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
@@ -2295,9 +2402,13 @@
     "summary": "Centerpartiet vill utreda hur AI-understödda läromedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning.",
     "detailedPosition": "I kommittémotionen Migration och integration (2025/26:3190) yrkar Centerpartiet på en utredning om hur nätbaserade kurser, appbaserade och AI-understödda läromedel samt andra digitala hjälpmedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning. Motionen behandlar inte algoritmisk diskriminering, tillgänglighetskrav eller hur AI-system ska utformas för personer med funktionsnedsättning.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion"],
+    "evidenceTypes": [
+      "motion"
+    ],
     "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion från Centerpartiet med ett uttryckligt yrkande om att utreda AI-understödda läromedel i integrationsarbetet. Belägget är avgränsat till sfi och integrationsinsatser.",
-    "sourceIds": ["c-mot-2025-3190"],
+    "sourceIds": [
+      "c-mot-2025-3190"
+    ],
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
@@ -2308,9 +2419,13 @@
     "summary": "Centerpartiet vill utreda AI-understödda läromedel som del av en förstärkt sfi-undervisning och integrationsarbete.",
     "detailedPosition": "I kommittémotionen Migration och integration (2025/26:3190) föreslår Centerpartiet en utredning om hur nätbaserade kurser, appbaserade och AI-understödda läromedel samt andra digitala hjälpmedel kan bli en större del av integrationsarbetet inom en förstärkt sfi-undervisning. Motionen anger inte hur AI:s produktivitetsvinster ska fördelas, stöd vid automatisering eller bredare åtgärder för social sammanhållning.",
     "evidenceStatus": "konkret_forslag",
-    "evidenceTypes": ["motion"],
+    "evidenceTypes": [
+      "motion"
+    ],
     "confidenceExplanation": "Klassningen bygger på en öppnad kommittémotion från Centerpartiet med ett konkret yrkande om AI-understödda läromedel i integrationsarbetet. Källan ger endast ett avgränsat belägg för ämnet social hållbarhet.",
-    "sourceIds": ["c-mot-2025-3190"],
+    "sourceIds": [
+      "c-mot-2025-3190"
+    ],
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-01"
   },
@@ -2431,4 +2546,4 @@
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-08-02"
   }
-  ]
+]
