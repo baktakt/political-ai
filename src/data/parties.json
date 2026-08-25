@@ -45,14 +45,15 @@
     "governmentStatus": "regering",
     "governmentNote": "Regeringsparti sedan oktober 2022 (koalition med M och L, samarbete med SD genom Tidöavtalet).",
     "summary": "Riksdagsparti med 19 mandat under valperioden 2022–2026. Regeringsparti sedan oktober 2022.",
-    "aiSummary": "Kristdemokraterna har dokumenterade AI-relaterade förslag främst inom vården: hälsodata ska kunna användas för AI-modeller, forskning och läkemedelsuppföljning, och diagnostik pekas ut för nationell samordning. Partiet har också skrivit att barn ska skyddas från skadliga algoritmer. Någon bred egen AI-politik för exempelvis reglering, arbetsmarknad eller offentlig förvaltning har inte hittats i de granskade partikällorna.",
+    "aiSummary": "Kristdemokraterna beskriver AI som ett verktyg för innovation, välfärd, jobb och företag och betonar ansvar, tillit och mänskligt omdöme. De mest konkreta dokumenterade förslagen gäller vården: hälsodata för AI-modeller och nationell samordning av diagnostik. Partiet vill också skydda barn från skadliga algoritmer, men har inte preciserat hur skyddet ska genomföras.",
     "aiPriorities": [
+      "Ansvarsfull AI som stärker människors förmågor och inte ersätter mänskligt omdöme",
       "Hälsodata och nationell digital infrastruktur för AI, forskning och läkemedelsuppföljning",
       "Nationell samordning av diagnostik med AI och annan teknik",
       "Skydd för barn mot skadliga algoritmer"
     ],
     "sustainabilityPriorities": [],
-    "lastReviewedAt": "2026-08-13",
+    "lastReviewedAt": "2026-08-25",
     "verifiedAt": "2026-07-15",
     "verificationSourceIds": [
       "riksdagen-ledamoter-partier-2026",

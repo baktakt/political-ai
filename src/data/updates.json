@@ -369,5 +369,12 @@
     "title": "Partiöversikten kompletterad med tre AI-sammanfattningar",
     "description": "Kristdemokraterna, Liberalerna och Sverigedemokraterna har fått korta sammanfattningar på partiöversikten. Texterna bygger på redan publicerade och källbelagda ståndpunkter; inga nya politiska uppgifter har lagts till.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-08-25-kd-ai-och-valmanifest",
+    "date": "2026-08-25",
+    "title": "Kristdemokraternas AI-sida och valmanifest har granskats",
+    "description": "Kristdemokraternas officiella AI-sida ger nya generella underlag för strategi, arbetsmarknad och näringsliv. Valmanifestet bekräftar skrivningen om skadliga algoritmer för barn. Fyra källbelagda positionsuppdateringar har publicerats efter redaktionell granskning.",
+    "type": "innehall"
   }
 ]

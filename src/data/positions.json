@@ -106,21 +106,21 @@
     "id": "kd-arbetsmarknad",
     "partyId": "kd",
     "topicId": "arbetsmarknad",
-    "summary": "Ingen egen dokumenterad KD-position om AI och arbetsmarknaden har hittats i partiets program- och webbmaterial eller i parti-/kommittémotioner under valperioden. Som regeringsparti står KD bakom Sveriges AI-strategi (februari 2026), som behandlar omställning och kompetens, och KD:s civilminister Erik Slottner är ansvarigt statsråd för strategin.",
-    "detailedPosition": "Kristdemokraternas egna kanaler (politiksidorna Digitalisering och Innovation på kristdemokraterna.se) nämner inte AI, automatisering eller arbetsmarknadsomställning, och inga parti- eller kommittémotioner från KD om AI och arbetsmarknaden under valperioden 2022-2026 har hittats i riksdagens öppna data. Det som finns dokumenterat är regeringspolitik: M+KD+L-regeringen beslutade i februari 2026 Sveriges AI-strategi, med skrivningar om att AI omformar arbetsinnehåll, yrken och kompetensbehov, om livslångt lärande och om omställning genom arbetsmarknadens parter. Ansvarigt statsråd är civilminister Erik Slottner (KD), som även offentligt talar om AI och framtidens arbetsmarknad i egenskap av regeringsföreträdare. Denna regeringspolitik kan dock inte likställas med ett eget KD-partiprogram i frågan. Tidöavtalet innehåller inga AI-skrivningar. Tolkning: KD:s hållning i frågan är i praktiken liktydig med regeringens AI-strategi, men partiet har inte formulerat någon egen dokumenterad politik om AI:s arbetsmarknadseffekter.",
-    "evidenceStatus": "regeringsatgard",
+    "summary": "Kristdemokraterna skriver att AI och digital teknik kan skapa nya jobb och att medborgare ska kunna använda tekniken kritiskt och konstruktivt. Partiets AI-sida anger däremot inga konkreta förslag om omställning, kompetensinsatser eller arbetsvillkor. Regeringens AI-strategi redovisas separat som regeringspolitik.",
+    "detailedPosition": "Kristdemokraternas officiella AI-sida beskriver AI och digital teknik som verktyg som kan skapa nya jobb och företag. Den anger också att medborgare ska ha god förståelse för AI och kunna använda tekniken kritiskt och konstruktivt. Sidan innehåller inga konkreta förslag om utbildningsinsatser, omställningssystem, arbetsmarknadens parter eller arbetstagares villkor. Som regeringsparti står KD även bakom Sveriges AI-strategi, som behandlar förändrade arbetsuppgifter, kompetensbehov och omställning. Den delen redovisas som regeringspolitik och ska inte likställas med Kristdemokraternas egen partipolitik.",
+    "evidenceStatus": "generell_dokumenterad",
     "evidenceTypes": [
+      "partiprogram",
       "regeringspolitik"
     ],
-    "confidenceExplanation": "Ingen partikälla med egen AI-arbetsmarknadsposition hittades trots sökningar på kristdemokraterna.se (Politik A till Ö: Digitalisering, Innovation), i riksdagens öppna data (KD-motioner med 'artificiell intelligens' - inga partinivåmotioner i ämnet under valperioden) och via webbsökningar. Belagt är regeringens AI-strategi (öppnad) med KD:s statsråd som ansvarig - därför klassningen 'regeringsatgard'. KD redovisas även under noPositionFound avseende egen partiposition. Sökningen omfattade: kristdemokraterna.se: Vår politik och Politik A till Ö (sidorna Digitalisering och Innovation öppnade - ingen AI- eller arbetsmarknadskoppling; sida om AI saknas; sidan Kompetensförsörjning gav 404); Riksdagens öppna data (data.riksdagen.se): motioner med sökning 'artificiell intelligens' för parti=KD - inga parti- eller kommittémotioner om AI och arbetsmarknaden under valperioden 2022-2026 (träffarna var äldre utgiftsområdesmotioner och en enskild motion om innovation); Webbsökningar (Kristdemokraterna + AI/arbetsmarknad/omställning) - endast lokala/regionala KD-dokument samt uttalanden av civilminister Erik Slottner i regeringsroll, vilka redovisas som regeringspolitik under positions.",
+    "confidenceExplanation": "Den officiella AI-sidan belägger en egen generell KD-inriktning om jobb och AI-kompetens men saknar konkreta arbetsmarknadsförslag. Regeringens AI-strategi är öppnad och relevant men hålls uttryckligen isär som regeringspolitik. Därför klassas partiets egen position som generell dokumenterad.",
     "sourceIds": [
-      "kd-webb-digitalisering",
-      "kd-uttalande-slottner-2026",
+      "kd-webb-ai-2026",
       "gov-ai-strategi-2026",
       "gov-ai-strategi-pm-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-08-25"
   },
   {
     "id": "mp-arbetsmarknad",
@@ -987,14 +987,18 @@
     "id": "kd-strategi",
     "partyId": "kd",
     "topicId": "strategi",
-    "summary": "Ingen egen dokumenterad KD-ståndpunkt om en övergripande AI-strategi hittades i de granskade partikällorna.",
-    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Digitalisering och Innovation, partiets startsida och sökningar efter valmanifest 2026, samt Riksdagens öppna data för KD-motioner med söktermerna AI och artificiell intelligens. Ingen egen partikälla med en samlad KD-position om nationell AI-strategi, AI-investeringar eller Sveriges roll inom AI påträffades. Som regeringsparti omfattas KD av regeringens AI-strategi, men den redovisas som regeringspolitik och ska inte förväxlas med ett eget KD-partidokument.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se startsida; Politik A till Ö; politiksidorna Digitalisering och Innovation; testade URL:er för valmanifest 2026; Riksdagens öppna data för KD-motioner med 'AI' och 'artificiell intelligens'. Träffarna under valperioden var enskilda motioner eller regeringspolitik, inte partimotion/kommittémotion med en egen KD-strategi.",
-    "sourceIds": [],
+    "summary": "Kristdemokraterna beskriver AI och digital teknik som verktyg för innovation, livskvalitet, välfärd, nya jobb och företag. Partiet betonar ansvar, tillit, kompetens och mänskligt omdöme, men anger inga konkreta genomförandeförslag på sin övergripande AI-sida.",
+    "detailedPosition": "På Kristdemokraternas officiella AI-sida skriver partiet att Sverige ska vara ett av världens mest innovativa och konkurrenskraftiga samhällen. AI och digital teknik beskrivs som verktyg som kan höja livskvaliteten, förbättra välfärden och skapa nya jobb och företag. Medborgare ska kunna använda AI kritiskt och konstruktivt, och relationen mellan människa och AI ska präglas av ansvar, tillit och kompetens. Partiet skriver också att AI ska stärka människors förmågor och frigöra tid för mänskliga möten, inte ersätta människans omdöme, ansvar eller värdighet. Sidan anger däremot inga konkreta förslag om investeringar, reglering, myndighetsansvar, tidsplan eller finansiering.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Kristdemokraternas officiella AI-sida är en aktuell partikälla, senast uppdaterad 5 augusti 2026, och ger en uttrycklig generell AI-inriktning. Avsaknaden av konkreta styrmedel, ansvariga aktörer och finansiering motiverar klassningen generell dokumenterad snarare än tydlig och detaljerad.",
+    "sourceIds": [
+      "kd-webb-ai-2026"
+    ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-21"
+    "lastUpdatedAt": "2026-08-25"
   },
   {
     "id": "kd-utbildning",
@@ -1013,14 +1017,18 @@
     "id": "kd-naringsliv",
     "partyId": "kd",
     "topicId": "naringsliv",
-    "summary": "Ingen egen dokumenterad KD-position om AI, företagande och innovationspolitik på partinivå hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Kristdemokraternas politiksidor om Digitalisering, Innovation och Företagande samt Riksdagens öppna data för KD-motioner med AI-relaterade söktermer. En enskild motion av en KD-ledamot om innovationsklimat i Västsverige nämner digitalisering och artificiell intelligens i regionens techsektor, men motionen är enskild och kan inte användas som KD:s partilinje. Ingen partimotion, kommittémotion eller officiell partikälla med konkreta KD-förslag om AI-startups, AI-forskning, beräkningskraft, kapital eller regulatoriska sandlådor hittades.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se sidorna Digitalisering, Innovation och Företagande; testade valmanifest-URL:er; Riksdagens öppna data för KD med 'AI', 'artificiell intelligens', 'digitalisering' och 'innovation'. Motion 2025/26:3667 var enskild motion av Magnus Berntsson (KD), inte partinivåbelägg.",
-    "sourceIds": [],
+    "summary": "Kristdemokraterna beskriver AI och digital teknik som verktyg för innovation, konkurrenskraft och nya företag. Partiets AI-sida anger inga konkreta förslag om AI-investeringar, tillväxtföretag, beräkningskraft, kapital eller regulatoriska sandlådor.",
+    "detailedPosition": "På sin officiella AI-sida skriver Kristdemokraterna att Sverige ska vara ett av världens mest innovativa och konkurrenskraftiga samhällen och att AI och digital teknik kan skapa nya företag. Sidan ger därmed en generell näringspolitisk inriktning, men innehåller inga avgränsade förslag om investeringar, forskningsfinansiering, beräkningsinfrastruktur, tillgång till data, riskkapital, AI-startups eller regulatoriska sandlådor. Tolkning: partiet är generellt positivt till AI som innovations- och företagsverktyg, men har inte preciserat hur den inriktningen ska genomföras.",
+    "evidenceStatus": "generell_dokumenterad",
+    "evidenceTypes": [
+      "partiprogram"
+    ],
+    "confidenceExplanation": "Kristdemokraternas AI-sida är en aktuell officiell partikälla och nämner uttryckligen konkurrenskraft, innovation och nya företag. Eftersom den saknar konkreta åtgärder klassas positionen som generell dokumenterad.",
+    "sourceIds": [
+      "kd-webb-ai-2026"
+    ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-21"
+    "lastUpdatedAt": "2026-08-25"
   },
   {
     "id": "kd-integritet",
@@ -2140,18 +2148,20 @@
     "id": "kd-barn-unga",
     "partyId": "kd",
     "topicId": "barn-unga",
-    "summary": "Kristdemokraterna skriver att barn ska skyddas från teknikföretags skadliga algoritmer. Källan nämner inte AI, AI-kompisar, barns data eller konkreta åtgärder.",
-    "detailedPosition": "I Kristdemokraternas officiella nyhet om Sverigedrömmen och på den länkade kampanjsidan anges att barn ska skyddas från teknikföretags skadliga algoritmer. Materialet anger inte vilken teknik som omfattas, hur algoritmerna bedöms som skadliga eller vilka styrmedel som avses. Det nämner inte uttryckligen artificiell intelligens, AI-kompisar eller chattbottar, barns personuppgifter, deepfake-övergrepp eller åldersverifiering. Tolkning: skrivningen berör ämnet genom algoritmer på digitala plattformar, men är inte en avgränsad AI-politisk position.",
+    "summary": "Kristdemokraterna skriver att barn ska skyddas från teknikföretags skadliga algoritmer. Valmanifestet 2026 bekräftar skrivningen och kopplar den till sociala medier och minskad skärmtid, men nämner inte AI eller specificerar hur skyddet ska genomföras.",
+    "detailedPosition": "Kristdemokraternas valmanifest 2026 anger att barn ska skyddas från teknikföretagens skadliga algoritmer. Skrivningen placeras tillsammans med förslag om åldersgräns för sociala medier, stöd till föräldrar och minskad skärmtid. Manifestet anger inte vilka algoritmer eller plattformar som omfattas, hur skadlighet ska bedömas eller vilket styrmedel som ska användas. Det nämner inte uttryckligen artificiell intelligens, AI-kompisar, chattbottar, barns personuppgifter eller deepfake-övergrepp. Tolkning: skrivningen berör AI-politiken indirekt genom algoritmer på digitala plattformar men är inte ett avgränsat AI-förslag.",
     "evidenceStatus": "indirekt_berord",
     "evidenceTypes": [
-      "partiprogram"
+      "partiprogram",
+      "valmanifest"
     ],
-    "confidenceExplanation": "Kristdemokraternas officiella nyhet från 28 juli 2026 och den länkade kampanjsidan öppnades och lästes. Formuleringen om barns skydd från teknikföretags algoritmer är uttrycklig, men källan saknar AI-terminologi och konkreta policyåtgärder. Därför klassas den som indirekt berörd. Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26 söktes även med AI, artificiell intelligens, algoritm, deepfake och digitalisering; träffarna var enskilda motioner eller saknade AI-koppling på partinivå.",
+    "confidenceExplanation": "Kristdemokraternas officiella nyhet om Sverigedrömmen och valmanifestet 2026 har öppnats och lästs. Båda innehåller den uttryckliga formuleringen om skydd mot skadliga algoritmer, men saknar AI-terminologi och preciserade åtgärder. Därför kvarstår klassningen indirekt berörd.",
     "sourceIds": [
-      "kd-sverigedrommen-algoritmer-2026"
+      "kd-sverigedrommen-algoritmer-2026",
+      "kd-valmanifest-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-30"
+    "lastUpdatedAt": "2026-08-25"
   },
   {
     "id": "l-offentlig-sektor",

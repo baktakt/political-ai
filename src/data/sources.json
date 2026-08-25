@@ -1348,5 +1348,35 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "kd-webb-ai-2026",
+    "title": "AI — Kristdemokraternas politik A till Ö",
+    "publisher": "Kristdemokraterna (kristdemokraterna.se)",
+    "author": null,
+    "publicationDate": "2026-08-05",
+    "url": "https://kristdemokraterna.se/var-politik/politik-a-till-o/ai",
+    "accessedAt": "2026-08-25",
+    "sourceType": "partiwebb",
+    "excerpt": "AI och digital teknik är ett viktigt verktyg som höjer livskvaliteten, förbättrar välfärden och skapar nya jobb och företag.",
+    "supportExplanation": "Kristdemokraternas officiella AI-sida anger en generell partiinriktning: AI ska bidra till innovation, välfärd, jobb och företag och användas med ansvar, tillit, kompetens och mänskligt omdöme. Sidan innehåller inga konkreta genomförandeförslag.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "kd-valmanifest-2026",
+    "title": "Valmanifest 2026 — Tro på Sverige",
+    "publisher": "Kristdemokraterna (kristdemokraterna.se)",
+    "author": null,
+    "publicationDate": "2026-08-21",
+    "url": "https://kristdemokraterna.se/download/18.3fb0a02c1a01f5f28f7326/1787292489599/Valmanifest%202026.pdf",
+    "accessedAt": "2026-08-25",
+    "sourceType": "valmanifest",
+    "excerpt": "Skydda barn från techjättarnas skadliga algoritmer.",
+    "supportExplanation": "Kristdemokraternas nationella valmanifest 2026 bekräftar partiets skrivning om skydd för barn mot skadliga algoritmer. Manifestet nämner inte AI uttryckligen och innehåller inga ytterligare AI-specifika förslag.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

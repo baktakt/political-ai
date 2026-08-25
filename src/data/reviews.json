@@ -934,5 +934,19 @@
       "Sammanfattningarna återger endast redan publicerade ståndpunkter och är inte nya forskningsfynd. För Kristdemokraterna saknas fortsatt en bred egen AI-politik i de granskade partikällorna; regeringens AI-strategi hålls isär från partiets egna uppgifter."
     ],
     "notes": "Partikorten för Kristdemokraterna, Liberalerna och Sverigedemokraterna kompletterades med korta neutrala sammanfattningar. Texterna bygger endast på redan publicerade positionsposter och deras källor. Ingen ny källa, ståndpunkt, proposition eller riksdagsaktivitet har lagts till."
+  },
+  {
+    "id": "granskning-kd-ai-och-valmanifest-2026-08-25",
+    "partyId": null,
+    "reviewer": "Hermes Agent (AI-assisterad research; godkänd för publicering av redaktionen)",
+    "reviewDate": "2026-08-25",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "naringsliv",
+      "barn-unga"
+    ],
+    "unresolvedQuestions": [],
+    "notes": "Kristdemokraternas officiella AI-sida, senast uppdaterad 5 augusti 2026, öppnades och lästes. Den belägger en generell egen partiinriktning för strategi, arbetsmarknad och näringsliv. KD:s nationella valmanifest, publicerat 21 augusti 2026, öppnades och fulltextsöktes; det bekräftar den tidigare dokumenterade indirekta skrivningen om skydd för barn mot skadliga algoritmer men innehåller inga uttryckliga AI-skrivningar. Miljöpartiets valmanifest 2026 öppnades och fulltextsöktes utan AI-specifika träffar. Alla ändrade KD-positioner har status behov av redaktionell granskning. Redaktionen granskade och godkände de fyra KD-positionerna för publicering den 25 augusti 2026."
   }
 ]
