@@ -7,14 +7,27 @@ import { getSiteOverviewMetrics } from "../src/lib/site-overview";
 
 describe("enkla nyckeltal för startsidan", () => {
   it("sammanfattar bara publikt och neutralt underlag", () => {
-    expect(getSiteOverviewMetrics({ parties, proposals, actions, sources })).toEqual({
+    const metrics = getSiteOverviewMetrics({ parties, proposals, actions, sources });
+
+    expect(metrics).toMatchObject({
       partyCount: 8,
       documentedOverviewCount: 8,
       limitedOverviewCount: 0,
       publishedProposalCount: 23,
       publishedActionCount: 27,
-      sourceCount: 90,
     });
+    expect(metrics.sourceCount).toBe(sources.length);
+  });
+
+  it("räknar källor från den aktuella datamängden", () => {
+    const metrics = getSiteOverviewMetrics({
+      parties,
+      proposals,
+      actions,
+      sources: [...sources, { id: "ny-kalla" }],
+    });
+
+    expect(metrics.sourceCount).toBe(sources.length + 1);
   });
 
   it("räknar inte arbetsmaterial som publicerade förslag eller aktiviteter", () => {
