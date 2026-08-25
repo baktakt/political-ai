@@ -41,5 +41,10 @@
     "playwright-core": "^1.53.0",
     "typescript": "^5.8.3",
     "vitest": "^3.2.4"
+  },
+  "overrides": {
+    "tsup": {
+      "esbuild": "0.28.1"
+    }
   }
 }
