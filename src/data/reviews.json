@@ -948,5 +948,34 @@
     ],
     "unresolvedQuestions": [],
     "notes": "Kristdemokraternas officiella AI-sida, senast uppdaterad 5 augusti 2026, öppnades och lästes. Den belägger en generell egen partiinriktning för strategi, arbetsmarknad och näringsliv. KD:s nationella valmanifest, publicerat 21 augusti 2026, öppnades och fulltextsöktes; det bekräftar den tidigare dokumenterade indirekta skrivningen om skydd för barn mot skadliga algoritmer men innehåller inga uttryckliga AI-skrivningar. Miljöpartiets valmanifest 2026 öppnades och fulltextsöktes utan AI-specifika träffar. Alla ändrade KD-positioner har status behov av redaktionell granskning. Redaktionen granskade och godkände de fyra KD-positionerna för publicering den 25 augusti 2026."
+  },
+  {
+    "id": "granskning-mp-valmanifest-farskhet-2026-08-28",
+    "partyId": "mp",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-08-28",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "byggd-miljo",
+      "rekyleffekter",
+      "social-hallbarhet"
+    ],
+    "unresolvedQuestions": [],
+    "notes": "Miljöpartiets nationella valmanifest 2026, publicerat på mp.se den 10 augusti, hämtades från partiets officiella manifestsida och lästes i fulltext. Sökning på AI, artificiell intelligens, algoritm, digital, data, automatisering, teknik, deepfake och datacenter gav ingen AI-specifik skrivning; teknik förekommer endast om yrken i klimatomställningen. Manifestet motsäger eller preciserar därför inte de befintliga MP-positionerna. En ny manifestkälla har lagts till som färskhetsunderlag; inga positioner, förslag eller riksdagsaktiviteter ändrades."
   }
 ]

@@ -376,5 +376,12 @@
     "title": "Kristdemokraternas AI-sida och valmanifest har granskats",
     "description": "Kristdemokraternas officiella AI-sida ger nya generella underlag för strategi, arbetsmarknad och näringsliv. Valmanifestet bekräftar skrivningen om skadliga algoritmer för barn. Fyra källbelagda positionsuppdateringar har publicerats efter redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-08-28-mp-valmanifest-farskhet",
+    "date": "2026-08-28",
+    "title": "Miljöpartiets valmanifest 2026 granskat för AI-frågor",
+    "description": "Miljöpartiets nationella valmanifest har lagts till som färskhetskälla och kontrollerats mot samtliga redan dokumenterade AI-ämnen. Dokumentet innehåller inga AI-specifika skrivningar, så inga tidigare AI-positioner har ändrats.",
+    "type": "innehall"
   }
 ]

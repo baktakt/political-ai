@@ -1378,5 +1378,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "mp-valmanifest-2026",
+    "title": "Miljöpartiets valmanifest 2026",
+    "publisher": "Miljöpartiet de gröna (mp.se)",
+    "author": null,
+    "publicationDate": "2026-08-10",
+    "url": "https://www.mp.se/wp-content/uploads/2026/08/miljopartiets-valmanifest-2026.pdf",
+    "accessedAt": "2026-08-28",
+    "sourceType": "valmanifest",
+    "excerpt": null,
+    "supportExplanation": "Miljöpartiets nationella valmanifest inför riksdagsvalet 2026. PDF:en hämtades från partiets officiella manifestsida och fulltextsöktes på AI, artificiell intelligens, algoritm, digital, data, automatisering, teknik, deepfake och datacenter. Dokumentet innehåller ingen AI-specifik skrivning; den enda träffen på ”teknik” gäller yrken i klimatomställningen. Källan används därför som färskhetsunderlag, inte som ensamt belägg för en AI-ståndpunkt.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
