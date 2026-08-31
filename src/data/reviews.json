@@ -936,6 +936,19 @@
     "notes": "Partikorten för Kristdemokraterna, Liberalerna och Sverigedemokraterna kompletterades med korta neutrala sammanfattningar. Texterna bygger endast på redan publicerade positionsposter och deras källor. Ingen ny källa, ståndpunkt, proposition eller riksdagsaktivitet har lagts till."
   },
   {
+    "id": "granskning-riksdagsutfall-s-3652-2026-09-01",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-01",
+    "topicsReviewed": [
+      "strategi",
+      "vard-omsorg",
+      "barn-unga"
+    ],
+    "unresolvedQuestions": [],
+    "notes": "Riksdagens officiella dokumentstatus för kommittémotion 2025/26:3652 öppnades och kontrollerades. Motionen är avslutad och samtliga 23 yrkanden anges som avslagna av utskott och kammare. Tre tidigare framlagda förslag och en äldre riksdagsaktivitets-post uppdaterades med verifierat utfall. Ingen ny partipolitisk ståndpunkt har lagts till eller omklassificerats."
+  },
+  {
     "id": "granskning-kd-ai-och-valmanifest-2026-08-25",
     "partyId": null,
     "reviewer": "Hermes Agent (AI-assisterad research; godkänd för publicering av redaktionen)",
