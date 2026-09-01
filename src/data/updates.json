@@ -376,5 +376,12 @@
     "title": "Kristdemokraternas AI-sida och valmanifest har granskats",
     "description": "Kristdemokraternas officiella AI-sida ger nya generella underlag för strategi, arbetsmarknad och näringsliv. Valmanifestet bekräftar skrivningen om skadliga algoritmer för barn. Fyra källbelagda positionsuppdateringar har publicerats efter redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-02-v-2370-riksdagsutfall",
+    "date": "2026-09-02",
+    "title": "Riksdagsutfall för Vänsterpartiets motion om digital kompetens verifierat",
+    "description": "Riksdagens dokumentstatus har kontrollerats för Vänsterpartiets kommittémotion 2025/26:2370. Det AI-relaterade yrkandet om digital kompetens och grundläggande AI-kunskap uppdateras från framlagt till avslaget; inga nya partipolitiska påståenden har lagts till.",
+    "type": "innehall"
   }
 ]
