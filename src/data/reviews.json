@@ -948,5 +948,18 @@
     ],
     "unresolvedQuestions": [],
     "notes": "Kristdemokraternas officiella AI-sida, senast uppdaterad 5 augusti 2026, öppnades och lästes. Den belägger en generell egen partiinriktning för strategi, arbetsmarknad och näringsliv. KD:s nationella valmanifest, publicerat 21 augusti 2026, öppnades och fulltextsöktes; det bekräftar den tidigare dokumenterade indirekta skrivningen om skydd för barn mot skadliga algoritmer men innehåller inga uttryckliga AI-skrivningar. Miljöpartiets valmanifest 2026 öppnades och fulltextsöktes utan AI-specifika träffar. Alla ändrade KD-positioner har status behov av redaktionell granskning. Redaktionen granskade och godkände de fyra KD-positionerna för publicering den 25 augusti 2026."
+  },
+  {
+    "id": "granskning-s-ai-sida-vard-2026-09-03",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-03",
+    "topicsReviewed": [
+      "vard-omsorg"
+    ],
+    "unresolvedQuestions": [
+      "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
+    ],
+    "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
   }
 ]

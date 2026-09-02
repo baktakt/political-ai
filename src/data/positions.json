@@ -269,21 +269,22 @@
     "partyId": "s",
     "topicId": "vard-omsorg",
     "summary": "Partiet vill se politiska åtgärder för förstärkt innovations- och AI-kapacitet i hela hälso- och sjukvårdssystemet, en enhetlig digital infrastruktur i vården i stället för 21 olika regionala system, och ett brett, rättssäkert införande av välfärdsteknik i äldreomsorgen som komplement till – inte ersättning för – personalen.",
-    "detailedPosition": "Kommittémotionen 2025/26:3645 konstaterar att Sverige inte omsätter innovationer och AI-lösningar i vården i tillräcklig omfattning och kräver politiska åtgärder för förstärkt innovations- och AI-kapacitet; den yrkar även på riktade medel för innovationsarbete i vården samt på ett brett och rättssäkert breddinförande av välfärdsteknik i äldreomsorgen (trygghetslarm med GPS, läkemedelsrobotar, kameror) där staten stödjer kommunerna och juridiska hinder undanröjs. Motion 2025/26:3652 framhåller att AI kan bidra till tidigare sjukdomsdiagnoser och föreslår som första steg en enhetlig, gemensam digital infrastruktur i vården. Riktlinjerna 2025 vill se mer välfärdsteknik i äldreomsorgen för att stärka de äldres självständighet. Motionen 3645 hänvisar också till att en tidigare S-ledd regering tillsatte utredningen om välfärdsteknik (historisk regeringspolitik).",
+    "detailedPosition": "Kommittémotionen 2025/26:3645 konstaterar att Sverige inte omsätter innovationer och AI-lösningar i vården i tillräcklig omfattning och kräver politiska åtgärder för förstärkt innovations- och AI-kapacitet; den yrkar även på riktade medel för innovationsarbete i vården samt på ett brett och rättssäkert breddinförande av välfärdsteknik i äldreomsorgen (trygghetslarm med GPS, läkemedelsrobotar, kameror) där staten stödjer kommunerna och juridiska hinder undanröjs. Motion 2025/26:3652 framhåller att AI kan bidra till tidigare sjukdomsdiagnoser och föreslår som första steg en enhetlig, gemensam digital infrastruktur i vården. Riktlinjerna 2025 vill se mer välfärdsteknik i äldreomsorgen för att stärka de äldres självständighet. Motionen 3645 hänvisar också till att en tidigare S-ledd regering tillsatte utredningen om välfärdsteknik (historisk regeringspolitik). Socialdemokraternas officiella AI-sida, uppdaterad 13 augusti 2026, anger också att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "motion",
       "partiprogram"
     ],
-    "confidenceExplanation": "Konkreta riksdagsyrkanden på kommittémotionsnivå; patientsäkerhets- och patientdatafrågor kopplade till AI berörs däremot endast indirekt.",
+    "confidenceExplanation": "Konkreta riksdagsyrkanden på kommittémotionsnivå, kompletterade av Socialdemokraternas officiella AI-sida uppdaterad 13 augusti 2026. Patientsäkerhets- och patientdatafrågor kopplade till AI berörs däremot endast indirekt.",
     "sourceIds": [
       "s-kalla-mot-2526-3645",
       "s-mot-2025-3652",
       "s-kalla-riktlinjer-2025",
-      "s-mot-2026-4101"
+      "s-mot-2026-4101",
+      "s-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-09-03"
   },
   {
     "id": "s-integritet",

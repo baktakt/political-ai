@@ -376,5 +376,12 @@
     "title": "Kristdemokraternas AI-sida och valmanifest har granskats",
     "description": "Kristdemokraternas officiella AI-sida ger nya generella underlag för strategi, arbetsmarknad och näringsliv. Valmanifestet bekräftar skrivningen om skadliga algoritmer för barn. Fyra källbelagda positionsuppdateringar har publicerats efter redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-03-s-ai-sida-vard",
+    "date": "2026-09-03",
+    "title": "Socialdemokraternas AI-sida har färskhetsgranskats för vården",
+    "description": "Socialdemokraternas uppdaterade AI-sida innehåller en skrivning om att AI och innovation ska underlätta personalens arbete i vården. Vårdpositionen har kompletterats med den befintliga officiella källan; ändringen är ett färskhetsunderlag för en redan publicerad position.",
+    "type": "innehall"
   }
 ]
