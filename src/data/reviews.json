@@ -948,5 +948,17 @@
     ],
     "unresolvedQuestions": [],
     "notes": "Kristdemokraternas officiella AI-sida, senast uppdaterad 5 augusti 2026, öppnades och lästes. Den belägger en generell egen partiinriktning för strategi, arbetsmarknad och näringsliv. KD:s nationella valmanifest, publicerat 21 augusti 2026, öppnades och fulltextsöktes; det bekräftar den tidigare dokumenterade indirekta skrivningen om skydd för barn mot skadliga algoritmer men innehåller inga uttryckliga AI-skrivningar. Miljöpartiets valmanifest 2026 öppnades och fulltextsöktes utan AI-specifika träffar. Alla ändrade KD-positioner har status behov av redaktionell granskning. Redaktionen granskade och godkände de fyra KD-positionerna för publicering den 25 augusti 2026."
+  },
+  {
+    "id": "granskning-s-valprogram-tillganglighet-2026-09-02",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-02",
+    "topicsReviewed": [],
+    "unresolvedQuestions": [
+      "Socialdemokraternas nationella valprogram 2026 presenterades den 1 september 2026, men den officiella valprogramssidan gav vid granskningen endast möjlighet att beställa PDF:en via e-post. Programtexten kunde därför inte öppnas och fulltextgranskas som källa.",
+      "Ingen AI-relaterad skrivning framgår av den öppnade presentationsnyheten. Det är inte belägg för att sådana skrivningar saknas i valprogrammet; en öppningsbar primärkälla behöver granskas innan befintliga S-positioner färskhetsbedöms eller ändras."
+    ],
+    "notes": "Manifestobevakning för Socialdemokraterna. Den officiella nyheten ”S presenterar valprogram för 2026” (1 september 2026) och sidan ”Valprogram” öppnades. Nyheten bekräftar att ett nationellt valprogram presenterats, men redovisar inte några AI-specifika förslag. Valprogramssidan innehöll ett e-postformulär för PDF-utskick och ingen tillgänglig programtext eller direkt PDF-länk. Inga ståndpunkter, förslag, åtgärder eller källposter har därför lagts till eller ändrats."
   }
 ]
