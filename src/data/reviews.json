@@ -961,5 +961,37 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-m-valmanifest-ai-2026-09-03",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-03",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "rekyleffekter",
+      "social-hallbarhet",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Valmanifestet anger att kvinnor ska få rätt att stoppa AI-genererade nakenbilder eller sexvideor, men preciserar inte den rättsliga modellen, ansvariga aktörer eller genomförandet.",
+      "Manifestet beskriver AI-driven desinformation som ett hybridhot men anger inte avgränsade åtgärder, ansvar eller tidsplan."
+    ],
+    "notes": "Moderaternas nationella valmanifest 2026, publicerat 1 september, öppnades på partiwebben och som PDF. PDF:en fulltextsöktes på AI, artificiell intelligens, algoritm, digital, automatisering, data, deepfake, språkmodell och ansiktsigenkänning. De uttryckliga AI-skrivningarna bekräftar befintligt förslag om skydd mot kränkande AI-genererade nakenbilder eller sexvideor och kompletterar M:s befintliga säkerhetsposition med AI-driven desinformation som hybridhot. I övrigt hittades inga nya uttryckliga AI-ståndpunkter i manifestet. De två ändrade positionsposterna och det berörda förslaget väntar på redaktionell granskning."
   }
 ]

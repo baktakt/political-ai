@@ -598,7 +598,8 @@
     "status": "framlagt",
     "implementationStatus": null,
     "sourceIds": [
-      "m-webb-krankande-ai-bilder-2026"
+      "m-webb-krankande-ai-bilder-2026",
+      "m-valmanifest-2026"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
   },
