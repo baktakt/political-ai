@@ -383,5 +383,12 @@
     "title": "Socialdemokraternas AI-sida har färskhetsgranskats för vården",
     "description": "Socialdemokraternas uppdaterade AI-sida innehåller en skrivning om att AI och innovation ska underlätta personalens arbete i vården. Vårdpositionen har kompletterats med den befintliga officiella källan; ändringen är ett färskhetsunderlag för en redan publicerad position.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-05-m-valmanifest-kultur-upphovsratt",
+    "date": "2026-09-05",
+    "title": "Moderaternas valmanifest har granskats för AI och upphovsrätt",
+    "description": "Valmanifestet kopplar AI till utmaningar för mediers affärsmodeller, upphovsrätt och verifiering. En avgränsad M-position om kultur och upphovsrätt har lagts till för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

@@ -961,5 +961,19 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-m-valmanifest-kultur-upphovsratt-2026-09-05",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-05",
+    "topicsReviewed": [
+      "kultur-upphovsratt"
+    ],
+    "unresolvedQuestions": [
+      "Valmanifestet beskriver inte hur medieaktörernas upphovsrätt ska säkras i relation till AI-träning, licensiering eller ersättning.",
+      "Valmanifestets övriga AI-skrivningar om kränkande AI-genererade nakenbilder och AI-kunskap bekräftar redan dokumenterade M-positioner; de har inte omklassificerats i denna avgränsade körning."
+    ],
+    "notes": "Moderaternas officiella valmanifest 2026 öppnades från partiets valmanifestssida och PDF:en verifierades i fulltext. Den nya källan innehåller en uttrycklig AI-koppling till mediers affärsmodeller, upphovsrätt och verifiering samt konkreta manifestförslag om att säkra medieaktörernas upphovsrätt och stärka AI-kunskap och medie- och informationskunskap. Den tidigare luckposten för M/kultur-upphovsrätt ersätts därför av en avgränsad position med status behover_redaktionell_granskning. Ingen slutsats om AI-träning, ersättningsmodell eller genomförande har lagts till."
   }
 ]

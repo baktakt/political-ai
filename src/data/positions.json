@@ -2032,14 +2032,18 @@
     "id": "m-kultur-upphovsratt",
     "partyId": "m",
     "topicId": "kultur-upphovsratt",
-    "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex med kultur som ämnesområde samt Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller kulturpolitiska avsnitt men ingen träff på upphovsrätt i AI-sammanhang. Sökning i Riksdagens öppna data på upphovsrätt för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
-    "sourceIds": [],
-    "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-29"
+    "summary": "Moderaterna beskriver AI som en utmaning för mediebranschens affärsmodeller, upphovsrätt och verifiering. I valmanifestet föreslår partiet att medieaktörernas upphovsrätt ska säkras nationellt och internationellt samt stärkta insatser för AI-kunskap och medie- och informationskunskap.",
+    "detailedPosition": "Moderaternas valmanifest 2026 anger att teknikutvecklingen, särskilt AI, innebär utmaningar för befintliga affärsmodeller, upphovsrätt och verifiering. Bland de redovisade förslagen finns att säkra medieaktörernas upphovsrätt på nationell och internationell nivå och att stärka insatser för AI-kunskap och medie- och informationskunskap hos medier och allmänhet. Manifestet specificerar inte hur upphovsrättsskyddet ska utformas för AI-träning eller hur åtgärderna ska genomföras.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas officiella valmanifest 2026, öppnat från partiets valmanifestssida och verifierat i PDF. Dokumentet kopplar AI till upphovsrätt och verifiering och listar förslag om medieaktörernas upphovsrätt samt AI-kunskap och medie- och informationskunskap. Källan ger inte en detaljerad modell för upphovsrätt i AI-system.",
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-09-05"
   },
   {
     "id": "m-suveranitet",
