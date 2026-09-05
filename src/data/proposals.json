@@ -701,5 +701,22 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "s-forslag-svenskt-ai-program-2026",
+    "partyId": "s",
+    "topicIds": [
+      "strategi",
+      "arbetsmarknad"
+    ],
+    "title": "Ett svenskt AI-program för kompetens och omställning",
+    "description": "I valprogrammet 2026 föreslår Socialdemokraterna ett svenskt AI-program för att rusta Sverige för AI:s påverkan på arbetsmarknaden och ekonomin samt stärka AI-kompetensen. Programmet nämner insatser för unga på väg in på arbetsmarknaden, men preciserar inte genomförande eller finansiering.",
+    "date": "2026-09-04",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

@@ -975,5 +975,20 @@
       "Valmanifestets övriga AI-skrivningar om kränkande AI-genererade nakenbilder och AI-kunskap bekräftar redan dokumenterade M-positioner; de har inte omklassificerats i denna avgränsade körning."
     ],
     "notes": "Moderaternas officiella valmanifest 2026 öppnades från partiets valmanifestssida och PDF:en verifierades i fulltext. Den nya källan innehåller en uttrycklig AI-koppling till mediers affärsmodeller, upphovsrätt och verifiering samt konkreta manifestförslag om att säkra medieaktörernas upphovsrätt och stärka AI-kunskap och medie- och informationskunskap. Den tidigare luckposten för M/kultur-upphovsrätt ersätts därför av en avgränsad position med status behover_redaktionell_granskning. Ingen slutsats om AI-träning, ersättningsmodell eller genomförande har lagts till."
+  },
+  {
+    "id": "granskning-s-valprogram-2026-09-05",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-05",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad"
+    ],
+    "unresolvedQuestions": [
+      "Valprogrammet anger inte ansvarig aktör, finansiering eller detaljerat genomförande för det svenska AI-programmet.",
+      "Valprogrammets övriga AI-omnämnanden om investeringar, datacenter, handläggningstider och AI-stödd kontroll har fulltextsökts och jämförts med befintliga S-poster, men har inte ändrats i denna avgränsade körning."
+    ],
+    "notes": "Socialdemokraternas officiella valprogram 2026 öppnades på partiets valsida och PDF:en lästes i fulltext. Dokumentet publicerades 4 september 2026. Det innehåller ett uttryckligt förslag om ett svenskt AI-program för kompetens och omställning. Källan är ny och har lagts till utan dubblett. Det nya förslaget är satt till behov av redaktionell granskning; befintliga publicerade positioner har inte ändrats automatiskt."
   }
 ]
