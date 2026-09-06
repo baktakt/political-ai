@@ -961,5 +961,23 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-regeringen-ai-cyber-offentlighet-2026-09-07",
+    "partyId": null,
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-07",
+    "topicsReviewed": [
+      "forsvar",
+      "reglering",
+      "suveranitet",
+      "offentlig-sektor",
+      "integritet"
+    ],
+    "unresolvedQuestions": [
+      "Faktapromemorian redovisar regeringens preliminära ståndpunkt till kommissionens handlingsplan; den visar inte att de beskrivna EU-åtgärderna är beslutade eller genomförda.",
+      "Kommittédirektivet initierar en analys. Utredningens slutsatser ska redovisas senast den 15 november 2027 och finns därför ännu inte."
+    ],
+    "notes": "Två nya regeringsdokument öppnades på regeringen.se och kontrollerades även mot de officiella PDF-filerna. Faktapromemoria 2025/26:FPM110 beskriver kommissionens handlingsplan för AI och cybersäkerhet samt regeringens preliminära svenska ståndpunkt. Kommittédirektiv 2026:116 gäller offentlighetsprincipen vid myndigheters användning av AI och externa molntjänster. Båda har lagts till i omvärldsbevakningen och används inte som belägg för enskilda partiers politik."
   }
 ]
