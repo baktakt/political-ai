@@ -97,5 +97,45 @@
     "relatedTopicIds": ["suveranitet", "naringsliv", "offentlig-sektor", "utbildning"],
     "workflowStatus": "publicerad",
     "addedAt": "2026-08-02"
+  },
+  {
+    "id": "regeringen-eu-ai-cybersakerhet-fpm110-2026",
+    "title": "Meddelande om handlingsplan för cybersäkerhet och artificiell intelligens",
+    "publisher": "Regeringen",
+    "publisherType": "regering",
+    "publicationDate": "2026-09-02",
+    "url": "https://www.regeringen.se/faktapromemoria/2026/09/202526fpm110/",
+    "accessedAt": "2026-09-07",
+    "language": "sv",
+    "summary": "Faktapromemoria 2025/26:FPM110 beskriver Europeiska kommissionens handlingsplan för cybersäkerhet och artificiell intelligens samt regeringens preliminära svenska ståndpunkt. Planen gäller säker användning av avancerad AI, stärkt cybermotståndskraft och europeisk kapacitet inom AI för cybersäkerhet.",
+    "keyTakeaways": [
+      "Kommissionens plan föreslår bättre testning och utvärdering av avancerade AI-modeller före driftsättning samt en säker testplattform för kritiska sektorer.",
+      "Planen behandlar både AI som verktyg för att upptäcka och förebygga cyberhot och risken att angripare använder AI för att automatisera attacker.",
+      "Regeringen välkomnar initiativet och beskriver stärkt motståndskraft mot AI-relaterade cyberhot som en prioriterad fråga.",
+      "Regeringen vill att medlemsstaternas nationella kapacitet ska kunna utvecklas och motsätter sig att tillgången till avancerade AI-modeller huvudsakligen centraliseras till EU:s cybersäkerhetsbyrå Enisa."
+    ],
+    "relatedTopicIds": ["forsvar", "reglering", "suveranitet"],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-09-07"
+  },
+  {
+    "id": "regeringen-offentlighetsprincipen-ai-dir-2026-116",
+    "title": "En analys av tillämpningen av offentlighetsprincipen vid myndigheters användning av artificiell intelligens",
+    "publisher": "Regeringen",
+    "publisherType": "regering",
+    "publicationDate": "2026-09-04",
+    "url": "https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2026/09/dir.-2026116",
+    "accessedAt": "2026-09-07",
+    "language": "sv",
+    "summary": "Kommittédirektiv 2026:116 ger en särskild utredare i uppdrag att analysera hur myndigheters användning av AI och externa molntjänster förhåller sig till offentlighetsprincipen och reglerna om allmänna handlingar.",
+    "keyTakeaways": [
+      "Utredaren ska kartlägga hur myndigheter och andra aktörer som omfattas av reglerna om allmänna handlingar använder AI, även genom externa molntjänster.",
+      "Utredaren ska analysera när upptagningar som genereras eller lagras genom AI-verktyg och externa molntjänster utgör allmänna handlingar.",
+      "Direktivet motiverar analysen med att AI-användning kan innebära att stora informationsmängder hanteras inom offentlig förvaltning.",
+      "Uppdraget ska redovisas senast den 15 november 2027."
+    ],
+    "relatedTopicIds": ["offentlig-sektor", "integritet", "reglering"],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-09-07"
   }
 ]

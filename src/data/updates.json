@@ -383,5 +383,12 @@
     "title": "Socialdemokraternas AI-sida har färskhetsgranskats för vården",
     "description": "Socialdemokraternas uppdaterade AI-sida innehåller en skrivning om att AI och innovation ska underlätta personalens arbete i vården. Vårdpositionen har kompletterats med den befintliga officiella källan; ändringen är ett färskhetsunderlag för en redan publicerad position.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-07-regeringen-ai-cyber-offentlighet",
+    "date": "2026-09-07",
+    "title": "Nya regeringsunderlag om AI, cybersäkerhet och offentlighetsprincipen",
+    "description": "Omvärldsbevakningen har kompletterats med regeringens faktapromemoria om EU:s handlingsplan för AI och cybersäkerhet samt ett kommittédirektiv om offentlighetsprincipen vid myndigheters användning av AI och molntjänster. Underlagen beskriver regeringspolitik och inte enskilda partiers ståndpunkter.",
+    "type": "innehall"
   }
 ]
