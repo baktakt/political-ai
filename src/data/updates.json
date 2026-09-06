@@ -397,5 +397,12 @@
     "title": "Socialdemokraternas valprogram har granskats för AI-frågor",
     "description": "Valprogrammet 2026 innehåller ett förslag om ett svenskt AI-program för kompetens och omställning. Förslaget har lagts till för redaktionell granskning; befintliga publicerade positioner har inte ändrats automatiskt.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-06-s-valprogram-offentlig-miljo",
+    "date": "2026-09-06",
+    "title": "Socialdemokraternas valprogram granskat för offentlig sektor och datacenter",
+    "description": "Valprogrammet kompletterar S-underlaget om AI för kortare handläggningstider. Ett separat förslag om krav vid energiintensiva etableringar som datacenter har lagts till för redaktionell granskning.",
+    "type": "innehall"
   }
 ]

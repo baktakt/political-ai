@@ -711,7 +711,23 @@
     ],
     "title": "Ett svenskt AI-program för kompetens och omställning",
     "description": "I valprogrammet 2026 föreslår Socialdemokraterna ett svenskt AI-program för att rusta Sverige för AI:s påverkan på arbetsmarknaden och ekonomin samt stärka AI-kompetensen. Programmet nämner insatser för unga på väg in på arbetsmarknaden, men preciserar inte genomförande eller finansiering.",
-    "date": "2026-09-04",
+    "date": "2026-09-01",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "s-forslag-krav-energiintensiva-etableringar-2026",
+    "partyId": "s",
+    "topicIds": [
+      "miljoavtryck"
+    ],
+    "title": "Möjlighet att ställa krav vid energiintensiva etableringar som datacenter",
+    "description": "I valprogrammet 2026 anger Socialdemokraterna att svensk el ska användas på ett sätt som gynnar industri, hushåll och konkurrenskraft och att krav behöver kunna ställas vid energiintensiva etableringar, exempelvis datacenter. Vilka krav som avses specificeras inte.",
+    "date": "2026-09-01",
     "status": "framlagt",
     "implementationStatus": null,
     "sourceIds": [

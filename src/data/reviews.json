@@ -989,6 +989,21 @@
       "Valprogrammet anger inte ansvarig aktör, finansiering eller detaljerat genomförande för det svenska AI-programmet.",
       "Valprogrammets övriga AI-omnämnanden om investeringar, datacenter, handläggningstider och AI-stödd kontroll har fulltextsökts och jämförts med befintliga S-poster, men har inte ändrats i denna avgränsade körning."
     ],
-    "notes": "Socialdemokraternas officiella valprogram 2026 öppnades på partiets valsida och PDF:en lästes i fulltext. Dokumentet publicerades 4 september 2026. Det innehåller ett uttryckligt förslag om ett svenskt AI-program för kompetens och omställning. Källan är ny och har lagts till utan dubblett. Det nya förslaget är satt till behov av redaktionell granskning; befintliga publicerade positioner har inte ändrats automatiskt."
+    "notes": "Socialdemokraternas officiella valprogram 2026 öppnades på partiets valsida och PDF:en lästes i fulltext. Dokumentet presenterades 1 september 2026 enligt partiets officiella nyhet. Det innehåller ett uttryckligt förslag om ett svenskt AI-program för kompetens och omställning. Källan är ny och har lagts till utan dubblett. Det nya förslaget är satt till behov av redaktionell granskning; befintliga publicerade positioner har inte ändrats automatiskt."
+  },
+  {
+    "id": "granskning-s-valprogram-offentlig-miljo-2026-09-06",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-06",
+    "topicsReviewed": [
+      "offentlig-sektor",
+      "miljoavtryck"
+    ],
+    "unresolvedQuestions": [
+      "Valprogrammet anger att krav behöver kunna ställas vid energiintensiva etableringar som datacenter, men preciserar inte kravens innehåll eller hur samhällsnytta ska bedömas.",
+      "Valprogrammets skrivning om kortare handläggningstider gäller företagens myndighetskontakter och anger inte vilka offentliga processer eller AI-system som avses."
+    ],
+    "notes": "Fokuserad fortsättning på fulltextgranskningen av Socialdemokraternas valprogram 2026. Partiets officiella valsida, PDF och nyhet om presentationen öppnades. Valprogrammet kompletterar den befintliga publicerade positionen om offentlig sektor med ytterligare belägg för AI och kortare handläggningstider. Skrivningen om krav vid energiintensiva etableringar som datacenter har lagts till som ett separat förslag med status behov av redaktionell granskning. Källans publiceringsdatum korrigerades till 1 september 2026 utifrån partiets daterade nyhet."
   }
 ]
