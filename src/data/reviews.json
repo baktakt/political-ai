@@ -1005,5 +1005,21 @@
       "Valprogrammets skrivning om kortare handläggningstider gäller företagens myndighetskontakter och anger inte vilka offentliga processer eller AI-system som avses."
     ],
     "notes": "Fokuserad fortsättning på fulltextgranskningen av Socialdemokraternas valprogram 2026. Partiets officiella valsida, PDF och nyhet om presentationen öppnades. Valprogrammet kompletterar den befintliga publicerade positionen om offentlig sektor med ytterligare belägg för AI och kortare handläggningstider. Skrivningen om krav vid energiintensiva etableringar som datacenter har lagts till som ett separat förslag med status behov av redaktionell granskning. Källans publiceringsdatum korrigerades till 1 september 2026 utifrån partiets daterade nyhet."
+  },
+  {
+    "id": "granskning-c-ai-sakerhet-offentlig-sektor-2026-09-06",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-06",
+    "topicsReviewed": [
+      "strategi",
+      "offentlig-sektor",
+      "reglering"
+    ],
+    "unresolvedQuestions": [
+      "Partinyheten preciserar inte AI-säkerhetsinstitutets mandat, organisation, finansiering eller relation till befintlig svensk och europeisk AI-tillsyn.",
+      "Kravet på mänsklig överprövning av viktiga beslut i offentlig sektor anger inte vilka beslut som omfattas eller vilken rättslig form överprövningen ska ha."
+    ],
+    "notes": "Centerpartiets officiella partinyhet från 21 augusti 2026 öppnades och lästes i sin helhet. Den samlar flera tidigare dokumenterade delar av partiets AI-politik och innehåller två preciseringar: ett oberoende AI-säkerhetsinstitut som ska analysera och utvärdera säkerhetsrisker samt att viktiga beslut som rör enskilda alltid ska kunna överprövas av en människa när AI används i offentlig sektor. En ny källa och två nya förslag har lagts till med status behov av redaktionell granskning. Befintliga publicerade positioner har inte ändrats automatiskt."
   }
 ]

@@ -734,5 +734,39 @@
       "s-valprogram-2026"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-forslag-oberoende-ai-sakerhetsinstitut-2026",
+    "partyId": "c",
+    "topicIds": [
+      "strategi",
+      "reglering"
+    ],
+    "title": "Inrätta ett oberoende AI-säkerhetsinstitut",
+    "description": "Centerpartiet föreslår ett oberoende AI-säkerhetsinstitut som ska analysera och utvärdera säkerhetsrisker. Partinyheten preciserar inte institutets mandat, organisation eller relation till befintlig svensk och europeisk tillsyn.",
+    "date": "2026-08-21",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-nyhet-ai-huvudfraga-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-forslag-mansklig-overprovning-ai-beslut-2026",
+    "partyId": "c",
+    "topicIds": [
+      "offentlig-sektor",
+      "reglering"
+    ],
+    "title": "Mänsklig överprövning av viktiga AI-relaterade beslut i offentlig sektor",
+    "description": "Centerpartiet anger att AI ska vara ett verktyg i offentlig sektor, men att viktiga beslut som rör enskilda människor alltid ska kunna överprövas av en människa. Partinyheten preciserar inte vilka beslut som omfattas eller överprövningens rättsliga form.",
+    "date": "2026-08-21",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-nyhet-ai-huvudfraga-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]
