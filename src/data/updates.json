@@ -383,5 +383,33 @@
     "title": "Socialdemokraternas AI-sida har färskhetsgranskats för vården",
     "description": "Socialdemokraternas uppdaterade AI-sida innehåller en skrivning om att AI och innovation ska underlätta personalens arbete i vården. Vårdpositionen har kompletterats med den befintliga officiella källan; ändringen är ett färskhetsunderlag för en redan publicerad position.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-05-m-valmanifest-kultur-upphovsratt",
+    "date": "2026-09-05",
+    "title": "Moderaternas valmanifest har granskats för AI och upphovsrätt",
+    "description": "Valmanifestet kopplar AI till utmaningar för mediers affärsmodeller, upphovsrätt och verifiering. En avgränsad M-position om kultur och upphovsrätt har lagts till för redaktionell granskning.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-05-s-valprogram-ai",
+    "date": "2026-09-05",
+    "title": "Socialdemokraternas valprogram har granskats för AI-frågor",
+    "description": "Valprogrammet 2026 innehåller ett förslag om ett svenskt AI-program för kompetens och omställning. Förslaget har lagts till för redaktionell granskning; befintliga publicerade positioner har inte ändrats automatiskt.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-06-s-valprogram-offentlig-miljo",
+    "date": "2026-09-06",
+    "title": "Socialdemokraternas valprogram granskat för offentlig sektor och datacenter",
+    "description": "Valprogrammet kompletterar S-underlaget om AI för kortare handläggningstider. Ett separat förslag om krav vid energiintensiva etableringar som datacenter har lagts till för redaktionell granskning.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-06-c-ai-sakerhetsinstitut-overprovning",
+    "date": "2026-09-06",
+    "title": "Centerpartiets förslag om AI-säkerhetsinstitut har granskats",
+    "description": "En officiell partinyhet innehåller ett förslag om ett oberoende AI-säkerhetsinstitut och anger att viktiga beslut som rör enskilda ska kunna överprövas av en människa när AI används i offentlig sektor. Underlaget väntar på redaktionell granskning.",
+    "type": "innehall"
   }
 ]

@@ -244,14 +244,15 @@
     "partyId": "s",
     "topicId": "offentlig-sektor",
     "summary": "Partiet vill öka AI-användningen i offentlig förvaltning för snabbare service och stora effektivitetsvinster, med utökat statligt stöd till kommuner och regioner, bättre tillgång till data och tydliggjord ansvarsfördelning när AI används i myndighetsbeslut. AI ska också användas i kontrollarbetet mot välfärdsbrott och arbetslivskriminalitet.",
-    "detailedPosition": "Motion 2025/26:3652 hänvisar till Diggs bedömning om en besparingspotential på upp till 140 miljarder kronor vid ökad digitalisering, vill att Digg främjar datadelning mellan offentliga aktörer, att staten undanröjer hinder för AI-projekt i myndigheter (kompetensbrist, resursbrist, otydliga EU-tolkningar) och att statligt stöd till kommuners och regioners AI-användning ses över; effektivare offentlig upphandling med hjälp av AI lyfts också. Partistyrelsens kongressutlåtande 2025 betonar att AI kan misstolka lagstiftning och fatta felaktiga beslut som påverkar enskildas fri- och rättigheter och att oklarheter om ansvarsfördelning vid AI i myndighetsbeslut behöver adresseras. Vårmotionen 2026 vill att AI och ny teknik förenklar rutinuppgifter i välfärden så att personalen får mer tid för kärnverksamheten. Riktlinjerna 2025 och motion 2025/26:3590 vill utöka användningen av AI-teknologi i kontrollarbetet mot arbetslivskriminalitet och annan brottslighet.",
+    "detailedPosition": "Motion 2025/26:3652 hänvisar till Diggs bedömning om en besparingspotential på upp till 140 miljarder kronor vid ökad digitalisering, vill att Digg främjar datadelning mellan offentliga aktörer, att staten undanröjer hinder för AI-projekt i myndigheter (kompetensbrist, resursbrist, otydliga EU-tolkningar) och att statligt stöd till kommuners och regioners AI-användning ses över; effektivare offentlig upphandling med hjälp av AI lyfts också. Partistyrelsens kongressutlåtande 2025 betonar att AI kan misstolka lagstiftning och fatta felaktiga beslut som påverkar enskildas fri- och rättigheter och att oklarheter om ansvarsfördelning vid AI i myndighetsbeslut behöver adresseras. Vårmotionen 2026 vill att AI och ny teknik förenklar rutinuppgifter i välfärden så att personalen får mer tid för kärnverksamheten. Valprogrammet 2026 anger att digitalisering och AI bör användas bättre för att korta handläggningstiderna i företagens kontakter med myndigheter. Riktlinjerna 2025 och motion 2025/26:3590 vill utöka användningen av AI-teknologi i kontrollarbetet mot arbetslivskriminalitet och annan brottslighet.",
     "evidenceStatus": "tydlig_detaljerad",
     "evidenceTypes": [
       "motion",
       "partiprogram",
-      "budgetforslag"
+      "budgetforslag",
+      "valmanifest"
     ],
-    "confidenceExplanation": "Detaljerade och samstämmiga skrivningar i flera partinivådokument, inklusive uttrycklig hållning om ansvarsfrågan vid automatiserade myndighetsbeslut.",
+    "confidenceExplanation": "Detaljerade och samstämmiga skrivningar i flera partinivådokument, inklusive uttrycklig hållning om ansvarsfrågan vid automatiserade myndighetsbeslut och en manifestoskrivning om kortare handläggningstider.",
     "sourceIds": [
       "s-mot-2025-3652",
       "s-kalla-kongress-b-2025",
@@ -259,10 +260,11 @@
       "s-kalla-riktlinjer-2025",
       "s-kalla-mot-2526-3590",
       "s-mot-2025-3588",
-      "s-mot-2025-3560"
+      "s-mot-2025-3560",
+      "s-valprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-08-05"
+    "lastUpdatedAt": "2026-09-06"
   },
   {
     "id": "s-vard-omsorg",
@@ -2032,14 +2034,18 @@
     "id": "m-kultur-upphovsratt",
     "partyId": "m",
     "topicId": "kultur-upphovsratt",
-    "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex med kultur som ämnesområde samt Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller kulturpolitiska avsnitt men ingen träff på upphovsrätt i AI-sammanhang. Sökning i Riksdagens öppna data på upphovsrätt för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
-    "sourceIds": [],
-    "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-29"
+    "summary": "Moderaterna beskriver AI som en utmaning för mediebranschens affärsmodeller, upphovsrätt och verifiering. I valmanifestet föreslår partiet att medieaktörernas upphovsrätt ska säkras nationellt och internationellt samt stärkta insatser för AI-kunskap och medie- och informationskunskap.",
+    "detailedPosition": "Moderaternas valmanifest 2026 anger att teknikutvecklingen, särskilt AI, innebär utmaningar för befintliga affärsmodeller, upphovsrätt och verifiering. Bland de redovisade förslagen finns att säkra medieaktörernas upphovsrätt på nationell och internationell nivå och att stärka insatser för AI-kunskap och medie- och informationskunskap hos medier och allmänhet. Manifestet specificerar inte hur upphovsrättsskyddet ska utformas för AI-träning eller hur åtgärderna ska genomföras.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas officiella valmanifest 2026, öppnat från partiets valmanifestssida och verifierat i PDF. Dokumentet kopplar AI till upphovsrätt och verifiering och listar förslag om medieaktörernas upphovsrätt samt AI-kunskap och medie- och informationskunskap. Källan ger inte en detaljerad modell för upphovsrätt i AI-system.",
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-09-05"
   },
   {
     "id": "m-suveranitet",

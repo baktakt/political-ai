@@ -961,5 +961,65 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-m-valmanifest-kultur-upphovsratt-2026-09-05",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-05",
+    "topicsReviewed": [
+      "kultur-upphovsratt"
+    ],
+    "unresolvedQuestions": [
+      "Valmanifestet beskriver inte hur medieaktörernas upphovsrätt ska säkras i relation till AI-träning, licensiering eller ersättning.",
+      "Valmanifestets övriga AI-skrivningar om kränkande AI-genererade nakenbilder och AI-kunskap bekräftar redan dokumenterade M-positioner; de har inte omklassificerats i denna avgränsade körning."
+    ],
+    "notes": "Moderaternas officiella valmanifest 2026 öppnades från partiets valmanifestssida och PDF:en verifierades i fulltext. Den nya källan innehåller en uttrycklig AI-koppling till mediers affärsmodeller, upphovsrätt och verifiering samt konkreta manifestförslag om att säkra medieaktörernas upphovsrätt och stärka AI-kunskap och medie- och informationskunskap. Den tidigare luckposten för M/kultur-upphovsrätt ersätts därför av en avgränsad position med status behover_redaktionell_granskning. Ingen slutsats om AI-träning, ersättningsmodell eller genomförande har lagts till."
+  },
+  {
+    "id": "granskning-s-valprogram-2026-09-05",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-05",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad"
+    ],
+    "unresolvedQuestions": [
+      "Valprogrammet anger inte ansvarig aktör, finansiering eller detaljerat genomförande för det svenska AI-programmet.",
+      "Valprogrammets övriga AI-omnämnanden om investeringar, datacenter, handläggningstider och AI-stödd kontroll har fulltextsökts och jämförts med befintliga S-poster, men har inte ändrats i denna avgränsade körning."
+    ],
+    "notes": "Socialdemokraternas officiella valprogram 2026 öppnades på partiets valsida och PDF:en lästes i fulltext. Dokumentet presenterades 1 september 2026 enligt partiets officiella nyhet. Det innehåller ett uttryckligt förslag om ett svenskt AI-program för kompetens och omställning. Källan är ny och har lagts till utan dubblett. Det nya förslaget är satt till behov av redaktionell granskning; befintliga publicerade positioner har inte ändrats automatiskt."
+  },
+  {
+    "id": "granskning-s-valprogram-offentlig-miljo-2026-09-06",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-06",
+    "topicsReviewed": [
+      "offentlig-sektor",
+      "miljoavtryck"
+    ],
+    "unresolvedQuestions": [
+      "Valprogrammet anger att krav behöver kunna ställas vid energiintensiva etableringar som datacenter, men preciserar inte kravens innehåll eller hur samhällsnytta ska bedömas.",
+      "Valprogrammets skrivning om kortare handläggningstider gäller företagens myndighetskontakter och anger inte vilka offentliga processer eller AI-system som avses."
+    ],
+    "notes": "Fokuserad fortsättning på fulltextgranskningen av Socialdemokraternas valprogram 2026. Partiets officiella valsida, PDF och nyhet om presentationen öppnades. Valprogrammet kompletterar den befintliga publicerade positionen om offentlig sektor med ytterligare belägg för AI och kortare handläggningstider. Skrivningen om krav vid energiintensiva etableringar som datacenter har lagts till som ett separat förslag med status behov av redaktionell granskning. Källans publiceringsdatum korrigerades till 1 september 2026 utifrån partiets daterade nyhet."
+  },
+  {
+    "id": "granskning-c-ai-sakerhet-offentlig-sektor-2026-09-06",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-06",
+    "topicsReviewed": [
+      "strategi",
+      "offentlig-sektor",
+      "reglering"
+    ],
+    "unresolvedQuestions": [
+      "Partinyheten preciserar inte AI-säkerhetsinstitutets mandat, organisation, finansiering eller relation till befintlig svensk och europeisk AI-tillsyn.",
+      "Kravet på mänsklig överprövning av viktiga beslut i offentlig sektor anger inte vilka beslut som omfattas eller vilken rättslig form överprövningen ska ha."
+    ],
+    "notes": "Centerpartiets officiella partinyhet från 21 augusti 2026 öppnades och lästes i sin helhet. Den samlar flera tidigare dokumenterade delar av partiets AI-politik och innehåller två preciseringar: ett oberoende AI-säkerhetsinstitut som ska analysera och utvärdera säkerhetsrisker samt att viktiga beslut som rör enskilda alltid ska kunna överprövas av en människa när AI används i offentlig sektor. En ny källa och två nya förslag har lagts till med status behov av redaktionell granskning. Befintliga publicerade positioner har inte ändrats automatiskt."
   }
 ]

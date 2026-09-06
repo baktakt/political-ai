@@ -1378,5 +1378,50 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "m-valmanifest-2026",
+    "title": "Valmanifest 2026 — Ansträngning ska löna sig. Brott ska straffa sig.",
+    "publisher": "Moderaterna (moderaterna.se)",
+    "author": "Moderaterna",
+    "publicationDate": "2026-08-25",
+    "url": "https://moderaterna.se/app/uploads/2026/09/Valmanifest-2026_digital.pdf",
+    "accessedAt": "2026-09-05",
+    "sourceType": "valmanifest",
+    "excerpt": "Men teknikutvecklingen, inte minst med AI, innebär utmaningar för befintliga affärsmodeller, upphovsrätt och verifiering.",
+    "supportExplanation": "Moderaternas officiella valmanifest inför riksdagsvalet 2026. PDF:en öppnades och fulltextsöktes. Det beskriver AI som en utmaning för mediernas affärsmodeller, upphovsrätt och verifiering och föreslår att säkra medieaktörernas upphovsrätt samt stärka AI-kunskap och medie- och informationskunskap hos medier och allmänhet.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "s-valprogram-2026",
+    "title": "Valprogram 2026 – Vi lever i en orolig tid",
+    "publisher": "Socialdemokraterna",
+    "author": "Socialdemokraterna",
+    "publicationDate": "2026-09-01",
+    "url": "https://www.socialdemokraterna.se/download/18.40fb56b21a04255a9803c1e/1788259051237/Soc%20Valprogram%202026.pdf",
+    "accessedAt": "2026-09-05",
+    "sourceType": "valmanifest",
+    "excerpt": "Sverige ska rustas för att möta AI:s påverkan på svensk arbetsmarknad och svensk ekonomi. Men också stärka vår kompetens inom AI genom ett svenskt AI program.",
+    "supportExplanation": "Socialdemokraternas officiella valprogram inför valet 2026. Det föreslår ett svenskt AI-program för att möta AI:s påverkan på arbetsmarknad och ekonomi, anger att digitalisering och AI bör användas bättre för att korta handläggningstiderna och vill möjliggöra krav vid energiintensiva etableringar som datacenter.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
+    "id": "c-nyhet-ai-huvudfraga-2026",
+    "title": "Centerpartiet vill göra AI till en huvudfråga",
+    "publisher": "Centerpartiet",
+    "author": "Centerpartiet",
+    "publicationDate": "2026-08-21",
+    "url": "https://www.centerpartiet.se/nyheter/arkiv-2026/2026-08-21-centerpartiet-vill-gora-ai-till-en-huvudfraga",
+    "accessedAt": "2026-09-06",
+    "sourceType": "partiwebb",
+    "excerpt": "AI-utvecklingen behöver kombineras med ett starkt skydd för säkerhet och personlig integritet. Centerpartiet föreslår därför ett oberoende AI-säkerhetsinstitut som ska analysera och utvärdera säkerhetsrisker.",
+    "supportExplanation": "Officiell partinyhet som samlar Centerpartiets AI-politik och innehåller ett förslag om ett oberoende AI-säkerhetsinstitut, krav på mänsklig överprövning av viktiga beslut i offentlig sektor samt en inriktning om globala regler för transparent och ansvarsfull AI.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
