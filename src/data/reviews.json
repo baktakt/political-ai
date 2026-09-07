@@ -961,5 +961,38 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-m-valmanifest-ai-2026-09-08",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-08",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "rekyleffekter",
+      "social-hallbarhet",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Valmanifestet preciserar inte hur förslaget om stärkt AI-kunskap och medie- och informationskunskap ska utformas eller finansieras.",
+      "Förslaget om att säkra medieaktörers upphovsrätt är placerat direkt efter en AI-relaterad problembeskrivning men är generellt formulerat och anger ingen särskild modell för AI-träning, licensiering eller ersättning.",
+      "Manifestets skrivning om rätt att stoppa AI-genererade nakenbilder eller sexvideor preciserar inte rättsmedel eller förhållandet till partiets tidigare förslag om kränkande deepfakes."
+    ],
+    "notes": "Moderaternas officiella nationella valmanifest 2026, lanserat den 1 september, öppnades via partiets manifestsida, laddades ner som PDF och fulltextsöktes på 50 sidor. Samtliga 19 M-positioner färskhetskontrollerades. Manifestet tillför ett nytt underlag för kultur och upphovsrätt samt ett konkret förslag om stärkt AI-kunskap och medie- och informationskunskap. Det bekräftar även tidigare dokumenterade positioner om kränkande AI-genererat material och AI i försvars- och säkerhetspolitik. Den ändrade positionen och det nya förslaget väntar på redaktionell granskning."
   }
 ]

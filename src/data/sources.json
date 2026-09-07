@@ -1378,5 +1378,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "m-valmanifest-2026",
+    "title": "Moderaternas valmanifest 2026 — Ansträngning ska löna sig. Brott ska straffa sig.",
+    "publisher": "Moderaterna (moderaterna.se)",
+    "author": null,
+    "publicationDate": "2026-09-01",
+    "url": "https://moderaterna.se/app/uploads/2026/09/Valmanifest-2026_digital.pdf",
+    "accessedAt": "2026-09-08",
+    "sourceType": "valmanifest",
+    "excerpt": "Men teknikutvecklingen, inte minst med AI, innebär utmaningar för befintliga affärsmodeller, upphovsrätt och verifiering som kräver en fortsatt hög reformtakt.",
+    "supportExplanation": "Moderaternas nationella valmanifest 2026. Dokumentet beskriver AI som en utmaning för mediers affärsmodeller, upphovsrätt och verifiering, föreslår stärkt AI-kunskap och medie- och informationskunskap, ger kvinnor rätt att stoppa AI-genererade nakenbilder eller sexvideor och behandlar AI-driven desinformation samt AI som försvars- och säkerhetsteknik.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

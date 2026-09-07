@@ -58,10 +58,11 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 2 uttryckliga "ingen dokumenterad ståndpunkt" (`byggd-miljo`,
 `rekyleffekter`).
 
-`m` (Moderaterna) — 14 dokumenterade eller indirekt berörda ståndpunkter +
-5 uttryckliga "ingen dokumenterad ståndpunkt" (`kultur-upphovsratt`,
-`suveranitet`, `jamlikhet`, `barn-unga`, `social-hallbarhet`) inom den nu
-fullständigt granskade partiprofilen.
+`m` (Moderaterna) — 15 dokumenterade eller indirekt berörda ståndpunkter +
+4 uttryckliga "ingen dokumenterad ståndpunkt" (`suveranitet`, `jamlikhet`,
+`barn-unga`, `social-hallbarhet`) inom den nu fullständigt granskade
+partiprofilen. Valmanifestet 2026 tillförde underlag om AI, medier och
+upphovsrätt den 8 september 2026.
 
 `l` (Liberalerna) — demokratifrågan har kompletterats 2026-07-29 med ett
 manifestförslag om rättsväsendets verktyg mot kränkande AI-deepfakes.
@@ -149,7 +150,8 @@ med sökvägar.
 - Slutversionen av Moderaternas handlingsprogram (endast
   stämmoproposition öppnad; använd för M/arbetsmarknad, M/strategi,
   M/näringsliv, M/vård, M/utbildning, M/offentlig sektor, M/reglering,
-  M/försvar och M/hållbarhetsverktyg).
+  M/försvar och M/hållbarhetsverktyg). Moderaternas nationella valmanifest
+  2026 är däremot öppnat och fulltextsökt.
 - Kongressprotokoll för S 2025 (partiprogram och politiska riktlinjer
   öppnade i slutversion; själva mötesprotokollet med att-satser inte).
 - Övriga partiers valmanifest inför valet 2026-09-13 är under bevakning.
@@ -183,11 +185,7 @@ med sökvägar.
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
   fulltextsökning. SD kompletterades 2026-07-24 för integritet,
   försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet
-  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades samma dag; dokumentet innehåller inga separata AI-skrivningar och ändrar därför inte de befintliga S-positionerna. Inget heltäckande valmanifest från M, KD eller MP för 2026 kunde
-  verifieras via testade URL:er dessa körningar. Moderaternas officiella
-  sida med vallöften 2026 öppnades och granskades 2026-07-25; den åtkomliga
-  versionen innehåller inga AI-skrivningar och är en löpande vallöftessida,
-  inte en verifierad heltäckande valplattform. Övriga ämnen återstår.
+  Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades samma dag; dokumentet innehåller inga separata AI-skrivningar. Moderaternas nationella valmanifest, lanserat 1 september 2026, öppnades och fulltextsöktes 8 september. Det tillförde underlag om AI, medier och upphovsrätt samt ett förslag om stärkt AI-kunskap och medie- och informationskunskap. De nya sakuppgifterna väntar på redaktionell granskning.
 
 ## Nästa steg för att stänga luckorna
 

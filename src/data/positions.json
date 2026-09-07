@@ -859,10 +859,11 @@
     ],
     "confidenceExplanation": "Klassningen bygger på Moderaternas egen, öppnade nyhetstext från 29 juni 2026. Texten formulerar två konkreta lagstiftningsinriktade förslag om kränkande AI-genererade förfalskningar. Förslagen är partiets webbkommunikation och inte en riksdagsmotion eller ett regeringsbeslut.",
     "sourceIds": [
-      "m-webb-krankande-ai-bilder-2026"
+      "m-webb-krankande-ai-bilder-2026",
+      "m-valmanifest-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-26"
+    "lastUpdatedAt": "2026-09-08"
   },
   {
     "id": "m-naringsliv",
@@ -962,10 +963,11 @@
     ],
     "confidenceExplanation": "Belägget är Moderaternas stämmohandlingar 2025, öppnade och fulltextsökta på AI och cyber. AI nämns uttryckligen i cybersäkerhets- och teknikdiplomatiska avsnitt, men utan konkreta yrkanden om autonoma vapensystem eller särskilda militära AI-system.",
     "sourceIds": [
-      "m-stammohandlingar-2025"
+      "m-stammohandlingar-2025",
+      "m-valmanifest-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-23"
+    "lastUpdatedAt": "2026-09-08"
   },
   {
     "id": "m-hallbarhetsverktyg",
@@ -2032,14 +2034,18 @@
     "id": "m-kultur-upphovsratt",
     "partyId": "m",
     "topicId": "kultur-upphovsratt",
-    "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex med kultur som ämnesområde samt Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller kulturpolitiska avsnitt men ingen träff på upphovsrätt i AI-sammanhang. Sökning i Riksdagens öppna data på upphovsrätt för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
-    "sourceIds": [],
-    "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-29"
+    "summary": "Moderaternas valmanifest 2026 beskriver AI som en utmaning för mediers affärsmodeller, upphovsrätt och verifiering. Partiet vill säkra medieaktörernas upphovsrätt nationellt och internationellt samt stärka AI-kunskap och medie- och informationskunskap hos medier och allmänhet.",
+    "detailedPosition": "I Moderaternas valmanifest 2026 står att teknikutvecklingen, inte minst AI, medför utmaningar för mediers befintliga affärsmodeller, upphovsrätt och verifiering och kräver fortsatt reformarbete. I direkt anslutning vill partiet säkra medieaktörernas upphovsrätt nationellt och internationellt samt stärka insatserna för AI-kunskap och medie- och informationskunskap hos medier och allmänhet. Upphovsrättsförslaget är formulerat generellt för medieaktörer och manifestet anger inte någon särskild licens- eller ersättningsmodell för AI-träning.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas officiella nationella valmanifest 2026, öppnat som PDF och kontrollerat i fulltext. AI kopplas uttryckligen till utmaningar för upphovsrätt och verifiering. De efterföljande förslagen gäller medieaktörers upphovsrätt och stärkt AI- och mediekompetens, men dokumentet preciserar inte reglernas eller insatsernas utformning.",
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning",
+    "lastUpdatedAt": "2026-09-08"
   },
   {
     "id": "m-suveranitet",

@@ -701,5 +701,22 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "m-forslag-ai-mik-medier-2026",
+    "partyId": "m",
+    "topicIds": [
+      "kultur-upphovsratt",
+      "demokrati"
+    ],
+    "title": "Stärk AI-kunskap och medie- och informationskunskap",
+    "description": "Moderaternas valmanifest 2026 föreslår stärkta insatser för AI-kunskap och medie- och informationskunskap (MIK) hos medier och allmänhet. Dokumentet anger inte hur insatserna ska utformas eller finansieras.",
+    "date": "2026-09-01",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]
