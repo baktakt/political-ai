@@ -701,5 +701,90 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "s-forslag-svenskt-ai-program-2026",
+    "partyId": "s",
+    "topicIds": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning"
+    ],
+    "title": "Svenskt AI-program för arbetsmarknad, ekonomi och kompetens",
+    "description": "I valprogrammet 2026 föreslår Socialdemokraterna ett svenskt AI-program för att rusta Sverige för AI:s påverkan på arbetsmarknaden och ekonomin. Programmet kopplas till insatser för unga som ska in på arbetsmarknaden och till stärkt AI-kompetens; närmare utformning och omfattning anges inte.",
+    "date": "2026-09-04",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "s-forslag-ai-tillstandsprocesser-2026",
+    "partyId": "s",
+    "topicIds": [
+      "offentlig-sektor",
+      "naringsliv"
+    ],
+    "title": "Använd AI för att korta företagens tillståndsprocesser",
+    "description": "Valprogrammet 2026 anger att digitalisering och AI bör användas bättre för att korta handläggningstiderna i företagens tillståndsprocesser. Dokumentet preciserar inte vilka myndigheter, system eller beslutstyper som omfattas.",
+    "date": "2026-09-04",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "s-forslag-krav-energiintensiva-datacenter-2026",
+    "partyId": "s",
+    "topicIds": [
+      "miljoavtryck"
+    ],
+    "title": "Möjlighet att ställa krav vid energiintensiva etableringar som datacenter",
+    "description": "Valprogrammet 2026 anger att Sverige behöver kunna ställa krav vid energiintensiva etableringar, exempelvis datacenter, så att elanvändningen gynnar svensk industri, hushåll och konkurrenskraft. Vilka krav som avses preciseras inte.",
+    "date": "2026-09-04",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "s-forslag-ai-tillvaxtpakt-investeringsbank-2026",
+    "partyId": "s",
+    "topicIds": [
+      "strategi",
+      "naringsliv"
+    ],
+    "title": "Tillväxtpakt för AI och grön teknik med svensk investeringsbank",
+    "description": "Valprogrammet 2026 föreslår att staten och näringslivet tillsammans pekar ut AI och grön teknik som områden där Sverige ska vara ledande. Partiet vill underlätta investeringar i teknikerna, inrätta en svensk investeringsbank och förbättra tillgången till kapital för bolag i uppskalningsfas.",
+    "date": "2026-09-04",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "s-forslag-ai-samkorning-kontroll-2026",
+    "partyId": "s",
+    "topicIds": [
+      "offentlig-sektor",
+      "integritet"
+    ],
+    "title": "AI-baserad samkörning av myndighetsuppgifter i kontrollarbete",
+    "description": "Valprogrammet 2026 föreslår förstärkt myndighetssamverkan och att AI-teknik används för att samköra uppgifter i arbetet mot kriminalitet i välfärden och på arbetsmarknaden. Dokumentet anger inte vilka uppgifter, myndigheter eller integritetsskydd som avses.",
+    "date": "2026-09-04",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

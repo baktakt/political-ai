@@ -100,5 +100,16 @@
     "sourceIds": [
       "s-mot-2026-4101"
     ]
+  },
+  {
+    "id": "s-tl-2026-09-valprogram",
+    "partyId": "s",
+    "date": "2026-09-04",
+    "title": "Socialdemokraterna publicerar valprogram med AI-förslag",
+    "description": "Valprogrammet 2026 innehåller bland annat ett svenskt AI-program för arbetsmarknad och kompetens, AI-inriktad tillväxtpolitik, AI i tillstånds- och kontrollarbete samt en inriktning om krav vid energiintensiva etableringar som datacenter.",
+    "eventType": "dokument",
+    "sourceIds": [
+      "s-valprogram-2026"
+    ]
   }
 ]

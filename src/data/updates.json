@@ -383,5 +383,12 @@
     "title": "Socialdemokraternas AI-sida har färskhetsgranskats för vården",
     "description": "Socialdemokraternas uppdaterade AI-sida innehåller en skrivning om att AI och innovation ska underlätta personalens arbete i vården. Vårdpositionen har kompletterats med den befintliga officiella källan; ändringen är ett färskhetsunderlag för en redan publicerad position.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-07-s-valprogram-ai",
+    "date": "2026-09-07",
+    "title": "Socialdemokraternas valprogram 2026 har granskats för AI-frågor",
+    "description": "Valprogrammet innehåller bland annat ett svenskt AI-program, AI i tillstånds- och kontrollarbete, AI-inriktad tillväxtpolitik och en inriktning om krav vid energiintensiva datacenter. Fem nya förslag väntar på redaktionell granskning; sex befintliga positioner har endast fått valprogrammet som kompletterande färskhetskälla.",
+    "type": "innehall"
   }
 ]

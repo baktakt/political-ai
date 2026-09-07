@@ -9,16 +9,18 @@
     "evidenceTypes": [
       "motion",
       "budgetforslag",
-      "tal"
+      "tal",
+      "valmanifest"
     ],
-    "confidenceExplanation": "Klassningen bygger på tre samstämmiga partikällor på partinivå: kommittémotion 2025/26:3652 (öppnad i fulltext), partimotion 2025/26:4101 (öppnad i fulltext) och partiets egen nyhetstext om jobbomställningsplanen 2026-04-01. Positionen är uttrycklig, aktuell och innehåller konkreta förslag.",
+    "confidenceExplanation": "Klassningen bygger på samstämmiga partikällor på partinivå: kommittémotion 2025/26:3652, partimotion 2025/26:4101, partiets nyhetstext om jobbomställningsplanen 2026-04-01 och valprogrammet 2026. Positionen är uttrycklig, aktuell och innehåller konkreta förslag.",
     "sourceIds": [
       "s-nyhet-jobbomstallningsplan-2026",
       "s-mot-2025-3652",
-      "s-mot-2026-4101"
+      "s-mot-2026-4101",
+      "s-valprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "sd-arbetsmarknad",
@@ -178,9 +180,10 @@
       "motion",
       "budgetforslag",
       "partiprogram",
-      "regeringspolitik"
+      "regeringspolitik",
+      "valmanifest"
     ],
-    "confidenceExplanation": "Flera samstämmiga partinivåkällor 2024–2026 (partimotioner, kommittémotioner, kongressdokument) med både mål, kritik och konkreta anslagsförslag.",
+    "confidenceExplanation": "Flera samstämmiga partinivåkällor 2024–2026 (partimotioner, kommittémotioner, kongressdokument och valprogram) med både mål, kritik och konkreta förslag.",
     "sourceIds": [
       "s-mot-2025-3652",
       "s-kalla-mot-2425-3415",
@@ -188,10 +191,11 @@
       "s-kalla-kongress-b-2025",
       "s-kalla-riktlinjer-2025",
       "s-kalla-regeringen-ai-2018",
-      "s-webb-ai-2026"
+      "s-webb-ai-2026",
+      "s-valprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-27"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "s-utbildning",
@@ -203,17 +207,19 @@
     "evidenceTypes": [
       "motion",
       "budgetforslag",
-      "partiprogram"
+      "partiprogram",
+      "valmanifest"
     ],
     "confidenceExplanation": "Konkreta riksdagsyrkanden på partinivå (resurscentrum, myndighetsuppdrag) kompletterade med generella skrivningar om AI i undervisningen.",
     "sourceIds": [
       "s-kalla-mot-2526-3810",
       "s-mot-2025-3652",
       "s-kalla-mot-2425-3415",
-      "s-kalla-riktlinjer-2025"
+      "s-kalla-riktlinjer-2025",
+      "s-valprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "s-naringsliv",
@@ -225,19 +231,21 @@
     "evidenceTypes": [
       "budgetforslag",
       "motion",
-      "partiprogram"
+      "partiprogram",
+      "valmanifest"
     ],
-    "confidenceExplanation": "Flera konkreta, budgetsatta förslag i partimotioner samt yrkanden i kommittémotioner.",
+    "confidenceExplanation": "Flera konkreta och budgetsatta förslag i partimotioner samt yrkanden i kommittémotioner kompletteras av valprogrammet 2026.",
     "sourceIds": [
       "s-kalla-mot-2425-3415",
       "s-kalla-mot-2526-3551",
       "s-kalla-mot-2526-3593",
       "s-kalla-mot-2425-3309",
       "s-mot-2025-3652",
-      "s-webb-ai-2026"
+      "s-webb-ai-2026",
+      "s-valprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-27"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "s-offentlig-sektor",
@@ -249,9 +257,10 @@
     "evidenceTypes": [
       "motion",
       "partiprogram",
-      "budgetforslag"
+      "budgetforslag",
+      "valmanifest"
     ],
-    "confidenceExplanation": "Detaljerade och samstämmiga skrivningar i flera partinivådokument, inklusive uttrycklig hållning om ansvarsfrågan vid automatiserade myndighetsbeslut.",
+    "confidenceExplanation": "Detaljerade och samstämmiga skrivningar i flera partinivådokument, inklusive uttrycklig hållning om ansvarsfrågan vid automatiserade myndighetsbeslut, kompletteras av valprogrammet 2026.",
     "sourceIds": [
       "s-mot-2025-3652",
       "s-kalla-kongress-b-2025",
@@ -259,10 +268,11 @@
       "s-kalla-riktlinjer-2025",
       "s-kalla-mot-2526-3590",
       "s-mot-2025-3588",
-      "s-mot-2025-3560"
+      "s-mot-2025-3560",
+      "s-valprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-08-05"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "s-vard-omsorg",
@@ -467,15 +477,17 @@
     "detailedPosition": "I motionerna 2024/25:3127 och 2025/26:3652 konstaterar partiet att AI:s energiförbrukning är en utmaning som sällan uppmärksammas, att världens datacenter redan står för större koldioxidutsläpp än flyget och att elförbrukningen kommer att behöva öka i takt med växande processorkapacitet. Partiet pekar på samlokalisering av datahallar med fjärrvärmenät som en energieffektivitetsåtgärd där framgångsrika exempel bör skalas upp. Inga förslag om rapporteringskrav för AI:s miljöpåverkan eller om vattenanvändning i datacenter har påträffats i de granskade källorna.",
     "evidenceStatus": "generell_dokumenterad",
     "evidenceTypes": [
-      "motion"
+      "motion",
+      "valmanifest"
     ],
     "confidenceExplanation": "Problembeskrivning och en utpekad åtgärdsriktning i två på varandra följande kommittémotioner, men inga skarpa styrmedelsförslag.",
     "sourceIds": [
       "s-mot-2025-3652",
-      "s-kalla-mot-2425-3127"
+      "s-kalla-mot-2425-3127",
+      "s-valprogram-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-15"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "s-hallbarhetsverktyg",
