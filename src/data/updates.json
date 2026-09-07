@@ -383,5 +383,12 @@
     "title": "Socialdemokraternas AI-sida har färskhetsgranskats för vården",
     "description": "Socialdemokraternas uppdaterade AI-sida innehåller en skrivning om att AI och innovation ska underlätta personalens arbete i vården. Vårdpositionen har kompletterats med den befintliga officiella källan; ändringen är ett färskhetsunderlag för en redan publicerad position.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-07-m-valmanifest-ai",
+    "date": "2026-09-07",
+    "title": "Moderaternas valmanifest 2026 har granskats för AI-frågor",
+    "description": "Valmanifestet tillför underlag om AI-driven desinformation, AI-genererade nakenbilder, medieaktörers upphovsrätt och AI-kunskap. Tre positionsposter och två förslag är nya eller uppdaterade och väntar på redaktionell granskning.",
+    "type": "innehall"
   }
 ]

@@ -100,5 +100,16 @@
     "sourceIds": [
       "s-mot-2026-4101"
     ]
+  },
+  {
+    "id": "m-valmanifest-2026-publicerat",
+    "partyId": "m",
+    "date": "2026-09-01",
+    "title": "Moderaternas valmanifest 2026 publiceras",
+    "description": "Valmanifestet innehåller AI-relaterade skrivningar om syntetiska nakenbilder och sexvideor, AI-driven desinformation, upphovsrätt för medieaktörer samt AI-kunskap.",
+    "eventType": "dokument",
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ]
   }
 ]

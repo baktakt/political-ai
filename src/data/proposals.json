@@ -593,12 +593,13 @@
       "demokrati"
     ],
     "title": "Kriminalisering av kränkande deepfakes och utredning om rätt till ansikte och röst",
-    "description": "Moderaterna föreslår att skapande och spridning av kränkande deepfakes ska kunna leda till straffansvar i de allvarligaste fallen. Partiet vill också utreda en särskild rätt till ansikte och röst för skydd mot AI-genererade förfalskningar.",
+    "description": "Moderaterna föreslår att skapande och spridning av kränkande deepfakes ska kunna leda till straffansvar i de allvarligaste fallen och vill utreda en rätt till ansikte och röst. Valmanifestet 2026 vill även ge kvinnor rätt att stoppa AI-genererade nakenbilder eller sexvideor.",
     "date": "2026-06-29",
     "status": "framlagt",
     "implementationStatus": null,
     "sourceIds": [
-      "m-webb-krankande-ai-bilder-2026"
+      "m-webb-krankande-ai-bilder-2026",
+      "m-valmanifest-2026"
     ],
     "workflowStatus": "behover_redaktionell_granskning"
   },
@@ -701,5 +702,22 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "m-forslag-medier-ai-2026",
+    "partyId": "m",
+    "topicIds": [
+      "kultur-upphovsratt",
+      "demokrati"
+    ],
+    "title": "Upphovsrätt för medieaktörer och stärkt AI-kunskap",
+    "description": "Moderaterna vill arbeta för att säkra medieaktörers upphovsrätt nationellt och internationellt samt stärka AI-kunskap och medie- och informationskunskap hos medier och allmänhet.",
+    "date": "2026-09-01",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

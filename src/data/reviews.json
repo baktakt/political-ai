@@ -961,5 +961,38 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-m-valmanifest-ai-2026-09-07",
+    "partyId": "m",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-07",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "rekyleffekter",
+      "social-hallbarhet",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Manifestet anger inte vilken rättslig modell som avses för medieaktörers upphovsrätt och preciserar inte licensiering eller ersättning vid AI-träning.",
+      "Inriktningen om AI-driven desinformation anger inte ansvarsfördelning, resurser eller avgränsning mot annan cyber- och hybridpåverkan.",
+      "För övriga AI-ämnen hittades inga skrivningar som tydligt ersätter eller ändrar de tidigare dokumenterade positionerna; flera av dessa bygger fortsatt på stämmopropositionerna 2025."
+    ],
+    "notes": "Manifestofärskhetsgranskning av Moderaterna efter publiceringen av det nationella valmanifestet den 1 september 2026. Den officiella manifestsidan och den länkade PDF-filen öppnades; PDF:ens 50 sidor lästes och fulltextsöktes på AI, artificiell intelligens, algoritm, deepfake, digitalisering, automatisering, datacenter, språkmodell, cyber och teknik. Manifestet gav nytt eller kompletterande underlag för demokrati, försvar samt kultur och upphovsrätt. Samtliga 19 befintliga M-positioner färskhetskontrollerades; tre positioner och två förslag har ändrats eller lagts till med workflowStatus behover_redaktionell_granskning."
   }
 ]
