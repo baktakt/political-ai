@@ -701,5 +701,22 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "c-forslag-ai-lyft-larare-laroplan-2026",
+    "partyId": "c",
+    "topicIds": [
+      "utbildning",
+      "barn-unga"
+    ],
+    "title": "AI-lyft för lärare och AI-kunskap i läroplanerna",
+    "description": "Centerpartiet vill införa ett nationellt AI-lyft med återkommande kompetensutveckling för skolpersonal och uppdatera läroplanerna så att digital källkritik, säkerhet på nätet och ansvarsfull användning av AI ingår i undervisningen.",
+    "date": "2026-01-28",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-webb-ai-skolan-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

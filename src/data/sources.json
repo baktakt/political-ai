@@ -1378,5 +1378,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-webb-ai-skolan-2026",
+    "title": "Digitalisering och AI i skolan",
+    "publisher": "Centerpartiet",
+    "author": null,
+    "publicationDate": "2026-01-28",
+    "url": "https://www.centerpartiet.se/centerpartiets-politik/centerpartiets-politik-a-o/utbildning/digitalisering-och-ai-i-skolan",
+    "accessedAt": "2026-09-09",
+    "sourceType": "partiwebb",
+    "excerpt": "Införa ett nationellt AI-lyft för lärare. Staten ska säkerställa att all skolpersonal får återkommande och kvalitativ kompetensutveckling om AI och digitala verktyg.",
+    "supportExplanation": "Centerpartiets nationella politiksida anger konkreta förslag om ett AI-lyft för lärare, återkommande kompetensutveckling och uppdaterade läroplaner med digital källkritik, nätsäkerhet och ansvarsfull AI-användning.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

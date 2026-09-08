@@ -961,5 +961,20 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-c-ai-skolan-2026-09-09",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-09",
+    "topicsReviewed": [
+      "utbildning",
+      "barn-unga"
+    ],
+    "unresolvedQuestions": [
+      "Politiksidan anger inte hur det nationella AI-lyftet eller läroplansändringarna ska genomföras, finansieras eller följas upp.",
+      "Sidans publiceringsdatum och senaste ändringsdatum hämtades ur sidans metadata; datumen visas inte i den läsbara sidtexten."
+    ],
+    "notes": "Centerpartiets nationella politiksida om digitalisering och AI i skolan öppnades och lästes i sin helhet. Sidan publicerades enligt metadata den 28 januari 2026 och ändrades den 12 februari 2026. Den tillför konkreta förslag om ett nationellt AI-lyft för lärare, återkommande kompetensutveckling för skolpersonal och uppdaterade läroplaner. Ett nytt förslag har därför lagts för redaktionell granskning. Den redan publicerade C/utbildning-positionen ligger kvar oförändrad tills den nya preciseringen har granskats redaktionellt."
   }
 ]
