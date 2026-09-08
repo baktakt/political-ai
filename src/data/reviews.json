@@ -961,5 +961,21 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-s-valprogram-ai-2026-09-08",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-08",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "offentlig-sektor"
+    ],
+    "unresolvedQuestions": [
+      "Valprogrammet anger inte hur det svenska AI-programmet ska utformas, finansieras eller avgränsas i förhållande till tidigare förslag om AI-utbildning och jobbomställning.",
+      "Valprogrammet preciserar inte rättsliga skydd, ansvar eller kontrollmekanismer när AI används för att samköra myndighetsuppgifter."
+    ],
+    "notes": "Socialdemokraternas nationella valprogram 2026, presenterat 1 september, öppnades på partiets webbplats och laddades ner som en 21-sidig PDF. Dokumentet fulltextsöktes på AI, artificiell intelligens, algoritm, automatisering, digitalisering, data, deepfake, desinformation, upphovsrätt, cyber, teknik och innovation. Tre befintliga positioner färskhetsgranskades. Valprogrammet bekräftar strategi- och förvaltningsinriktningar samt tillför ett nytt förslag om ett svenskt AI-program för arbetsmarknad och kompetens. Alla sakändringar väntar på redaktionell granskning."
   }
 ]

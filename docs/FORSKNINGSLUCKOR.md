@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-08-02**. Detta dokument räknas som en del av
+Statusen är **2026-09-08**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -130,8 +130,11 @@ granskades 2026-08-02 utan dokumenterad partinivåposition; den nya AI-träffen
   dokumenterade partinivåpositioner om dessa AI-ämnen hittades.
 - **V / barn och unga, miljöavtryck, suveränitet och rekyleffekter:** granskades 2026-07-25 mot valplattformen 2026, AI-sidan och Riksdagens öppna data utan att dokumenterade partinivåpositioner hittades. V:s valplattform 2026 innehåller inga separata AI-skrivningar.
 - **V / demokrati och reglering:** granskades 2026-07-25. AI-sidan behandlar demokratisk påverkan generellt; kommittémotion 2025/26:3947 innehåller konkreta förslag om rättssäkerhets- och integritetsskydd vid AI-ansiktsigenkänning i realtid, men inte en heltäckande AI-regleringsmodell.
-- **S:** inga dokumenterade ståndpunkter hittades specifikt om AI-kompisar/
-  chattbottar för barn, datacenters vattenanvändning och rapporteringskrav,
+- **S:** valprogrammet 2026 innehåller ett förslag om ett svenskt AI-program
+  för arbetsmarknad och kompetens samt kompletterande skrivningar om AI-
+  investeringar, tillståndsprocesser och myndighetssamverkan. Inga
+  dokumenterade ståndpunkter hittades specifikt om AI-kompisar/chattbottar
+  för barn, datacenters vattenanvändning och rapporteringskrav,
   algoritmisk diskriminering som egen fråga, svenska språkmodeller/
   superdatorer som egen satsning, eller ersättningsmodeller för kreatörer
   vid AI-träning på deras verk — trots att flera näraliggande ämnen (t.ex.
@@ -183,7 +186,7 @@ med sökvägar.
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
   fulltextsökning. SD kompletterades 2026-07-24 för integritet,
   försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet
-  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades samma dag; dokumentet innehåller inga separata AI-skrivningar och ändrar därför inte de befintliga S-positionerna. Inget heltäckande valmanifest från M, KD eller MP för 2026 kunde
+  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades samma dag; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas slutliga valprogram, presenterat 1 september 2026, öppnades och fulltextsöktes 8 september. Det innehåller ett förslag om ett svenskt AI-program för arbetsmarknad och kompetens samt kompletterande skrivningar om AI-investeringar, tillståndsprocesser och myndighetssamverkan. Vid tidigare granskningar kunde inget heltäckande valmanifest från M, KD eller MP för 2026
   verifieras via testade URL:er dessa körningar. Moderaternas officiella
   sida med vallöften 2026 öppnades och granskades 2026-07-25; den åtkomliga
   versionen innehåller inga AI-skrivningar och är en löpande vallöftessida,

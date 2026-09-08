@@ -1378,5 +1378,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "s-valprogram-2026",
+    "title": "Dags att ta Sverige på allvar — Socialdemokraternas valprogram 2026",
+    "publisher": "Socialdemokraterna (socialdemokraterna.se)",
+    "author": null,
+    "publicationDate": "2026-09-01",
+    "url": "https://www.socialdemokraterna.se/download/18.40fb56b21a04255a9803c1e/1788259051237/Soc%20Valprogram%202026.pdf",
+    "accessedAt": "2026-09-08",
+    "sourceType": "valmanifest",
+    "excerpt": "Ett svenskt AI program. Sverige ska rustas för att möta AI:s påverkan på svensk arbetsmarknad och svensk ekonomi. Det handlar bland annat om insatser för unga som ska ta steget ut på arbetsmarknaden.",
+    "supportExplanation": "Socialdemokraternas nationella valprogram 2026 anger att Sverige ska vara ledande inom AI, föreslår ett svenskt AI-program för arbetsmarknad och kompetens samt vill använda AI för kortare tillståndsprocesser och samkörning av myndighetsuppgifter mot välfärds- och arbetslivskriminalitet.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
