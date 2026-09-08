@@ -183,7 +183,7 @@ med sökvägar.
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
   fulltextsökning. SD kompletterades 2026-07-24 för integritet,
   försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet
-  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades samma dag; dokumentet innehåller inga separata AI-skrivningar. Partiets nyare nationella valprogram, publicerat 4 september 2026, fulltextsöktes den 7 september och tillförde underlag om ett svenskt AI-program, AI-inriktad tillväxtpolitik, AI i tillstånds- och kontrollarbete samt energiintensiva datacenter. Inget heltäckande valmanifest från M, KD eller MP för 2026 kunde
+  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades samma dag; dokumentet innehåller inga separata AI-skrivningar. Partiets nyare nationella valprogram, presenterat 1 september 2026, fulltextsöktes den 7 september och tillförde underlag om ett svenskt AI-program, AI-inriktad tillväxtpolitik, AI i tillstånds- och kontrollarbete samt energiintensiva datacenter. Inget heltäckande valmanifest från M, KD eller MP för 2026 kunde
   verifieras via testade URL:er dessa körningar. Moderaternas officiella
   sida med vallöften 2026 öppnades och granskades 2026-07-25; den åtkomliga
   versionen innehåller inga AI-skrivningar och är en löpande vallöftessida,

@@ -390,5 +390,12 @@
     "title": "Socialdemokraternas valprogram 2026 har granskats för AI-frågor",
     "description": "Valprogrammet innehåller bland annat ett svenskt AI-program, AI i tillstånds- och kontrollarbete, AI-inriktad tillväxtpolitik och en inriktning om krav vid energiintensiva datacenter. Fem nya förslag väntar på redaktionell granskning; sex befintliga positioner har endast fått valprogrammet som kompletterande färskhetskälla.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-08-s-valprogram-datum",
+    "date": "2026-09-08",
+    "title": "Datumet för Socialdemokraternas valprogram har rättats",
+    "description": "Partiets officiella nyhet anger att valprogrammet presenterades den 1 september 2026. Källan, de fem valprogramsbaserade förslagen och tidslinjehändelsen har fått detta datum; sakuppgifterna är oförändrade och förslagen väntar fortsatt på redaktionell granskning.",
+    "type": "korrigering"
   }
 ]

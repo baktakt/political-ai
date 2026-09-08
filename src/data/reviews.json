@@ -993,6 +993,23 @@
       "Valprogrammet anger inte vilka krav som ska kunna ställas vid energiintensiva etableringar som datacenter.",
       "Skrivningen om AI-baserad samkörning av myndighetsuppgifter anger inte vilka integritets-, åtkomst- eller kontrollmekanismer som avses."
     ],
-    "notes": "Socialdemokraternas officiella valprogram 2026, publicerat den 4 september, öppnades via partiets valsida, laddades ner som PDF och fulltextsöktes på 21 sidor. Samtliga 19 befintliga S-positioner färskhetskontrollerades. Valprogrammet tillför eller bekräftar underlag för strategi, arbetsmarknad, utbildning, näringsliv, offentlig sektor och AI:s miljöavtryck. En källa och fem nya förslag lades till. Valprogrammet länkades som kompletterande färskhetskälla till sex redan publicerade positioner utan att deras saktexter ändrades; de fem nya förslagen har workflowStatus behover_redaktionell_granskning. Övriga sju partiers officiella val- eller manifestsidor kontrollerades utan att ett nyare nationellt valmanifest än de redan granskade dokumenten verifierades."
+    "notes": "Socialdemokraternas officiella valprogram 2026, presenterat den 1 september enligt partiets daterade nyhet, öppnades via partiets valsida, laddades ner som PDF och fulltextsöktes på 21 sidor. Samtliga 19 befintliga S-positioner färskhetskontrollerades. Valprogrammet tillför eller bekräftar underlag för strategi, arbetsmarknad, utbildning, näringsliv, offentlig sektor och AI:s miljöavtryck. En källa och fem nya förslag lades till. Valprogrammet länkades som kompletterande färskhetskälla till sex redan publicerade positioner utan att deras saktexter ändrades; de fem nya förslagen har workflowStatus behover_redaktionell_granskning. Övriga sju partiers officiella val- eller manifestsidor kontrollerades utan att ett nyare nationellt valmanifest än de redan granskade dokumenten verifierades."
+  },
+  {
+    "id": "granskning-s-valprogram-datum-2026-09-08",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-08",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "integritet",
+      "miljoavtryck"
+    ],
+    "unresolvedQuestions": [],
+    "notes": "Socialdemokraternas officiella nyhet om valprogrammet öppnades och anger att programmet presenterades den 1 september 2026. Källans publiceringsdatum samt datum för de fem valprogramsbaserade förslagen och tidslinjehändelsen korrigerades därför från 4 till 1 september. Ingen sakpolitisk formulering eller arbetsflödesstatus ändrades."
   }
 ]
