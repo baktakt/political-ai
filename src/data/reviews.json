@@ -961,5 +961,21 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-s-valprogram-ai-2026-09-10",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-10",
+    "topicsReviewed": [
+      "arbetsmarknad",
+      "offentlig-sektor",
+      "miljoavtryck"
+    ],
+    "unresolvedQuestions": [
+      "Valprogrammet anger att krav ska kunna ställas vid energiintensiva etableringar som datacenter men preciserar inte kravens innehåll, rättsliga form eller avgränsning till AI-relaterade datacenter.",
+      "Skrivningen om en inställd folkbildningskurs i artificiell intelligens är ett exempel i en bredare argumentation om folkbildning och har inte behandlats som en separat AI-position."
+    ],
+    "notes": "Socialdemokraternas officiella valprogram 2026, presenterat den 1 september, öppnades via partiets valprogramsida och kontrollerades i den 21-sidiga PDF:en. Den fokuserade färskhetsgranskningen omfattade arbetsmarknad, offentlig sektor och AI:s miljöavtryck. Valprogrammet bekräftar de redan publicerade positionerna om omställning genom arbetslivet och AI i myndigheters handläggnings- och kontrollarbete. En ny förslagspost om krav vid energiintensiva etableringar som datacenter har lagts till för redaktionell granskning; de befintliga positionstexterna har inte ändrats."
   }
 ]

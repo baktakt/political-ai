@@ -701,5 +701,21 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "s-forslag-krav-energiintensiva-datacenter-2026",
+    "partyId": "s",
+    "topicIds": [
+      "miljoavtryck"
+    ],
+    "title": "Krav vid energiintensiva etableringar som datacenter",
+    "description": "I ett avsnitt om att Sverige ska dra nytta av ny teknik, inte minst AI, vill Socialdemokraterna kunna ställa krav vid energiintensiva etableringar som datacenter för att värna svensk industri, hushållens elpriser och konkurrenskraft. Valprogrammet preciserar inte vilka krav som avses.",
+    "date": "2026-09-01",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]
