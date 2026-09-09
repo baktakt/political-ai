@@ -1378,5 +1378,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-nyhet-ai-huvudfraga-2026",
+    "title": "Centerpartiet vill göra AI till en huvudfråga",
+    "publisher": "Centerpartiet (centerpartiet.se)",
+    "author": null,
+    "publicationDate": "2026-08-21",
+    "url": "https://www.centerpartiet.se/nyheter/arkiv-2026/2026-08-21-centerpartiet-vill-gora-ai-till-en-huvudfraga",
+    "accessedAt": "2026-09-09",
+    "sourceType": "partiwebb",
+    "excerpt": "Centerpartiet föreslår därför ett oberoende AI-säkerhetsinstitut som ska analysera och utvärdera säkerhetsrisker. När AI används i offentlig sektor ska tekniken vara ett verktyg, men viktiga beslut som rör enskilda människor ska alltid kunna överprövas av en människa.",
+    "supportExplanation": "Centerpartiets daterade officiella nyhet samlar partiets AI-inriktning och tillför uttryckliga förslag om ett oberoende AI-säkerhetsinstitut, regulatoriska sandlådor och mänsklig överprövning av viktiga beslut när AI används i offentlig sektor.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

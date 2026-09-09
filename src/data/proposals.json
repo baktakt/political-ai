@@ -701,5 +701,38 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "c-forslag-oberoende-ai-sakerhetsinstitut-2026",
+    "partyId": "c",
+    "topicIds": [
+      "strategi",
+      "reglering"
+    ],
+    "title": "Inrätta ett oberoende AI-säkerhetsinstitut",
+    "description": "Centerpartiet föreslår ett oberoende AI-säkerhetsinstitut med uppgift att analysera och utvärdera säkerhetsrisker med AI. Den öppnade källan preciserar inte institutets mandat, organisation eller relation till befintliga tillsynsmyndigheter.",
+    "date": "2026-08-21",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-nyhet-ai-huvudfraga-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
+  },
+  {
+    "id": "c-forslag-mansklig-overprovning-offentlig-ai-2026",
+    "partyId": "c",
+    "topicIds": [
+      "offentlig-sektor"
+    ],
+    "title": "Mänsklig överprövning av viktiga beslut vid offentlig AI-användning",
+    "description": "Centerpartiet vill att viktiga beslut som rör enskilda människor alltid ska kunna överprövas av en människa när AI används i offentlig sektor. Källan anger inte vilka beslut som omfattas eller hur överprövningen ska regleras.",
+    "date": "2026-08-21",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-nyhet-ai-huvudfraga-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

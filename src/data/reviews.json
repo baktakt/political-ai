@@ -961,5 +961,21 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-c-ai-sakerhet-offentlig-sektor-2026-09-09",
+    "partyId": "c",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-09",
+    "topicsReviewed": [
+      "strategi",
+      "offentlig-sektor",
+      "reglering"
+    ],
+    "unresolvedQuestions": [
+      "Nyheten anger inte AI-säkerhetsinstitutets mandat, organisation eller förhållande till befintliga tillsynsmyndigheter.",
+      "Kravet på mänsklig överprövning preciserar inte vilka offentliga beslut som räknas som viktiga eller hur överprövningen ska regleras."
+    ],
+    "notes": "Centerpartiets daterade officiella nyhet från 21 augusti 2026 öppnades och lästes i sin helhet. Den tillför ett förslag om ett oberoende AI-säkerhetsinstitut, regulatoriska sandlådor och en uttrycklig princip om att viktiga beslut om enskilda människor ska kunna överprövas av en människa när AI används i offentlig sektor. En ny källa och två förslag har lagts till för redaktionell granskning; befintliga publicerade positioner har inte ändrats i väntan på redaktionens bedömning."
   }
 ]
