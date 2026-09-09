@@ -615,13 +615,14 @@
     "evidenceTypes": [
       "valmanifest"
     ],
-    "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026 och partiets officiella AI-sida, båda öppnade vid granskningen. Källorna innehåller uttryckliga skrivningar om AI som teknikskifte, forskningsinfrastruktur, FoU-avdrag, anslagsnivåer och innovationsvänliga regler. Några detaljerade sektorsvisa företagsstöd för AI hittades inte i den granskade texten.",
+    "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026, partiets officiella AI-sida och den daterade nyheten om forskningsinvesteringar, samtliga öppnade vid granskningen. Källorna innehåller uttryckliga skrivningar om AI som teknikskifte, forskningsinfrastruktur, FoU-avdrag, anslagsnivåer och innovationsvänliga regler. Forskningsmålen gäller FoU generellt och är inte öronmärkta för AI.",
     "sourceIds": [
       "l-valmanifest-2026",
-      "l-webb-ai"
+      "l-webb-ai",
+      "l-nyhet-forskningsinvesteringar-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-20"
+    "lastUpdatedAt": "2026-09-09"
   },
   {
     "id": "l-suveranitet",

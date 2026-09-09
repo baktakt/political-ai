@@ -701,5 +701,21 @@
       "mp-datacenter-krav-2026"
     ],
     "workflowStatus": "godkand"
+  },
+  {
+    "id": "l-forslag-forskningsinvesteringar-2026",
+    "partyId": "l",
+    "topicIds": [
+      "naringsliv"
+    ],
+    "title": "Höj statens forskningsinvesteringar och sätt ett nationellt FoU-mål",
+    "description": "Liberalerna vill höja statens investeringar i forskning och utveckling till 1 procent av BNP, ange ett nationellt mål på 4 procent av BNP för statens och näringslivets samlade forskningsinvesteringar samt tidigarelägga nästa forsknings- och innovationsproposition till 2027. Partiet anger det internationella forskningsracet inom bland annat AI som ett motiv; förslaget är inte en öronmärkt AI-satsning.",
+    "date": "2026-08-11",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "l-nyhet-forskningsinvesteringar-2026"
+    ],
+    "workflowStatus": "behover_redaktionell_granskning"
   }
 ]

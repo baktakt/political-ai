@@ -961,5 +961,19 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-l-forskningsinvesteringar-ai-2026-09-09",
+    "partyId": "l",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-09",
+    "topicsReviewed": [
+      "naringsliv"
+    ],
+    "unresolvedQuestions": [
+      "Forskningsmålen gäller all forskning och utveckling; nyheten öronmärker inte någon del av beloppen för AI.",
+      "Den öppnade källan anger inte en finansieringsplan för ökningen på drygt 16 miljarder kronor."
+    ],
+    "notes": "Liberalernas officiella nyhet från 11 augusti 2026 öppnades och lästes i sin helhet. Den preciserar den redan dokumenterade forskningsinriktningen med ett mål om statliga FoU-investeringar på 1 procent av BNP, ett samlat nationellt mål på 4 procent och en tidigarelagd forsknings- och innovationsproposition. AI anges uttryckligen som del av det internationella forskningsracet, men satsningen gäller FoU generellt. Källan har kopplats till den befintliga näringslivspositionen och ett nytt förslag har lagts till för redaktionell granskning."
   }
 ]

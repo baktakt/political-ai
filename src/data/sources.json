@@ -1378,5 +1378,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "l-nyhet-forskningsinvesteringar-2026",
+    "title": "Liberalerna: staten ska lägga 1 procent av BNP på forskning",
+    "publisher": "Liberalerna (liberalerna.se)",
+    "author": null,
+    "publicationDate": "2026-08-11",
+    "url": "https://www.liberalerna.se/nyheter/liberalerna-staten-ska-lagga-1-procent-av-bnp-pa-forskning",
+    "accessedAt": "2026-09-09",
+    "sourceType": "partiwebb",
+    "excerpt": "Kina och USA tar täten i det pågående forskningsracet, inte minst vad gäller AI, medan Europa hamnar på efterkälken. Sverige behöver visa Europa vägen och steppa upp våra satsningar",
+    "supportExplanation": "Liberalernas officiella nyhet preciserar partiets forskningsförslag med AI som ett uttryckligt motiv: statliga FoU-investeringar på 1 procent av BNP, ett samlat nationellt mål på 4 procent och en tidigarelagd forsknings- och innovationsproposition.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
