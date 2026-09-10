@@ -593,14 +593,15 @@
       "demokrati"
     ],
     "title": "Kriminalisering av kränkande deepfakes och utredning om rätt till ansikte och röst",
-    "description": "Moderaterna föreslår att skapande och spridning av kränkande deepfakes ska kunna leda till straffansvar i de allvarligaste fallen. Partiet vill också utreda en särskild rätt till ansikte och röst för skydd mot AI-genererade förfalskningar.",
+    "description": "Moderaterna föreslår att skapande och spridning av kränkande deepfakes ska kunna leda till straffansvar i de allvarligaste fallen och vill utreda en rätt till ansikte och röst. Valmanifestet 2026 vill även ge kvinnor rätt att stoppa AI-genererade nakenbilder eller sexvideor.",
     "date": "2026-06-29",
     "status": "framlagt",
     "implementationStatus": null,
     "sourceIds": [
-      "m-webb-krankande-ai-bilder-2026"
+      "m-webb-krankande-ai-bilder-2026",
+      "m-valmanifest-2026"
     ],
-    "workflowStatus": "behover_redaktionell_granskning"
+    "workflowStatus": "publicerad"
   },
   {
     "id": "mp-forslag-reglera-ai-vapen-2025",
@@ -718,6 +719,105 @@
     "sourceIds": [
       "s-valprogram-2026"
     ],
-    "workflowStatus": "behover_redaktionell_granskning"
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "m-forslag-medier-ai-2026",
+    "partyId": "m",
+    "topicIds": [
+      "kultur-upphovsratt",
+      "demokrati"
+    ],
+    "title": "Upphovsrätt för medieaktörer och stärkt AI-kunskap",
+    "description": "Moderaterna vill arbeta för att säkra medieaktörers upphovsrätt nationellt och internationellt samt stärka AI-kunskap och medie- och informationskunskap hos medier och allmänhet.",
+    "date": "2026-09-01",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "c-forslag-ai-lyft-larare-laroplan-2026",
+    "partyId": "c",
+    "topicIds": [
+      "utbildning",
+      "barn-unga"
+    ],
+    "title": "AI-lyft för lärare och AI-kunskap i läroplanerna",
+    "description": "Centerpartiet vill införa ett nationellt AI-lyft med återkommande kompetensutveckling för skolpersonal och uppdatera läroplanerna så att digital källkritik, säkerhet på nätet och ansvarsfull användning av AI ingår i undervisningen.",
+    "date": "2026-01-28",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-webb-ai-skolan-2026"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "c-forslag-oberoende-ai-sakerhetsinstitut-2026",
+    "partyId": "c",
+    "topicIds": [
+      "strategi",
+      "reglering"
+    ],
+    "title": "Inrätta ett oberoende AI-säkerhetsinstitut",
+    "description": "Centerpartiet föreslår ett oberoende AI-säkerhetsinstitut med uppgift att analysera och utvärdera säkerhetsrisker med AI. Den öppnade källan preciserar inte institutets mandat, organisation eller relation till befintliga tillsynsmyndigheter.",
+    "date": "2026-08-21",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-nyhet-ai-huvudfraga-2026"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "c-forslag-mansklig-overprovning-offentlig-ai-2026",
+    "partyId": "c",
+    "topicIds": [
+      "offentlig-sektor"
+    ],
+    "title": "Mänsklig överprövning av viktiga beslut vid offentlig AI-användning",
+    "description": "Centerpartiet vill att viktiga beslut som rör enskilda människor alltid ska kunna överprövas av en människa när AI används i offentlig sektor. Källan anger inte vilka beslut som omfattas eller hur överprövningen ska regleras.",
+    "date": "2026-08-21",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "c-nyhet-ai-huvudfraga-2026"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "l-forslag-forskningsinvesteringar-2026",
+    "partyId": "l",
+    "topicIds": [
+      "naringsliv"
+    ],
+    "title": "Höj statens forskningsinvesteringar och sätt ett nationellt FoU-mål",
+    "description": "Liberalerna vill höja statens investeringar i forskning och utveckling till 1 procent av BNP, ange ett nationellt mål på 4 procent av BNP för statens och näringslivets samlade forskningsinvesteringar samt tidigarelägga nästa forsknings- och innovationsproposition till 2027. Partiet anger det internationella forskningsracet inom bland annat AI som ett motiv; förslaget är inte en öronmärkt AI-satsning.",
+    "date": "2026-08-11",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "l-nyhet-forskningsinvesteringar-2026"
+    ],
+    "workflowStatus": "publicerad"
+  },
+  {
+    "id": "s-forslag-krav-energiintensiva-datacenter-2026",
+    "partyId": "s",
+    "topicIds": [
+      "miljoavtryck"
+    ],
+    "title": "Krav vid energiintensiva etableringar som datacenter",
+    "description": "I ett avsnitt om att Sverige ska dra nytta av ny teknik, inte minst AI, vill Socialdemokraterna kunna ställa krav vid energiintensiva etableringar som datacenter för att värna svensk industri, hushållens elpriser och konkurrenskraft. Valprogrammet preciserar inte vilka krav som avses.",
+    "date": "2026-09-01",
+    "status": "framlagt",
+    "implementationStatus": null,
+    "sourceIds": [
+      "s-valprogram-2026"
+    ],
+    "workflowStatus": "publicerad"
   }
 ]

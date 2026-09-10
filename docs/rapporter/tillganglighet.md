@@ -1,16 +1,17 @@
 # Tillgänglighetskontroll (axe-core)
 
-Körd: 2026-08-05 · Regeluppsättning: WCAG 2.0/2.1 A+AA, WCAG 2.2 AA samt best practice
+Körd: 2026-09-10 · Regeluppsättning: WCAG 2.0/2.1 A+AA, WCAG 2.2 AA samt best practice
 
-Sidor kontrollerade: 15 · Avvikelser totalt: 0
+Sidor kontrollerade: 15 · Avvikelser totalt: 3
 
 ## /
 
-Inga avvikelser.
+- **color-contrast** (serious): Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds — 1 förekomst(er). [Regel](https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI)
+- **definition-list** (serious): Ensure <dl> elements are structured correctly — 1 förekomst(er). [Regel](https://dequeuniversity.com/rules/axe/4.12/definition-list?application=axeAPI)
 
 ## /partier/
 
-Inga avvikelser.
+- **color-contrast** (serious): Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds — 1 förekomst(er). [Regel](https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI)
 
 ## /partier/s/
 

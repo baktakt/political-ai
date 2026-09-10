@@ -13,7 +13,7 @@ describe("enkla nyckeltal för startsidan", () => {
       partyCount: 8,
       documentedOverviewCount: 8,
       limitedOverviewCount: 0,
-      publishedProposalCount: 23,
+      publishedProposalCount: 31,
       publishedActionCount: 27,
     });
     expect(metrics.sourceCount).toBe(sources.length);

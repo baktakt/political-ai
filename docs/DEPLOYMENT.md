@@ -34,8 +34,7 @@ git-åtkomst krävs alls vid `npm install`. Se `UNDERHALL.md` →
 "Komponentbiblioteket är vendorat" för hur man uppdaterar vendorkopian.
 
 1. **Importera repot** i Vercel: New Project → välj
-   `baktakt/political-ai` → branch enligt önskemål (produktionsgren, t.ex.
-   `main`, efter att piloten granskats och mergats dit). Vercel läser
+   `baktakt/political-ai` → använd `main` som produktionsgren. Vercel läser
    `vercel.json` automatiskt — inga manuella inställningar för build/output
    krävs.
 2. **Miljövariabel:** sätt `SITE_URL` till den faktiska produktions-URL:en
@@ -50,6 +49,14 @@ Inga andra tjänster (databas, auth, KV) behövs — hela datamängden är
 statiska JSON-filer som bakas in i bygget.
 
 ## Efter varje driftsättning (rekommenderad rutin)
+
+1. Notera SHA för den commit som pushades till `main`.
+2. Kontrollera att `git ls-remote origin refs/heads/main` visar samma SHA.
+3. Invänta att Vercel **Production** rapporterar lyckad driftsättning för
+   exakt detta SHA; en lyckad preview för en annan commit räcker inte.
+4. Kontrollera att `https://ai-valet.vercel.app/` svarar med HTTP 200.
+5. Skicka därefter en notis med SHA, commitmeddelande, testresultat,
+   produktionsadress och eventuella opublicerade undantag.
 
 ```sh
 npm run check:links     # kräver att dist/ finns (körs efter build)

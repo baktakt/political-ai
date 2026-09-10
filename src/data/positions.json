@@ -234,7 +234,7 @@
       "partiprogram",
       "valmanifest"
     ],
-    "confidenceExplanation": "Flera konkreta, budgetsatta förslag i partimotioner samt yrkanden i kommittémotioner.",
+    "confidenceExplanation": "Flera konkreta, budgetsatta förslag i partimotioner samt yrkanden i kommittémotioner. Den uppdaterade företagandesidan från 2026 bekräftar samma inriktning utan att ändra sakpositionen.",
     "sourceIds": [
       "s-kalla-mot-2425-3415",
       "s-kalla-mot-2526-3551",
@@ -242,7 +242,8 @@
       "s-kalla-mot-2425-3309",
       "s-mot-2025-3652",
       "s-webb-ai-2026",
-      "s-valprogram-2026"
+      "s-valprogram-2026",
+      "s-foretagande-entreprenorskap-2026"
     ],
     "workflowStatus": "publicerad",
     "lastUpdatedAt": "2026-09-10"
@@ -627,13 +628,14 @@
     "evidenceTypes": [
       "valmanifest"
     ],
-    "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026 och partiets officiella AI-sida, båda öppnade vid granskningen. Källorna innehåller uttryckliga skrivningar om AI som teknikskifte, forskningsinfrastruktur, FoU-avdrag, anslagsnivåer och innovationsvänliga regler. Några detaljerade sektorsvisa företagsstöd för AI hittades inte i den granskade texten.",
+    "confidenceExplanation": "Klassningen bygger på Liberalernas valmanifest 2026, partiets officiella AI-sida och den daterade nyheten om forskningsinvesteringar, samtliga öppnade vid granskningen. Källorna innehåller uttryckliga skrivningar om AI som teknikskifte, forskningsinfrastruktur, FoU-avdrag, anslagsnivåer och innovationsvänliga regler. Forskningsmålen gäller FoU generellt och är inte öronmärkta för AI.",
     "sourceIds": [
       "l-valmanifest-2026",
-      "l-webb-ai"
+      "l-webb-ai",
+      "l-nyhet-forskningsinvesteringar-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-20"
+    "lastUpdatedAt": "2026-09-09"
   },
   {
     "id": "l-suveranitet",
@@ -863,18 +865,20 @@
     "id": "m-demokrati",
     "partyId": "m",
     "topicId": "demokrati",
-    "summary": "Moderaterna vill kriminalisera att skapa och sprida kränkande deepfakes i de allvarligaste fallen. Partiet vill också utreda en särskild rätt till ansikte och röst för att stärka skyddet mot AI-genererade förfalskningar.",
-    "detailedPosition": "I en nyhet på Moderaternas webbplats den 29 juni 2026 föreslår partiet att den som skapar eller sprider kränkande deepfakes ska kunna dömas i de allvarligaste fallen. Exemplen omfattar AI-genererade sexvideoer utan samtycke och manipulerade filmer för utpressning, förföljelse, trakasserier eller skada på någons rykte. Partiet vill även utreda en rätt till personliga kännetecken, som ansikte och röst, med syftet att ge den enskilde större kontroll över användningen av identiteten på nätet och underlätta borttagning av manipulerat material. Källan anger inte någon särskild reglering av AI-genererat innehåll i valrörelser eller plattformars ansvar.",
+    "summary": "Moderaterna vill kriminalisera att skapa och sprida kränkande deepfakes i de allvarligaste fallen och utreda en rätt till ansikte och röst. Valmanifestet 2026 vill ge kvinnor rätt att stoppa AI-genererade nakenbilder eller sexvideor och stärka Sveriges förmåga att möta AI-driven desinformation.",
+    "detailedPosition": "I en nyhet på Moderaternas webbplats den 29 juni 2026 föreslår partiet att den som skapar eller sprider kränkande deepfakes ska kunna dömas i de allvarligaste fallen. Partiet vill även utreda en rätt till personliga kännetecken, som ansikte och röst. I valmanifestet 2026 återkommer frågan genom förslaget att ge kvinnor rätt att stoppa AI-genererade nakenbilder eller sexvideor. Manifestet anger också att Sverige ska stärka förmågan att upptäcka, motstå och slå tillbaka mot AI-driven desinformation och andra hybridhot. Källorna preciserar inte en särskild reglering av AI-genererat kampanjmaterial eller plattformars ansvar.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
+      "valmanifest",
       "regelgivning"
     ],
-    "confidenceExplanation": "Klassningen bygger på Moderaternas egen, öppnade nyhetstext från 29 juni 2026. Texten formulerar två konkreta lagstiftningsinriktade förslag om kränkande AI-genererade förfalskningar. Förslagen är partiets webbkommunikation och inte en riksdagsmotion eller ett regeringsbeslut.",
+    "confidenceExplanation": "Klassningen bygger på Moderaternas öppnade nyhetstext från 29 juni 2026 och det öppnade nationella valmanifestet från 1 september 2026. Båda är officiellt partimaterial och innehåller konkreta inriktningar om AI-genererade förfalskningar; manifestet tillför även AI-driven desinformation. Genomförande och exakt lagstiftning är inte preciserade.",
     "sourceIds": [
-      "m-webb-krankande-ai-bilder-2026"
+      "m-webb-krankande-ai-bilder-2026",
+      "m-valmanifest-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-26"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "m-naringsliv",
@@ -966,18 +970,20 @@
     "id": "m-forsvar",
     "partyId": "m",
     "topicId": "forsvar",
-    "summary": "Moderaterna kopplar AI till cybersäkerhet, teknisk innovation och säkerhetspolitik. Stämmohandlingarna anger att Sverige ska dra nytta av den senaste tekniken, bland annat AI, i cybersäkerhetsarbetet och bedriva aktiv teknikdiplomati kring teknikområden som AI.",
-    "detailedPosition": "I stämmohandlingarnas säkerhets- och utrikespolitiska avsnitt skriver Moderaterna att Sverige ska vara ledande inom cybersäkerhet och att cybersäkerhetsnivån i offentlig sektor ska vara hög för att freda offentliga kärnfunktioner från angrepp. Dokumentet anger att Sverige ska dra nytta av den senaste tillgängliga tekniken, bland annat AI, i samarbete mellan offentlig sektor, näringsliv, akademi och civilsamhälle, och ta krafttag mot statsstödda cyberhot. I utrikes- och säkerhetspolitiken beskrivs ny teknik som artificiell intelligens, miniatyriserade satelliter och kvantteknik som allt viktigare, och Sverige ska bedriva aktiv teknikdiplomati. Tolkning: positionen är en generell säkerhets- och cyberlinje; källan behandlar inte autonoma vapensystem eller en detaljerad militär AI-doktrin.",
-    "evidenceStatus": "generell_dokumenterad",
+    "summary": "Moderaterna vill använda AI i cybersäkerhetsarbetet. Valmanifestet 2026 vill stärka Sveriges förmåga att upptäcka, motstå och slå tillbaka mot AI-driven desinformation och andra hybridhot.",
+    "detailedPosition": "I stämmohandlingarna 2025 anger Moderaterna att Sverige ska dra nytta av den senaste tekniken, bland annat AI, i cybersäkerhetsarbetet och bedriva aktiv teknikdiplomati kring teknikområden som AI. Valmanifestet 2026 anger att Sverige ska stärka sin förmåga att upptäcka, motstå och slå tillbaka mot cyberangrepp, AI-driven desinformation och andra hybridhot. I samma avsnitt vill partiet minska beroendet av utländsk teknik i säkerhetskänslig IT, moln och drift, men den åtgärden är inte uttryckligen avgränsad till AI. Materialet behandlar inte autonoma vapensystem eller en detaljerad militär AI-doktrin.",
+    "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
-      "partiprogram"
+      "partiprogram",
+      "valmanifest"
     ],
-    "confidenceExplanation": "Belägget är Moderaternas stämmohandlingar 2025, öppnade och fulltextsökta på AI och cyber. AI nämns uttryckligen i cybersäkerhets- och teknikdiplomatiska avsnitt, men utan konkreta yrkanden om autonoma vapensystem eller särskilda militära AI-system.",
+    "confidenceExplanation": "Klassningen bygger på Moderaternas stämmohandlingar 2025 och det nationella valmanifestet 2026, båda öppnade och kontrollerade i fulltext. Manifestets uttryckliga AI-belägg gäller AI-driven desinformation; det preciserar inte ansvar, resurser eller militära AI-system.",
     "sourceIds": [
-      "m-stammohandlingar-2025"
+      "m-stammohandlingar-2025",
+      "m-valmanifest-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-23"
+    "lastUpdatedAt": "2026-09-07"
   },
   {
     "id": "m-hallbarhetsverktyg",
@@ -2044,14 +2050,18 @@
     "id": "m-kultur-upphovsratt",
     "partyId": "m",
     "topicId": "kultur-upphovsratt",
-    "summary": "Ingen dokumenterad partinivåposition om AI och kultur, journalistik eller upphovsrätt hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex med kultur som ämnesområde samt Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna innehåller kulturpolitiska avsnitt men ingen träff på upphovsrätt i AI-sammanhang. Sökning i Riksdagens öppna data på upphovsrätt för parti=M gav inga motionsträffar under riksmötet. Frånvaron ska inte tolkas som att partiet är emot åtgärder på området.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, upphovsrätt, kultur, språkmodell och deepfake; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermen upphovsrätt. Inga partimotioner eller kommittémotioner med en AI-specifik position om kultur eller upphovsrätt hittades.",
-    "sourceIds": [],
+    "summary": "Moderaternas valmanifest 2026 beskriver AI som en utmaning för mediers affärsmodeller, upphovsrätt och verifiering. Partiet vill säkra medieaktörernas upphovsrätt nationellt och internationellt samt stärka AI-kunskap och medie- och informationskunskap hos medier och allmänhet.",
+    "detailedPosition": "I Moderaternas valmanifest 2026 står att teknikutvecklingen, inte minst AI, medför utmaningar för mediers befintliga affärsmodeller, upphovsrätt och verifiering och kräver fortsatt reformarbete. I direkt anslutning vill partiet säkra medieaktörernas upphovsrätt nationellt och internationellt samt stärka insatserna för AI-kunskap och medie- och informationskunskap hos medier och allmänhet. Upphovsrättsförslaget är formulerat generellt för medieaktörer och manifestet anger inte någon särskild licens- eller ersättningsmodell för AI-träning.",
+    "evidenceStatus": "konkret_forslag",
+    "evidenceTypes": [
+      "valmanifest"
+    ],
+    "confidenceExplanation": "Klassningen bygger på Moderaternas officiella nationella valmanifest 2026, öppnat som PDF och kontrollerat i fulltext. AI kopplas uttryckligen till utmaningar för upphovsrätt och verifiering. De efterföljande förslagen gäller medieaktörers upphovsrätt och stärkt AI- och mediekompetens, men dokumentet preciserar inte reglernas eller insatsernas utformning.",
+    "sourceIds": [
+      "m-valmanifest-2026"
+    ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-29"
+    "lastUpdatedAt": "2026-09-08"
   },
   {
     "id": "m-suveranitet",

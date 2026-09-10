@@ -388,7 +388,56 @@
     "id": "2026-09-10-s-valprogram-ai",
     "date": "2026-09-10",
     "title": "Socialdemokraternas valprogram 2026 har granskats för AI-frågor",
-    "description": "Valprogrammet innehåller ett förslag om ett svenskt AI-program och kompletterar sex redan publicerade positioner om bland annat arbetsmarknad, investeringar, offentlig förvaltning och datacenter. Det nya förslaget väntar på redaktionell granskning.",
+    "description": "Valprogrammet innehåller ett förslag om ett svenskt AI-program och kompletterar sex redan publicerade positioner om bland annat arbetsmarknad, investeringar, offentlig förvaltning och datacenter. Det nya förslaget har publicerats efter automatiserad redaktionell granskning.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-08-29-s-naringsliv-farskhet",
+    "date": "2026-08-29",
+    "title": "Socialdemokraternas näringslivssida granskad för AI-frågor",
+    "description": "Socialdemokraternas uppdaterade sida om företagande och entreprenörskap har lagts till som färskhetskälla. Den bekräftar den redan dokumenterade inriktningen om en tillväxtpakt med AI-investeringar tillsammans med näringslivet; inga ståndpunkter har ändrats.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-07-regeringen-ai-cyber-offentlighet",
+    "date": "2026-09-07",
+    "title": "Nya regeringsunderlag om AI, cybersäkerhet och offentlighetsprincipen",
+    "description": "Omvärldsbevakningen har kompletterats med regeringens faktapromemoria om EU:s handlingsplan för AI och cybersäkerhet samt ett kommittédirektiv om offentlighetsprincipen vid myndigheters användning av AI och molntjänster. Underlagen beskriver regeringspolitik och inte enskilda partiers ståndpunkter.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-07-m-valmanifest-ai",
+    "date": "2026-09-07",
+    "title": "Moderaternas valmanifest 2026 har granskats för AI-frågor",
+    "description": "Valmanifestet tillför underlag om AI-driven desinformation, AI-genererade nakenbilder, medieaktörers upphovsrätt och AI-kunskap. Tre positionsposter och två förslag är nya eller uppdaterade.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-09-c-ai-skolan",
+    "date": "2026-09-09",
+    "title": "Centerpartiets förslag om AI i skolan har granskats",
+    "description": "En nationell politiksida tillför förslag om ett AI-lyft för lärare och AI-relaterade kunskaper i läroplanerna. Det nya förslaget har publicerats efter automatiserad redaktionell granskning; den publicerade utbildningspositionen är inte ändrad.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-09-c-ai-sakerhet-offentlig-sektor",
+    "date": "2026-09-09",
+    "title": "Centerpartiets förslag om AI-säkerhet och mänsklig överprövning har granskats",
+    "description": "Centerpartiets officiella AI-utspel från 21 augusti har lagts till som källa. Det tillför förslag om ett oberoende AI-säkerhetsinstitut och mänsklig överprövning av viktiga beslut vid offentlig AI-användning.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-09-l-forskningsinvesteringar-ai",
+    "date": "2026-09-09",
+    "title": "Liberalernas forskningsförslag har granskats för AI-frågan",
+    "description": "Liberalerna anger det internationella AI-forskningsracet som motiv för högre generella forskningsinvesteringar. Ett förslag om statliga och samlade FoU-mål har lagts till; beloppen är inte öronmärkta för AI.",
+    "type": "innehall"
+  },
+  {
+    "id": "2026-09-10-s-datacenterkrav",
+    "date": "2026-09-10",
+    "title": "Socialdemokraternas förslag om energiintensiva datacenter har lagts till",
+    "description": "Valprogrammet kopplar ny teknik, inklusive AI, till ett förslag om att kunna ställa krav vid energiintensiva etableringar som datacenter. Vilka krav som avses är inte preciserat.",
     "type": "innehall"
   }
 ]

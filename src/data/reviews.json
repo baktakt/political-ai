@@ -993,6 +993,113 @@
       "Skrivningen om krav vid energiintensiva etableringar som datacenter preciserar inte vilka krav som avses eller hur samhällsnytta ska bedömas.",
       "Valprogrammet anger inte uttryckligen om det ersätter valplattformen Plan för Sverige; båda källorna behålls därför som aktuella valpolitiska dokument."
     ],
-    "notes": "Socialdemokraternas officiella valprogram 2026, presenterat den 1 september, öppnades via partiets valsida, laddades ner som PDF och fulltextsöktes på 21 sidor. Samtliga 19 S-positioner färskhetskontrollerades. Programmet tillför ett konkret förslag om ett svenskt AI-program och kompletterande belägg för sex redan publicerade positioner: strategi, arbetsmarknad, utbildning, näringsliv, offentlig sektor och AI:s miljöavtryck. Det nya förslaget väntar på redaktionell granskning; de befintliga positionernas sakuppgifter har inte ändrats."
+    "notes": "Socialdemokraternas officiella valprogram 2026, presenterat den 1 september, öppnades via partiets valsida, laddades ner som PDF och fulltextsöktes på 21 sidor. Samtliga 19 S-positioner färskhetskontrollerades. Programmet tillför ett konkret förslag om ett svenskt AI-program och kompletterande belägg för sex redan publicerade positioner: strategi, arbetsmarknad, utbildning, näringsliv, offentlig sektor och AI:s miljöavtryck. Det nya förslaget har publicerats efter automatiserad redaktionell granskning; de befintliga positionernas sakuppgifter har inte ändrats."
+  },
+  {
+    "id": "granskning-s-naringsliv-farskhet-2026-08-29",
+    "partyId": "s",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-08-29",
+    "topicsReviewed": [
+      "naringsliv"
+    ],
+    "unresolvedQuestions": [],
+    "notes": "Socialdemokraternas officiella sida Företagande och entreprenörskap öppnades och lästes. Sidan är senast uppdaterad 19 augusti 2026 och bekräftar en svensk tillväxtpakt med investeringar i framtidsteknologier som AI och ny industriteknologi i samarbete med näringslivet. Inga nya eller förändrade AI-politiska sakuppgifter identifierades; källan lades till som färskhetsunderlag för den redan publicerade positionen S/näringsliv."
+  },
+  {
+    "id": "granskning-regeringen-ai-cyber-offentlighet-2026-09-07",
+    "partyId": null,
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-07",
+    "topicsReviewed": [
+      "forsvar",
+      "reglering",
+      "suveranitet",
+      "offentlig-sektor",
+      "integritet"
+    ],
+    "unresolvedQuestions": [
+      "Faktapromemorian redovisar regeringens preliminära ståndpunkt till kommissionens handlingsplan; den visar inte att de beskrivna EU-åtgärderna är beslutade eller genomförda.",
+      "Kommittédirektivet initierar en analys. Utredningens slutsatser ska redovisas senast den 15 november 2027 och finns därför ännu inte."
+    ],
+    "notes": "Två nya regeringsdokument öppnades på regeringen.se och kontrollerades även mot de officiella PDF-filerna. Faktapromemoria 2025/26:FPM110 beskriver kommissionens handlingsplan för AI och cybersäkerhet samt regeringens preliminära svenska ståndpunkt. Kommittédirektiv 2026:116 gäller offentlighetsprincipen vid myndigheters användning av AI och externa molntjänster. Båda har lagts till i omvärldsbevakningen och används inte som belägg för enskilda partiers politik."
+  },
+  {
+    "id": "granskning-m-valmanifest-ai-2026-09-07",
+    "partyId": "m",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-07",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "rekyleffekter",
+      "social-hallbarhet",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Manifestet anger inte vilken rättslig modell som avses för medieaktörers upphovsrätt och preciserar inte licensiering eller ersättning vid AI-träning.",
+      "Inriktningen om AI-driven desinformation anger inte ansvarsfördelning, resurser eller avgränsning mot annan cyber- och hybridpåverkan.",
+      "För övriga AI-ämnen hittades inga skrivningar som tydligt ersätter eller ändrar de tidigare dokumenterade positionerna; flera av dessa bygger fortsatt på stämmopropositionerna 2025."
+    ],
+    "notes": "Manifestofärskhetsgranskning av Moderaterna efter publiceringen av det nationella valmanifestet den 1 september 2026. Den officiella manifestsidan och den länkade PDF-filen öppnades; PDF:ens 50 sidor lästes och fulltextsöktes på AI, artificiell intelligens, algoritm, deepfake, digitalisering, automatisering, datacenter, språkmodell, cyber och teknik. Manifestet gav nytt eller kompletterande underlag för demokrati, försvar samt kultur och upphovsrätt. Samtliga 19 befintliga M-positioner färskhetskontrollerades; tre positioner och två förslag har ändrats eller lagts till och publicerats efter automatiserad redaktionell granskning."
+  },
+  {
+    "id": "granskning-c-ai-skolan-2026-09-09",
+    "partyId": "c",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-09",
+    "topicsReviewed": [
+      "utbildning",
+      "barn-unga"
+    ],
+    "unresolvedQuestions": [
+      "Politiksidan anger inte hur det nationella AI-lyftet eller läroplansändringarna ska genomföras, finansieras eller följas upp.",
+      "Sidans publiceringsdatum och senaste ändringsdatum hämtades ur sidans metadata; datumen visas inte i den läsbara sidtexten."
+    ],
+    "notes": "Centerpartiets nationella politiksida om digitalisering och AI i skolan öppnades och lästes i sin helhet. Sidan publicerades enligt metadata den 28 januari 2026 och ändrades den 12 februari 2026. Den tillför konkreta förslag om ett nationellt AI-lyft för lärare, återkommande kompetensutveckling för skolpersonal och uppdaterade läroplaner. Ett nytt förslag har därför lagts till och publicerats efter automatiserad redaktionell granskning. Den redan publicerade C/utbildning-positionen ligger kvar oförändrad eftersom den nya preciseringen redovisas separat."
+  },
+  {
+    "id": "granskning-c-ai-sakerhet-offentlig-sektor-2026-09-09",
+    "partyId": "c",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-09",
+    "topicsReviewed": [
+      "strategi",
+      "offentlig-sektor",
+      "reglering"
+    ],
+    "unresolvedQuestions": [
+      "Nyheten anger inte AI-säkerhetsinstitutets mandat, organisation eller förhållande till befintliga tillsynsmyndigheter.",
+      "Kravet på mänsklig överprövning preciserar inte vilka offentliga beslut som räknas som viktiga eller hur överprövningen ska regleras."
+    ],
+    "notes": "Centerpartiets daterade officiella nyhet från 21 augusti 2026 öppnades och lästes i sin helhet. Den tillför ett förslag om ett oberoende AI-säkerhetsinstitut, regulatoriska sandlådor och en uttrycklig princip om att viktiga beslut om enskilda människor ska kunna överprövas av en människa när AI används i offentlig sektor. En ny källa och två förslag har lagts till och publicerats efter automatiserad redaktionell granskning; befintliga publicerade positioner har inte ändrats."
+  },
+  {
+    "id": "granskning-l-forskningsinvesteringar-ai-2026-09-09",
+    "partyId": "l",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-09",
+    "topicsReviewed": [
+      "naringsliv"
+    ],
+    "unresolvedQuestions": [
+      "Forskningsmålen gäller all forskning och utveckling; nyheten öronmärker inte någon del av beloppen för AI.",
+      "Den öppnade källan anger inte en finansieringsplan för ökningen på drygt 16 miljarder kronor."
+    ],
+    "notes": "Liberalernas officiella nyhet från 11 augusti 2026 öppnades och lästes i sin helhet. Den preciserar den redan dokumenterade forskningsinriktningen med ett mål om statliga FoU-investeringar på 1 procent av BNP, ett samlat nationellt mål på 4 procent och en tidigarelagd forsknings- och innovationsproposition. AI anges uttryckligen som del av det internationella forskningsracet, men satsningen gäller FoU generellt. Källan har kopplats till den befintliga näringslivspositionen och ett nytt förslag har publicerats efter automatiserad redaktionell granskning."
   }
 ]

@@ -3,7 +3,8 @@
 Automatiserad daglig research sköts av en fristående agent ("Hermes") mot
 `docs/HERMES_BRIEF.md` — samma hårda regler som nedan, men skrivet som en
 självständig, körbar instruktion (källdiet per parti, dedupe-regler,
-publiceringsgrind via PR, körrapportformat). Den här sidan beskriver
+automatisk redaktionell kontroll, direkt publicering till `main`, verifierad
+driftsättning och körrapportformat). Den här sidan beskriver
 motsvarande arbetsflöde för manuell uppdatering.
 
 ## Uppdateringsfrekvens
@@ -51,6 +52,17 @@ koalitionsavtal, annars kvartalsvis tills nästa valrörelse.
    `any`-typade värden i editorn (t.ex. om `.astro/types.d.ts` av misstag
    faller ur `tsconfig.json`s `include`, vilket händer tyst och utan
    byggfel).
+9. **Publicera direkt till `main`:** kräv ren arbetskatalog, kör `git fetch
+   origin`, `git checkout main` och `git pull --ff-only origin main`. Skapa
+   ingen gren eller pull request. Committa och pusha först när hela testkedjan
+   är grön; force-push är förbjuden.
+10. **Verifiera den publicerade versionen:** kontrollera att lokalt SHA är
+    samma som `origin/main`, invänta en lyckad Vercel Production-deployment
+    för exakt detta SHA och kontrollera därefter att
+    `https://ai-valet.vercel.app/` svarar med HTTP 200. Skicka notis först då.
+    Om en källa eller formulering kräver verklig bedömning ska posten inte
+    publiceras; rapportera undantaget i stället. Rutinmässiga, tydliga fynd
+    kräver inte manuell förhandsgranskning.
 
 ## Att lägga till ett nytt parti (t.ex. om ett nytt parti tar sig in i riksdagen)
 
