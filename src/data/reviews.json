@@ -961,5 +961,38 @@
       "Socialdemokraternas valprogram 2026 kan fortfarande inte öppnas som primärkälla; dess eventuella AI-skrivningar har därför inte bedömts."
     ],
     "notes": "Färskhetsgranskning av Socialdemokraternas officiella AI-sida. Sidan öppnades och lästes; den är uppdaterad 13 augusti 2026 och innehåller en uttrycklig skrivning om att vårdens uppdrag ska omfatta teknisk utveckling med AI och innovation som underlättar personalens arbete. Samma URL fanns redan i datamängden och uppdaterades därför i stället för att dupliceras. Vårdpositionen kompletterades med den nya formuleringen. Detta är ett kompletterande belägg för en redan publicerad position, inte en ny partiposition."
+  },
+  {
+    "id": "granskning-s-valprogram-ai-2026-09-10",
+    "partyId": "s",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-10",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "rekyleffekter",
+      "social-hallbarhet",
+      "byggd-miljo"
+    ],
+    "unresolvedQuestions": [
+      "Valprogrammet anger inte hur det svenska AI-programmet ska utformas, vilka som ska omfattas eller hur det ska finansieras.",
+      "Skrivningen om krav vid energiintensiva etableringar som datacenter preciserar inte vilka krav som avses eller hur samhällsnytta ska bedömas.",
+      "Valprogrammet anger inte uttryckligen om det ersätter valplattformen Plan för Sverige; båda källorna behålls därför som aktuella valpolitiska dokument."
+    ],
+    "notes": "Socialdemokraternas officiella valprogram 2026, presenterat den 1 september, öppnades via partiets valsida, laddades ner som PDF och fulltextsöktes på 21 sidor. Samtliga 19 S-positioner färskhetskontrollerades. Programmet tillför ett konkret förslag om ett svenskt AI-program och kompletterande belägg för sex redan publicerade positioner: strategi, arbetsmarknad, utbildning, näringsliv, offentlig sektor och AI:s miljöavtryck. Det nya förslaget väntar på redaktionell granskning; de befintliga positionernas sakuppgifter har inte ändrats."
   }
 ]
