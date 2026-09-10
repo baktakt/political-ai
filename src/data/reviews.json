@@ -1145,5 +1145,19 @@
       "Valmanifestet anger inte uttryckligen om det ersätter Vänsterpartiets valplattform från juni 2026; båda dokumenten behålls därför som aktuella valpolitiska källor."
     ],
     "notes": "Vänsterpartiets officiella nyhet om valmanifestet, publicerad den 8 september 2026, öppnades via partiets officiella RSS-flöde. Den länkade PDF-filen laddades ner från partiets webbplats, verifierades som ett 21-sidigt valmanifest och fulltextsöktes efter AI, artificiell intelligens, algoritm, deepfake, digitalisering, automatisering, datacenter, språkmodell, maskininlärning och robot. Inga träffar hittades. Samtliga 19 V-positioner färskhetskontrollerades utan att någon ny eller ändrad AI-ståndpunkt kunde beläggas. Den redaktionella kontrollen bekräftade neutral formulering, korrekt partitillskrivning och att manifestet inte används som stöd för sakpåståenden som det inte innehåller."
+  },
+  {
+    "id": "granskning-manifestobevakning-s-teknikchef-2026-09-11",
+    "partyId": "s",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-11",
+    "topicsReviewed": [
+      "strategi",
+      "offentlig-sektor"
+    ],
+    "unresolvedQuestions": [
+      "Svenska Dagbladet rapporterar den 10 september 2026 att Socialdemokraterna vill inrätta en teknikchef för AI och elektrifiering i Regeringskansliet. Artikeln är låst efter ingressen, och någon öppen officiell partikälla med förslagets uppgifter hittades inte. Uppgiften har därför inte lagts till som partiposition eller förslag."
+    ],
+    "notes": "Nationella manifest och manifestosidor kontrollerades två dagar före valet. Officiella dokument för C, KD, L, M, MP, S och SD öppnades eller laddades ner; Vänsterpartiets oförändrade manifestlänk blockerades av Cloudflare i denna körning men samma dokument verifierades den 10 september. Inget nytt nationellt manifest eller någon ny AI-skrivning identifierades jämfört med tidigare granskningar. En ny medieuppgift om ett S-förslag till teknikchef för AI och elektrifiering öppnades hos Svenska Dagbladet, men fulltexten är betalväggsskyddad. Sökning på socialdemokraterna.se och partiets öppna nyhets- och pressidor gav ingen officiell bekräftelse."
   }
 ]

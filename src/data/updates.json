@@ -453,5 +453,12 @@
     "title": "Vänsterpartiets valmanifest 2026 har granskats för AI-frågor",
     "description": "Det nationella valmanifestet från den 8 september har öppnats och fulltextsökts. Dokumentet innehåller inga AI-relaterade skrivningar och ändrar därför inte Vänsterpartiets tidigare dokumenterade positioner.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-11-manifestobevakning-s-teknikchef",
+    "date": "2026-09-11",
+    "title": "Manifestobevakning före valet genomförd",
+    "description": "Riksdagspartiernas nationella manifest har färskhetskontrollerats utan nya AI-skrivningar; Vänsterpartiets oförändrade manifestlänk blockerades i denna körning men dokumentet verifierades föregående dag. En medieuppgift om en socialdemokratisk teknikchef för AI och elektrifiering har inte lagts till eftersom den öppnade artikeln är låst och någon öppen officiell partikälla inte hittades.",
+    "type": "innehall"
   }
 ]
