@@ -439,5 +439,12 @@
     "title": "Socialdemokraternas förslag om energiintensiva datacenter har lagts till",
     "description": "Valprogrammet kopplar ny teknik, inklusive AI, till ett förslag om att kunna ställa krav vid energiintensiva etableringar som datacenter. Vilka krav som avses är inte preciserat.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-10-kd-ai-sida-farskhet",
+    "date": "2026-09-10",
+    "title": "Kristdemokraternas AI-sida har färskhetsgranskats",
+    "description": "Kristdemokraternas officiella AI-sida är uppdaterad den 27 augusti 2026. Den bekräftar de redan publicerade uppgifterna om AI-strategi, jobb och företag; inga nya konkreta förslag eller ändrade partipolitiska uppgifter har lagts till.",
+    "type": "innehall"
   }
 ]

@@ -122,7 +122,7 @@
       "gov-ai-strategi-pm-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-08-25"
+    "lastUpdatedAt": "2026-09-10"
   },
   {
     "id": "mp-arbetsmarknad",
@@ -1012,12 +1012,12 @@
     "evidenceTypes": [
       "partiprogram"
     ],
-    "confidenceExplanation": "Kristdemokraternas officiella AI-sida är en aktuell partikälla, senast uppdaterad 5 augusti 2026, och ger en uttrycklig generell AI-inriktning. Avsaknaden av konkreta styrmedel, ansvariga aktörer och finansiering motiverar klassningen generell dokumenterad snarare än tydlig och detaljerad.",
+    "confidenceExplanation": "Kristdemokraternas officiella AI-sida är en aktuell partikälla, senast uppdaterad 27 augusti 2026, och ger en uttrycklig generell AI-inriktning. Avsaknaden av konkreta styrmedel, ansvariga aktörer och finansiering motiverar klassningen generell dokumenterad snarare än tydlig och detaljerad.",
     "sourceIds": [
       "kd-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-08-25"
+    "lastUpdatedAt": "2026-09-10"
   },
   {
     "id": "kd-utbildning",
@@ -1047,7 +1047,7 @@
       "kd-webb-ai-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-08-25"
+    "lastUpdatedAt": "2026-09-10"
   },
   {
     "id": "kd-integritet",
