@@ -1005,6 +1005,21 @@
     "isCurrent": true
   },
   {
+    "id": "v-valmanifest-2026-september",
+    "title": "Vänsterpartiets valmanifest 2026",
+    "publisher": "Vänsterpartiet (vansterpartiet.se)",
+    "author": null,
+    "publicationDate": "2026-09-08",
+    "url": "https://www.vansterpartiet.se/wp-content/uploads/2026/09/Valmanifest_2026_WEBB-2.pdf",
+    "accessedAt": "2026-09-10",
+    "sourceType": "valmanifest",
+    "excerpt": null,
+    "supportExplanation": "Vänsterpartiets officiella valmanifest inför riksdagsvalet 2026. PDF-filens 21 sidor öppnades och fulltextsöktes efter AI-relaterade termer utan träffar. Källan används som färskhetsunderlag och inte som belägg för en AI-ståndpunkt.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
+  },
+  {
     "id": "s-valplattform-2026",
     "title": "Plan för Sverige",
     "publisher": "Socialdemokraterna (socialdemokraterna.se)",

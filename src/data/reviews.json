@@ -1114,5 +1114,36 @@
     ],
     "unresolvedQuestions": [],
     "notes": "Färskhetsgranskning av Kristdemokraternas officiella AI-sida. Sidan öppnades och lästes i sin helhet; den anger nu senast uppdaterad 27 augusti 2026. Innehållet stämmer med den redan dokumenterade generella inriktningen om innovation, välfärd, jobb, företag, ansvar, tillit, kompetens och mänskligt omdöme. Inga nya konkreta förslag eller ändrade partipolitiska uppgifter påträffades. Källans datum och åtkomstdatum samt berörda positionsposters granskningsdatum uppdaterades."
+  },
+  {
+    "id": "granskning-v-valmanifest-ai-2026-09-10",
+    "partyId": "v",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-10",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "utbildning",
+      "naringsliv",
+      "offentlig-sektor",
+      "vard-omsorg",
+      "integritet",
+      "demokrati",
+      "forsvar",
+      "kultur-upphovsratt",
+      "reglering",
+      "suveranitet",
+      "jamlikhet",
+      "barn-unga",
+      "miljoavtryck",
+      "hallbarhetsverktyg",
+      "byggd-miljo",
+      "rekyleffekter",
+      "social-hallbarhet"
+    ],
+    "unresolvedQuestions": [
+      "Valmanifestet anger inte uttryckligen om det ersätter Vänsterpartiets valplattform från juni 2026; båda dokumenten behålls därför som aktuella valpolitiska källor."
+    ],
+    "notes": "Vänsterpartiets officiella nyhet om valmanifestet, publicerad den 8 september 2026, öppnades via partiets officiella RSS-flöde. Den länkade PDF-filen laddades ner från partiets webbplats, verifierades som ett 21-sidigt valmanifest och fulltextsöktes efter AI, artificiell intelligens, algoritm, deepfake, digitalisering, automatisering, datacenter, språkmodell, maskininlärning och robot. Inga träffar hittades. Samtliga 19 V-positioner färskhetskontrollerades utan att någon ny eller ändrad AI-ståndpunkt kunde beläggas. Den redaktionella kontrollen bekräftade neutral formulering, korrekt partitillskrivning och att manifestet inte används som stöd för sakpåståenden som det inte innehåller."
   }
 ]

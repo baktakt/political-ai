@@ -183,11 +183,7 @@ med sökvägar.
   valplattform 2026 innehåller fortsatt inga AI-skrivningar enligt tidigare
   fulltextsökning. SD kompletterades 2026-07-24 för integritet,
   försvar/cybersäkerhet, barn och unga samt jämlikhet/digital delaktighet
-  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades samma dag; dokumentet innehåller inga separata AI-skrivningar och ändrar därför inte de befintliga S-positionerna. Socialdemokraternas valprogram 2026 öppnades och fulltextsöktes 2026-09-10; det tillför ett förslag om ett svenskt AI-program och kompletterande belägg för sex redan publicerade positioner. Det nya förslaget väntar på redaktionell granskning. Inget heltäckande valmanifest från M, KD eller MP för 2026 kunde
-  verifieras via testade URL:er dessa körningar. Moderaternas officiella
-  sida med vallöften 2026 öppnades och granskades 2026-07-25; den åtkomliga
-  versionen innehåller inga AI-skrivningar och är en löpande vallöftessida,
-  inte en verifierad heltäckande valplattform. Övriga ämnen återstår.
+  utifrån samma kommittémotion 2024/25:1424. Vänsterpartiets valplattform 2026 publicerades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Partiets senare valmanifest, presenterat 2026-09-08, öppnades och fulltextsöktes 2026-09-10 och innehåller inte heller några AI-relaterade skrivningar. Socialdemokraternas valplattform Plan för Sverige verifierades och granskades 2026-07-25; dokumentet innehåller inga separata AI-skrivningar. Socialdemokraternas valprogram 2026 öppnades och fulltextsöktes 2026-09-10; det tillför ett publicerat förslag om ett svenskt AI-program och kompletterande belägg för sex redan publicerade positioner. Nationella valmanifest för M, KD och MP har också öppnats och fulltextsökts under augusti–september 2026. M:s manifest tillför underlag om demokrati, försvar samt kultur och upphovsrätt, medan KD:s och MP:s manifest inte innehåller uttryckliga AI-skrivningar.
 
 ## Nästa steg för att stänga luckorna
 
