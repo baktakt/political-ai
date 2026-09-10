@@ -994,5 +994,18 @@
       "Valprogrammet anger inte uttryckligen om det ersätter valplattformen Plan för Sverige; båda källorna behålls därför som aktuella valpolitiska dokument."
     ],
     "notes": "Socialdemokraternas officiella valprogram 2026, presenterat den 1 september, öppnades via partiets valsida, laddades ner som PDF och fulltextsöktes på 21 sidor. Samtliga 19 S-positioner färskhetskontrollerades. Programmet tillför ett konkret förslag om ett svenskt AI-program och kompletterande belägg för sex redan publicerade positioner: strategi, arbetsmarknad, utbildning, näringsliv, offentlig sektor och AI:s miljöavtryck. Det nya förslaget väntar på redaktionell granskning; de befintliga positionernas sakuppgifter har inte ändrats."
+  },
+  {
+    "id": "granskning-kd-ai-sida-farskhet-2026-09-10",
+    "partyId": "kd",
+    "reviewer": "Hermes Agent (AI-assisterad research)",
+    "reviewDate": "2026-09-10",
+    "topicsReviewed": [
+      "strategi",
+      "arbetsmarknad",
+      "naringsliv"
+    ],
+    "unresolvedQuestions": [],
+    "notes": "Färskhetsgranskning av Kristdemokraternas officiella AI-sida. Sidan öppnades och lästes i sin helhet; den anger nu senast uppdaterad 27 augusti 2026. Innehållet stämmer med den redan dokumenterade generella inriktningen om innovation, välfärd, jobb, företag, ansvar, tillit, kompetens och mänskligt omdöme. Inga nya konkreta förslag eller ändrade partipolitiska uppgifter påträffades. Källans datum och åtkomstdatum samt berörda positionsposters granskningsdatum uppdaterades."
   }
 ]

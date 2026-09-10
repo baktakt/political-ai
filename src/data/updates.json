@@ -390,5 +390,12 @@
     "title": "Socialdemokraternas valprogram 2026 har granskats för AI-frågor",
     "description": "Valprogrammet innehåller ett förslag om ett svenskt AI-program och kompletterar sex redan publicerade positioner om bland annat arbetsmarknad, investeringar, offentlig förvaltning och datacenter. Det nya förslaget väntar på redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-10-kd-ai-sida-farskhet",
+    "date": "2026-09-10",
+    "title": "Kristdemokraternas AI-sida har färskhetsgranskats",
+    "description": "Kristdemokraternas officiella AI-sida är uppdaterad den 27 augusti 2026. Den bekräftar de redan publicerade uppgifterna om AI-strategi, jobb och företag; inga nya konkreta förslag eller ändrade partipolitiska uppgifter har lagts till.",
+    "type": "innehall"
   }
 ]
