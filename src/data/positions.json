@@ -1069,21 +1069,22 @@
     "partyId": "c",
     "topicId": "utbildning",
     "summary": "Centerpartiet vill satsa på AI-kompetens i hela utbildningssystemet och genom folkbildning. Partiet vill att jobb- och utbildningspolitiken läggs om för AI-eran och kopplar högre utbildning, livslångt lärande och forskning till Sveriges AI-förmåga.",
-    "detailedPosition": "Centerpartiets AI-sida anger att partiet vill satsa på utbildning och kompetens så att fler kan jobba med och förstå AI, bland annat genom grundskola, gymnasieskola, universitet, bibliotek och civilsamhälle. I valmanifestet 2026 vill partiet lägga om jobb- och utbildningspolitiken för AI-eran och skapa löpande analys och reformförslag utifrån AI:s påverkan på arbetsmarknaden och utbildningssystemet. Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar på ett nationellt kunskapslyft om användningen av artificiell intelligens. Kommittémotionen En högre utbildning för en stärkt kompetensnation (2025/26:3189) kopplar AI till arbetsmarknad, geopolitik, högre utbildning och forskning. Tolkning: Centerpartiets utbildningslinje är bred kompetensförsörjning och livslångt lärande snarare än detaljerade regler om generativ AI vid prov, fusk eller elevdata.",
+    "detailedPosition": "Centerpartiets AI-sida anger att partiet vill satsa på utbildning och kompetens så att fler kan jobba med och förstå AI, bland annat genom grundskola, gymnasieskola, universitet, bibliotek och civilsamhälle. I valmanifestet 2026 vill partiet lägga om jobb- och utbildningspolitiken för AI-eran och skapa löpande analys och reformförslag utifrån AI:s påverkan på arbetsmarknaden och utbildningssystemet. Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar på ett nationellt kunskapslyft om användningen av artificiell intelligens. Kommittémotionen En högre utbildning för en stärkt kompetensnation (2025/26:3189) kopplar AI till arbetsmarknad, geopolitik, högre utbildning och forskning. Ett vallöfte den 4 september 2026 tillför en miljard kronor per år i stipendier och forskningsmedel för att universitet och högskolor ska kunna rekrytera internationella topptalanger, bygga starkare forskargrupper och utveckla AI. Tolkning: Centerpartiets utbildningslinje är bred kompetensförsörjning och livslångt lärande snarare än detaljerade regler om generativ AI vid prov, fusk eller elevdata.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "valmanifest",
       "motion"
     ],
-    "confidenceExplanation": "Klassningen bygger på Centerpartiets valmanifest 2026, partiets AI-sida och två kommittémotioner. Källorna innehåller konkreta yrkanden om nationellt AI-kunskapslyft och omlagd jobb- och utbildningspolitik för AI-eran, men saknar detaljer om examination och klassrumsanvändning.",
+    "confidenceExplanation": "Klassningen bygger på Centerpartiets valmanifest 2026, partiets AI-sida, två kommittémotioner och ett daterat vallöfte om forskningsmedel. Källorna innehåller konkreta förslag om nationellt AI-kunskapslyft, omlagd jobb- och utbildningspolitik för AI-eran samt rekrytering av internationella topptalanger, men saknar detaljer om examination och klassrumsanvändning.",
     "sourceIds": [
       "c-valmanifest-2026",
       "c-webb-ai",
       "c-mot-2025-2832",
-      "c-mot-2025-3189"
+      "c-mot-2025-3189",
+      "c-nyhet-ai-forskare-entreprenorer-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-21"
+    "lastUpdatedAt": "2026-09-11"
   },
   {
     "id": "c-offentlig-sektor",
@@ -2285,20 +2286,21 @@
     "id": "c-naringsliv",
     "partyId": "c",
     "topicId": "naringsliv",
-    "summary": "Centerpartiet vill satsa tre miljarder kronor på ett nationellt AI-center för att locka internationella AI-forskare. Partiet kopplar satsningen till forskning, praktisk tillämpning, kommersialisering och AI-relaterad tillväxt.",
-    "detailedPosition": "Centerpartiets officiella nyhet från den 9 december 2025 anger att partiet vill satsa tre miljarder kronor för att inrätta ett nationellt AI-center. Enligt texten ska centret locka internationella toppforskare och ha fokus på praktisk testning, utvärdering och tillämpning av AI i europeisk kontext. Partiet beskriver också ett nära samarbete mellan universitet och företag och att satsningen ska främja kommersialisering och tillväxt inom en framtidsbransch. Partiets AI-sida och valmanifest 2026 innehåller sedan tidigare förslag om ett nationellt AI-center och bättre förutsättningar för svenska företag och forskare. Tolkning: den aktuella nyheten preciserar finansieringsnivån och näringslivskopplingen, men inte centrets organisationsform eller fördelning av medlen.",
+    "summary": "Centerpartiet vill satsa tre miljarder kronor på ett nationellt AI-center och en miljard kronor per år för att rekrytera och behålla entreprenörer och forskare. Partiet kopplar satsningarna till forskning, praktisk tillämpning, kommersialisering och AI-relaterad tillväxt.",
+    "detailedPosition": "Centerpartiets officiella nyhet från den 9 december 2025 anger att partiet vill satsa tre miljarder kronor för att inrätta ett nationellt AI-center. Enligt texten ska centret locka internationella toppforskare och ha fokus på praktisk testning, utvärdering och tillämpning av AI i europeisk kontext. Partiet beskriver också ett nära samarbete mellan universitet och företag och att satsningen ska främja kommersialisering och tillväxt inom en framtidsbransch. Ett vallöfte den 4 september 2026 tillför en miljard kronor per år för att rekrytera och behålla entreprenörer och forskare genom stipendier och forskningsmedel till universitet och högskolor. Partiets AI-sida och valmanifest 2026 innehåller sedan tidigare förslag om ett nationellt AI-center och bättre förutsättningar för svenska företag och forskare. Tolkning: källorna preciserar finansieringsnivåerna och näringslivskopplingen, men inte AI-centrets organisationsform, hur den årliga miljarden ska fördelas eller hur länge den satsningen ska pågå.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "valmanifest"
     ],
-    "confidenceExplanation": "Klassningen bygger på en öppnad officiell Centerparti-nyhet med ett konkret belopp och ett avgränsat förslag om nationellt AI-center, kompletterad av partiets AI-sida och valmanifest 2026. Källorna anger forskning, företagssamverkan och kommersialisering men inte en fullständig genomförandeplan.",
+    "confidenceExplanation": "Klassningen bygger på två öppnade officiella Centerparti-nyheter med konkreta belopp för ett nationellt AI-center respektive rekrytering av forskare och entreprenörer, kompletterade av partiets AI-sida och valmanifest 2026. Källorna anger forskning, företagssamverkan och kommersialisering men inte fullständiga genomförandeplaner.",
     "sourceIds": [
       "c-nyhet-ai-center-2025",
       "c-webb-ai",
-      "c-valmanifest-2026"
+      "c-valmanifest-2026",
+      "c-nyhet-ai-forskare-entreprenorer-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-31"
+    "lastUpdatedAt": "2026-09-11"
   },
   {
     "id": "c-demokrati",

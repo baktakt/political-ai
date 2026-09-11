@@ -1498,5 +1498,20 @@
     "officialPolicy": false,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-nyhet-ai-forskare-entreprenorer-2026",
+    "title": "Centerpartiet presenterar vallöften för att stärka Sveriges konkurrenskraft",
+    "publisher": "Centerpartiet (centerpartiet.se)",
+    "author": null,
+    "publicationDate": "2026-09-04",
+    "url": "https://www.centerpartiet.se/nyheter/arkiv-2026/2026-09-04-centerpartiet-presenterar-valloften-for-att-starka-sveriges-konkurrenskraft",
+    "accessedAt": "2026-09-11",
+    "sourceType": "partiwebb",
+    "excerpt": "Centerpartiet vill lägga en miljard årligen på att rekrytera och behålla både entreprenörer och de bästa forskarna i världen.",
+    "supportExplanation": "Centerpartiets daterade officiella nyhet presenterar ett vallöfte om en miljard kronor per år för att rekrytera och behålla entreprenörer och forskare. Satsningen ska enligt sidan bestå av stipendier och forskningsmedel till universitet och högskolor för internationella topptalanger, starkare forskargrupper och AI-utveckling.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]
