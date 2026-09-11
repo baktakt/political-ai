@@ -1483,5 +1483,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "kd-ebba-busch-ai-debatt-2026",
+    "title": "Ebba Busch: Ta kontroll över AI",
+    "publisher": "Dagens industri",
+    "author": "Ebba Busch (KD)",
+    "publicationDate": "2026-09-09",
+    "url": "https://www.di.se/debatt/ebba-busch-ta-kontroll-over-ai/",
+    "accessedAt": "2026-09-11",
+    "sourceType": "uttalande",
+    "excerpt": "Därför vill vi att Finansdepartementet ska redovisa scenarier fram till 2035 för hur AI påverkar jobb, löner, skatteintäkter, pensioner och välfärdens finansiering.",
+    "supportExplanation": "Debattartikel av KD-ledaren Ebba Busch. Den belägger hennes förslag om stresstest av statsbudgeten, en svensk AI-beredning, en bred människogaranti vid AI-användning samt nordisk kapacitet och egna alternativ. Dagens industri anger att åsikterna är skribentens egna; källan behandlas därför som ett företrädaruttalande, inte som beslutat partiprogram.",
+    "officialPolicy": false,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

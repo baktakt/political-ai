@@ -467,5 +467,12 @@
     "title": "Nytt regeringsuppdrag om AI-stödd nationell cybersäkerhet",
     "description": "Regeringens uppdrag till FRA och Försvarsmakten om att undersöka och inleda en pilot för en AI-stödd nationell cybersäkerhetsförmåga har lagts till i omvärldsbevakningen. Uppdraget beskriver regeringspolitik och inte ett enskilt partis ståndpunkt.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-11-kd-ebba-busch-ai-forslag",
+    "date": "2026-09-11",
+    "title": "KD-ledarens nya AI-förslag har granskats",
+    "description": "Ebba Busch föreslår stresstest av statsbudgeten för AI:s effekter, en människogaranti vid AI-användning och nordisk egen kapacitet. Förslagen redovisas som företrädaruttalanden eftersom de publicerats i en debattartikel och inte verifierats i ett beslutat partidokument.",
+    "type": "innehall"
   }
 ]

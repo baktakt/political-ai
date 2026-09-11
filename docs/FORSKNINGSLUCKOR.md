@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-09-10**. Detta dokument räknas som en del av
+Statusen är **2026-09-11**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -34,9 +34,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   M/offentlig sektor, M/reglering, M/försvar och M/hållbarhetsverktyg efter
   fortsatt granskning av samma stämmohandlingar, samt M/demokrati utifrån partiets nyhet om kränkande deepfakes, samt M/integritet (regeringspolitik), M/byggd miljö samt M/miljöavtryck och M/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt KD/strategi, KD/utbildning,
   KD/näringsliv, KD/integritet, KD/offentlig sektor, KD/vård,
-  KD/demokrati och KD/försvar där inga egna partinivåpositioner
-  hittades, samt KD/kultur-upphovsrätt, KD/suveränitet, KD/miljöavtryck och
-  KD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt
+  KD/demokrati och KD/försvar där inga egna partinivåpositioner först
+  hittades, samt KD/kultur-upphovsrätt, KD/miljöavtryck och KD/rekyleffekter
+  där inga dokumenterade partinivåpositioner hittades; KD/offentlig sektor
+  och KD/suveränitet har senare kompletterats med företrädaruttalanden, samt
   SD/strategi, SD/utbildning, SD/offentlig sektor och
   SD/reglering, SD/näringsliv, SD/demokrati och SD/suveränitet samt
   SD/integritet, SD/försvar, SD/barn-unga och SD/jämlikhet utifrån
@@ -91,13 +92,20 @@ granskades 2026-08-02 utan dokumenterad partinivåposition; den nya AI-träffen
 - **C / försvar:** ingen dokumenterad partinivåposition om militär AI,
   autonoma vapensystem eller AI-specifikt cyberförsvar hittades. Partiets
   cybersäkerhetssida har digitala försvarsförslag utan uttrycklig AI-koppling.
-- **KD / arbetsmarknad:** ingen egen partiposition hittades; endast
-  regeringens gemensamma AI-strategi (där KD:s civilminister är ansvarigt
-  statsråd) är dokumenterad.
-- **KD / strategi, utbildning, näringsliv, integritet, offentlig sektor,
-  demokrati och försvar:** inga egna partinivåpositioner hittades i
-  granskade partikanaler och Riksdagens öppna data. Relevanta träffar var
-  regeringspolitik eller enskilda motioner, inte KD-partilinje.
+- **KD / arbetsmarknad:** partiets AI-sida anger en generell inriktning om
+  nya jobb. KD-ledaren Ebba Buschs debattartikel den 9 september 2026
+  tillför förslag om ett statsbudgetstresstest för AI:s effekter och en
+  svensk AI-beredning. Förslagen är företrädaruttalanden, inte verifierade
+  som beslutade partidokument. Regeringens gemensamma AI-strategi redovisas
+  separat som regeringspolitik.
+- **KD / strategi, utbildning, näringsliv, integritet, demokrati och
+  försvar:** inga egna partinivåpositioner hittades i tidigare granskade
+  partikanaler och Riksdagens öppna data. Relevanta träffar var
+  regeringspolitik eller enskilda motioner, inte KD-partilinje. KD-ledaren
+  Ebba Buschs debattartikel den 9 september 2026 tillför företrädaruttalanden
+  om arbetsmarknadsberedskap, en människogaranti vid AI-användning i offentlig
+  sektor samt nordisk egen kapacitet och leverantörsberoende. Uppgifterna är
+  inte verifierade som beslutade partidokument.
 - **KD / vård och omsorg:** Kristdemokraternas sjukvårdspolitiska program,
   beslutat av rikstinget 2025, har en dokumenterad AI-koppling till hälsodata,
   EHDS och diagnostik. Programmet anger inte modeller för klinisk validering,

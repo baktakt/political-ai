@@ -108,21 +108,23 @@
     "id": "kd-arbetsmarknad",
     "partyId": "kd",
     "topicId": "arbetsmarknad",
-    "summary": "Kristdemokraterna skriver att AI och digital teknik kan skapa nya jobb och att medborgare ska kunna använda tekniken kritiskt och konstruktivt. Partiets AI-sida anger däremot inga konkreta förslag om omställning, kompetensinsatser eller arbetsvillkor. Regeringens AI-strategi redovisas separat som regeringspolitik.",
-    "detailedPosition": "Kristdemokraternas officiella AI-sida beskriver AI och digital teknik som verktyg som kan skapa nya jobb och företag. Den anger också att medborgare ska ha god förståelse för AI och kunna använda tekniken kritiskt och konstruktivt. Sidan innehåller inga konkreta förslag om utbildningsinsatser, omställningssystem, arbetsmarknadens parter eller arbetstagares villkor. Som regeringsparti står KD även bakom Sveriges AI-strategi, som behandlar förändrade arbetsuppgifter, kompetensbehov och omställning. Den delen redovisas som regeringspolitik och ska inte likställas med Kristdemokraternas egen partipolitik.",
-    "evidenceStatus": "generell_dokumenterad",
+    "summary": "Kristdemokraternas AI-sida anger generellt att AI kan skapa nya jobb. I en debattartikel vill KD-ledaren Ebba Busch att statsbudgeten stresstestas mot AI:s effekter på jobb, löner, skatteintäkter, pensioner och välfärdens finansiering fram till 2035 samt att en svensk AI-beredning samlar bland andra arbetsmarknadens parter.",
+    "detailedPosition": "Kristdemokraternas officiella AI-sida beskriver AI och digital teknik som verktyg som kan skapa nya jobb och företag, men innehåller inga konkreta arbetsmarknadsförslag. I en debattartikel den 9 september 2026 skriver partiledaren Ebba Busch att Finansdepartementet bör redovisa scenarier fram till 2035 för AI:s påverkan på jobb, löner, skatteintäkter, pensioner och välfärdens finansiering. Hon vill också samla riksdagspartier, arbetsmarknadens parter, AI-företag, myndigheter och akademi i en svensk AI-beredning för gemensamma spelregler, standarder och långsiktig beredskap. Dagens industri anger att åsikterna är skribentens egna; de nya förslagen redovisas därför som ett företrädaruttalande och inte som beslutad partipolitik. Regeringens AI-strategi redovisas separat som regeringspolitik.",
+    "evidenceStatus": "uttalande_foretradare",
     "evidenceTypes": [
       "partiprogram",
+      "enskilt_uttalande",
       "regeringspolitik"
     ],
-    "confidenceExplanation": "Den officiella AI-sidan belägger en egen generell KD-inriktning om jobb och AI-kompetens men saknar konkreta arbetsmarknadsförslag. Regeringens AI-strategi är öppnad och relevant men hålls uttryckligen isär som regeringspolitik. Därför klassas partiets egen position som generell dokumenterad.",
+    "confidenceExplanation": "Den officiella AI-sidan belägger KD:s generella inriktning. De konkreta arbetsmarknadsförslagen kommer från partiledarens egen debattartikel och klassas därför som företrädaruttalande. Regeringens AI-strategi hålls uttryckligen isär som regeringspolitik.",
     "sourceIds": [
       "kd-webb-ai-2026",
+      "kd-ebba-busch-ai-debatt-2026",
       "gov-ai-strategi-2026",
       "gov-ai-strategi-pm-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-09-10"
+    "lastUpdatedAt": "2026-09-11"
   },
   {
     "id": "mp-arbetsmarknad",
@@ -1485,14 +1487,18 @@
     "id": "kd-offentlig-sektor",
     "partyId": "kd",
     "topicId": "offentlig-sektor",
-    "summary": "Ingen egen dokumenterad KD-ståndpunkt om AI i offentlig sektor hittades i de granskade partikällorna.",
-    "detailedPosition": "Granskningen omfattade Kristdemokraternas politik A till Ö, särskilt sidorna Digitalisering, E-hälsa, Offentlig upphandling och relevanta välfärds-/förvaltningssidor, samt Riksdagens öppna data för KD-motioner under riksmötet 2025/26 med söktermer som AI, artificiell intelligens, digitalisering, algoritm och automatiserat beslutsfattande. Ingen partimotion, kommittémotion eller officiell partikälla med KD-ställningstaganden om AI i myndigheter, kommuner, regioner, automatiserade beslut, offentlig upphandling av AI eller mänsklig kontroll påträffades. Frånvaron ska inte tolkas som att partiet är emot sådan användning.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: kristdemokraterna.se Politik A till Ö, särskilt Digitalisering, E-hälsa och Offentlig upphandling; sökningar efter KD-valmanifest 2026; Riksdagens öppna data för parti=KD, riksmöte 2025/26, med 'AI', 'artificiell intelligens', 'digitalisering', 'automatiserat beslutsfattande' och 'algoritm'. Träffarna var enskilda motioner eller saknade direkt AI-koppling på partinivå.",
-    "sourceIds": [],
+    "summary": "KD-ledaren Ebba Busch vill införa en bred människogaranti: rätt till mänsklig kontakt, bedömning och omprövning av beslut när AI används. Förslaget kommer från en debattartikel och är inte belagt i ett beslutat partiprogram.",
+    "detailedPosition": "I en debattartikel den 9 september 2026 skriver KD-ledaren Ebba Busch att AI kan minska administration och förbättra offentlig service, men att ingen ska bli utlämnad till en maskin. Hon föreslår en bred människogaranti med rätt till mänsklig kontakt, bedömning och omprövning av beslut. Artikeln preciserar inte vilka offentliga verksamheter eller beslut garantin ska omfatta eller hur den ska regleras. Dagens industri anger att åsikterna är skribentens egna; uppgiften redovisas därför som ett företrädaruttalande, inte som beslutad partipolitik.",
+    "evidenceStatus": "uttalande_foretradare",
+    "evidenceTypes": [
+      "enskilt_uttalande"
+    ],
+    "confidenceExplanation": "Förslaget är tydligt formulerat av partiledaren i en öppnad debattartikel, men har inte verifierats i ett officiellt partidokument. Klassningen skiljer därför uttalandet från beslutad partipolitik.",
+    "sourceIds": [
+      "kd-ebba-busch-ai-debatt-2026"
+    ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-23"
+    "lastUpdatedAt": "2026-09-11"
   },
   {
     "id": "kd-vard-omsorg",
@@ -2132,14 +2138,18 @@
     "id": "kd-suveranitet",
     "partyId": "kd",
     "topicId": "suveranitet",
-    "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Kristdemokraternas officiella sidor om digitalisering och forskning, samt Riksdagens öppna data för KD under riksmötena 2024/25 och 2025/26. De öppnade sidorna behandlar bland annat digitalisering, akademisk autonomi och forskning, men inte svenska språkmodeller, superdatorer, molnberoende, statlig AI-infrastruktur eller leverantörsberoende. Riksdagssökningarna gav ingen partimotion eller kommittémotion med en avgränsad AI-specifik position. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: Kristdemokraternas öppnade sidor om digitalisering och forskning; Riksdagens öppna data för parti=KD och riksmötena 2024/25–2025/26 med söktermerna artificiell intelligens och AI. Partisidorna kontrollerades också för språkmodell, superdator, moln och data. Ingen partimotion eller kommittémotion med en AI-specifik suveränitetsposition hittades.",
-    "sourceIds": [],
+    "summary": "KD-ledaren Ebba Busch vill att offentlig sektor undviker inlåsning hos enskilda utländska leverantörer, behåller kontrollen över data och kritiska system samt bygger egen kapacitet och egna alternativ tillsammans med de nordiska grannländerna.",
+    "detailedPosition": "I en debattartikel den 9 september 2026 skriver KD-ledaren Ebba Busch att offentlig sektor inte får låsas till enskilda utländska leverantörer eller förlora kontrollen över data och kritiska system. Hon vill att Sverige tillsammans med övriga Norden bygger egen kapacitet och egna alternativ. Artikeln preciserar inte vilken infrastruktur, finansiering eller organisationsform som avses. Dagens industri anger att åsikterna är skribentens egna; uppgiften redovisas därför som ett företrädaruttalande, inte som beslutad partipolitik.",
+    "evidenceStatus": "uttalande_foretradare",
+    "evidenceTypes": [
+      "enskilt_uttalande"
+    ],
+    "confidenceExplanation": "Inriktningen om leverantörsberoende, kontroll över data och nordisk kapacitet är tydligt formulerad av partiledaren, men har inte verifierats i ett officiellt partidokument. Klassningen är därför företrädaruttalande.",
+    "sourceIds": [
+      "kd-ebba-busch-ai-debatt-2026"
+    ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-30"
+    "lastUpdatedAt": "2026-09-11"
   },
   {
     "id": "kd-miljoavtryck",
