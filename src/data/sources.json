@@ -1513,5 +1513,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-nyhet-europeiskt-ai-sakerhetstoppmote-2026",
+    "title": "Centerpartiet vill att Sverige ska samla Europa till toppmöte om AI-säkerhet",
+    "publisher": "Centerpartiet (centerpartiet.se)",
+    "author": null,
+    "publicationDate": "2026-09-10",
+    "url": "https://www.centerpartiet.se/nyheter/arkiv-2026/2026-09-10-centerpartiet-vill-att-sverige-ska-samla-europa-till-toppmote-om-ai-sakerhet",
+    "accessedAt": "2026-09-12",
+    "sourceType": "partiwebb",
+    "excerpt": "Toppmötet ska inte bli ännu en konferens om AI i allmänna ordalag. Det ska ha ett konkret uppdrag: att påbörja arbetet med gemensamma europeiska gränser, tester och beredskap för de mest kraftfulla AI-systemen.",
+    "supportExplanation": "Centerpartiets daterade officiella nyhet innehåller ett förslag om ett europeiskt toppmöte om AI-säkerhet i Stockholm. Mötet ska enligt sidan inleda arbete med gemensamma europeiska gränser, säkerhetstester och beredskap för de mest kraftfulla AI-systemen.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

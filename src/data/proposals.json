@@ -760,15 +760,17 @@
     "partyId": "c",
     "topicIds": [
       "strategi",
-      "reglering"
+      "reglering",
+      "suveranitet"
     ],
-    "title": "Inrätta ett oberoende AI-säkerhetsinstitut",
-    "description": "Centerpartiet föreslår ett oberoende AI-säkerhetsinstitut med uppgift att analysera och utvärdera säkerhetsrisker med AI. Den öppnade källan preciserar inte institutets mandat, organisation eller relation till befintliga tillsynsmyndigheter.",
+    "title": "AI-säkerhetsinstitut och europeiskt toppmöte om AI-säkerhet",
+    "description": "Centerpartiet föreslår ett oberoende svenskt AI-säkerhetsinstitut som ska analysera och utvärdera säkerhetsrisker. Partiet vill också att Sverige tar initiativ till ett europeiskt toppmöte i Stockholm för att inleda arbete med gemensamma europeiska gränser, säkerhetstester och beredskap för de mest kraftfulla AI-systemen. Källorna preciserar inte institutets organisation eller toppmötets beslutsgång och finansiering.",
     "date": "2026-08-21",
     "status": "framlagt",
     "implementationStatus": null,
     "sourceIds": [
-      "c-nyhet-ai-huvudfraga-2026"
+      "c-nyhet-ai-huvudfraga-2026",
+      "c-nyhet-europeiskt-ai-sakerhetstoppmote-2026"
     ],
     "workflowStatus": "publicerad"
   },
