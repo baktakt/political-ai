@@ -154,5 +154,29 @@
     ],
     "workflowStatus": "publicerad",
     "addedAt": "2026-09-07"
+  },
+  {
+    "id": "regeringen-ai-stodd-nationell-cyberformaga-2026",
+    "title": "Uppdrag till Försvarets radioanstalt och Försvarsmakten att analysera och påbörja utvecklingen av en AI-stödd nationell cybersäkerhetsförmåga",
+    "publisher": "Regeringen",
+    "publisherType": "regering",
+    "publicationDate": "2026-09-04",
+    "url": "https://www.regeringen.se/regeringsuppdrag/2026/09/uppdrag-till-forsvarets-radioanstalt-och-forsvarsmakten-att-analysera-och-paborja-utvecklingen-av-en-ai/",
+    "accessedAt": "2026-09-11",
+    "language": "sv",
+    "summary": "Regeringsuppdraget ger Försvarets radioanstalt i uppdrag att undersöka och påbörja utvecklingen av en AI-stödd nationell cybersäkerhetsförmåga. En pilot ska pröva AI-stödda verktyg som stöd till samhällsviktiga verksamheter i privat och offentlig sektor, med stöd av Försvarsmakten.",
+    "keyTakeaways": [
+      "Försvarets radioanstalt ska undersöka förutsättningarna för en AI-stödd nationell cybersäkerhetsförmåga och föreslå hur den kan utvecklas vid Nationellt cybersäkerhetscenter.",
+      "En pilotverksamhet ska ge operativt stöd till samhällsviktiga verksamheter och kan bland annat inriktas på AI-stödd sårbarhetsanalys och testning av skydd.",
+      "Försvarsmakten ska stödja pilotverksamheten, och myndigheterna ska bedöma befintliga verktyg, AI-komponenter och internationella initiativ.",
+      "En delredovisning ska lämnas senast den 30 oktober 2026 och en slutredovisning senast den 29 januari 2027."
+    ],
+    "relatedTopicIds": [
+      "forsvar",
+      "offentlig-sektor",
+      "suveranitet"
+    ],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-09-11"
   }
 ]

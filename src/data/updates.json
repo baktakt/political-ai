@@ -460,5 +460,12 @@
     "title": "Manifestobevakning före valet genomförd",
     "description": "Riksdagspartiernas nationella manifest har färskhetskontrollerats utan nya AI-skrivningar; Vänsterpartiets oförändrade manifestlänk blockerades i denna körning men dokumentet verifierades föregående dag. En medieuppgift om en socialdemokratisk teknikchef för AI och elektrifiering har inte lagts till eftersom den öppnade artikeln är låst och någon öppen officiell partikälla inte hittades.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-11-regeringen-ai-stodd-cyberformaga",
+    "date": "2026-09-11",
+    "title": "Nytt regeringsuppdrag om AI-stödd nationell cybersäkerhet",
+    "description": "Regeringens uppdrag till FRA och Försvarsmakten om att undersöka och inleda en pilot för en AI-stödd nationell cybersäkerhetsförmåga har lagts till i omvärldsbevakningen. Uppdraget beskriver regeringspolitik och inte ett enskilt partis ståndpunkt.",
+    "type": "innehall"
   }
 ]
