@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-09-11**. Detta dokument räknas som en del av
+Statusen är **2026-09-12**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -59,10 +59,10 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
 2 uttryckliga "ingen dokumenterad ståndpunkt" (`byggd-miljo`,
 `rekyleffekter`).
 
-`m` (Moderaterna) — 14 dokumenterade eller indirekt berörda ståndpunkter +
-5 uttryckliga "ingen dokumenterad ståndpunkt" (`kultur-upphovsratt`,
-`suveranitet`, `jamlikhet`, `barn-unga`, `social-hallbarhet`) inom den nu
-fullständigt granskade partiprofilen.
+`m` (Moderaterna) — 14 dokumenterade, indirekt berörda eller
+företrädarbelagda ståndpunkter + 5 uttryckliga "ingen dokumenterad
+ståndpunkt" (`miljoavtryck`, `rekyleffekter`, `jamlikhet`, `barn-unga`,
+`social-hallbarhet`) inom den nu fullständigt granskade partiprofilen.
 
 `l` (Liberalerna) — demokratifrågan har kompletterats 2026-07-29 med ett
 manifestförslag om rättsväsendets verktyg mot kränkande AI-deepfakes.
@@ -98,6 +98,11 @@ granskades 2026-08-02 utan dokumenterad partinivåposition; den nya AI-träffen
   svensk AI-beredning. Förslagen är företrädaruttalanden, inte verifierade
   som beslutade partidokument. Regeringens gemensamma AI-strategi redovisas
   separat som regeringspolitik.
+- **M / AI-suveränitet:** EU-minister Jessica Rosencrantz föreslår i en
+  debattartikel den 4 september 2026 ett AI-råd som ska kartlägga behov av
+  digital infrastruktur och beräkningskapacitet och stärka svensk rådighet.
+  Dagens industri anger att åsikterna är skribentens egna; uppgifterna är
+  därför företrädarbelagda och inte verifierade som beslutad partipolitik.
 - **KD / strategi, utbildning, näringsliv, integritet, demokrati och
   försvar:** inga egna partinivåpositioner hittades i tidigare granskade
   partikanaler och Riksdagens öppna data. Relevanta träffar var

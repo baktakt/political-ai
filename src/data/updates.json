@@ -488,5 +488,12 @@
     "title": "Centerpartiets förslag om europeiskt AI-säkerhetstoppmöte har granskats",
     "description": "Centerpartiet vill att Sverige tar initiativ till ett europeiskt toppmöte om AI-säkerhet i Stockholm. Det befintliga förslaget om AI-säkerhet har kompletterats med uppgifter om gemensamma europeiska gränser, säkerhetstester och beredskap för kraftfulla AI-system efter redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-12-m-ai-rad-foretradaruttalande",
+    "date": "2026-09-12",
+    "title": "Moderat företrädaruttalande om ett AI-råd har granskats",
+    "description": "EU-minister Jessica Rosencrantz (M) föreslår i en debattartikel ett AI-råd för infrastruktur, offentlig AI-användning och kompetensbehov. Uppgifterna redovisas som ett företrädaruttalande och inte som beslutad partipolitik.",
+    "type": "innehall"
   }
 ]

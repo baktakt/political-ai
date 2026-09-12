@@ -850,18 +850,20 @@
     "id": "m-strategi",
     "partyId": "m",
     "topicId": "strategi",
-    "summary": "Moderaterna beskriver AI som en del av ett bredare teknikskifte som Sverige ska bejaka för innovation, konkurrenskraft och nya lösningar. I stämmohandlingarna 2025 föreslås bland annat mer högre utbildning och grundforskning inom AI, fler AI-gästprofessurer, en talangstrategi för AI-spetskompetens och bredare möjligheter att prova AI-verktyg.",
-    "detailedPosition": "Moderaternas stämmohandlingar 2025 anger i handlingsprogrammet att nya teknologier, inte minst artificiell intelligens, ökar behovet av omställning och nya lösningar och att utvecklingen ska bejakas så att företag kan starta och växa i Sverige. I samma dokument beskrivs AI som en teknik som både kan effektivisera uppgifter och öppna nya möjligheter. Stämmohandlingarna innehåller också förslag om att möjliggöra ökad digitalisering och AI-användning genom fler gästprofessurer inom AI, större satsningar på högre utbildning och grundläggande forskning inom AI, en talangstrategi för att attrahera AI-spetskompetens och en särskild satsning på folkbiblioteken för att människor ska kunna prova AI-verktyg. Tolkning: positionen är teknik- och tillväxtinriktad, med kompetensförsörjning och innovationsmiljö som centrala verktyg.",
+    "summary": "Moderaterna beskriver AI som en del av ett bredare teknikskifte som Sverige ska bejaka för innovation, konkurrenskraft och nya lösningar. I en debattartikel föreslår EU-minister Jessica Rosencrantz (M) ett AI-råd med företrädare för näringsliv, akademi och offentlig sektor; förslaget är inte verifierat i ett beslutat partidokument.",
+    "detailedPosition": "Moderaternas stämmohandlingar 2025 anger i handlingsprogrammet att nya teknologier, inte minst artificiell intelligens, ökar behovet av omställning och nya lösningar och att utvecklingen ska bejakas så att företag kan starta och växa i Sverige. I samma dokument beskrivs AI som en teknik som både kan effektivisera uppgifter och öppna nya möjligheter. Stämmohandlingarna innehåller också förslag om fler gästprofessurer inom AI, större satsningar på högre utbildning och grundforskning inom AI, en talangstrategi för AI-spetskompetens och en satsning på folkbibliotek där människor kan prova AI-verktyg. I en debattartikel den 4 september 2026 föreslår EU-minister Jessica Rosencrantz (M) ett AI-råd med företrädare för näringsliv, akademi och offentlig sektor. Dagens industri anger att åsikterna är skribentens egna; AI-rådet redovisas därför som ett företrädarförslag och inte som beslutad partipolitik. Tolkning: den dokumenterade partipositionen är teknik- och tillväxtinriktad, medan AI-rådets mandat endast är beskrivet i företrädaruttalandet.",
     "evidenceStatus": "generell_dokumenterad",
     "evidenceTypes": [
-      "partiprogram"
+      "partiprogram",
+      "enskilt_uttalande"
     ],
-    "confidenceExplanation": "Klassningen bygger på Moderaternas stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, digitalisering, talangstrategi och forskning. Dokumentet är partistyrelsens stämmoproposition; att alla delar antogs i oförändrad form vid arbetsstämman har inte verifierats mot separat öppnad källa.",
+    "confidenceExplanation": "Den generella partipositionen bygger på Moderaternas stämmohandlingar 2025. AI-rådet är tydligt formulerat av EU-minister Jessica Rosencrantz i en öppnad debattartikel, men har inte verifierats i ett beslutat partidokument och klassas därför separat som ett företrädaruttalande.",
     "sourceIds": [
-      "m-stammohandlingar-2025"
+      "m-stammohandlingar-2025",
+      "m-jessica-rosencrantz-ai-rad-debatt-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-21"
+    "lastUpdatedAt": "2026-09-12"
   },
   {
     "id": "m-demokrati",
@@ -937,18 +939,20 @@
     "id": "m-offentlig-sektor",
     "partyId": "m",
     "topicId": "offentlig-sektor",
-    "summary": "Moderaterna vill implementera AI i offentlig sektor för att effektivisera arbete, handläggning och brottsbekämpning. Partiet föreslår gemensam kärninfrastruktur för AI-drivna verktyg i offentlig sektor och en genomlysning av lagar och förordningar för ökad digitalisering och AI-användning.",
-    "detailedPosition": "I stämmohandlingarnas förslag om AI och digitalisering anger Moderaterna att AI ska implementeras i offentlig sektor för att effektivisera arbete, handläggning och brottsbekämpning samt att implementeringen ska följas upp och utvärderas. Förslagsdelen anger också en gemensam kärninfrastruktur för utveckling och leverans av AI-drivna verktyg inom offentlig sektor och en större genomlysning av lagar och förordningar med målet att möjliggöra ökad digitalisering och användning av AI. I en annan proposition nämns modern teknik, exempelvis AI, som verktyg för att granska utgifter hos statliga myndigheter, kommuner och regioner. Tolkning: positionen är tydligt effektiviseringsinriktad; källan preciserar inte hur överklagande, mänsklig kontroll eller ansvar i enskilda automatiserade beslut ska regleras.",
+    "summary": "Moderaterna vill implementera AI i offentlig sektor och föreslår gemensam kärninfrastruktur samt en genomlysning av lagar och förordningar. I en debattartikel vill EU-minister Jessica Rosencrantz (M) att ett AI-råd ser över regler och säkerhetskrav för företag som säljer AI-tjänster till offentlig sektor; detta är ett företrädarförslag.",
+    "detailedPosition": "I stämmohandlingarnas förslag om AI och digitalisering anger Moderaterna att AI ska implementeras i offentlig sektor för att effektivisera arbete, handläggning och brottsbekämpning samt att implementeringen ska följas upp och utvärderas. Förslagsdelen anger också en gemensam kärninfrastruktur för utveckling och leverans av AI-drivna verktyg inom offentlig sektor och en större genomlysning av lagar och förordningar med målet att möjliggöra ökad digitalisering och användning av AI. I en debattartikel den 4 september 2026 vill EU-minister Jessica Rosencrantz (M) att ett föreslaget AI-råd ser över regelverk och säkerhetskrav för företag som vill sälja AI-tjänster till offentlig sektor. Dagens industri anger att åsikterna är skribentens egna; AI-rådet redovisas därför som ett företrädarförslag och inte som beslutad partipolitik. Källorna preciserar inte hur överklagande, mänsklig kontroll eller ansvar i enskilda automatiserade beslut ska regleras.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
-      "partiprogram"
+      "partiprogram",
+      "enskilt_uttalande"
     ],
-    "confidenceExplanation": "Belägget är Moderaternas stämmohandlingar 2025, särskilt proposition 9 med konkreta att-satser om offentlig AI-implementering, kärninfrastruktur, uppföljning och laggenomlysning. Dokumentet är partistyrelsens stämmoproposition; antagen slutversion har inte verifierats separat.",
+    "confidenceExplanation": "Den konkreta partipositionen bygger på Moderaternas stämmohandlingar 2025. Uppgiften om att ett AI-råd ska se över regelverk och säkerhetskrav kommer från EU-minister Jessica Rosencrantz öppnade debattartikel och är inte verifierad i ett beslutat partidokument; den delen klassas som ett företrädaruttalande.",
     "sourceIds": [
-      "m-stammohandlingar-2025"
+      "m-stammohandlingar-2025",
+      "m-jessica-rosencrantz-ai-rad-debatt-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-23"
+    "lastUpdatedAt": "2026-09-12"
   },
   {
     "id": "m-reglering",
@@ -2074,14 +2078,18 @@
     "id": "m-suveranitet",
     "partyId": "m",
     "topicId": "suveranitet",
-    "summary": "Ingen dokumenterad partinivåposition om svensk eller europeisk AI-infrastruktur, språkmodeller eller leverantörsberoende hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Moderaternas stämmohandlingar 2025, Moderaternas politikindex och Riksdagens öppna data för M under riksmötet 2025/26. Stämmohandlingarna behandlar AI-kompetens, forskning och internationell teknikdiplomati, men inte svenska språkmodeller, superdatorer, molnberoende eller statlig AI-infrastruktur. Riksdagsträffarna på artificiell intelligens var enskilda motioner och används inte som partilinje. Frånvaron ska inte tolkas som att partiet är emot sådana satsningar.",
-    "evidenceStatus": "ingen_dokumenterad",
-    "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade: Moderaternas officiella stämmohandlingar 2025, öppnade som PDF och fulltextsökta på AI, artificiell intelligens, språkmodell, infrastruktur, superdator, moln och data; Moderaternas officiella politikindex; samt Riksdagens öppna data för parti=M och riksmötet 2025/26 med söktermerna AI och artificiell intelligens. De direkta AI-träffarna i Riksdagens data var enskilda motioner, inte partimotioner eller kommittémotioner.",
-    "sourceIds": [],
+    "summary": "EU-minister Jessica Rosencrantz (M) vill att ett AI-råd kartlägger Sveriges framtida behov av digital infrastruktur och beräkningskapacitet. Hon kopplar säker offentlig AI-användning till svensk rådighet, digital suveränitet och motståndskraft. Förslaget kommer från en debattartikel och är inte verifierat i ett beslutat partidokument.",
+    "detailedPosition": "I en debattartikel den 4 september 2026 föreslår EU-minister Jessica Rosencrantz (M) ett AI-råd som bland annat ska kartlägga framtida behov av digital infrastruktur och beräkningskapacitet. Rådet ska enligt artikeln även se över krav för etableringar och regler och säkerhetskrav för företag som säljer AI-tjänster till offentlig sektor. Rosencrantz skriver att en bred och säker offentlig AI-användning ska stärka svensk rådighet, digital suveränitet och motståndskraft. Artikeln preciserar inte ägande, finansiering, språkmodeller, molntjänster eller vilka etableringskrav som avses. Dagens industri anger att åsikterna är skribentens egna; uppgifterna redovisas därför som ett företrädaruttalande, inte som beslutad partipolitik.",
+    "evidenceStatus": "uttalande_foretradare",
+    "evidenceTypes": [
+      "enskilt_uttalande"
+    ],
+    "confidenceExplanation": "Förslagen om kartläggning av digital infrastruktur och beräkningskapacitet samt stärkt rådighet och digital suveränitet är tydligt formulerade av EU-minister Jessica Rosencrantz i en öppnad debattartikel. De har inte verifierats i ett officiellt partidokument och klassas därför som företrädaruttalande.",
+    "sourceIds": [
+      "m-jessica-rosencrantz-ai-rad-debatt-2026"
+    ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-29"
+    "lastUpdatedAt": "2026-09-12"
   },
   {
     "id": "m-jamlikhet",

@@ -1219,5 +1219,21 @@
       "Den öppnade källan anger inte hur toppmötet ska beslutas, finansieras eller tidsättas och preciserar inte vilka gränser eller säkerhetstester som ska utvecklas."
     ],
     "notes": "Centerpartiets daterade officiella nyhet från den 10 september 2026 öppnades och lästes i sin helhet. Datum, partiavsändare, föreslaget möte, deltagarkategorier och uppdraget om europeiska gränser, säkerhetstester och beredskap kontrollerades. En ny källa lades till och det befintliga publicerade förslaget om AI-säkerhetsinstitut kompletterades med toppmötet efter redaktionell kontroll av källtrogen återgivning, neutral svenska, korrekt partitillskrivning, synlig primärkälla, kort utdrag och tydlig avgränsning till vad källan faktiskt preciserar."
+  },
+  {
+    "id": "granskning-m-ai-rad-foretradaruttalande-2026-09-12",
+    "partyId": "m",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-12",
+    "topicsReviewed": [
+      "strategi",
+      "offentlig-sektor",
+      "suveranitet"
+    ],
+    "unresolvedQuestions": [
+      "AI-rådet har inte verifierats i ett beslutat partidokument. Dagens industri anger att åsikterna i debattartikeln är skribentens egna; uppgifterna redovisas därför som ett företrädarförslag.",
+      "Artikeln anger inte hur rådet ska utses, finansieras eller organisatoriskt placeras och preciserar inte vilka etableringskrav som ska ses över."
+    ],
+    "notes": "Dagens industris debattartikel av EU-minister Jessica Rosencrantz (M), publicerad den 4 september 2026, öppnades och lästes i sin helhet. Titel, datum, författare, partitillhörighet, artikelns ansvarsmarkering och uppgifterna om ett AI-råd kontrollerades. Rosencrantz partitillhörighet och ministerroll verifierades på Moderaternas officiella webbplats. Moderaternas aktuella manifestsida och den länkade 50-sidiga PDF-filen öppnades och fulltextsöktes; AI-rådet finns inte där. Tre positionsposter granskades först med status behöver redaktionell granskning och publicerades efter kontroll av källtrogen återgivning, neutral svenska, synlig källa och tydlig åtskillnad mellan företrädaruttalande, partimaterial och regeringspolitik. Ingen separat förslagspost publicerades eftersom uppgifterna inte är verifierade i ett beslutat partidokument."
   }
 ]
