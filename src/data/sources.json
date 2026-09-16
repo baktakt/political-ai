@@ -1543,5 +1543,20 @@
     "officialPolicy": true,
     "archivedUrl": null,
     "isCurrent": true
+  },
+  {
+    "id": "c-nyhet-ai-tillvaxt-samarbete-2026",
+    "title": "Centerpartiet och Socialdemokraterna skriver om AI och tillväxt",
+    "publisher": "Centerpartiet (centerpartiet.se)",
+    "author": "Elisabeth Thand Ringqvist (C) och Magdalena Andersson (S)",
+    "publicationDate": "2026-08-20",
+    "url": "https://www.centerpartiet.se/nyheter/arkiv-2026/2026-08-20-centerpartiet-och-socialdemokraterna-skriver-om-ai-och-tillvaxt.",
+    "accessedAt": "2026-09-16",
+    "sourceType": "partiwebb",
+    "excerpt": "Fler AI-testbäddar i offentlig verksamhet är ett konkret steg mot en mer effektiv och likvärdig välfärd.",
+    "supportExplanation": "Centerpartiets daterade officiella nyhet återger en gemensam AI-inriktning från C- och S-ledarna. För Centerpartiet belägger den förslag om fler AI-testbäddar i offentlig verksamhet samt en generell inriktning om stärkt samarbete mellan civila och militära aktörer kring AI.",
+    "officialPolicy": true,
+    "archivedUrl": null,
+    "isCurrent": true
   }
 ]

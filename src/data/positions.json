@@ -1094,22 +1094,23 @@
     "id": "c-offentlig-sektor",
     "partyId": "c",
     "topicId": "offentlig-sektor",
-    "summary": "Centerpartiet vill använda AI och öppna data för smartare myndighetsservice och välfärd. Partiet föreslår öppna offentliga data, strukturerade data och API:er i offentlig sektor samt AI-tillämpningar i vård, skola och myndighetsservice.",
-    "detailedPosition": "På AI-sidan skriver Centerpartiet att AI ska användas för att förbättra välfärden och skapa ett smartare och tryggare Sverige, med exempel som snabbare diagnoser, verktyg för lärare och smidigare myndighetsservice. Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar att offentliga data som utgångspunkt ska vara öppna, att staten ska ta ledarrollen i standarder och strukturerade data/API:er samt att staten utvecklar kompetens i analys och användning av data. Motionen anger att säker lagring av data är viktig men att nytta av data är minst lika viktig för bättre välfärd. Tolkning: partiet vill öka offentlig sektors AI- och dataanvändning, men de öppnade källorna innehåller få detaljer om överklagande, ansvarsfördelning eller upphandling av automatiserade beslut.",
+    "summary": "Centerpartiet vill använda AI och öppna data för smartare myndighetsservice och välfärd. Partiet föreslår öppna offentliga data, strukturerade data och API:er samt fler AI-testbäddar i offentlig verksamhet.",
+    "detailedPosition": "På AI-sidan skriver Centerpartiet att AI ska användas för att förbättra välfärden och skapa ett smartare och tryggare Sverige, med exempel som snabbare diagnoser, verktyg för lärare och smidigare myndighetsservice. Kommittémotionen Digitalisering för hela Sverige (2025/26:2832) yrkar att offentliga data som utgångspunkt ska vara öppna, att staten ska ta ledarrollen i standarder och strukturerade data/API:er samt att staten utvecklar kompetens i analys och användning av data. I en gemensam AI-inriktning från C- och S-ledarna vill Centerpartiet också se fler AI-testbäddar i offentlig verksamhet för en effektivare och mer likvärdig välfärd. Källorna preciserar inte testbäddarnas organisation, finansiering eller urval av verksamheter.",
     "evidenceStatus": "konkret_forslag",
     "evidenceTypes": [
       "motion",
       "valmanifest"
     ],
-    "confidenceExplanation": "Positionen är belagd med partiets AI-sida, valmanifestets AI-avsnitt och kommittémotion 2025/26:2832. Motionen innehåller konkreta yrkanden om öppna data, standarder och API:er; de specifika AI-exemplen i välfärden kommer främst från partiets AI-sida.",
+    "confidenceExplanation": "Positionen är belagd med partiets AI-sida, valmanifestets AI-avsnitt, kommittémotion 2025/26:2832 och en daterad officiell partinyhet. Motionen innehåller konkreta yrkanden om öppna data, standarder och API:er; partinyheten tillför förslaget om fler AI-testbäddar i offentlig verksamhet.",
     "sourceIds": [
       "c-webb-ai",
       "c-valmanifest-2026",
       "c-mot-2025-2832",
-      "c-mot-2025-3581"
+      "c-mot-2025-3581",
+      "c-nyhet-ai-tillvaxt-samarbete-2026"
     ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-21"
+    "lastUpdatedAt": "2026-09-16"
   },
   {
     "id": "c-integritet",
@@ -1872,14 +1873,16 @@
     "id": "c-forsvar",
     "partyId": "c",
     "topicId": "forsvar",
-    "summary": "Ingen dokumenterad C-position om AI i försvar eller cybersäkerhet hittades i de granskade källorna.",
-    "detailedPosition": "Granskningen omfattade Centerpartiets officiella sidor om AI och cybersäkerhet samt Riksdagens öppna data för C-motioner under riksmötet 2025/26 med sökningarna AI, artificiell intelligens, deepfake, datacenter och ansiktsigenkänning. Partiets cybersäkerhetssida innehåller förslag om digitalt försvar, kritisk infrastruktur, cybervärn och etiska hackare, men ingen uttrycklig AI-koppling. De öppnade partinivåmotionerna om AI berörde andra ämnen. Ingen dokumenterad partinivåposition om militär AI, autonoma vapensystem eller AI-specifikt cyberförsvar hittades. Frånvaron ska inte tolkas som att partiet är emot sådana åtgärder.",
-    "evidenceStatus": "ingen_dokumenterad",
+    "summary": "Centerpartiet vill stärka samarbetet mellan civila och militära aktörer kring AI. Partiets öppnade material preciserar inte vilka försvarstillämpningar eller samarbetsformer som avses.",
+    "detailedPosition": "I en gemensam AI-inriktning från C- och S-ledarna skriver Centerpartiet att svensk försvarsindustri redan är världsledande inom AI och att samarbetet mellan civila och militära aktörer ska stärkas. Inriktningen nämner också bättre verktyg för brottsbekämpande myndigheter, med regler som skyddar den personliga integriteten, samt gemensamma regler inom EU och Norden för ansvarsfull AI-användning. Källan innehåller inga avgränsade förslag om militär AI, autonoma vapensystem eller AI-specifikt cyberförsvar.",
+    "evidenceStatus": "generell_dokumenterad",
     "evidenceTypes": [],
-    "confidenceExplanation": "Sökningen omfattade Centerpartiets officiella AI- och cybersäkerhetssidor samt Riksdagens öppna data för parti=C och riksmöte 2025/26 med AI, artificiell intelligens, deepfake, datacenter och ansiktsigenkänning. Relevanta partinivåmotioner öppnades; ingen uttrycklig ståndpunkt om AI i försvar eller cybersäkerhet hittades.",
-    "sourceIds": [],
+    "confidenceExplanation": "Klassningen bygger på Centerpartiets daterade officiella nyhet om en gemensam AI-inriktning från C- och S-ledarna. Den uttrycker en inriktning om civil-militärt AI-samarbete men saknar konkreta åtgärder, finansiering och avgränsning till särskilda försvarstillämpningar.",
+    "sourceIds": [
+      "c-nyhet-ai-tillvaxt-samarbete-2026"
+    ],
     "workflowStatus": "publicerad",
-    "lastUpdatedAt": "2026-07-26"
+    "lastUpdatedAt": "2026-09-16"
   },
   {
     "id": "mp-forsvar",

@@ -1,6 +1,6 @@
 # Forskningsluckor
 
-Statusen är **2026-09-12**. Detta dokument räknas som en del av
+Statusen är **2026-09-16**. Detta dokument räknas som en del av
 transparenskravet: luckor ska redovisas öppet, inte gömmas. Motsvarande
 information är också maskinläsbar direkt i datan (`workflowStatus`,
 frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
@@ -43,7 +43,7 @@ frånvaro av `positions`-poster) och syns på varje part i- och ämnessida som
   SD/integritet, SD/försvar, SD/barn-unga och SD/jämlikhet utifrån
   kommittémotion 2024/25:1424, samt SD/vård, SD/kultur-upphovsrätt,
   SD/miljöavtryck, SD/hållbarhetsverktyg, SD/byggd-miljö och
-  SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg och C/reglering med dokumenterade positioner samt C/försvar, C/miljöavtryck, C/hållbarhetsverktyg och C/rekyleffekter där ingen dokumenterad partinivåposition hittades, samt C/näringsliv och C/demokrati, samt L/barn-unga, L/hållbarhetsverktyg, L/byggd-miljö, L/rekyleffekter och L/social-hållbarhet samt SD/social-hållbarhet där inga dokumenterade partinivåpositioner hittades).
+  SD/rekyleffekter där inga dokumenterade partinivåpositioner hittades, samt C/vård och omsorg, C/reglering och C/försvar med dokumenterade positioner samt C/miljöavtryck, C/hållbarhetsverktyg och C/rekyleffekter där ingen dokumenterad partinivåposition hittades, samt C/näringsliv och C/demokrati, samt L/barn-unga, L/hållbarhetsverktyg, L/byggd-miljö, L/rekyleffekter och L/social-hållbarhet samt SD/social-hållbarhet där inga dokumenterade partinivåpositioner hittades).
 - **Ej granskade:** 0.
 
 ## Ämnen med full pilottäckning (alla 8 partier)
@@ -89,9 +89,11 @@ granskades 2026-08-02 utan dokumenterad partinivåposition; den nya AI-träffen
 - **C / reglering:** kommittémotionen om digitalisering innehåller ett
   GDPR-yrkande för att främja AI-utveckling, men ingen heltäckande modell för
   AI-tillsyn eller AI-förordningens genomförande.
-- **C / försvar:** ingen dokumenterad partinivåposition om militär AI,
-  autonoma vapensystem eller AI-specifikt cyberförsvar hittades. Partiets
-  cybersäkerhetssida har digitala försvarsförslag utan uttrycklig AI-koppling.
+- **C / försvar:** en gemensam AI-inriktning från C- och S-ledarna, återgiven
+  på Centerpartiets officiella webbplats den 20 augusti 2026, anger att
+  samarbetet mellan civila och militära aktörer kring AI ska stärkas. Källan
+  preciserar inte försvarstillämpningar, autonoma vapensystem eller
+  AI-specifikt cyberförsvar.
 - **KD / arbetsmarknad:** partiets AI-sida anger en generell inriktning om
   nya jobb. KD-ledaren Ebba Buschs debattartikel den 9 september 2026
   tillför förslag om ett statsbudgetstresstest för AI:s effekter och en

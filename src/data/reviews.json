@@ -1235,5 +1235,20 @@
       "Artikeln anger inte hur rådet ska utses, finansieras eller organisatoriskt placeras och preciserar inte vilka etableringskrav som ska ses över."
     ],
     "notes": "Dagens industris debattartikel av EU-minister Jessica Rosencrantz (M), publicerad den 4 september 2026, öppnades och lästes i sin helhet. Titel, datum, författare, partitillhörighet, artikelns ansvarsmarkering och uppgifterna om ett AI-råd kontrollerades. Rosencrantz partitillhörighet och ministerroll verifierades på Moderaternas officiella webbplats. Moderaternas aktuella manifestsida och den länkade 50-sidiga PDF-filen öppnades och fulltextsöktes; AI-rådet finns inte där. Tre positionsposter granskades först med status behöver redaktionell granskning och publicerades efter kontroll av källtrogen återgivning, neutral svenska, synlig källa och tydlig åtskillnad mellan företrädaruttalande, partimaterial och regeringspolitik. Ingen separat förslagspost publicerades eftersom uppgifterna inte är verifierade i ett beslutat partidokument."
+  },
+  {
+    "id": "granskning-c-ai-testbaddar-civil-militart-2026-09-16",
+    "partyId": "c",
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-16",
+    "topicsReviewed": [
+      "offentlig-sektor",
+      "forsvar"
+    ],
+    "unresolvedQuestions": [
+      "Den öppnade källan anger inte hur AI-testbäddarna ska organiseras, finansieras eller följas upp.",
+      "Inriktningen om civil-militärt AI-samarbete preciserar inte försvarstillämpningar, ansvarsfördelning eller konkreta åtgärder."
+    ],
+    "notes": "Centerpartiets daterade officiella nyhet från den 20 augusti 2026 öppnades och lästes i sin helhet. Titel, datum, partiavsändare, de två partiledarnas attribution samt skrivningarna om AI-testbäddar och civil-militärt AI-samarbete kontrollerades. En ny källa lades till, C/offentlig sektor kompletterades och den tidigare luckposten C/försvar ersattes med en generell dokumenterad inriktning. Poster granskades först med status behöver redaktionell granskning och publicerades efter kontroll av källtrogen återgivning, neutral svenska, korrekt avgränsning och synlig primärkälla."
   }
 ]

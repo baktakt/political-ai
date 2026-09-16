@@ -495,5 +495,12 @@
     "title": "Moderat företrädaruttalande om ett AI-råd har granskats",
     "description": "EU-minister Jessica Rosencrantz (M) föreslår i en debattartikel ett AI-råd för infrastruktur, offentlig AI-användning och kompetensbehov. Uppgifterna redovisas som ett företrädaruttalande och inte som beslutad partipolitik.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-16-c-ai-testbaddar-civil-militart",
+    "date": "2026-09-16",
+    "title": "Centerpartiets AI-inriktning för offentlig verksamhet och försvar har granskats",
+    "description": "Centerpartiets officiella nyhet om en gemensam AI-inriktning tillför uppgifter om fler AI-testbäddar i offentlig verksamhet och stärkt civil-militärt AI-samarbete. Positionerna har uppdaterats efter redaktionell granskning.",
+    "type": "innehall"
   }
 ]
