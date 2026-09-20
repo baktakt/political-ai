@@ -502,5 +502,12 @@
     "title": "Centerpartiets AI-inriktning för offentlig verksamhet och försvar har granskats",
     "description": "Centerpartiets officiella nyhet om en gemensam AI-inriktning tillför uppgifter om fler AI-testbäddar i offentlig verksamhet och stärkt civil-militärt AI-samarbete. Positionerna har uppdaterats efter redaktionell granskning.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-20-esam-dataanvandning-ai-assistenter",
+    "date": "2026-09-20",
+    "title": "eSams stöd om data för AI-assistenter har lagts till",
+    "description": "Omvärldsbevakningen har kompletterats med eSams rapport om hur myndigheter kan strukturera, kvalitetssäkra och förvalta data för AI-assistenter. Rapporten behandlar bland annat spårbarhet, behörighetsstyrning, filformat, bias och ansvar.",
+    "type": "innehall"
   }
 ]

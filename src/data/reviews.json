@@ -1250,5 +1250,22 @@
       "Inriktningen om civil-militärt AI-samarbete preciserar inte försvarstillämpningar, ansvarsfördelning eller konkreta åtgärder."
     ],
     "notes": "Centerpartiets daterade officiella nyhet från den 20 augusti 2026 öppnades och lästes i sin helhet. Titel, datum, partiavsändare, de två partiledarnas attribution samt skrivningarna om AI-testbäddar och civil-militärt AI-samarbete kontrollerades. En ny källa lades till, C/offentlig sektor kompletterades och den tidigare luckposten C/försvar ersattes med en generell dokumenterad inriktning. Poster granskades först med status behöver redaktionell granskning och publicerades efter kontroll av källtrogen återgivning, neutral svenska, korrekt avgränsning och synlig primärkälla."
+  },
+  {
+    "id": "granskning-esam-dataanvandning-ai-assistenter-2026-09-20",
+    "partyId": null,
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-20",
+    "topicsReviewed": [
+      "offentlig-sektor",
+      "reglering",
+      "integritet",
+      "jamlikhet"
+    ],
+    "unresolvedQuestions": [
+      "Rapporten är ett stöd från eSam och inte bindande reglering eller ett regeringsbeslut.",
+      "Rapporten avgränsas till AI-assistenter och omfattar inte maskininlärning generellt, prediktiva modeller eller andra AI-baserade beslutstöd."
+    ],
+    "notes": "eSams primärrapport ES2026-13 öppnades från den officiella PDF-länken, laddades ned och lästes i fulltext. Titel, utgivare, dokumentnummer, datering till juni 2026, avgränsning och rekommendationer om AI-redo data, spårbarhet, åtkomst, filformat, bias, testning och ansvar kontrollerades. Posten har lagts till i omvärldsbevakningen och används inte som belägg för något partis ståndpunkt. Den redaktionella kontrollen bekräftade neutral svenska, källtrogna sammanfattningar, korrekt ämneskoppling, synlig primärkälla och tydlig åtskillnad mellan stöd och bindande krav."
   }
 ]

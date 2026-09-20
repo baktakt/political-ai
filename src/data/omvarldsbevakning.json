@@ -178,5 +178,31 @@
     ],
     "workflowStatus": "publicerad",
     "addedAt": "2026-09-11"
+  },
+  {
+    "id": "esam-dataanvandning-ai-assistenter-2026",
+    "title": "Dataanvändning i AI-assistenter",
+    "publisher": "eSamverkansprogrammet (eSam)",
+    "publisherType": "myndighet",
+    "publicationDate": "2026-06",
+    "url": "https://www.esamverka.se/download/18.1476b23b1a01f33f8a21bce/1787650618267/ES2026-13+Rapport+Dataanv%C3%A4ndning+i+AI-assistenter.pdf",
+    "accessedAt": "2026-09-20",
+    "language": "sv",
+    "summary": "eSams rapport ES2026-13 ger stöd till myndigheter för att strukturera, förvalta och tillgängliggöra data som ska användas av AI-assistenter. Den behandlar bland annat datakvalitet, metadata, spårbarhet, behörighetsstyrning, filformat, bias, testning och ansvarsfördelning.",
+    "keyTakeaways": [
+      "Rapporten anger att data för AI-assistenter behöver vara korrekt, aktuell, strukturerad, kontextualiserad och försedd med metadata som gör källa, version och rättslig status spårbara.",
+      "Kontrollerade maskinläsbara gränssnitt, särskilt API:er med behörighetsstyrning, versionshantering och loggning, rekommenderas framför fri webbsökning och manuell datahantering.",
+      "Markdown lyfts fram för textbaserat kunskapsinnehåll och JSON för fakta och metadata, medan PDF främst bör behandlas som ett källformat som kräver textutvinning och kvalitetskontroll.",
+      "Rapporten rekommenderar att AI-assistenter i första hand grundar svar på kontrollerad och verksamhetsgodkänd data samt att bias följs upp genom loggning och återkommande utvärdering.",
+      "Informationsägare, informationsförvaltare, tekniska roller, jurister och produktägare ges skilda ansvar för korrekthet, åtkomst, säkerhet, regelefterlevnad och löpande förvaltning."
+    ],
+    "relatedTopicIds": [
+      "offentlig-sektor",
+      "reglering",
+      "integritet",
+      "jamlikhet"
+    ],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-09-20"
   }
 ]
