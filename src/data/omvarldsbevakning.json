@@ -204,5 +204,32 @@
     ],
     "workflowStatus": "publicerad",
     "addedAt": "2026-09-20"
+  },
+  {
+    "id": "digg-samhallskontrakt-digital-omstallning-2026",
+    "title": "Samhällskontrakt i digital samhällsomställning",
+    "publisher": "Myndigheten för digital förvaltning (Digg)",
+    "publisherType": "myndighet",
+    "publicationDate": "2026-09-10",
+    "url": "https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2026-09-10-samhallskontrakt-i-digital--samhallsomstallning",
+    "accessedAt": "2026-09-21",
+    "language": "sv",
+    "summary": "Diggs rapport analyserar hur digitalisering, data och AI påverkar relationen mellan individ, stat, marknad och civilsamhälle. Den behandlar bland annat offentliga tjänster, rättigheter, ansvar, tillit, digital inkludering och den statliga digitala infrastrukturen.",
+    "keyTakeaways": [
+      "Datadelning, interoperabilitet, plattformar och AI kan möjliggöra mer proaktiva, precisa och personcentrerade offentliga tjänster, men väcker samtidigt frågor om insyn, kontroll, rättssäkerhet och ansvar.",
+      "Rapporten framhåller att utvecklingen behöver kombineras med rättighetsskydd, ändamålsstyrning, tillgänglighet, skydd mot diskriminering samt möjlighet till mänsklig kontakt och överprövning.",
+      "Loggning, spårbarhet, förklarbarhet, nyttorevision och tydliga ansvarskedjor lyfts som delar av en bevisbar praxis för legitimitet i digital offentlig verksamhet.",
+      "Ett hållbart digitalt samhällskontrakt kräver enligt rapporten gemensam digital infrastruktur, standardiserade och driftsatta byggblock, tydligare ansvarslinjer och bättre uppföljning.",
+      "Rapporten beskriver data, AI, digital inkludering, digital identitet, datadelning och interoperabilitet som sammanhängande styrningsfrågor snarare än avgränsade teknikfrågor."
+    ],
+    "relatedTopicIds": [
+      "offentlig-sektor",
+      "integritet",
+      "jamlikhet",
+      "reglering",
+      "social-hallbarhet"
+    ],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-09-21"
   }
 ]

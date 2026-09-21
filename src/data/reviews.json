@@ -1267,5 +1267,23 @@
       "Rapporten avgränsas till AI-assistenter och omfattar inte maskininlärning generellt, prediktiva modeller eller andra AI-baserade beslutstöd."
     ],
     "notes": "eSams primärrapport ES2026-13 öppnades från den officiella PDF-länken, laddades ned och lästes i fulltext. Titel, utgivare, dokumentnummer, datering till juni 2026, avgränsning och rekommendationer om AI-redo data, spårbarhet, åtkomst, filformat, bias, testning och ansvar kontrollerades. Posten har lagts till i omvärldsbevakningen och används inte som belägg för något partis ståndpunkt. Den redaktionella kontrollen bekräftade neutral svenska, källtrogna sammanfattningar, korrekt ämneskoppling, synlig primärkälla och tydlig åtskillnad mellan stöd och bindande krav."
+  },
+  {
+    "id": "granskning-digg-samhallskontrakt-2026-09-21",
+    "partyId": null,
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-09-21",
+    "topicsReviewed": [
+      "offentlig-sektor",
+      "integritet",
+      "jamlikhet",
+      "reglering",
+      "social-hallbarhet"
+    ],
+    "unresolvedQuestions": [
+      "Rapporten är en myndighetsanalys och innehåller inte bindande regler eller partipolitiska ställningstaganden.",
+      "Rapporten behandlar digitalisering brett; AI är en av flera tekniker och styrningsfrågor i analysen."
+    ],
+    "notes": "Diggs officiella publikationssida och den länkade primärrapporten öppnades. PDF-filen laddades ned och lästes i fulltext. Titel, myndighetsavsändare, diarienummer 2026-06355, publiceringsdatum, avgränsning och rapportens sammanfattning kontrollerades. Posten har lagts till i omvärldsbevakningen och används inte som belägg för något partis ståndpunkt. Den redaktionella kontrollen bekräftade neutral svenska, källtrogna slutsatser, korrekt ämneskoppling, synlig primärkälla och tydlig åtskillnad mellan analys och bindande krav."
   }
 ]

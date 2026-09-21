@@ -509,5 +509,12 @@
     "title": "eSams stöd om data för AI-assistenter har lagts till",
     "description": "Omvärldsbevakningen har kompletterats med eSams rapport om hur myndigheter kan strukturera, kvalitetssäkra och förvalta data för AI-assistenter. Rapporten behandlar bland annat spårbarhet, behörighetsstyrning, filformat, bias och ansvar.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-09-21-digg-digitalt-samhallskontrakt",
+    "date": "2026-09-21",
+    "title": "Diggs analys av ett digitalt samhällskontrakt har lagts till",
+    "description": "Omvärldsbevakningen har kompletterats med Diggs rapport om hur digitalisering, data och AI påverkar offentliga tjänster, rättigheter, ansvar, tillit och digital inkludering.",
+    "type": "innehall"
   }
 ]
