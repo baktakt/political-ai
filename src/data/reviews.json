@@ -1285,5 +1285,22 @@
       "Rapporten behandlar digitalisering brett; AI är en av flera tekniker och styrningsfrågor i analysen."
     ],
     "notes": "Diggs officiella publikationssida och den länkade primärrapporten öppnades. PDF-filen laddades ned och lästes i fulltext. Titel, myndighetsavsändare, diarienummer 2026-06355, publiceringsdatum, avgränsning och rapportens sammanfattning kontrollerades. Posten har lagts till i omvärldsbevakningen och används inte som belägg för något partis ståndpunkt. Den redaktionella kontrollen bekräftade neutral svenska, källtrogna slutsatser, korrekt ämneskoppling, synlig primärkälla och tydlig åtskillnad mellan analys och bindande krav."
+  },
+  {
+    "id": "granskning-internetstiftelsen-svenskarna-internet-ai-2026",
+    "partyId": null,
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-10-05",
+    "topicsReviewed": [
+      "arbetsmarknad",
+      "utbildning",
+      "barn-unga",
+      "jamlikhet"
+    ],
+    "unresolvedQuestions": [
+      "Undersökningens användnings- och effektmått bygger på respondenternas egna uppgifter och ska inte läsas som objektivt uppmätta produktivitetsresultat.",
+      "Allmänhetsundersökningen omfattar svensktalande personer som kan svara via webb eller telefon; personer som inte kan nås eller besvara undersökningen ingår inte."
+    ],
+    "notes": "Internetstiftelsens officiella rapportsida, AI-kapitlet, metodbeskrivningen och pressmeddelandet öppnades och lästes. Titel, utgivare, publiceringsdatum, undersökningsperiod, urval, viktning och de publicerade resultaten om AI-användning i befolkningen, arbetslivet och skolan kontrollerades. Rapporten har lagts till i omvärldsbevakningen och används inte som belägg för något partis ståndpunkt. Redaktionell kontroll bekräftade neutral svenska, källtrogna tal med angiven population, korrekt ämneskoppling, synlig primärkälla samt åtskillnad mellan självrapporterad upplevelse och objektivt uppmätt effekt. Länkkontrollen identifierade samtidigt ett extra bindestreck i den befintliga Digg-länken om digitalt samhällskontrakt; den officiella publikationssidan öppnades och URL:en korrigerades utan att innehållet ändrades."
   }
 ]

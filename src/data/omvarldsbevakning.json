@@ -211,7 +211,7 @@
     "publisher": "Myndigheten för digital förvaltning (Digg)",
     "publisherType": "myndighet",
     "publicationDate": "2026-09-10",
-    "url": "https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2026-09-10-samhallskontrakt-i-digital--samhallsomstallning",
+    "url": "https://www.digg.se/analys-och-uppfoljning/publikationer/publikationer/2026-09-10-samhallskontrakt-i-digital-samhallsomstallning",
     "accessedAt": "2026-09-21",
     "language": "sv",
     "summary": "Diggs rapport analyserar hur digitalisering, data och AI påverkar relationen mellan individ, stat, marknad och civilsamhälle. Den behandlar bland annat offentliga tjänster, rättigheter, ansvar, tillit, digital inkludering och den statliga digitala infrastrukturen.",
@@ -231,5 +231,31 @@
     ],
     "workflowStatus": "publicerad",
     "addedAt": "2026-09-21"
+  },
+  {
+    "id": "internetstiftelsen-svenskarna-internet-ai-2026",
+    "title": "Svenskarna och internet 2026",
+    "publisher": "Internetstiftelsen",
+    "publisherType": "forskningsinstitution",
+    "publicationDate": "2026-09-28",
+    "url": "https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2026/",
+    "accessedAt": "2026-10-05",
+    "language": "sv",
+    "summary": "Internetstiftelsens årliga undersökning om svenskarnas internetvanor innehåller 2026 ett särskilt kapitel om användning av AI-tjänster och Googles AI-översikter i vardagen, arbetslivet och utbildningen. Huvudstudien bygger på 3 776 intervjuer och resultaten är viktade efter bland annat kön, ålder, utbildning och geografi.",
+    "keyTakeaways": [
+      "Bland internetanvändare som är minst åtta år uppger 62 procent att de har använt AI-tjänster under de senaste tolv månaderna, jämfört med 41 procent 2025.",
+      "När även Googles AI-översikter räknas in uppger 81 procent att de har använt minst en av dessa AI-former; 71 procent använder AI-översikterna.",
+      "Bland förvärvsarbetande använder 56 procent AI i arbetet. Andelen är 71 procent bland tjänstemän och 33 procent bland personer i arbetaryrken.",
+      "Bland AI-användare uppger 76 procent att de brukar kontrollera om AI-svar är korrekta, främst genom jämförelser med andra källor, kontroll av länkar och egna rimlighetsbedömningar.",
+      "Bland barn och unga 8–19 år uppger 68 procent att de använder AI-tjänster och 78 procent att de använder AI-tjänster eller AI-översikter; nära hälften använder AI för läxor och skolarbete."
+    ],
+    "relatedTopicIds": [
+      "arbetsmarknad",
+      "utbildning",
+      "barn-unga",
+      "jamlikhet"
+    ],
+    "workflowStatus": "publicerad",
+    "addedAt": "2026-10-05"
   }
 ]

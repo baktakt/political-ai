@@ -516,5 +516,12 @@
     "title": "Diggs analys av ett digitalt samhällskontrakt har lagts till",
     "description": "Omvärldsbevakningen har kompletterats med Diggs rapport om hur digitalisering, data och AI påverkar offentliga tjänster, rättigheter, ansvar, tillit och digital inkludering.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-10-05-internetstiftelsen-ai-anvandning",
+    "date": "2026-10-05",
+    "title": "Svenskarna och internet 2026 har lagts till",
+    "description": "Omvärldsbevakningen har kompletterats med Internetstiftelsens undersökning om svenskarnas AI-användning i vardagen, arbetslivet och utbildningen, inklusive metodens avgränsningar. En felaktig Digg-källadress har också korrigerats mot myndighetens officiella publikationssida.",
+    "type": "innehall"
   }
 ]
