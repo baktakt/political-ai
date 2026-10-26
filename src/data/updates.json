@@ -523,5 +523,12 @@
     "title": "Svenskarna och internet 2026 har lagts till",
     "description": "Omvärldsbevakningen har kompletterats med Internetstiftelsens undersökning om svenskarnas AI-användning i vardagen, arbetslivet och utbildningen, inklusive metodens avgränsningar. En felaktig Digg-källadress har också korrigerats mot myndighetens officiella publikationssida.",
     "type": "innehall"
+  },
+  {
+    "id": "2026-10-26-regeringen-ai-gigafabriker-nasta-steg",
+    "date": "2026-10-26",
+    "title": "Sveriges deltagande i europeiska AI-gigafabriker har uppdaterats",
+    "description": "Omvärldsbevakningen har uppdaterats efter riksdagens beslut och regeringens nästa steg i EuroHPC-satsningen. Sverige åtar sig 50 miljoner euro under fem år för beräkningskraft och en svensk nod kopplad till en AI-gigafabrik i Finland.",
+    "type": "innehall"
   }
 ]

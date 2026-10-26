@@ -84,19 +84,20 @@
   },
   {
     "id": "regeringen-ai-gigafabriker-2026",
-    "title": "Sverige och EU tar första steg mot AI-gigafabriker",
+    "title": "Nästa steg i satsningen på europeiska AI-gigafabriker",
     "publisher": "Regeringen",
     "publisherType": "regering",
-    "publicationDate": "2026-07-30",
-    "url": "https://www.regeringen.se/pressmeddelanden/2026/07/sverige-och-eu-tar-forsta-steg-mot-ai-gigafabriker/",
-    "accessedAt": "2026-08-02",
+    "publicationDate": "2026-10-22",
+    "url": "https://www.regeringen.se/pressmeddelanden/2026/10/nasta-steg-i-satsningen-pa-europeiska-ai-gigafabriker/",
+    "accessedAt": "2026-10-26",
     "language": "sv",
-    "summary": "Regeringen har gett Skatteverket i uppdrag att ingå ett gemensamt upphandlingsavtal med EuroHPC Joint Undertaking. Uppdraget ska möjliggöra svensk tillgång till avancerad beräkningskraft genom medfinansiering av en AI-gigafabrik i Finland.",
+    "summary": "Efter riksdagens beslut den 21 oktober 2026 har regeringen gett Skatteverket befogenhet att ingå Sveriges avtal inom EuroHPC:s upphandling av AI-gigafabriker. Sveriges åtagande gäller köp av beräkningskraft och stöd till en svensk nod som kopplas till en AI-gigafabrik i Finland.",
     "keyTakeaways": [
-      "Uppdraget till Skatteverket gäller ett gemensamt upphandlingsavtal med EuroHPC Joint Undertaking för avancerad beräkningskraft.",
-      "Satsningen medfinansierar en AI-gigafabrik i Finland och ska ge svensk offentlig sektor tillgång till beräkningskraft.",
-      "Regeringen beskriver EU:s AI-gigafabriker som ett sätt att stärka europeisk konkurrenskraft och suveränitet genom storskalig beräkningskapacitet i Europa.",
-      "Pressmeddelandet kopplar tillgång till beräkningskapacitet till forskning, innovation och användning av AI i offentlig verksamhet."
+      "Riksdagen har bemyndigat regeringen, eller den myndighet regeringen bestämmer, att ingå ekonomiska åtaganden i avtal om beräkningskraft inom EuroHPC:s upphandling av AI-gigafabriker.",
+      "Sveriges åtagande är sammanlagt 50 miljoner euro under fem år.",
+      "Avtalet ska stödja en svensk nod som kopplas till en AI-gigafabrik i Finland och ge Sverige tillgång till avancerad beräkningskapacitet.",
+      "Beräkningskraften ska kunna användas av offentlig sektor samt inom forskning och innovation.",
+      "Regeringen beskriver satsningen som ett sätt att stärka svensk och europeisk konkurrenskraft, innovationsförmåga och digitalt oberoende."
     ],
     "relatedTopicIds": [
       "suveranitet",

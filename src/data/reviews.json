@@ -1302,5 +1302,22 @@
       "Allmänhetsundersökningen omfattar svensktalande personer som kan svara via webb eller telefon; personer som inte kan nås eller besvara undersökningen ingår inte."
     ],
     "notes": "Internetstiftelsens officiella rapportsida, AI-kapitlet, metodbeskrivningen och pressmeddelandet öppnades och lästes. Titel, utgivare, publiceringsdatum, undersökningsperiod, urval, viktning och de publicerade resultaten om AI-användning i befolkningen, arbetslivet och skolan kontrollerades. Rapporten har lagts till i omvärldsbevakningen och används inte som belägg för något partis ståndpunkt. Redaktionell kontroll bekräftade neutral svenska, källtrogna tal med angiven population, korrekt ämneskoppling, synlig primärkälla samt åtskillnad mellan självrapporterad upplevelse och objektivt uppmätt effekt. Länkkontrollen identifierade samtidigt ett extra bindestreck i den befintliga Digg-länken om digitalt samhällskontrakt; den officiella publikationssidan öppnades och URL:en korrigerades utan att innehållet ändrades."
+  },
+  {
+    "id": "granskning-regeringen-ai-gigafabriker-nasta-steg-2026-10-26",
+    "partyId": null,
+    "reviewer": "Hermes (AI-assisterad research och redaktionell granskning)",
+    "reviewDate": "2026-10-26",
+    "topicsReviewed": [
+      "suveranitet",
+      "naringsliv",
+      "offentlig-sektor",
+      "utbildning"
+    ],
+    "unresolvedQuestions": [
+      "Källorna anger inte hur mycket beräkningskraft Sverige får tillgång till, när den svenska noden eller AI-gigafabriken i Finland tas i drift eller hur kapaciteten ska fördelas mellan användare.",
+      "Regeringens pressmeddelande beskriver ett bemyndigande och ett upphandlingssteg; det visar inte att anläggningarna är färdigställda eller i drift."
+    ],
+    "notes": "Regeringens officiella pressmeddelande från den 22 oktober 2026 och riksdagens färdigbehandlade betänkande 2026/27:FiU12 öppnades och lästes. Titel, datum, riksdagsbeslutet den 21 oktober, åtagandet på 50 miljoner euro under fem år, Skatteverkets befogenhet och inriktningen mot en svensk nod kopplad till en AI-gigafabrik i Finland kontrollerades. Den befintliga omvärldsposten från juli uppdaterades i stället för att en näraliggande post duplicerades. Redaktionell kontroll bekräftade neutral svenska, källtrogen återgivning, korrekt regerings- och riksdagsattribution, synlig primärkälla och att åtgärden inte används som belägg för något partis ståndpunkt."
   }
 ]
